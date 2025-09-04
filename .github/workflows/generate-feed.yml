@@ -27,10 +27,10 @@ jobs:
     - name: 🚀 Запускаю генерацію YML
       run: python main.py
 
-    - name: 📝 Комічу output.yml у репозиторій
+    - name: 📝 Комічу YML-файли у репозиторій
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add output.yml
-        git commit -m "🔄 Автоматичне оновлення output.yml"
+        git add output_*.yml
+        git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
         git push origin main
