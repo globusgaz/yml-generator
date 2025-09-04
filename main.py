@@ -2,6 +2,7 @@ import os
 import requests
 from lxml import etree
 from datetime import datetime
+import hashlib
 
 FEEDS_FILE = "feeds.txt"
 MAX_FILE_SIZE_MB = 100
@@ -50,6 +51,12 @@ def build_prom_yml(offers):
 
     return etree.ElementTree(yml_catalog)
 
+def file_hash(path):
+    if not os.path.exists(path):
+        return None
+    with open(path, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
+
 def save_yml_by_size(offers):
     file_index = 1
     current_offers = []
@@ -60,20 +67,32 @@ def save_yml_by_size(offers):
         xml_bytes = etree.tostring(tree, encoding="utf-8", xml_declaration=True, pretty_print=True)
 
         if len(xml_bytes) >= MAX_FILE_SIZE_BYTES:
-            current_offers.pop()  # Забираємо останній, бо він переповнив
+            current_offers.pop()
             tree = build_prom_yml(current_offers)
             filename = f"output_{file_index}.yml"
-            tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
-            print(f"✅ Збережено: {filename} ({len(current_offers)} товарів)")
+            new_hash = hashlib.md5(etree.tostring(tree)).hexdigest()
+            old_hash = file_hash(filename)
+
+            if new_hash != old_hash:
+                tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
+                print(f"✅ Збережено: {filename} ({len(current_offers)} товарів)")
+            else:
+                print(f"⚠️ Без змін: {filename}")
 
             file_index += 1
-            current_offers = [offer]  # Починаємо новий файл з останнього
+            current_offers = [offer]
 
     if current_offers:
         tree = build_prom_yml(current_offers)
         filename = f"output_{file_index}.yml"
-        tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
-        print(f"✅ Збережено: {filename} ({len(current_offers)} товарів)")
+        new_hash = hashlib.md5(etree.tostring(tree)).hexdigest()
+        old_hash = file_hash(filename)
+
+        if new_hash != old_hash:
+            tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
+            print(f"✅ Збережено: {filename} ({len(current_offers)} товарів)")
+        else:
+            print(f"⚠️ Без змін: {filename}")
 
 def main():
     urls = load_urls()
