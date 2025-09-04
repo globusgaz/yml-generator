@@ -2,8 +2,11 @@ name: 🛒 Generate Prom Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Щогодини, на початку кожної години (UTC)
+    - cron: '0 * * * *'  # Щогодини (UTC)
   workflow_dispatch:     # Можна запускати вручну
+
+permissions:
+  contents: write  # ⬅️ Дозволяє пушити зміни в репозиторій
 
 jobs:
   build:
@@ -24,8 +27,10 @@ jobs:
     - name: 🚀 Запускаю генерацію YML
       run: python main.py
 
-    - name: 📤 Завантажую output.yml як артефакт
-      uses: actions/upload-artifact@v4
-      with:
-        name: prom-feed
-        path: output.yml
+    - name: 📝 Комічу output.yml у репозиторій
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add output.yml
+        git commit -m "🔄 Автоматичне оновлення output.yml"
+        git push origin main
