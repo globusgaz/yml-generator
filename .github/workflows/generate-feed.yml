@@ -15,6 +15,8 @@ jobs:
     steps:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0   # потрібно для git pull --rebase
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -24,15 +26,17 @@ jobs:
     - name: 📦 Встановлюю залежності
       run: pip install lxml aiohttp
 
-    - name: 🚀 Запускаю генерацію YML
+    - name: ⚡ Оновлюю локальну гілку
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git pull --rebase
+
+    - name: 🚀 Генерую YML
       run: python main.py
 
     - name: 📝 Комічу YML-файли у репозиторій
       run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-
-        git pull --rebase
         git add output_*.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
         git push
