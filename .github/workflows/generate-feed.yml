@@ -1,0 +1,31 @@
+name: 🛒 Generate Prom Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Щогодини, на початку кожної години (UTC)
+  workflow_dispatch:     # Можна запускати вручну
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Клоную репозиторій
+      uses: actions/checkout@v3
+
+    - name: 🐍 Встановлюю Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: 📦 Встановлюю залежності
+      run: pip install lxml requests
+
+    - name: 🚀 Запускаю генерацію YML
+      run: python main.py
+
+    - name: 📤 Завантажую output.yml як артефакт
+      uses: actions/upload-artifact@v3
+      with:
+        name: prom-feed
+        path: output.yml
