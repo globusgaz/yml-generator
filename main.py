@@ -18,7 +18,9 @@ def fetch_offers_from_url(url):
         response = requests.get(url, timeout=30)
         response.raise_for_status()
         tree = etree.fromstring(response.content)
-        return tree.findall(".//offer")
+        offers = tree.findall(".//offer")
+        print(f"✅ Завантажено: {url} — знайдено {len(offers)} товарів")
+        return offers
     except Exception as e:
         print(f"❌ Помилка завантаження {url}: {e}")
         return []
@@ -45,16 +47,29 @@ def build_prom_yml(offers):
 
 def main():
     urls = load_urls()
-    print(f"🔗 Знайдено {len(urls)} посилань")
+    print(f"\n🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
+
     all_offers = []
+    successful_feeds = 0
+    failed_feeds = 0
+
     for url in urls:
         offers = fetch_offers_from_url(url)
-        print(f"📦 {url}: {len(offers)} товарів")
-        all_offers.extend(offers)
+        if offers:
+            successful_feeds += 1
+            all_offers.extend(offers)
+        else:
+            failed_feeds += 1
+
+    print("\n📊 Підсумок:")
+    print(f"🔹 Всього фідів: {len(urls)}")
+    print(f"✅ Успішно оброблено: {successful_feeds}")
+    print(f"❌ З помилками: {failed_feeds}")
+    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
     tree = build_prom_yml(all_offers)
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True, pretty_print=True)
-    print(f"✅ Збережено: {OUTPUT_FILE} ({len(all_offers)} товарів)")
+    print(f"\n✅ Збережено: {OUTPUT_FILE} ({len(all_offers)} товарів)\n")
 
 if __name__ == "__main__":
     main()
