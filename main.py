@@ -6,6 +6,14 @@ from datetime import datetime
 FEEDS_FILE = "feeds.txt"
 OUTPUT_FILE = "output.yml"  # Це XML-файл, просто з розширенням .yml
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/117.0.0.0 Safari/537.36"
+    )
+}
+
 def load_urls():
     if not os.path.exists(FEEDS_FILE):
         print(f"❌ Файл {FEEDS_FILE} не знайдено")
@@ -15,15 +23,21 @@ def load_urls():
 
 def fetch_offers_from_url(url):
     try:
-        response = requests.get(url, timeout=30)
+        response = requests.get(url, headers=HEADERS, timeout=30)
         response.raise_for_status()
         tree = etree.fromstring(response.content)
         offers = tree.findall(".//offer")
         print(f"✅ Завантажено: {url} — знайдено {len(offers)} товарів")
         return offers
+    except requests.exceptions.HTTPError as http_err:
+        print(f"❌ HTTP-помилка {url}: {http_err}")
+    except requests.exceptions.RequestException as req_err:
+        print(f"❌ Помилка запиту {url}: {req_err}")
+    except etree.XMLSyntaxError as xml_err:
+        print(f"❌ Помилка XML у {url}: {xml_err}")
     except Exception as e:
-        print(f"❌ Помилка завантаження {url}: {e}")
-        return []
+        print(f"❌ Невідома помилка {url}: {e}")
+    return []
 
 def build_prom_yml(offers):
     yml_catalog = etree.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
