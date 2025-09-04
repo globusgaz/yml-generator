@@ -22,7 +22,7 @@ jobs:
         python-version: '3.11'
 
     - name: 📦 Встановлюю залежності
-      run: pip install lxml requests
+      run: pip install lxml aiohttp
 
     - name: 🚀 Запускаю генерацію YML
       run: python main.py
@@ -32,10 +32,7 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
-        git fetch origin
-        git reset --hard origin/main
         git pull --rebase
-
         git add output_*.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
-        git push origin main
+        git push
