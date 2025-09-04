@@ -4,7 +4,7 @@ from lxml import etree
 from datetime import datetime
 
 FEEDS_FILE = "feeds.txt"
-OUTPUT_FILE = "output.yml"
+OUTPUT_FILE = "output.yml"  # Це XML-файл, просто з розширенням .yml
 
 def load_urls():
     if not os.path.exists(FEEDS_FILE):
@@ -24,7 +24,6 @@ def fetch_offers_from_url(url):
         return []
 
 def build_prom_yml(offers):
-    # Створення кореня YML
     yml_catalog = etree.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
     shop = etree.SubElement(yml_catalog, "shop")
 
@@ -33,7 +32,7 @@ def build_prom_yml(offers):
     etree.SubElement(shop, "company").text = "My Company"
     etree.SubElement(shop, "url").text = "https://myshop.example.com"
 
-    # Категорії (можна додати вручну або з фідів)
+    # Категорії (можна розширити)
     categories_el = etree.SubElement(shop, "categories")
     etree.SubElement(categories_el, "category", id="1").text = "Загальна категорія"
 
