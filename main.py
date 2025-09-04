@@ -32,8 +32,11 @@ def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            yield elem
-            elem.clear()  # звільняємо пам’ять
+            # серіалізуємо оффер у байти й парсимо знову,
+            # щоб він був повним і незалежним від оригінального дерева
+            offer_copy = etree.fromstring(etree.tostring(elem))
+            yield offer_copy
+            elem.clear()  # чистимо оригінал для економії пам'яті
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
 
@@ -58,7 +61,6 @@ async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_offers_from_url(session, url) for url in urls]
         results = await asyncio.gather(*tasks)
-        # плоский список
         return [offer for sublist in results for offer in sublist], results
 
 
