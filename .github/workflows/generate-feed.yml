@@ -6,7 +6,7 @@ on:
   workflow_dispatch:     # Можна запускати вручну
 
 permissions:
-  contents: write  # ⬅️ Дозволяє пушити зміни в репозиторій
+  contents: write
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0   # потрібно для git pull --rebase
+        fetch-depth: 0   # потрібно для pull/merge
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -26,17 +26,21 @@ jobs:
     - name: 📦 Встановлюю залежності
       run: pip install lxml aiohttp
 
-    - name: ⚡ Оновлюю локальну гілку
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        git pull --rebase
-
     - name: 🚀 Генерую YML
       run: python main.py
 
     - name: 📝 Комічу YML-файли у репозиторій
       run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+        # Підтягуємо останній main
+        git fetch origin main
+        git merge --strategy-option theirs origin/main || true
+
+        # Додаємо і комітимо тільки якщо є зміни
         git add output_*.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
-        git push
+
+        # Пушимо без force
+        git push origin HEAD:main
