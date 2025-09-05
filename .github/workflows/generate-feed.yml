@@ -30,11 +30,8 @@ jobs:
     - name: 📦 Встановлюю залежності
       run: pip install lxml aiohttp
 
-    - name: 🚀 Генерую окремі YML
+    - name: 🚀 Генерую YML
       run: python main.py
-
-    - name: 🔗 Агрегую в all.yml
-      run: python aggregator.py
 
     - name: 📝 Комічу результати
       run: |
