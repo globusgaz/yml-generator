@@ -19,7 +19,7 @@ jobs:
         fetch-depth: 0
 
     - name: 🧹 Чищу старі YML-файли
-      run: rm -f all.yml
+      run: rm -f output_*.yml
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -29,7 +29,7 @@ jobs:
     - name: 📦 Встановлюю залежності
       run: pip install lxml aiohttp
 
-    - name: 🚀 Генерую YML
+    - name: 🚀 Генерую YML-файли
       run: python main.py
 
     - name: 📝 Комічу результати
@@ -40,10 +40,11 @@ jobs:
         git fetch origin main
         git merge origin/main || true
 
-        if [ -f all.yml ]; then
-          git add all.yml
-          git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлу"
+        FILES=$(ls output_*.yml 2>/dev/null || true)
+        if [ -n "$FILES" ]; then
+          git add $FILES
+          git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
           git push origin HEAD:main
         else
-          echo "⚠️ Файл all.yml не знайдено — нічого комітити"
+          echo "⚠️ Немає YML-файлів для коміту"
         fi
