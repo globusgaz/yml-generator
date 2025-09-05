@@ -4,18 +4,13 @@ import asyncio
 from lxml import etree
 from datetime import datetime
 import hashlib
-from io import BytesIO
+import tempfile
 
 FEEDS_FILE = "feeds.txt"
 MAX_FILE_SIZE_MB = 100
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/117.0.0.0 Safari/537.36"
-    )
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; YML-Generator/1.0)"}
+
 
 # -------------------- Завантаження URL --------------------
 def load_urls():
@@ -25,99 +20,106 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
+
 # -------------------- Потоковий парсинг --------------------
-def iter_offers(xml_bytes):
-    try:
-        context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
-        for _, elem in context:
-            # віддаємо як байти (без повторного парсингу)
-            yield etree.tostring(elem, encoding="utf-8")
-            elem.clear()
-    except Exception as e:
-        print(f"❌ Помилка парсингу XML: {e}")
+def iter_offers_from_stream(stream):
+    context = etree.iterparse(stream, tag="offer", recover=True)
+    for _, elem in context:
+        yield etree.tostring(elem, encoding="utf-8")
+        elem.clear()
+
 
 # -------------------- Асинхронне завантаження --------------------
-async def fetch_offers_from_url(session, url):
+async def fetch_and_parse(session, url):
+    offers = []
     try:
-        async with session.get(url, headers=HEADERS, timeout=60) as response:
-            if response.status != 200:
-                print(f"❌ {url} — HTTP {response.status}")
+        async with session.get(url, headers=HEADERS, timeout=180) as resp:
+            if resp.status != 200:
+                print(f"❌ {url} — HTTP {resp.status}")
                 return []
-            content = await response.read()
-            offers = list(iter_offers(content))
+
+            # зберігаємо тимчасовий файл, щоб віддати iterparse
+            with tempfile.NamedTemporaryFile(delete=False) as tmp:
+                while True:
+                    chunk = await resp.content.read(65536)
+                    if not chunk:
+                        break
+                    tmp.write(chunk)
+                tmp_path = tmp.name
+
+            with open(tmp_path, "rb") as f:
+                for offer in iter_offers_from_stream(f):
+                    offers.append(offer)
+
+            os.remove(tmp_path)
             print(f"✅ {url} — {len(offers)} товарів")
             return offers
+
     except Exception as e:
         print(f"❌ {url}: {e}")
         return []
 
+
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
-        tasks = [fetch_offers_from_url(session, url) for url in urls]
+        tasks = [fetch_and_parse(session, url) for url in urls]
         results = await asyncio.gather(*tasks)
         return [offer for sublist in results for offer in sublist], results
 
-# -------------------- Формування YML --------------------
-def build_yml_string(offers_bytes):
-    parts = []
-    parts.append('<?xml version="1.0" encoding="UTF-8"?>')
-    parts.append(f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">')
-    parts.append("<shop>")
-    parts.append("<name>MyShop</name>")
-    parts.append("<company>My Company</company>")
-    parts.append("<url>https://myshop.example.com</url>")
-    parts.append("<categories><category id=\"1\">Загальна категорія</category></categories>")
-    parts.append("<offers>")
-    # додаємо оффери як сирі байти (декодуємо в utf-8 рядок)
-    for ob in offers_bytes:
-        parts.append(ob.decode("utf-8"))
-    parts.append("</offers>")
-    parts.append("</shop>")
-    parts.append("</yml_catalog>")
-    return "\n".join(parts).encode("utf-8")
 
-# -------------------- Хеш файлу --------------------
+# -------------------- Хеш --------------------
 def file_hash(path):
     if not os.path.exists(path):
         return None
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
-# -------------------- Збереження YML --------------------
-def save_file(offers, filename):
-    xml_bytes = build_yml_string(offers)
-    new_hash = hashlib.md5(xml_bytes).hexdigest()
-    old_hash = file_hash(filename)
 
-    if new_hash != old_hash:
-        with open(filename, "wb") as f:
-            f.write(xml_bytes)
-        print(f"✅ Збережено: {filename} ({len(offers)} товарів)")
-    else:
-        print(f"⚠️ Без змін: {filename}")
-
-def save_yml_by_size(offers):
+# -------------------- Збереження потокове --------------------
+def save_yml_stream(offers):
     file_index = 1
-    current_offers = []
+    size = 0
+    outfile = None
+
+    def start_file(idx):
+        path = f"output_{idx}.yml"
+        f = open(path, "wb")
+        f.write(f'<?xml version="1.0" encoding="UTF-8"?>\n'.encode())
+        f.write(f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'.encode())
+        f.write(b"<shop>\n")
+        f.write(b"<name>MyShop</name>\n")
+        f.write(b"<company>My Company</company>\n")
+        f.write(b"<url>https://myshop.example.com</url>\n")
+        f.write(b'<categories><category id="1">Загальна категорія</category></categories>\n')
+        f.write(b"<offers>\n")
+        return f, path
+
+    def end_file(f):
+        f.write(b"</offers>\n</shop>\n</yml_catalog>\n")
+        f.close()
+
+    outfile, path = start_file(file_index)
 
     for offer in offers:
-        current_offers.append(offer)
-        xml_bytes = build_yml_string(current_offers)
-
-        if len(xml_bytes) > MAX_FILE_SIZE_BYTES:
-            current_offers.pop()
-            save_file(current_offers, f"output_{file_index}.yml")
+        encoded = offer + b"\n"
+        if size + len(encoded) > MAX_FILE_SIZE_BYTES:
+            end_file(outfile)
+            print(f"✅ Збережено: {path}")
             file_index += 1
-            current_offers = [offer]
+            size = 0
+            outfile, path = start_file(file_index)
+        outfile.write(encoded)
+        size += len(encoded)
 
-    if current_offers:
-        save_file(current_offers, f"output_{file_index}.yml")
+    if outfile:
+        end_file(outfile)
+        print(f"✅ Збережено: {path}")
+
 
 # -------------------- MAIN --------------------
 def main():
     urls = load_urls()
     print(f"\n🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
-
     if not urls:
         return
 
@@ -132,7 +134,8 @@ def main():
     print(f"❌ З помилками: {failed_feeds}")
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
-    save_yml_by_size(all_offers)
+    save_yml_stream(all_offers)
+
 
 if __name__ == "__main__":
     main()
