@@ -18,9 +18,9 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: 🧹 Чищу старі файли
+    - name: 🧹 Чищу старі YML-файли
       run: |
-        rm -f output_*.yml all.yml
+        rm -f output*.yml all.yml
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -44,6 +44,6 @@ jobs:
         git fetch origin main
         git merge --strategy-option theirs origin/main || true
 
-        git add output_*.yml all.yml
+        git add output*.yml all.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
         git push origin HEAD:main
