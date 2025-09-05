@@ -7,7 +7,8 @@ from io import BytesIO
 import hashlib
 
 FEEDS_FILE = "feeds.txt"
-ALL_FILE = "all.yml"
+MAX_FILE_SIZE_MB = 95   # беремо трохи менше 100, щоб мати запас
+MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -28,7 +29,6 @@ def load_urls():
 
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
-    """Витягує всі <offer> із XML без зайвого навантаження"""
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
@@ -70,33 +70,64 @@ def file_hash(path):
         return hashlib.md5(f.read()).hexdigest()
 
 
-# -------------------- Збереження all.yml --------------------
-def save_all_yml(offers):
-    xml_parts = []
-    xml_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
-    xml_parts.append(f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">')
-    xml_parts.append("<shop>")
-    xml_parts.append("<name>MyShop</name>")
-    xml_parts.append("<company>My Company</company>")
-    xml_parts.append("<url>https://myshop.example.com</url>")
-    xml_parts.append('<categories><category id="1">Загальна категорія</category></categories>')
-    xml_parts.append("<offers>")
-    xml_parts.extend(offers)
-    xml_parts.append("</offers>")
-    xml_parts.append("</shop>")
-    xml_parts.append("</yml_catalog>")
+# -------------------- Збереження у кілька файлів --------------------
+def save_split_yml(offers):
+    header = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
+    header += "<shop>\n"
+    header += "<name>MyShop</name>\n"
+    header += "<company>My Company</company>\n"
+    header += "<url>https://myshop.example.com</url>\n"
+    header += '<categories><category id="1">Загальна категорія</category></categories>\n'
+    header += "<offers>\n"
 
-    xml_bytes = "\n".join(xml_parts).encode("utf-8")
+    footer = "</offers>\n</shop>\n</yml_catalog>\n"
 
-    new_hash = hashlib.md5(xml_bytes).hexdigest()
-    old_hash = file_hash(ALL_FILE)
+    file_index = 1
+    current_parts = [header]
+    current_size = len(header.encode("utf-8"))
 
-    if new_hash != old_hash:
-        with open(ALL_FILE, "wb") as f:
-            f.write(xml_bytes)
-        print(f"✅ Збережено: {ALL_FILE} ({len(offers)} товарів)")
-    else:
-        print(f"⚠️ Без змін: {ALL_FILE}")
+    for offer in offers:
+        offer_bytes = (offer + "\n").encode("utf-8")
+
+        if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
+            # зберігаємо файл
+            current_parts.append(footer)
+            xml_bytes = "".join(current_parts).encode("utf-8")
+
+            filename = f"all_{file_index}.yml"
+            new_hash = hashlib.md5(xml_bytes).hexdigest()
+            old_hash = file_hash(filename)
+
+            if new_hash != old_hash:
+                with open(filename, "wb") as f:
+                    f.write(xml_bytes)
+                print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+            else:
+                print(f"⚠️ Без змін: {filename}")
+
+            # новий файл
+            file_index += 1
+            current_parts = [header, offer + "\n"]
+            current_size = len(header.encode("utf-8")) + len(offer_bytes)
+        else:
+            current_parts.append(offer + "\n")
+            current_size += len(offer_bytes)
+
+    if len(current_parts) > 1:
+        current_parts.append(footer)
+        xml_bytes = "".join(current_parts).encode("utf-8")
+
+        filename = f"all_{file_index}.yml"
+        new_hash = hashlib.md5(xml_bytes).hexdigest()
+        old_hash = file_hash(filename)
+
+        if new_hash != old_hash:
+            with open(filename, "wb") as f:
+                f.write(xml_bytes)
+            print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+        else:
+            print(f"⚠️ Без змін: {filename}")
 
 
 # -------------------- MAIN --------------------
@@ -118,7 +149,7 @@ def main():
     print(f"❌ З помилками: {failed_feeds}")
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
-    save_all_yml(all_offers)
+    save_split_yml(all_offers)
 
 
 if __name__ == "__main__":
