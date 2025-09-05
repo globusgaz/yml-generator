@@ -38,7 +38,7 @@ jobs:
         git config user.email "github-actions@github.com"
 
         git fetch origin main
-        git merge --strategy-option theirs origin/main || true
+        git merge origin/main || true
 
         if [ -f all.yml ]; then
           git add all.yml
@@ -46,3 +46,4 @@ jobs:
           git push origin HEAD:main
         else
           echo "⚠️ Файл all.yml не знайдено — нічого комітити"
+        fi
