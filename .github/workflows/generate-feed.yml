@@ -2,8 +2,8 @@ name: 🛒 Generate Prom Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Щогодини (UTC)
-  workflow_dispatch:      # Запуск вручну
+    - cron: '0 * * * *'  # Щогодини (UTC)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +16,11 @@ jobs:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0   # обов'язково для git merge
+        fetch-depth: 0
+
+    - name: 🧹 Чищу старі файли
+      run: |
+        rm -f output_*.yml all.yml
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -26,21 +30,20 @@ jobs:
     - name: 📦 Встановлюю залежності
       run: pip install lxml aiohttp
 
-    - name: 🚀 Генерую YML
+    - name: 🚀 Генерую окремі YML
       run: python main.py
 
-    - name: 📝 Комічу YML-файли у репозиторій
+    - name: 🔗 Агрегую в all.yml
+      run: python aggregator.py
+
+    - name: 📝 Комічу результати
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
-        # Підтягуємо останні зміни з main
         git fetch origin main
-        git merge --strategy-option ours origin/main || true
+        git merge --strategy-option theirs origin/main || true
 
-        # Додаємо тільки якщо є зміни
-        git add output_*.yml
+        git add output_*.yml all.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
-
-        # Пушимо без force
         git push origin HEAD:main
