@@ -4,12 +4,10 @@ import asyncio
 from lxml import etree
 from datetime import datetime
 from io import BytesIO
-import hashlib
 import time
 import glob
 
-MAX_FILE_SIZE_MB = 100
-MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
+MAX_FILE_SIZE_BYTES = 100 * 1024 * 1024
 FEEDS_FILE = "feeds.txt"
 HEADERS = {
     "User-Agent": (
