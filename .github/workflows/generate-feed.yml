@@ -2,8 +2,8 @@ name: 🛒 Generate Prom Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Щогодини (UTC)
-  workflow_dispatch:     # Можна запускати вручну
+    - cron: '0 * * * *'   # Щогодини (UTC)
+  workflow_dispatch:      # Запуск вручну
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0   # потрібно для pull/merge
+        fetch-depth: 0   # обов'язково для git merge
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -34,11 +34,11 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
-        # Підтягуємо останній main
+        # Підтягуємо останні зміни з main
         git fetch origin main
-        git merge --strategy-option theirs origin/main || true
+        git merge --strategy-option ours origin/main || true
 
-        # Додаємо і комітимо тільки якщо є зміни
+        # Додаємо тільки якщо є зміни
         git add output_*.yml
         git diff --cached --quiet || git commit -m "🔄 Автоматичне оновлення YML-файлів"
 
