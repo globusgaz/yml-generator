@@ -5,10 +5,10 @@ from lxml import etree
 from datetime import datetime
 from io import BytesIO
 import hashlib
-import html
+import re
 
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 95   # беремо трохи менше 100, щоб мати запас
+MAX_FILE_SIZE_MB = 95
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 HEADERS = {
     "User-Agent": (
@@ -26,12 +26,32 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
+# -------------------- Санітайз тексту для XML --------------------
+def sanitize_offer(elem):
+    """
+    Екранує текст у offer для XML, не чіпаючи вже існуючі ентиті (&nbsp;, &reg; тощо)
+    """
+    def escape_text(text):
+        if not text:
+            return text
+        text = re.sub(r'&(?![a-zA-Z]+;|#\d+;)', '&amp;', text)
+        text = text.replace('<', '&lt;').replace('>', '&gt;')
+        return text
+
+    for child in elem.iter():
+        if child.text:
+            child.text = escape_text(child.text)
+        if child.tail:
+            child.tail = escape_text(child.tail)
+
+    return etree.tostring(elem, encoding="utf-8").decode("utf-8")
+
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            yield elem
+            yield sanitize_offer(elem)
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
@@ -65,16 +85,6 @@ def file_hash(path):
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
-# -------------------- Екранування XML --------------------
-def sanitize_offer(elem):
-    """Екранує всі текстові значення всередині offer, щоб уникнути помилок & < >"""
-    for child in elem.iter():
-        if child.text:
-            child.text = html.escape(child.text)
-        if child.tail:
-            child.tail = html.escape(child.tail)
-    return etree.tostring(elem, encoding="utf-8").decode("utf-8")
-
 # -------------------- Збереження у кілька файлів --------------------
 def save_split_yml(offers):
     header = '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -92,12 +102,10 @@ def save_split_yml(offers):
     current_parts = [header]
     current_size = len(header.encode("utf-8"))
 
-    for offer_elem in offers:
-        offer = sanitize_offer(offer_elem)
+    for offer in offers:
         offer_bytes = (offer + "\n").encode("utf-8")
 
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
-            # зберігаємо файл
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
 
@@ -112,7 +120,6 @@ def save_split_yml(offers):
             else:
                 print(f"⚠️ Без змін: {filename}")
 
-            # новий файл
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
