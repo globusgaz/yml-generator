@@ -16,7 +16,7 @@ jobs:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0   # потрібно для pull/merge
+        fetch-depth: 0   # потрібно для reset
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -29,19 +29,21 @@ jobs:
     - name: 🚀 Генерую YML
       run: python main.py
 
-    - name: 🧹 Видаляю старі output_*.yml
+    - name: 🧹 Видаляю старі YML перед комітом
       run: |
+        rm -f prev_feed.yml || true
         rm -f output_*.yml || true
 
-    - name: 📝 Комічу all.yml у репозиторій
+    - name: 📝 Комічу згенеровані файли у репозиторій
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
+        # синхронізуємо з віддаленим main, щоб уникнути конфліктів
         git fetch origin main
-        git merge --strategy-option theirs origin/main || true
+        git reset --hard origin/main
 
-        # додаємо тільки all.yml і видалення старих
+        # додаємо всі нові/оновлені YML
         git add -A
         git diff --cached --quiet || git commit -m "🔄 Оновлено all.yml"
 
