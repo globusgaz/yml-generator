@@ -5,6 +5,7 @@ from lxml import etree
 from datetime import datetime
 from io import BytesIO
 import hashlib
+import html
 
 FEEDS_FILE = "feeds.txt"
 MAX_FILE_SIZE_MB = 95
@@ -17,17 +18,6 @@ HEADERS = {
     )
 }
 
-# -------------------- Екранування XML --------------------
-def escape_xml(text):
-    if not text:
-        return ""
-    return (
-        text.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-            .replace("'", "&apos;")
-    )
 
 # -------------------- Завантаження URL --------------------
 def load_urls():
@@ -37,19 +27,23 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
+
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            # Екрануємо текст всередині тегів
-            for subelem in elem.iter():
-                if subelem.text:
-                    subelem.text = escape_xml(subelem.text)
+            # Екрануємо проблемні символи через CDATA
+            for child in elem.iter():
+                if child.text:
+                    child.text = etree.CDATA(child.text)
+                if child.tail:
+                    child.tail = etree.CDATA(child.tail)
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
+
 
 # -------------------- Асинхронне завантаження --------------------
 async def fetch_offers_from_url(session, url):
@@ -66,6 +60,7 @@ async def fetch_offers_from_url(session, url):
         print(f"❌ {url}: {e}")
         return []
 
+
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_offers_from_url(session, url) for url in urls]
@@ -73,12 +68,14 @@ async def fetch_all_offers(urls):
         all_offers = [offer for sublist in results for offer in sublist]
         return all_offers, results
 
+
 # -------------------- Хеш файлу --------------------
 def file_hash(path):
     if not os.path.exists(path):
         return None
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
+
 
 # -------------------- Збереження у кілька файлів --------------------
 def save_split_yml(offers):
@@ -137,6 +134,7 @@ def save_split_yml(offers):
         else:
             print(f"⚠️ Без змін: {filename}")
 
+
 # -------------------- MAIN --------------------
 def main():
     urls = load_urls()
@@ -157,6 +155,7 @@ def main():
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
     save_split_yml(all_offers)
+
 
 if __name__ == "__main__":
     main()
