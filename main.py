@@ -26,25 +26,23 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
-# -------------------- Санітайз тексту для XML --------------------
-def sanitize_offer(elem):
-    """
-    Екранує текст у offer для XML, не чіпаючи вже існуючі ентиті (&nbsp;, &reg; тощо)
-    """
-    def escape_text(text):
-        if not text:
-            return text
-        text = re.sub(r'&(?![a-zA-Z]+;|#\d+;)', '&amp;', text)
-        text = text.replace('<', '&lt;').replace('>', '&gt;')
+# -------------------- Санітайз тексту --------------------
+def escape_text(text):
+    if not text:
         return text
+    # Замінюємо небезпечні символи
+    text = re.sub(r'&(?![a-zA-Z]+;|#\d+;)', '&amp;', text)
+    text = text.replace('"', "'")  # лапки
+    text = text.replace('<', '&lt;').replace('>', '&gt;')
+    return text.strip()
 
+def sanitize_offer(elem):
     for child in elem.iter():
         if child.text:
             child.text = escape_text(child.text)
         if child.tail:
             child.tail = escape_text(child.tail)
-
-    return etree.tostring(elem, encoding="utf-8").decode("utf-8")
+    return elem
 
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
@@ -62,21 +60,28 @@ async def fetch_offers_from_url(session, url):
         async with session.get(url, headers=HEADERS, timeout=120) as response:
             if response.status != 200:
                 print(f"❌ {url} — HTTP {response.status}")
-                return []
+                return {}
             content = await response.read()
-            offers = list(iter_offers(content))
-            print(f"✅ {url} — {len(offers)} товарів")
-            return offers
+            offers_dict = {}
+            for offer in iter_offers(content):
+                sku = offer.get("id") or offer.findtext("vendorCode")
+                if not sku:
+                    continue
+                offers_dict[sku] = etree.tostring(offer, encoding="utf-8").decode("utf-8")
+            print(f"✅ {url} — {len(offers_dict)} унікальних товарів")
+            return offers_dict
     except Exception as e:
         print(f"❌ {url}: {e}")
-        return []
+        return {}
 
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_offers_from_url(session, url) for url in urls]
         results = await asyncio.gather(*tasks)
-        all_offers = [offer for sublist in results for offer in sublist]
-        return all_offers, results
+        merged = {}
+        for offers in results:
+            merged.update(offers)  # останній постачальник перезаписує дубль
+        return merged, results
 
 # -------------------- Хеш файлу --------------------
 def file_hash(path):
@@ -86,7 +91,9 @@ def file_hash(path):
         return hashlib.md5(f.read()).hexdigest()
 
 # -------------------- Збереження у кілька файлів --------------------
-def save_split_yml(offers):
+def save_split_yml(offers_dict):
+    offers = list(offers_dict.values())
+
     header = '<?xml version="1.0" encoding="UTF-8"?>\n'
     header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
     header += "<shop>\n"
@@ -101,6 +108,7 @@ def save_split_yml(offers):
     file_index = 1
     current_parts = [header]
     current_size = len(header.encode("utf-8"))
+    current_count = 0
 
     for offer in offers:
         offer_bytes = (offer + "\n").encode("utf-8")
@@ -116,16 +124,18 @@ def save_split_yml(offers):
             if new_hash != old_hash:
                 with open(filename, "wb") as f:
                     f.write(xml_bytes)
-                print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+                print(f"✅ Збережено: {filename} ({current_count} товарів)")
             else:
                 print(f"⚠️ Без змін: {filename}")
 
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
+            current_count = 1
         else:
             current_parts.append(offer + "\n")
             current_size += len(offer_bytes)
+            current_count += 1
 
     if len(current_parts) > 1:
         current_parts.append(footer)
@@ -138,7 +148,7 @@ def save_split_yml(offers):
         if new_hash != old_hash:
             with open(filename, "wb") as f:
                 f.write(xml_bytes)
-            print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+            print(f"✅ Збережено: {filename} ({current_count} товарів)")
         else:
             print(f"⚠️ Без змін: {filename}")
 
@@ -150,7 +160,7 @@ def main():
     if not urls:
         return
 
-    all_offers, results = asyncio.run(fetch_all_offers(urls))
+    all_offers_dict, results = asyncio.run(fetch_all_offers(urls))
 
     successful_feeds = sum(1 for r in results if r)
     failed_feeds = len(urls) - successful_feeds
@@ -159,9 +169,9 @@ def main():
     print(f"🔹 Всього фідів: {len(urls)}")
     print(f"✅ Успішно оброблено: {successful_feeds}")
     print(f"❌ З помилками: {failed_feeds}")
-    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
+    print(f"📦 Загальна кількість унікальних товарів: {len(all_offers_dict)}")
 
-    save_split_yml(all_offers)
+    save_split_yml(all_offers_dict)
 
 if __name__ == "__main__":
     main()
