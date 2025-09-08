@@ -5,6 +5,7 @@ from lxml import etree
 from datetime import datetime
 from io import BytesIO
 import hashlib
+from xml.sax.saxutils import escape
 
 FEEDS_FILE = "feeds.txt"
 MAX_FILE_SIZE_MB = 95
@@ -27,30 +28,17 @@ def load_urls():
         return [line.strip() for line in f if line.strip().startswith("http")]
 
 
-# -------------------- Очищення текстових значень --------------------
-def clean_text(text):
-    if text is None:
-        return ""
-    text = text.replace("&", "&amp;")
-    text = text.replace("<", "&lt;")
-    text = text.replace(">", "&gt;")
-    text = text.replace('"', "&quot;")
-    text = text.replace("'", "&apos;")
-    return text
-
-
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            # Очищаємо текстові поля всередині offer
-            for child in elem.iter():
-                if child.text:
-                    child.text = clean_text(child.text)
-                if child.tail:
-                    child.tail = clean_text(child.tail)
-
+            # Конвертуємо всі тексти у безпечний для XML формат
+            for e in elem.iter():
+                if e.text:
+                    e.text = escape(e.text)
+                if e.tail:
+                    e.tail = escape(e.tail)
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
@@ -110,7 +98,6 @@ def save_split_yml(offers):
         offer_bytes = (offer + "\n").encode("utf-8")
 
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
-            # зберігаємо файл
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
 
@@ -125,7 +112,6 @@ def save_split_yml(offers):
             else:
                 print(f"⚠️ Без змін: {filename}")
 
-            # новий файл
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
