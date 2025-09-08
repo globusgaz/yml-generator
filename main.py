@@ -7,7 +7,7 @@ from io import BytesIO
 import hashlib
 
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 95   # беремо трохи менше 100, щоб мати запас
+MAX_FILE_SIZE_MB = 95
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 HEADERS = {
     "User-Agent": (
@@ -27,11 +27,30 @@ def load_urls():
         return [line.strip() for line in f if line.strip().startswith("http")]
 
 
+# -------------------- Очищення текстових значень --------------------
+def clean_text(text):
+    if text is None:
+        return ""
+    text = text.replace("&", "&amp;")
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    text = text.replace('"', "&quot;")
+    text = text.replace("'", "&apos;")
+    return text
+
+
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
+            # Очищаємо текстові поля всередині offer
+            for child in elem.iter():
+                if child.text:
+                    child.text = clean_text(child.text)
+                if child.tail:
+                    child.tail = clean_text(child.tail)
+
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
