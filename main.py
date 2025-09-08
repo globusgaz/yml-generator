@@ -18,7 +18,6 @@ HEADERS = {
     )
 }
 
-
 # -------------------- Завантаження URL --------------------
 def load_urls():
     if not os.path.exists(FEEDS_FILE):
@@ -27,23 +26,18 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
-
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            # Екрануємо проблемні символи через CDATA
-            for child in elem.iter():
-                if child.text:
-                    child.text = etree.CDATA(child.text)
-                if child.tail:
-                    child.tail = etree.CDATA(child.tail)
-            yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
+            offer_str = etree.tostring(elem, encoding="utf-8").decode("utf-8")
+            # Екрануємо спецсимволи, щоб SimpleXMLElement не падав
+            offer_str = html.escape(offer_str, quote=False)
+            yield offer_str
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
-
 
 # -------------------- Асинхронне завантаження --------------------
 async def fetch_offers_from_url(session, url):
@@ -60,7 +54,6 @@ async def fetch_offers_from_url(session, url):
         print(f"❌ {url}: {e}")
         return []
 
-
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_offers_from_url(session, url) for url in urls]
@@ -68,14 +61,12 @@ async def fetch_all_offers(urls):
         all_offers = [offer for sublist in results for offer in sublist]
         return all_offers, results
 
-
 # -------------------- Хеш файлу --------------------
 def file_hash(path):
     if not os.path.exists(path):
         return None
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
-
 
 # -------------------- Збереження у кілька файлів --------------------
 def save_split_yml(offers):
@@ -96,22 +87,18 @@ def save_split_yml(offers):
 
     for offer in offers:
         offer_bytes = (offer + "\n").encode("utf-8")
-
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
-
             filename = f"all_{file_index}.yml"
             new_hash = hashlib.md5(xml_bytes).hexdigest()
             old_hash = file_hash(filename)
-
             if new_hash != old_hash:
                 with open(filename, "wb") as f:
                     f.write(xml_bytes)
-                print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+                print(f"✅ Збережено: {filename} ({len(current_parts)-2} товарів)")
             else:
                 print(f"⚠️ Без змін: {filename}")
-
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
@@ -122,29 +109,23 @@ def save_split_yml(offers):
     if len(current_parts) > 1:
         current_parts.append(footer)
         xml_bytes = "".join(current_parts).encode("utf-8")
-
         filename = f"all_{file_index}.yml"
         new_hash = hashlib.md5(xml_bytes).hexdigest()
         old_hash = file_hash(filename)
-
         if new_hash != old_hash:
             with open(filename, "wb") as f:
                 f.write(xml_bytes)
-            print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
+            print(f"✅ Збережено: {filename} ({len(current_parts)-2} товарів)")
         else:
             print(f"⚠️ Без змін: {filename}")
-
 
 # -------------------- MAIN --------------------
 def main():
     urls = load_urls()
     print(f"\n🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
-
     if not urls:
         return
-
     all_offers, results = asyncio.run(fetch_all_offers(urls))
-
     successful_feeds = sum(1 for r in results if r)
     failed_feeds = len(urls) - successful_feeds
 
@@ -155,7 +136,6 @@ def main():
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
     save_split_yml(all_offers)
-
 
 if __name__ == "__main__":
     main()
