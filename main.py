@@ -5,7 +5,6 @@ from lxml import etree
 from datetime import datetime
 from io import BytesIO
 import hashlib
-from xml.sax.saxutils import escape
 
 FEEDS_FILE = "feeds.txt"
 MAX_FILE_SIZE_MB = 95
@@ -18,7 +17,6 @@ HEADERS = {
     )
 }
 
-
 # -------------------- Завантаження URL --------------------
 def load_urls():
     if not os.path.exists(FEEDS_FILE):
@@ -27,23 +25,21 @@ def load_urls():
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
-
 # -------------------- Потоковий парсинг --------------------
 def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            # Конвертуємо всі тексти у безпечний для XML формат
+            # Перетворюємо всі текстові поля на CDATA
             for e in elem.iter():
                 if e.text:
-                    e.text = escape(e.text)
+                    e.text = etree.CDATA(e.text)
                 if e.tail:
-                    e.tail = escape(e.tail)
+                    e.tail = etree.CDATA(e.tail)
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
-
 
 # -------------------- Асинхронне завантаження --------------------
 async def fetch_offers_from_url(session, url):
@@ -60,7 +56,6 @@ async def fetch_offers_from_url(session, url):
         print(f"❌ {url}: {e}")
         return []
 
-
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
         tasks = [fetch_offers_from_url(session, url) for url in urls]
@@ -68,14 +63,12 @@ async def fetch_all_offers(urls):
         all_offers = [offer for sublist in results for offer in sublist]
         return all_offers, results
 
-
 # -------------------- Хеш файлу --------------------
 def file_hash(path):
     if not os.path.exists(path):
         return None
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
-
 
 # -------------------- Збереження у кілька файлів --------------------
 def save_split_yml(offers):
@@ -98,6 +91,7 @@ def save_split_yml(offers):
         offer_bytes = (offer + "\n").encode("utf-8")
 
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
+            # зберігаємо файл
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
 
@@ -112,6 +106,7 @@ def save_split_yml(offers):
             else:
                 print(f"⚠️ Без змін: {filename}")
 
+            # новий файл
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
@@ -134,7 +129,6 @@ def save_split_yml(offers):
         else:
             print(f"⚠️ Без змін: {filename}")
 
-
 # -------------------- MAIN --------------------
 def main():
     urls = load_urls()
@@ -155,7 +149,6 @@ def main():
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
     save_split_yml(all_offers)
-
 
 if __name__ == "__main__":
     main()
