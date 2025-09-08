@@ -17,6 +17,18 @@ HEADERS = {
     )
 }
 
+# -------------------- Екранування XML --------------------
+def escape_xml(text):
+    if not text:
+        return ""
+    return (
+        text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&apos;")
+    )
+
 # -------------------- Завантаження URL --------------------
 def load_urls():
     if not os.path.exists(FEEDS_FILE):
@@ -30,12 +42,10 @@ def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            # Перетворюємо всі текстові поля на CDATA
-            for e in elem.iter():
-                if e.text:
-                    e.text = etree.CDATA(e.text)
-                if e.tail:
-                    e.tail = etree.CDATA(e.tail)
+            # Екрануємо текст всередині тегів
+            for subelem in elem.iter():
+                if subelem.text:
+                    subelem.text = escape_xml(subelem.text)
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
@@ -91,7 +101,6 @@ def save_split_yml(offers):
         offer_bytes = (offer + "\n").encode("utf-8")
 
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
-            # зберігаємо файл
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
 
@@ -106,7 +115,6 @@ def save_split_yml(offers):
             else:
                 print(f"⚠️ Без змін: {filename}")
 
-            # новий файл
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
