@@ -8,7 +8,6 @@ import hashlib
 import re
 
 FEEDS_FILE = "feeds.txt"
-PREV_YML = "prev_feed.yml"
 MAX_FILE_SIZE_MB = 95
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 HEADERS = {
@@ -50,16 +49,13 @@ def iter_offers(xml_bytes, feed_prefix):
         for _, elem in context:
             elem = sanitize_offer(elem)
 
-            # Унікальний ID: vendorCode або hash
+            # Унікальний ID
             offer_id = elem.get("id", "").strip()
             vendor_code = elem.findtext("vendorCode")
-
             if vendor_code and vendor_code.strip():
                 unique_id = vendor_code.strip()
-            elif offer_id:
-                unique_id = offer_id
             else:
-                unique_id = hashlib.md5(etree.tostring(elem)).hexdigest()
+                unique_id = offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()
 
             unique_id = f"{feed_prefix}_{unique_id}"
             elem.set("id", unique_id)
@@ -90,83 +86,50 @@ async def fetch_all_offers(urls):
         tasks = [fetch_offers_from_url(session, url, i+1) for i, url in enumerate(urls)]
         results = await asyncio.gather(*tasks)
         all_offers = [offer for sublist in results for offer in sublist]
-        # Видаляємо дублікати повністю однакових offer
-        all_offers = list(dict.fromkeys(all_offers))
         return all_offers, results
 
-# -------------------- Хеш файлу --------------------
-def file_hash(path):
-    if not os.path.exists(path):
-        return None
-    with open(path, "rb") as f:
-        return hashlib.md5(f.read()).hexdigest()
-
-# -------------------- Збереження YML --------------------
-def save_split_yml(offers):
+# -------------------- Збереження у кілька файлів --------------------
+def save_split_yml(offers, prefix="all"):
     header = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n<shop>\n'
-    header += "<name>MyShop</name>\n<company>My Company</company>\n<url>https://myshop.example.com</url>\n"
-    header += '<categories><category id="1">Загальна категорія</category></categories>\n<offers>\n'
+    header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
+    header += "<shop>\n"
+    header += "<name>MyShop</name>\n"
+    header += "<company>My Company</company>\n"
+    header += "<url>https://myshop.example.com</url>\n"
+    header += '<categories><category id="1">Загальна категорія</category></categories>\n'
+    header += "<offers>\n"
 
     footer = "</offers>\n</shop>\n</yml_catalog>\n"
 
     file_index = 1
     current_parts = [header]
     current_size = len(header.encode("utf-8"))
+    offers_in_file = 0
 
     for offer in offers:
         offer_bytes = (offer + "\n").encode("utf-8")
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
             current_parts.append(footer)
-            xml_bytes = "".join(current_parts).encode("utf-8")
-
-            filename = f"all_{file_index}.yml"
-            new_hash = hashlib.md5(xml_bytes).hexdigest()
-            old_hash = file_hash(filename)
-
-            if new_hash != old_hash:
-                with open(filename, "wb") as f:
-                    f.write(xml_bytes)
-                print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
-            else:
-                print(f"⚠️ Без змін: {filename}")
+            filename = f"{prefix}_{file_index}.yml"
+            with open(filename, "wb") as f:
+                f.write("".join(current_parts).encode("utf-8"))
+            print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
 
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
+            offers_in_file = 1
         else:
             current_parts.append(offer + "\n")
             current_size += len(offer_bytes)
+            offers_in_file += 1
 
-    if len(current_parts) > 1:
+    if offers_in_file > 0:
         current_parts.append(footer)
-        xml_bytes = "".join(current_parts).encode("utf-8")
-
-        filename = f"all_{file_index}.yml"
-        new_hash = hashlib.md5(xml_bytes).hexdigest()
-        old_hash = file_hash(filename)
-
-        if new_hash != old_hash:
-            with open(filename, "wb") as f:
-                f.write(xml_bytes)
-            print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
-        else:
-            print(f"⚠️ Без змін: {filename}")
-
-    # Оновлюємо попередній фід для наступного порівняння
-    update_prev_yml(offers)
-
-def update_prev_yml(all_offers):
-    header = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n<shop>\n'
-    header += "<name>MyShop</name>\n<company>My Company</company>\n<url>https://myshop.example.com</url>\n"
-    header += '<categories><category id="1">Загальна категорія</category></categories>\n<offers>\n'
-    footer = "</offers>\n</shop>\n</yml_catalog>\n"
-
-    xml_bytes = (header + "\n".join(all_offers) + "\n" + footer).encode("utf-8")
-    with open(PREV_YML, "wb") as f:
-        f.write(xml_bytes)
-    print(f"✅ Оновлено {PREV_YML} для наступного порівняння")
+        filename = f"{prefix}_{file_index}.yml"
+        with open(filename, "wb") as f:
+            f.write("".join(current_parts).encode("utf-8"))
+        print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
 
 # -------------------- MAIN --------------------
 def main():
@@ -184,9 +147,10 @@ def main():
     print(f"🔹 Всього фідів: {len(urls)}")
     print(f"✅ Успішно оброблено: {successful_feeds}")
     print(f"❌ З помилками: {failed_feeds}")
-    print(f"📦 Загальна кількість унікальних товарів: {len(all_offers)}")
+    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
 
-    save_split_yml(all_offers)
+    save_split_yml(all_offers, prefix="all")
+    print("\n✅ Всі файли згенеровані та готові до пушу!")
 
 if __name__ == "__main__":
     main()
