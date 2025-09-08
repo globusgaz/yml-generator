@@ -8,7 +8,7 @@ import hashlib
 import html
 
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 95
+MAX_FILE_SIZE_MB = 95   # беремо трохи менше 100, щоб мати запас
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 HEADERS = {
     "User-Agent": (
@@ -31,10 +31,7 @@ def iter_offers(xml_bytes):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
-            offer_str = etree.tostring(elem, encoding="utf-8").decode("utf-8")
-            # Екрануємо спецсимволи, щоб SimpleXMLElement не падав
-            offer_str = html.escape(offer_str, quote=False)
-            yield offer_str
+            yield elem
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
@@ -68,6 +65,16 @@ def file_hash(path):
     with open(path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
+# -------------------- Екранування XML --------------------
+def sanitize_offer(elem):
+    """Екранує всі текстові значення всередині offer, щоб уникнути помилок & < >"""
+    for child in elem.iter():
+        if child.text:
+            child.text = html.escape(child.text)
+        if child.tail:
+            child.tail = html.escape(child.tail)
+    return etree.tostring(elem, encoding="utf-8").decode("utf-8")
+
 # -------------------- Збереження у кілька файлів --------------------
 def save_split_yml(offers):
     header = '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -85,20 +92,27 @@ def save_split_yml(offers):
     current_parts = [header]
     current_size = len(header.encode("utf-8"))
 
-    for offer in offers:
+    for offer_elem in offers:
+        offer = sanitize_offer(offer_elem)
         offer_bytes = (offer + "\n").encode("utf-8")
+
         if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
+            # зберігаємо файл
             current_parts.append(footer)
             xml_bytes = "".join(current_parts).encode("utf-8")
+
             filename = f"all_{file_index}.yml"
             new_hash = hashlib.md5(xml_bytes).hexdigest()
             old_hash = file_hash(filename)
+
             if new_hash != old_hash:
                 with open(filename, "wb") as f:
                     f.write(xml_bytes)
-                print(f"✅ Збережено: {filename} ({len(current_parts)-2} товарів)")
+                print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
             else:
                 print(f"⚠️ Без змін: {filename}")
+
+            # новий файл
             file_index += 1
             current_parts = [header, offer + "\n"]
             current_size = len(header.encode("utf-8")) + len(offer_bytes)
@@ -109,13 +123,15 @@ def save_split_yml(offers):
     if len(current_parts) > 1:
         current_parts.append(footer)
         xml_bytes = "".join(current_parts).encode("utf-8")
+
         filename = f"all_{file_index}.yml"
         new_hash = hashlib.md5(xml_bytes).hexdigest()
         old_hash = file_hash(filename)
+
         if new_hash != old_hash:
             with open(filename, "wb") as f:
                 f.write(xml_bytes)
-            print(f"✅ Збережено: {filename} ({len(current_parts)-2} товарів)")
+            print(f"✅ Збережено: {filename} ({len(current_parts) - 2} товарів)")
         else:
             print(f"⚠️ Без змін: {filename}")
 
@@ -123,9 +139,12 @@ def save_split_yml(offers):
 def main():
     urls = load_urls()
     print(f"\n🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
+
     if not urls:
         return
+
     all_offers, results = asyncio.run(fetch_all_offers(urls))
+
     successful_feeds = sum(1 for r in results if r)
     failed_feeds = len(urls) - successful_feeds
 
