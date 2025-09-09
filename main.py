@@ -23,17 +23,8 @@ def load_urls():
     if not os.path.exists(FEEDS_FILE):
         print(f"❌ Файл {FEEDS_FILE} не знайдено")
         return []
-    urls = []
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line and line.startswith("http"):
-                # Очікуємо формат: url|постачальник
-                parts = line.split("|")
-                url = parts[0].strip()
-                supplier = parts[1].strip() if len(parts) > 1 else f"f{len(urls)+1}"
-                urls.append((url, supplier))
-    return urls
+        return [line.strip() for line in f if line.strip().startswith("http")]
 
 # -------------------- Санітайз тексту --------------------
 def sanitize_text(text):
@@ -52,7 +43,7 @@ def sanitize_offer(elem):
     return elem
 
 # -------------------- Потоковий парсинг --------------------
-def iter_offers(xml_bytes, supplier_prefix):
+def iter_offers(xml_bytes, feed_prefix):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
@@ -61,12 +52,33 @@ def iter_offers(xml_bytes, supplier_prefix):
             # Унікальний ID
             offer_id = elem.get("id", "").strip()
             vendor_code = elem.findtext("vendorCode")
-            if vendor_code and vendor_code.strip():
-                unique_id = f"{supplier_prefix}_{vendor_code.strip()}"
-            else:
-                unique_id = f"{supplier_prefix}_{offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()}"
 
-            elem.set("id", unique_id)
+            if vendor_code and vendor_code.strip():
+                unique_code = vendor_code.strip()
+            else:
+                unique_code = offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()
+
+            unique_code = f"{feed_prefix}_{unique_code}"
+
+            # Переписуємо id
+            elem.set("id", unique_code)
+
+            # Переписуємо <vendorCode>
+            vc_elem = elem.find("vendorCode")
+            if vc_elem is not None:
+                vc_elem.text = unique_code
+            else:
+                new_vc = etree.Element("vendorCode")
+                new_vc.text = unique_code
+                elem.insert(0, new_vc)
+
+            # Переписуємо <url>
+            url_elem = elem.find("url")
+            if url_elem is not None and url_elem.text:
+                clean_url = url_elem.text.strip()
+                if "?" in clean_url:
+                    clean_url = clean_url.split("?")[0]
+                url_elem.text = f"{clean_url}?id={unique_code}"
 
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
@@ -74,15 +86,16 @@ def iter_offers(xml_bytes, supplier_prefix):
         print(f"❌ Помилка парсингу XML: {e}")
 
 # -------------------- Асинхронне завантаження --------------------
-async def fetch_offers_from_url(session, url, supplier_prefix):
+async def fetch_offers_from_url(session, url, feed_index):
     try:
         async with session.get(url, headers=HEADERS, timeout=120) as response:
             if response.status != 200:
                 print(f"❌ {url} — HTTP {response.status}")
                 return []
             content = await response.read()
-            offers = list(iter_offers(content, supplier_prefix))
-            print(f"✅ {url} ({supplier_prefix}) — {len(offers)} товарів")
+            feed_prefix = f"f{feed_index}"
+            offers = list(iter_offers(content, feed_prefix))
+            print(f"✅ {url} — {len(offers)} товарів")
             return offers
     except Exception as e:
         print(f"❌ {url}: {e}")
@@ -90,7 +103,7 @@ async def fetch_offers_from_url(session, url, supplier_prefix):
 
 async def fetch_all_offers(urls):
     async with aiohttp.ClientSession() as session:
-        tasks = [fetch_offers_from_url(session, url, supplier) for url, supplier in urls]
+        tasks = [fetch_offers_from_url(session, url, i+1) for i, url in enumerate(urls)]
         results = await asyncio.gather(*tasks)
         all_offers = [offer for sublist in results for offer in sublist]
         return all_offers, results
