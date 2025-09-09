@@ -16,7 +16,12 @@ jobs:
     - name: 📥 Клоную репозиторій
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0   # потрібно для reset
+        fetch-depth: 0
+
+    - name: 🔄 Скидаю до останнього main
+      run: |
+        git fetch origin main
+        git reset --hard origin/main
 
     - name: 🐍 Встановлюю Python
       uses: actions/setup-python@v4
@@ -29,22 +34,17 @@ jobs:
     - name: 🚀 Генерую YML
       run: python main.py
 
-    - name: 🧹 Видаляю старі YML перед комітом
+    - name: 🧹 Чищу зайві файли
       run: |
         rm -f prev_feed.yml || true
         rm -f output_*.yml || true
 
-    - name: 📝 Комічу згенеровані файли у репозиторій
+    - name: 📝 Комічу у репозиторій з часом
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
-        # синхронізуємо з віддаленим main, щоб уникнути конфліктів
-        git fetch origin main
-        git reset --hard origin/main
-
-        # додаємо всі нові/оновлені YML
+        COMMIT_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
         git add -A
-        git diff --cached --quiet || git commit -m "🔄 Оновлено all.yml"
-
+        git commit -m "🔄 Оновлено all.yml ($COMMIT_TIME)" --allow-empty
         git push origin HEAD:main
