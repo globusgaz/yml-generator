@@ -58,8 +58,7 @@ def generate_categories_block(used_ids, category_tree):
             attribs += f' portal_url="{cat["portal_url"]}"'
         categories.append(f'<category {attribs}>{cat["name"]}</category>')
     return "<categories>\n" + "\n".join(categories) + "\n</categories>\n"
-
-def load_urls():
+    def load_urls():
     if not os.path.exists(FEEDS_FILE):
         print(f"❌ Файл {FEEDS_FILE} не знайдено")
         return []
@@ -124,8 +123,7 @@ def iter_offers(xml_bytes, feed_prefix, used_category_ids, category_tree):
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
-
-async def fetch_offers_from_url(session, url, feed_index, used_category_ids, category_tree):
+        async def fetch_offers_from_url(session, url, feed_index, used_category_ids, category_tree):
     try:
         async with session.get(url, headers=HEADERS, timeout=120) as response:
             if response.status != 200:
@@ -187,8 +185,7 @@ def save_split_yml(offers, used_category_ids, category_tree, prefix="all"):
         with open(filename, "wb") as f:
             f.write("".join(current_parts).encode("utf-8"))
         print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
-
-def main():
+        def main():
     print("🚀 Стартуємо генерацію YML...\n")
 
     urls = load_urls()
@@ -205,13 +202,19 @@ def main():
         return
 
     used_category_ids = set()
-category_tree = load_category_tree_from_excel(EXCEL_FILE)
-all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree))
+    try:
+        all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree))
+    except Exception as e:
+        print(f"❌ Помилка при завантаженні товарів: {e}")
+        return
 
-print("\n📊 Підсумок:")
-print(f"🔹 Всього фідів: {len(urls)}")
-print(f"📦 Загальна кількість товарів: {len(all_offers)}")
-print(f"📁 Унікальних категорій: {len(used_category_ids)}")
+    print("\n📊 Підсумок:")
+    print(f"🔹 Всього фідів: {len(urls)}")
+    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
+    print(f"📁 Унікальних категорій: {len(used_category_ids)}")
 
-save_split_yml(all_offers, used_category_ids, category_tree, prefix="all")
-print("\n✅ Всі файли згенеровані та готові до імпорту!")
+    save_split_yml(all_offers, used_category_ids, category_tree, prefix="all")
+    print("\n✅ Всі файли згенеровані та готові до імпорту!")
+
+if __name__ == "__main__":
+    main()
