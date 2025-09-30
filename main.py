@@ -22,7 +22,7 @@ HEADERS = {
 }
 
 def load_category_tree_from_excel(file_path):
-    df = pd.read_excel(file_path, engine="openpyxl")
+    df = pd.read_excel(file_path, engine="xlrd")
     tree = {}
     for _, row in df.iterrows():
         cid = str(row["Идентификатор_подраздела"]).strip()
