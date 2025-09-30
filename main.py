@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Генератор YML з мапінгом категорій з Excel на основі назв категорій із фідів
-# Підтримка .xlsx/.xls, авто-визначення engine. Залежності: pandas, openpyxl, xlrd, aiohttp, lxml
+# Генератор YML з підстановкою категорій: Excel-portal_id або fallback на структуру фідів
+# Залежності: pandas, openpyxl/xlrd, aiohttp, lxml
 
 from __future__ import annotations
 
@@ -17,10 +17,8 @@ from aiohttp import ClientError
 import pandas as pd
 from lxml import etree
 
-
-# --- Константи конфігурації ---
 FEEDS_FILE: str = "feeds.txt"
-EXCEL_FILE: str = "prom_categories.xlsx"   # справжній .xlsx або .xls
+EXCEL_FILE: str = "prom_categories.xlsx"
 MAX_FILE_SIZE_MB: int = 95
 MAX_FILE_SIZE_BYTES: int = MAX_FILE_SIZE_MB * 1024 * 1024
 
@@ -32,8 +30,8 @@ HEADERS: Dict[str, str] = {
     )
 }
 
+# ---------------- Excel ----------------
 
-# --- Excel: авто-визначення та індексація ---
 def _read_excel_auto(file_path: str) -> pd.DataFrame:
     ext = os.path.splitext(file_path)[1].lower()
     last_err: Optional[Exception] = None
@@ -48,7 +46,6 @@ def _read_excel_auto(file_path: str) -> pd.DataFrame:
             return pd.read_excel(file_path, engine="xlrd")
         except Exception as e:
             last_err = e
-
     for engine in ("openpyxl", "xlrd"):
         try:
             if engine == "xlrd":
@@ -56,29 +53,24 @@ def _read_excel_auto(file_path: str) -> pd.DataFrame:
             return pd.read_excel(file_path, engine=engine)
         except Exception as e:
             last_err = e
-
     raise RuntimeError(f"Не вдалося прочитати Excel '{file_path}': {last_err}")
 
-
-def normalize_name(name: Optional[str]) -> str:
-    if not name:
+def _norm(text: Optional[str]) -> str:
+    if not text:
         return ""
-    text = str(name).strip().lower()
-    text = re.sub(r"\s+", " ", text)
-    return text
+    t = str(text).strip().lower()
+    return re.sub(r"\s+", " ", t)
 
-
-def load_category_tree_from_excel(file_path: str) -> Tuple[
-    Dict[str, Dict[str, Optional[str]]],  # category_tree: id -> {name,parentId,portal_id,portal_url}
-    Dict[str, str]                        # excel_name_index: normalized_name -> portal_id
+def load_excel_categories(file_path: str) -> Tuple[
+    Dict[str, Dict[str, Optional[str]]],  # portal_id -> {name, parentId}
+    Dict[str, str]                         # normalized_name -> portal_id
 ]:
     if not os.path.exists(file_path):
         raise FileNotFoundError(file_path)
-
     df = _read_excel_auto(file_path)
 
-    category_tree: Dict[str, Dict[str, Optional[str]]] = {}
-    excel_name_index: Dict[str, str] = {}
+    tree: Dict[str, Dict[str, Optional[str]]] = {}
+    name_index: Dict[str, str] = {}
 
     for _, row in df.iterrows():
         cid = str(row.get("Идентификатор_подраздела", "")).strip()
@@ -88,33 +80,21 @@ def load_category_tree_from_excel(file_path: str) -> Tuple[
         level3 = row.get("Категория3")
         level2 = row.get("Категория2")
         level1 = row.get("Категория1")
-
-        # Використовуємо найглибшу доступну назву як “офіційну”
         name_source = level4 or level3 or level2 or level1 or ""
         name = str(name_source).strip() or "Невідома категорія"
-        portal_url = str(row.get("Адрес_подраздела", "") or "").strip()
 
-        category_tree[cid] = {
-            "name": name,
-            "parentId": None,
-            "portal_id": cid,
-            "portal_url": portal_url,
-        }
+        tree[cid] = {"name": name, "parentId": None}
 
-        norm = normalize_name(name)
-        if norm and norm not in excel_name_index:
-            excel_name_index[norm] = cid
+        # індексуємо всі рівні назв
+        for candidate in (level1, level2, level3, level4, name):
+            nn = _norm(candidate)
+            if nn and nn not in name_index:
+                name_index[nn] = cid
 
-        # Додатково індексуємо всі рівні, якщо заповнені
-        for candidate in (level1, level2, level3, level4):
-            nn = normalize_name(candidate)
-            if nn and nn not in excel_name_index:
-                excel_name_index[nn] = cid
+    return tree, name_index
 
-    return category_tree, excel_name_index
+# --------------- Feeds: urls ---------------
 
-
-# --- Завантаження URL фідів ---
 def load_urls(feeds_file: str = FEEDS_FILE) -> List[str]:
     if not os.path.exists(feeds_file):
         print(f"❌ Файл {feeds_file} не знайдено")
@@ -122,14 +102,13 @@ def load_urls(feeds_file: str = FEEDS_FILE) -> List[str]:
     with open(feeds_file, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip().startswith("http")]
 
+# --------------- XML sanitize ---------------
 
-# --- Санітизація XML ---
 def sanitize_text(text: Optional[str]) -> str:
     if not text:
         return ""
     text = re.sub(r'&(?![a-zA-Z]+;|#\d+;)', "&amp;", text)
     return text.replace("<", "&lt;").replace(">", "&gt;")
-
 
 def sanitize_offer(elem: etree._Element) -> etree._Element:
     for child in elem.iter():
@@ -139,59 +118,75 @@ def sanitize_offer(elem: etree._Element) -> etree._Element:
             child.tail = sanitize_text(child.tail)
     return elem
 
+# --------------- Feed categories parse ---------------
 
-# --- Парсинг секції категорій з фіду ---
-def extract_feed_categories(xml_bytes: bytes) -> Dict[str, str]:
-    """
-    Повертає мапу feed_category_id -> feed_category_name, якщо у фіді є <categories>.
-    """
-    mapping: Dict[str, str] = {}
+FeedCat = Dict[str, Dict[str, Optional[str]]]  # id -> {name, parentId}
+
+def parse_feed_categories(xml_bytes: bytes) -> FeedCat:
+    cats: FeedCat = {}
     try:
         root = etree.fromstring(xml_bytes)
         nodes = root.xpath(".//categories/category")
         for node in nodes:
             cid = (node.get("id") or "").strip()
+            if not cid:
+                continue
+            parent_id = node.get("parentId")
+            parent_id = parent_id.strip() if parent_id else None
             name = (node.text or "").strip()
-            if cid and name:
-                mapping[cid] = name
+            cats[cid] = {"name": name, "parentId": parent_id}
     except Exception:
-        # тихо ідемо далі — не всі фіди мають секцію categories
         pass
-    return mapping
+    return cats
 
+def collect_ancestors(cat_id: str, feed_cats: FeedCat) -> List[str]:
+    order: List[str] = []
+    visited: Set[str] = set()
+    cur = cat_id
+    while cur and cur not in visited and cur in feed_cats:
+        visited.add(cur)
+        order.append(cur)
+        cur = feed_cats[cur].get("parentId") or None
+    return order  # [child, parent, grandparent, ...]
 
-def resolve_category_id(
+# --------------- Offer iteration with mapping ---------------
+
+def resolve_category(
     original_id: str,
-    feed_cat_map: Dict[str, str],
+    feed_cats: FeedCat,
     excel_name_index: Dict[str, str],
-    category_tree: Dict[str, Dict[str, Optional[str]]],
-) -> str:
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
+) -> Tuple[str, bool]:
     """
-    Повертає portal_id з Excel. Алгоритм:
-    1) Якщо original_id вже є як portal_id у Excel — повертаємо його.
-    2) Якщо у фіді є назва категорії для original_id, пробуємо знайти її у excel_name_index.
-    3) Інакше — залишаємо original_id, але додамо “Невідома категорія”.
+    Повертає (mapped_id, is_excel). Якщо true — це portal_id з Excel.
+    Якщо не знайшли в Excel — повертаємо feed-id і is_excel=False.
     """
-    if original_id in category_tree:
-        return original_id
+    # 1) Якщо вже відповідає Excel id
+    if original_id in excel_tree:
+        return original_id, True
 
-    feed_name = feed_cat_map.get(original_id, "")
-    norm = normalize_name(feed_name)
-    if norm and norm in excel_name_index:
-        return excel_name_index[norm]
+    # 2) Якщо відома назва у фіді — шукаємо її в Excel за normalized name
+    name = feed_cats.get(original_id, {}).get("name", "")
+    nn = _norm(name)
+    if nn and nn in excel_name_index:
+        return excel_name_index[nn], True
 
-    return original_id  # далі викличе створення “Невідома категорія”
+    # 3) Fallback: залишаємо feed-id
+    return original_id, False
 
-
-# --- Парсинг пропозицій з підстановкою коректного portal_id ---
 def iter_offers(
     xml_bytes: bytes,
     feed_prefix: str,
     used_category_ids: Set[str],
-    category_tree: Dict[str, Dict[str, Optional[str]]],
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
     excel_name_index: Dict[str, str],
+    global_feed_categories: FeedCat,
 ) -> Iterable[str]:
-    feed_cat_map = extract_feed_categories(xml_bytes)
+    local_feed_cats = parse_feed_categories(xml_bytes)
+    # мерджимо локальні у глобальні (щоб потім мати всі батьківські вузли)
+    for k, v in local_feed_cats.items():
+        if k not in global_feed_categories:
+            global_feed_categories[k] = v
 
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
@@ -220,22 +215,10 @@ def iter_offers(
 
             cat_elem = elem.find("categoryId")
             if cat_elem is not None and cat_elem.text:
-                original_id = cat_elem.text.strip()
-                mapped_id = resolve_category_id(original_id, feed_cat_map, excel_name_index, category_tree)
-
-                if mapped_id in category_tree:
-                    cat_elem.text = mapped_id
-                else:
-                    # створюємо “Невідома категорія” під mapped_id (який дорівнює original_id, якщо мапінг не знайшли)
-                    category_tree[mapped_id] = {
-                        "name": "Невідома категорія",
-                        "parentId": None,
-                        "portal_id": mapped_id,
-                        "portal_url": "",
-                    }
-                    cat_elem.text = mapped_id
-
-                used_category_ids.add(cat_elem.text.strip())
+                orig = cat_elem.text.strip()
+                mapped_id, is_excel = resolve_category(orig, global_feed_categories, excel_name_index, excel_tree)
+                cat_elem.text = mapped_id
+                used_category_ids.add(mapped_id)
 
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
@@ -244,15 +227,16 @@ def iter_offers(
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
 
+# --------------- HTTP ---------------
 
-# --- HTTP завантаження фідів ---
 async def fetch_offers_from_url(
     session: aiohttp.ClientSession,
     url: str,
     feed_index: int,
     used_category_ids: Set[str],
-    category_tree: Dict[str, Dict[str, Optional[str]]],
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
     excel_name_index: Dict[str, str],
+    global_feed_categories: FeedCat,
 ) -> List[str]:
     try:
         timeout = aiohttp.ClientTimeout(total=180)
@@ -266,8 +250,9 @@ async def fetch_offers_from_url(
                     content,
                     f"f{feed_index}",
                     used_category_ids,
-                    category_tree,
+                    excel_tree,
                     excel_name_index,
+                    global_feed_categories,
                 )
             )
             print(f"✅ {url} — {len(offers)} товарів")
@@ -279,56 +264,86 @@ async def fetch_offers_from_url(
         print(f"❌ {url}: {e}")
         return []
 
-
 async def fetch_all_offers(
     urls: List[str],
     used_category_ids: Set[str],
-    category_tree: Dict[str, Dict[str, Optional[str]]],
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
     excel_name_index: Dict[str, str],
+    global_feed_categories: FeedCat,
 ) -> List[str]:
     async with aiohttp.ClientSession() as session:
         tasks = [
-            fetch_offers_from_url(session, url, i + 1, used_category_ids, category_tree, excel_name_index)
+            fetch_offers_from_url(
+                session, url, i + 1, used_category_ids, excel_tree, excel_name_index, global_feed_categories
+            )
             for i, url in enumerate(urls)
         ]
         results = await asyncio.gather(*tasks, return_exceptions=False)
         return [offer for sublist in results for offer in sublist]
 
+# --------------- Categories emission ---------------
 
-# --- Запис вихідних YML, розбиття за розміром ---
-def generate_categories_block(used_ids: Iterable[str], category_tree: Dict[str, Dict[str, Optional[str]]]) -> str:
-    categories: List[str] = []
-    for cid in sorted(set(used_ids)):
-        cat = category_tree.get(cid)
-        if not cat:
-            cat = {"name": "Невідома категорія", "parentId": None, "portal_id": cid, "portal_url": ""}
-            category_tree[cid] = cat
+def build_categories_for_output(
+    used_ids: Iterable[str],
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
+    global_feed_categories: FeedCat,
+) -> Dict[str, Dict[str, Optional[str]]]:
+    """
+    Формуємо повний набір категорій для секції <categories>.
+    Правила:
+    - Якщо id є в Excel — беремо назву з Excel, parentId=None (або можна додати, якщо у вас є стовпець parentId).
+    - Якщо id НЕ з Excel (тобто це feed-id) — додаємо вузол та весь ланцюг його предків із фіду (name, parentId).
+    """
+    out: Dict[str, Dict[str, Optional[str]]] = {}
 
-        attribs = [f'id="{cid}"']
-        if cat.get("parentId"):
-            attribs.append(f'parentId="{cat["parentId"]}"')
-        if cat.get("portal_id"):
-            attribs.append(f'portal_id="{cat["portal_id"]}"')
-        elif cat.get("portal_url"):
-            attribs.append(f'portal_url="{cat["portal_url"]}"')
+    def ensure_feed_chain(cat_id: str) -> None:
+        chain = collect_ancestors(cat_id, global_feed_categories)
+        for cid in chain:
+            if cid not in out:
+                node = global_feed_categories.get(cid, {})
+                out[cid] = {
+                    "name": node.get("name") or "Категорія",
+                    "parentId": node.get("parentId"),
+                }
 
-        categories.append(f'<category {" ".join(attribs)}>{cat["name"]}</category>')
-    return "<categories>\n" + "\n".join(categories) + "\n</categories>\n"
+    for cid in set(used_ids):
+        if cid in excel_tree:
+            # вузол із Excel
+            if cid not in out:
+                out[cid] = {"name": excel_tree[cid]["name"] or "Категорія", "parentId": excel_tree[cid].get("parentId")}
+        else:
+            # вузол із фіду + вся батьківська гілка
+            ensure_feed_chain(cid)
 
+    return out
+
+def generate_categories_block(categories: Dict[str, Dict[str, Optional[str]]]) -> str:
+    lines: List[str] = []
+    for cid in sorted(categories.keys(), key=lambda x: (categories[x].get("parentId") or "", x)):
+        name = categories[cid].get("name") or "Категорія"
+        parent = categories[cid].get("parentId")
+        attrs = f'id="{cid}"' + (f' parentId="{parent}"' if parent else "")
+        lines.append(f"<category {attrs}>{name}</category>")
+    return "<categories>\n" + "\n".join(lines) + "\n</categories>\n"
+
+# --------------- Save YML ---------------
 
 def save_split_yml(
     offers: Iterable[str],
     used_category_ids: Set[str],
-    category_tree: Dict[str, Dict[str, Optional[str]]],
+    excel_tree: Dict[str, Dict[str, Optional[str]]],
+    global_feed_categories: FeedCat,
     prefix: str = "all",
 ) -> None:
+    categories_dict = build_categories_for_output(used_category_ids, excel_tree, global_feed_categories)
+
     header = '<?xml version="1.0" encoding="UTF-8"?>\n'
     header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
     header += "<shop>\n"
     header += "<name>MyShop</name>\n"
     header += "<company>My Company</company>\n"
     header += "<url>https://myshop.example.com</url>\n"
-    header += generate_categories_block(used_category_ids, category_tree)
+    header += generate_categories_block(categories_dict)
     header += "<offers>\n"
 
     footer = "</offers>\n</shop>\n</yml_catalog>\n"
@@ -364,8 +379,8 @@ def save_split_yml(
             f.write("".join(current_parts).encode("utf-8"))
         print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
 
+# --------------- Entry ---------------
 
-# --- Точка входу ---
 def main() -> None:
     print("🚀 Стартуємо генерацію YML...\n")
 
@@ -376,8 +391,8 @@ def main() -> None:
         return
 
     try:
-        category_tree, excel_name_index = load_category_tree_from_excel(EXCEL_FILE)
-        print(f"📁 Завантажено {len(category_tree)} категорій з Excel\n")
+        excel_tree, excel_name_index = load_excel_categories(EXCEL_FILE)
+        print(f"📁 Завантажено {len(excel_tree)} категорій з Excel\n")
     except FileNotFoundError:
         print(f"❌ Файл Excel не знайдено: {EXCEL_FILE}")
         return
@@ -386,8 +401,21 @@ def main() -> None:
         return
 
     used_category_ids: Set[str] = set()
+    global_feed_categories: FeedCat = {}
+
     try:
-        all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree, excel_name_index))
+        async def _run() -> List[str]:
+            async with aiohttp.ClientSession() as session:
+                tasks = [
+                    fetch_offers_from_url(
+                        session, url, i + 1, used_category_ids, excel_tree, excel_name_index, global_feed_categories
+                    )
+                    for i, url in enumerate(urls)
+                ]
+                results = await asyncio.gather(*tasks, return_exceptions=False)
+                return [offer for sublist in results for offer in sublist]
+
+        all_offers = asyncio.run(_run())
     except Exception as e:
         print(f"❌ Помилка при завантаженні товарів: {e}")
         return
@@ -395,11 +423,10 @@ def main() -> None:
     print("\n📊 Підсумок:")
     print(f"🔹 Всього фідів: {len(urls)}")
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
-    print(f"📁 Унікальних категорій (після мапінгу): {len(used_category_ids)}")
+    print(f"📁 Унікальних категорій (в offers): {len(used_category_ids)}")
 
-    save_split_yml(all_offers, used_category_ids, category_tree, prefix="all")
+    save_split_yml(all_offers, used_category_ids, excel_tree, global_feed_categories, prefix="all")
     print("\n✅ Всі файли згенеровані та готові до імпорту!")
-
 
 if __name__ == "__main__":
     main()
