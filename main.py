@@ -91,7 +91,6 @@ def iter_offers(xml_bytes, feed_prefix, used_category_ids, category_tree):
             vendor_code = elem.findtext("vendorCode")
 
             unique_code = vendor_code.strip() if vendor_code else offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()
-            unique_code = unique_code
             elem.set("id", unique_code)
 
             vc_elem = elem.find("vendorCode")
@@ -190,15 +189,20 @@ def save_split_yml(offers, used_category_ids, category_tree, prefix="all"):
         print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
 
 def main():
+    print("🚀 Стартуємо генерацію YML...\n")
+
     urls = load_urls()
-    print(f"\n🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
+    print(f"🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
     if not urls:
+        print("⚠️ Немає посилань для обробки. Завершення.")
+        return
+
+    try:
+        category_tree = load_category_tree_from_excel(EXCEL_FILE)
+        print(f"📁 Завантажено {len(category_tree)} категорій з Excel\n")
+    except Exception as e:
+        print(f"❌ Помилка при завантаженні Excel: {e}")
         return
 
     used_category_ids = set()
-    category_tree = load_category_tree_from_excel(EXCEL_FILE)
-    all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree))
-
-    print("\n📊 Підсумок:")
-    print(f"🔹 Всього фідів: {len(urls)}")
-    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
+    all_offers = asyncio.run(fetch_all
