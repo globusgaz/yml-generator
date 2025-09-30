@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Генератор YML з підстановкою категорій: Excel-portal_id або fallback на структуру фідів
+# Генератор YML з гарантованим додаванням всіх categoryId у секцію <categories>
 # Залежності: pandas, openpyxl/xlrd, aiohttp, lxml
 
 from __future__ import annotations
@@ -289,20 +289,22 @@ def build_categories_for_output(
     global_feed_categories: FeedCat,
 ) -> Dict[str, Dict[str, Optional[str]]]:
     """
-    Формуємо повний набір категорій для секції <categories>.
+    ГАРАНТОВАНО включаємо всі використані categoryId у секцію <categories>.
     Правила:
-    - Якщо id є в Excel — беремо назву з Excel, parentId=None (або можна додати, якщо у вас є стовпець parentId).
-    - Якщо id НЕ з Excel (тобто це feed-id) — додаємо вузол та весь ланцюг його предків із фіду (name, parentId).
+    1) Якщо id є в Excel — беремо назву з Excel, parentId=None.
+    2) Якщо id НЕ з Excel (feed-id) — додаємо вузол + весь ланцюг предків із фіду.
+    3) Якщо для feed-id немає інфо у фіді — створюємо з дефолтною назвою.
     """
     out: Dict[str, Dict[str, Optional[str]]] = {}
 
     def ensure_feed_chain(cat_id: str) -> None:
+        """Додає cat_id + всіх його предків із фіду."""
         chain = collect_ancestors(cat_id, global_feed_categories)
         for cid in chain:
             if cid not in out:
                 node = global_feed_categories.get(cid, {})
                 out[cid] = {
-                    "name": node.get("name") or "Категорія",
+                    "name": node.get("name") or f"Категорія {cid}",
                     "parentId": node.get("parentId"),
                 }
 
@@ -314,6 +316,9 @@ def build_categories_for_output(
         else:
             # вузол із фіду + вся батьківська гілка
             ensure_feed_chain(cid)
+            # якщо навіть у фіді немає інфо — створюємо дефолт
+            if cid not in out:
+                out[cid] = {"name": f"Категорія {cid}", "parentId": None}
 
     return out
 
