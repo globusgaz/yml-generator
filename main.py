@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Генератор YML з багатьох фідів + карта категорій з Excel
-# Залежності: aiohttp, lxml, pandas, openpyxl
+# Генератор YML з багатьох фідів + карта категорій з Excel (.xlsx/.xls)
+# Залежності: pandas, openpyxl, xlrd, aiohttp, lxml
 
 from __future__ import annotations
 
@@ -20,7 +20,7 @@ from lxml import etree
 
 # --- Константи конфігурації ---
 FEEDS_FILE: str = "feeds.txt"              # список URL YML/фідів (по одному в рядку)
-EXCEL_FILE: str = "prom_categories.xlsx"   # Excel з категоріями (очікувані колонки нижче)
+EXCEL_FILE: str = "prom_categories.xlsx"   # Excel з категоріями (може бути .xlsx або .xls)
 MAX_FILE_SIZE_MB: int = 95                 # ліміт на розмір вихідного YML
 MAX_FILE_SIZE_BYTES: int = MAX_FILE_SIZE_MB * 1024 * 1024
 
@@ -34,19 +34,53 @@ HEADERS: Dict[str, str] = {
 
 
 # --- Допоміжні функції для категорій ---
+def _read_excel_auto(file_path: str) -> pd.DataFrame:
+    """
+    Автовизначення формату Excel:
+    - Якщо .xlsx → engine=openpyxl
+    - Якщо .xls → engine=xlrd
+    - Якщо розширення невідоме або перша спроба не вдалась — перебираємо обидва engine.
+    Кидає RuntimeError з деталями у випадку невдачі.
+    """
+    ext = os.path.splitext(file_path)[1].lower()
+    last_err: Optional[Exception] = None
+
+    if ext == ".xlsx":
+        try:
+            return pd.read_excel(file_path, engine="openpyxl")
+        except Exception as e:
+            last_err = e
+    elif ext == ".xls":
+        try:
+            # xlrd має бути встановлений у залежностях
+            import xlrd  # noqa: F401
+            return pd.read_excel(file_path, engine="xlrd")
+        except Exception as e:
+            last_err = e
+
+    # Фолбек: спробувати обидва engine
+    for engine in ("openpyxl", "xlrd"):
+        try:
+            if engine == "xlrd":
+                import xlrd  # noqa: F401
+            return pd.read_excel(file_path, engine=engine)
+        except Exception as e:
+            last_err = e
+
+    raise RuntimeError(f"Не вдалося прочитати Excel '{file_path}': {last_err}")
+
+
 def load_category_tree_from_excel(file_path: str) -> Dict[str, Dict[str, Optional[str]]]:
     """
-    Завантажити дерево категорій з Excel (.xlsx). Очікувані колонки:
+    Завантажити дерево категорій з Excel (.xlsx/.xls). Очікувані колонки:
     - 'Идентификатор_подраздела' (ідентифікатор категорії)
     - 'Категория1'..'Категория4' (назви на різних рівнях)
     - 'Адрес_подраздела' (URL категорії)
     """
-    try:
-        df = pd.read_excel(file_path, engine="openpyxl")
-    except FileNotFoundError:
-        raise
-    except Exception as e:
-        raise RuntimeError(f"Не вдалося прочитати Excel '{file_path}': {e}") from e
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(file_path)
+
+    df = _read_excel_auto(file_path)
 
     tree: Dict[str, Dict[str, Optional[str]]] = {}
     for _, row in df.iterrows():
@@ -214,7 +248,7 @@ def save_split_yml(
     category_tree: Dict[str, Dict[str, Optional[str]]],
     prefix: str = "all",
 ) -> None:
-    header = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    header = '<?xml version="1.0" encoding="UTF-8?>\n'
     header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
     header += "<shop>\n"
     header += "<name>MyShop</name>\n"
