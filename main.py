@@ -30,7 +30,7 @@ def load_category_tree_from_excel(file_path):
             str(row.get("Категория4") or row.get("Категория3") or row.get("Категория2") or row.get("Категория1"))
         ).strip()
         tree[cid] = {
-            "name": name,
+            "name": name or "Невідома категорія",
             "parentId": None,
             "portal_id": cid,
             "portal_url": str(row["Адрес_подраздела"]).strip()
@@ -42,7 +42,13 @@ def generate_categories_block(used_ids, category_tree):
     for cid in sorted(used_ids):
         cat = category_tree.get(cid)
         if not cat:
-            continue
+            cat = {
+                "name": "Невідома категорія",
+                "parentId": None,
+                "portal_id": cid,
+                "portal_url": ""
+            }
+            category_tree[cid] = cat
         attribs = f'id="{cid}"'
         if cat.get("parentId"):
             attribs += f' parentId="{cat["parentId"]}"'
@@ -75,7 +81,7 @@ def sanitize_offer(elem):
             child.tail = sanitize_text(child.tail)
     return elem
 
-def iter_offers(xml_bytes, feed_prefix, used_category_ids):
+def iter_offers(xml_bytes, feed_prefix, used_category_ids, category_tree):
     try:
         context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
         for _, elem in context:
@@ -85,7 +91,7 @@ def iter_offers(xml_bytes, feed_prefix, used_category_ids):
             vendor_code = elem.findtext("vendorCode")
 
             unique_code = vendor_code.strip() if vendor_code else offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()
-            unique_code = f"{feed_prefix}_{unique_code}"
+            unique_code = unique_code
             elem.set("id", unique_code)
 
             vc_elem = elem.find("vendorCode")
@@ -103,31 +109,40 @@ def iter_offers(xml_bytes, feed_prefix, used_category_ids):
 
             cat_elem = elem.find("categoryId")
             if cat_elem is not None and cat_elem.text:
-                used_category_ids.add(cat_elem.text.strip())
+                original_id = cat_elem.text.strip()
+                if original_id in category_tree:
+                    cat_elem.text = original_id
+                else:
+                    category_tree[original_id] = {
+                        "name": "Невідома категорія",
+                        "parentId": None,
+                        "portal_id": original_id,
+                        "portal_url": ""
+                    }
+                used_category_ids.add(original_id)
 
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
 
-async def fetch_offers_from_url(session, url, feed_index, used_category_ids):
+async def fetch_offers_from_url(session, url, feed_index, used_category_ids, category_tree):
     try:
         async with session.get(url, headers=HEADERS, timeout=120) as response:
             if response.status != 200:
                 print(f"❌ {url} — HTTP {response.status}")
                 return []
             content = await response.read()
-            feed_prefix = f"f{feed_index}"
-            offers = list(iter_offers(content, feed_prefix, used_category_ids))
+            offers = list(iter_offers(content, f"{feed_index}", used_category_ids, category_tree))
             print(f"✅ {url} — {len(offers)} товарів")
             return offers
     except Exception as e:
         print(f"❌ {url}: {e}")
         return []
 
-async def fetch_all_offers(urls, used_category_ids):
+async def fetch_all_offers(urls, used_category_ids, category_tree):
     async with aiohttp.ClientSession() as session:
-        tasks = [fetch_offers_from_url(session, url, i+1, used_category_ids) for i, url in enumerate(urls)]
+        tasks = [fetch_offers_from_url(session, url, i+1, used_category_ids, category_tree) for i, url in enumerate(urls)]
         results = await asyncio.gather(*tasks)
         all_offers = [offer for sublist in results for offer in sublist]
         return all_offers
@@ -182,18 +197,8 @@ def main():
 
     used_category_ids = set()
     category_tree = load_category_tree_from_excel(EXCEL_FILE)
-    all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids))
-
-    successful_feeds = sum(1 for r in all_offers if r)
-    failed_feeds = len(urls) - successful_feeds
+    all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree))
 
     print("\n📊 Підсумок:")
     print(f"🔹 Всього фідів: {len(urls)}")
-    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
-    print(f"📁 Унікальних категорій: {len(used_category_ids)}")
-
-    save_split_yml(all_offers, used_category_ids, category_tree, prefix="all")
-    print("\n✅ Всі файли згенеровані та готові до імпорту!")
-
-if __name__ == "__main__":
-    main()
+    print(f"📦 Загальна кількість товар
