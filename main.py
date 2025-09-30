@@ -139,16 +139,6 @@ def parse_feed_categories(xml_bytes: bytes) -> FeedCat:
         pass
     return cats
 
-def collect_ancestors(cat_id: str, feed_cats: FeedCat) -> List[str]:
-    order: List[str] = []
-    visited: Set[str] = set()
-    cur = cat_id
-    while cur and cur not in visited and cur in feed_cats:
-        visited.add(cur)
-        order.append(cur)
-        cur = feed_cats[cur].get("parentId") or None
-    return order  # [child, parent, grandparent, ...]
-
 # --------------- Offer iteration with mapping ---------------
 
 def resolve_category(
@@ -157,10 +147,7 @@ def resolve_category(
     excel_name_index: Dict[str, str],
     excel_tree: Dict[str, Dict[str, Optional[str]]],
 ) -> Tuple[str, bool]:
-    """
-    Повертає (mapped_id, is_excel). Якщо true — це portal_id з Excel.
-    Якщо не знайшли в Excel — повертаємо feed-id і is_excel=False.
-    """
+    """Повертає (mapped_id, is_excel)."""
     # 1) Якщо вже відповідає Excel id
     if original_id in excel_tree:
         return original_id, True
@@ -183,7 +170,7 @@ def iter_offers(
     global_feed_categories: FeedCat,
 ) -> Iterable[str]:
     local_feed_cats = parse_feed_categories(xml_bytes)
-    # мерджимо локальні у глобальні (щоб потім мати всі батьківські вузли)
+    # мерджимо локальні у глобальні
     for k, v in local_feed_cats.items():
         if k not in global_feed_categories:
             global_feed_categories[k] = v
@@ -288,38 +275,21 @@ def build_categories_for_output(
     excel_tree: Dict[str, Dict[str, Optional[str]]],
     global_feed_categories: FeedCat,
 ) -> Dict[str, Dict[str, Optional[str]]]:
-    """
-    ГАРАНТОВАНО включаємо всі використані categoryId у секцію <categories>.
-    Правила:
-    1) Якщо id є в Excel — беремо назву з Excel, parentId=None.
-    2) Якщо id НЕ з Excel (feed-id) — додаємо вузол + весь ланцюг предків із фіду.
-    3) Якщо для feed-id немає інфо у фіді — створюємо з дефолтною назвою.
-    """
+    """ГАРАНТОВАНО додаємо ВСІ використані categoryId."""
     out: Dict[str, Dict[str, Optional[str]]] = {}
-
-    def ensure_feed_chain(cat_id: str) -> None:
-        """Додає cat_id + всіх його предків із фіду."""
-        chain = collect_ancestors(cat_id, global_feed_categories)
-        for cid in chain:
-            if cid not in out:
-                node = global_feed_categories.get(cid, {})
-                out[cid] = {
-                    "name": node.get("name") or f"Категорія {cid}",
-                    "parentId": node.get("parentId"),
-                }
-
+    
     for cid in set(used_ids):
         if cid in excel_tree:
-            # вузол із Excel
-            if cid not in out:
-                out[cid] = {"name": excel_tree[cid]["name"] or "Категорія", "parentId": excel_tree[cid].get("parentId")}
+            # з Excel
+            out[cid] = {"name": excel_tree[cid]["name"], "parentId": None}
+        elif cid in global_feed_categories:
+            # з фіду
+            node = global_feed_categories[cid]
+            out[cid] = {"name": node.get("name") or f"Категорія {cid}", "parentId": node.get("parentId")}
         else:
-            # вузол із фіду + вся батьківська гілка
-            ensure_feed_chain(cid)
-            # якщо навіть у фіді немає інфо — створюємо дефолт
-            if cid not in out:
-                out[cid] = {"name": f"Категорія {cid}", "parentId": None}
-
+            # дефолт для невідомих
+            out[cid] = {"name": f"Категорія {cid}", "parentId": None}
+    
     return out
 
 def generate_categories_block(categories: Dict[str, Dict[str, Optional[str]]]) -> str:
