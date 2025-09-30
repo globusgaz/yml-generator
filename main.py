@@ -59,7 +59,7 @@ def generate_categories_block(used_ids, category_tree):
         categories.append(f'<category {attribs}>{cat["name"]}</category>')
     return "<categories>\n" + "\n".join(categories) + "\n</categories>\n"
     def load_urls():
-    if not os.path.exists(FEEDS_FILE):
+        if not os.path.exists(FEEDS_FILE):
         print(f"❌ Файл {FEEDS_FILE} не знайдено")
         return []
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
