@@ -205,4 +205,13 @@ def main():
         return
 
     used_category_ids = set()
-    all_offers = asyncio.run(fetch_all
+category_tree = load_category_tree_from_excel(EXCEL_FILE)
+all_offers = asyncio.run(fetch_all_offers(urls, used_category_ids, category_tree))
+
+print("\n📊 Підсумок:")
+print(f"🔹 Всього фідів: {len(urls)}")
+print(f"📦 Загальна кількість товарів: {len(all_offers)}")
+print(f"📁 Унікальних категорій: {len(used_category_ids)}")
+
+save_split_yml(all_offers, used_category_ids, category_tree, prefix="all")
+print("\n✅ Всі файли згенеровані та готові до імпорту!")
