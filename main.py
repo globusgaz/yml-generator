@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-# Генератор YML з гарантованим додаванням всіх categoryId у секцію <categories>
-# Залежності: pandas, openpyxl/xlrd, aiohttp, lxml
-
 from __future__ import annotations
 
 import os
@@ -21,6 +18,10 @@ FEEDS_FILE: str = "feeds.txt"
 EXCEL_FILE: str = "prom_categories.xlsx"
 MAX_FILE_SIZE_MB: int = 95
 MAX_FILE_SIZE_BYTES: int = MAX_FILE_SIZE_MB * 1024 * 1024
+
+# Дефолтна категорія для товарів без категорії
+DEFAULT_CATEGORY_ID: str = "0"
+DEFAULT_CATEGORY_NAME: str = "Загальні товари"
 
 HEADERS: Dict[str, str] = {
     "User-Agent": (
@@ -56,14 +57,25 @@ def _read_excel_auto(file_path: str) -> pd.DataFrame:
     raise RuntimeError(f"Не вдалося прочитати Excel '{file_path}': {last_err}")
 
 def _norm(text: Optional[str]) -> str:
-    if not text:
+    if not text or pd.isna(text):
         return ""
     t = str(text).strip().lower()
+    if t in ("nan", "none", "null", ""):
+        return ""
     return re.sub(r"\s+", " ", t)
 
+def _safe_str(val) -> str:
+    """Безпечно конвертувати значення в рядок, обробляючи NaN"""
+    if pd.isna(val):
+        return ""
+    s = str(val).strip()
+    if s.lower() in ("nan", "none", "null"):
+        return ""
+    return s
+
 def load_excel_categories(file_path: str) -> Tuple[
-    Dict[str, Dict[str, Optional[str]]],  # portal_id -> {name, parentId}
-    Dict[str, str]                         # normalized_name -> portal_id
+    Dict[str, Dict[str, Optional[str]]],
+    Dict[str, str]
 ]:
     if not os.path.exists(file_path):
         raise FileNotFoundError(file_path)
@@ -73,19 +85,26 @@ def load_excel_categories(file_path: str) -> Tuple[
     name_index: Dict[str, str] = {}
 
     for _, row in df.iterrows():
-        cid = str(row.get("Идентификатор_подраздела", "")).strip()
+        cid = _safe_str(row.get("Идентификатор_подраздела", ""))
         if not cid:
             continue
-        level4 = row.get("Категория4")
-        level3 = row.get("Категория3")
-        level2 = row.get("Категория2")
-        level1 = row.get("Категория1")
-        name_source = level4 or level3 or level2 or level1 or ""
-        name = str(name_source).strip() or "Невідома категорія"
+        
+        # Читаємо всі рівні категорій
+        level4 = _safe_str(row.get("Категория4", ""))
+        level3 = _safe_str(row.get("Категория3", ""))
+        level2 = _safe_str(row.get("Категория2", ""))
+        level1 = _safe_str(row.get("Категория1", ""))
+        
+        # Вибираємо найглибшу назву
+        name = level4 or level3 or level2 or level1 or f"Категорія {cid}"
+        
+        # Пропускаємо, якщо назва порожня або NaN
+        if not name or name.lower() in ("nan", "none", "null"):
+            name = f"Категорія {cid}"
 
         tree[cid] = {"name": name, "parentId": None}
 
-        # індексуємо всі рівні назв
+        # Індексуємо всі рівні назв
         for candidate in (level1, level2, level3, level4, name):
             nn = _norm(candidate)
             if nn and nn not in name_index:
@@ -120,7 +139,7 @@ def sanitize_offer(elem: etree._Element) -> etree._Element:
 
 # --------------- Feed categories parse ---------------
 
-FeedCat = Dict[str, Dict[str, Optional[str]]]  # id -> {name, parentId}
+FeedCat = Dict[str, Dict[str, Optional[str]]]
 
 def parse_feed_categories(xml_bytes: bytes) -> FeedCat:
     cats: FeedCat = {}
@@ -134,7 +153,8 @@ def parse_feed_categories(xml_bytes: bytes) -> FeedCat:
             parent_id = node.get("parentId")
             parent_id = parent_id.strip() if parent_id else None
             name = (node.text or "").strip()
-            cats[cid] = {"name": name, "parentId": parent_id}
+            if name and name.lower() not in ("nan", "none", "null"):
+                cats[cid] = {"name": name, "parentId": parent_id}
     except Exception:
         pass
     return cats
@@ -147,18 +167,14 @@ def resolve_category(
     excel_name_index: Dict[str, str],
     excel_tree: Dict[str, Dict[str, Optional[str]]],
 ) -> Tuple[str, bool]:
-    """Повертає (mapped_id, is_excel)."""
-    # 1) Якщо вже відповідає Excel id
     if original_id in excel_tree:
         return original_id, True
 
-    # 2) Якщо відома назва у фіді — шукаємо її в Excel за normalized name
     name = feed_cats.get(original_id, {}).get("name", "")
     nn = _norm(name)
     if nn and nn in excel_name_index:
         return excel_name_index[nn], True
 
-    # 3) Fallback: залишаємо feed-id
     return original_id, False
 
 def iter_offers(
@@ -170,7 +186,6 @@ def iter_offers(
     global_feed_categories: FeedCat,
 ) -> Iterable[str]:
     local_feed_cats = parse_feed_categories(xml_bytes)
-    # мерджимо локальні у глобальні
     for k, v in local_feed_cats.items():
         if k not in global_feed_categories:
             global_feed_categories[k] = v
@@ -200,12 +215,20 @@ def iter_offers(
                 clean_url = url_elem.text.strip().split("?")[0]
                 url_elem.text = f"{clean_url}?id={unique_code}"
 
+            # Обробка категорії
             cat_elem = elem.find("categoryId")
-            if cat_elem is not None and cat_elem.text:
+            if cat_elem is not None and cat_elem.text and cat_elem.text.strip():
                 orig = cat_elem.text.strip()
                 mapped_id, is_excel = resolve_category(orig, global_feed_categories, excel_name_index, excel_tree)
                 cat_elem.text = mapped_id
                 used_category_ids.add(mapped_id)
+            else:
+                # Товар без категорії - ставимо дефолтну
+                if cat_elem is None:
+                    cat_elem = etree.Element("categoryId")
+                    elem.insert(0, cat_elem)
+                cat_elem.text = DEFAULT_CATEGORY_ID
+                used_category_ids.add(DEFAULT_CATEGORY_ID)
 
             yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
             elem.clear()
@@ -275,19 +298,28 @@ def build_categories_for_output(
     excel_tree: Dict[str, Dict[str, Optional[str]]],
     global_feed_categories: FeedCat,
 ) -> Dict[str, Dict[str, Optional[str]]]:
-    """ГАРАНТОВАНО додаємо ВСІ використані categoryId."""
+    """ТІЛЬКИ використані categoryId"""
     out: Dict[str, Dict[str, Optional[str]]] = {}
     
     for cid in set(used_ids):
+        # Дефолтна категорія для товарів без категорії
+        if cid == DEFAULT_CATEGORY_ID:
+            out[cid] = {"name": DEFAULT_CATEGORY_NAME, "parentId": None}
+            continue
+            
         if cid in excel_tree:
-            # з Excel
-            out[cid] = {"name": excel_tree[cid]["name"], "parentId": None}
+            name = excel_tree[cid]["name"]
+            # Валідація назви
+            if not name or name.lower() in ("nan", "none", "null"):
+                name = f"Категорія {cid}"
+            out[cid] = {"name": name, "parentId": None}
         elif cid in global_feed_categories:
-            # з фіду
             node = global_feed_categories[cid]
-            out[cid] = {"name": node.get("name") or f"Категорія {cid}", "parentId": node.get("parentId")}
+            name = node.get("name") or f"Категорія {cid}"
+            if name.lower() in ("nan", "none", "null"):
+                name = f"Категорія {cid}"
+            out[cid] = {"name": name, "parentId": node.get("parentId")}
         else:
-            # дефолт для невідомих
             out[cid] = {"name": f"Категорія {cid}", "parentId": None}
     
     return out
@@ -398,7 +430,7 @@ def main() -> None:
     print("\n📊 Підсумок:")
     print(f"🔹 Всього фідів: {len(urls)}")
     print(f"📦 Загальна кількість товарів: {len(all_offers)}")
-    print(f"📁 Унікальних категорій (в offers): {len(used_category_ids)}")
+    print(f"📁 Унікальних категорій (використано): {len(used_category_ids)}")
 
     save_split_yml(all_offers, used_category_ids, excel_tree, global_feed_categories, prefix="all")
     print("\n✅ Всі файли згенеровані та готові до імпорту!")
