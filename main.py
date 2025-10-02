@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Повний робочий yml.generator з виправленням дублікатів
+ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями
 """
 
 import os
@@ -107,15 +107,30 @@ def load_prom_categories() -> Dict[str, str]:
             df = pd.read_excel("prom_categories.xlsx")
             categories = {}
             for _, row in df.iterrows():
-                if pd.notna(row.get('id')) and pd.notna(row.get('name')):
-                    categories[str(int(row['id']))] = str(row['name'])
+                # Перевіряємо різні можливі назви колонок
+                id_col = None
+                name_col = None
+                
+                for col in df.columns:
+                    if 'id' in col.lower():
+                        id_col = col
+                    if 'name' in col.lower() or 'назва' in col.lower():
+                        name_col = col
+                
+                if id_col and name_col and pd.notna(row.get(id_col)) and pd.notna(row.get(name_col)):
+                    categories[str(int(row[id_col]))] = str(row[name_col])
+            
             print(f"📋 Завантажено {len(categories)} категорій з prom_categories.xlsx")
+            if len(categories) == 0:
+                print("⚠️ Категорії не знайдено в Excel файлі, перевірте назви колонок")
+                print(f"Доступні колонки: {list(df.columns)}")
             return categories
         else:
             print("⚠️ Файл prom_categories.xlsx не знайдено, використовуємо категорії з XML")
             return {}
     except Exception as e:
         print(f"❌ Помилка завантаження prom_categories.xlsx: {e}")
+        print(f"Деталі помилки: {str(e)}")
         return {}
 
 def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[List[Dict[str, any]], Dict[str, any]]:
@@ -354,7 +369,14 @@ async def process_feeds():
         
         # Розділяємо на 3 файли
         total_products = len(all_products)
+        
+        # Підраховуємо доступні/відсутні товари
+        available_products = sum(1 for p in all_products if p.get("presence", False))
+        unavailable_products = total_products - available_products
+        
         print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
+        print(f"✅ Доступних товарів: {available_products} ({available_products/total_products*100:.1f}%)")
+        print(f"❌ Відсутніх товарів: {unavailable_products} ({unavailable_products/total_products*100:.1f}%)")
         
         if total_products == 0:
             print("❌ Немає товарів для обробки")
