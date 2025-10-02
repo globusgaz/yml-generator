@@ -130,6 +130,16 @@ def parse_xml_content(content: bytes) -> Tuple[List[Dict[str, any]], Dict[str, a
                 if not product_id:
                     continue
                 
+                # Додаємо префікс до ID
+                if not product_id.startswith(("f3_", "f4_", "f7_")):
+                    # Визначаємо префікс на основі URL або інших критеріїв
+                    if "dropshipping" in str(offer):
+                        product_id = f"f3_{product_id}"
+                    elif "api" in str(offer):
+                        product_id = f"f4_{product_id}"
+                    else:
+                        product_id = f"f7_{product_id}"
+                
                 # Основна інформація
                 name_elem = offer.find("name")
                 name = sanitize_text(name_elem.text) if name_elem is not None and name_elem.text else ""
