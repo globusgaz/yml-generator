@@ -327,12 +327,17 @@ async def process_feeds():
             print("❌ Немає товарів для обробки")
             return
         
-        # Створюємо YML файли
-        batch_count = (total_products + BATCH_SIZE - 1) // BATCH_SIZE
+        # Створюємо 3 YML файли (не більше!)
+        batch_count = min(3, (total_products + BATCH_SIZE - 1) // BATCH_SIZE)
+        products_per_file = total_products // batch_count
         
         for i in range(batch_count):
-            start_idx = i * BATCH_SIZE
-            end_idx = min((i + 1) * BATCH_SIZE, total_products)
+            start_idx = i * products_per_file
+            if i == batch_count - 1:  # Останній файл отримує всі залишкові товари
+                end_idx = total_products
+            else:
+                end_idx = (i + 1) * products_per_file
+            
             batch_products = all_products[start_idx:end_idx]
             
             filename = os.path.join(OUTPUT_DIR, f"all_{i + 1}.yml")
