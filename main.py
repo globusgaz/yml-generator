@@ -409,57 +409,59 @@ async def upload_to_github():
     try:
         print("\n🚀 Завантажую файли в GitHub...")
         
-        # Перевіряємо чи є git репозиторій
-        if not os.path.exists(".git"):
-            print("❌ Не знайдено git репозиторій")
-            return
-        
-        # Git команди
         import subprocess
         
-        # Скасовуємо rebase якщо активний
-        try:
-            subprocess.run(["git", "rebase", "--abort"], check=False)
-        except:
-            pass
-        
-        # Перевіряємо статус git
+        # 1. Перевіряємо Git статус
         try:
             result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
             if result.returncode != 0:
                 print("❌ Git репозиторій не ініціалізований")
                 return
-        except:
-            print("❌ Git не знайдено")
+        except Exception as e:
+            print(f"❌ Git не знайдено: {e}")
             return
         
-        # Додаємо файли
-        subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
-        
-        # Перевіряємо чи є зміни для коміту
+        # 2. Додаємо файли
         try:
-            result = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
-            if result.returncode == 0:
+            subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
+            print("✅ Файли додані до git")
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Помилка git add: {e}")
+            return
+        
+        # 3. Перевіряємо чи є зміни
+        try:
+            result = subprocess.run(["git", "diff", "--cached", "--name-only"], capture_output=True, text=True)
+            if not result.stdout.strip():
                 print("ℹ️ Немає змін для коміту")
                 return
         except:
             pass
         
-        # Комітимо
-        subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+        # 4. Комітимо БЕЗ check=True
+        try:
+            result = subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], 
+                                  capture_output=True, text=True)
+            if result.returncode == 0:
+                print("✅ Коміт створено")
+            else:
+                print(f"⚠️ Коміт не створився: {result.stderr}")
+                # Спробуємо push все одно
+        except Exception as e:
+            print(f"⚠️ Помилка коміту: {e}")
         
-        # Пушимо
-        subprocess.run(["git", "push", "origin", "main"], check=True)
+        # 5. Пушимо
+        try:
+            result = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
+            if result.returncode == 0:
+                print("✅ Файли успішно завантажено в GitHub!")
+            else:
+                print(f"⚠️ Push не спрацював: {result.stderr}")
+        except Exception as e:
+            print(f"⚠️ Помилка push: {e}")
         
-        print("✅ Файли успішно завантажено в GitHub!")
-        
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Помилка git: {e}")
-        print("💡 Спробуйте налаштувати git config:")
-        print("   git config user.name 'Your Name'")
-        print("   git config user.email 'your@email.com'")
     except Exception as e:
-        print(f"❌ Помилка завантаження в GitHub: {e}")
+        print(f"❌ Загальна помилка: {e}")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
