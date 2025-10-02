@@ -15,6 +15,8 @@ import aiohttp
 from aiohttp import ClientError
 import pandas as pd
 from lxml import etree
+import subprocess
+import shutil
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
@@ -345,6 +347,39 @@ async def process_feeds():
         
         print(f"\n🎉 Генерація завершена! Створено {batch_count} YML файлів")
         print(f"📁 Файли збережено в: {OUTPUT_DIR}/")
+        
+        # Завантажуємо файли в GitHub
+        await upload_to_github()
+
+async def upload_to_github():
+    """Завантажує YML файли в GitHub репозиторій"""
+    try:
+        print("\n🚀 Завантажую файли в GitHub...")
+        
+        # Перевіряємо чи є git репозиторій
+        if not os.path.exists(".git"):
+            print("❌ Не знайдено git репозиторій")
+            return
+        
+        # Додаємо файли до git
+        for i in range(1, 4):
+            filename = os.path.join(OUTPUT_DIR, f"all_{i}.yml")
+            if os.path.exists(filename):
+                # Копіюємо файл в корінь репозиторію
+                shutil.copy2(filename, f"all_{i}.yml")
+                print(f"📋 Скопійовано: all_{i}.yml")
+        
+        # Git команди
+        subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
+        subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        
+        print("✅ Файли успішно завантажено в GitHub!")
+        
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Помилка git: {e}")
+    except Exception as e:
+        print(f"❌ Помилка завантаження в GitHub: {e}")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
