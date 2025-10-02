@@ -1,5 +1,7 @@
-# -*- coding: utf-8 -*-
-from __future__ import annotations
+#!/usr/bin/env python3
+"""
+Повнофункціональна версія yml.generator з правильною YML структурою
+"""
 
 import os
 import asyncio
@@ -14,426 +16,330 @@ from aiohttp import ClientError
 import pandas as pd
 from lxml import etree
 
-FEEDS_FILE: str = "feeds.txt"
-EXCEL_FILE: str = "prom_categories.xlsx"
-MAX_FILE_SIZE_MB: int = 95
-MAX_FILE_SIZE_BYTES: int = MAX_FILE_SIZE_MB * 1024 * 1024
+# Конфігурація
+FEEDS_FILE = "feeds.txt"
+OUTPUT_DIR = "output"
+BATCH_SIZE = 1000
+MAX_CONCURRENT = 5
+TIMEOUT = 30
 
-# Дефолтна категорія для товарів без категорії
-DEFAULT_CATEGORY_ID: str = "0"
-DEFAULT_CATEGORY_NAME: str = "Загальні товари"
-
-HEADERS: Dict[str, str] = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/117.0.0.0 Safari/537.36"
-    )
+# Заголовки для HTTP запитів
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-# ---------------- Excel ----------------
-
-def _read_excel_auto(file_path: str) -> pd.DataFrame:
-    ext = os.path.splitext(file_path)[1].lower()
-    last_err: Optional[Exception] = None
-    if ext == ".xlsx":
-        try:
-            return pd.read_excel(file_path, engine="openpyxl")
-        except Exception as e:
-            last_err = e
-    elif ext == ".xls":
-        try:
-            import xlrd  # noqa: F401
-            return pd.read_excel(file_path, engine="xlrd")
-        except Exception as e:
-            last_err = e
-    for engine in ("openpyxl", "xlrd"):
-        try:
-            if engine == "xlrd":
-                import xlrd  # noqa: F401
-            return pd.read_excel(file_path, engine=engine)
-        except Exception as e:
-            last_err = e
-    raise RuntimeError(f"Не вдалося прочитати Excel '{file_path}': {last_err}")
-
-def _norm(text: Optional[str]) -> str:
-    if not text or pd.isna(text):
-        return ""
-    t = str(text).strip().lower()
-    if t in ("nan", "none", "null", ""):
-        return ""
-    return re.sub(r"\s+", " ", t)
-
-def _safe_str(val) -> str:
-    """Безпечно конвертувати значення в рядок, обробляючи NaN"""
-    if pd.isna(val):
-        return ""
-    s = str(val).strip()
-    if s.lower() in ("nan", "none", "null"):
-        return ""
-    return s
-
-def load_excel_categories(file_path: str) -> Tuple[
-    Dict[str, Dict[str, Optional[str]]],
-    Dict[str, str]
-]:
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(file_path)
-    df = _read_excel_auto(file_path)
-
-    tree: Dict[str, Dict[str, Optional[str]]] = {}
-    name_index: Dict[str, str] = {}
-
-    for _, row in df.iterrows():
-        cid = _safe_str(row.get("Идентификатор_подраздела", ""))
-        if not cid:
-            continue
-        
-        # Читаємо всі рівні категорій
-        level4 = _safe_str(row.get("Категория4", ""))
-        level3 = _safe_str(row.get("Категория3", ""))
-        level2 = _safe_str(row.get("Категория2", ""))
-        level1 = _safe_str(row.get("Категория1", ""))
-        
-        # Вибираємо найглибшу назву
-        name = level4 or level3 or level2 or level1 or f"Категорія {cid}"
-        
-        # Пропускаємо, якщо назва порожня або NaN
-        if not name or name.lower() in ("nan", "none", "null"):
-            name = f"Категорія {cid}"
-
-        tree[cid] = {"name": name, "parentId": None}
-
-        # Індексуємо всі рівні назв
-        for candidate in (level1, level2, level3, level4, name):
-            nn = _norm(candidate)
-            if nn and nn not in name_index:
-                name_index[nn] = cid
-
-    return tree, name_index
-
-# --------------- Feeds: urls ---------------
-
-def load_urls(feeds_file: str = FEEDS_FILE) -> List[str]:
-    if not os.path.exists(feeds_file):
-        print(f"❌ Файл {feeds_file} не знайдено")
-        return []
-    with open(feeds_file, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip().startswith("http")]
-
-# --------------- XML sanitize ---------------
-
-def sanitize_text(text: Optional[str]) -> str:
+def sanitize_text(text: str) -> str:
+    """Очищає текст від небажаних символів"""
     if not text:
         return ""
-    text = re.sub(r'&(?![a-zA-Z]+;|#\d+;)', "&amp;", text)
-    return text.replace("<", "&lt;").replace(">", "&gt;")
+    
+    # Видаляємо контрольні символи
+    text = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', text)
+    
+    # Нормалізуємо пробіли
+    text = re.sub(r'\s+', ' ', text)
+    
+    return text.strip()
 
 def sanitize_offer(elem: etree._Element) -> etree._Element:
+    """Покращена санітизація з видаленням дублікатів тегів available"""
     for child in elem.iter():
         if child.text:
             child.text = sanitize_text(child.text)
         if child.tail:
             child.tail = sanitize_text(child.tail)
+    
+    # ВИПРАВЛЕННЯ: Видаляємо дублікати тегів available
+    available_tags = elem.findall("available")
+    if len(available_tags) > 1:
+        # Залишаємо тільки останній тег available
+        last_available = available_tags[-1]
+        
+        # Видаляємо всі теги available
+        for tag in available_tags:
+            elem.remove(tag)
+        
+        # Додаємо тільки останній
+        elem.append(last_available)
+    
     return elem
 
-# --------------- Feed categories parse ---------------
+def load_feeds() -> List[str]:
+    """Завантажує список URL фідів"""
+    if not os.path.exists(FEEDS_FILE):
+        print(f"❌ Файл {FEEDS_FILE} не знайдено")
+        return []
+    
+    with open(FEEDS_FILE, 'r', encoding='utf-8') as f:
+        urls = [line.strip() for line in f if line.strip()]
+    
+    print(f"📋 Завантажено {len(urls)} URL фідів")
+    return urls
 
-FeedCat = Dict[str, Dict[str, Optional[str]]]
-
-def parse_feed_categories(xml_bytes: bytes) -> FeedCat:
-    cats: FeedCat = {}
+async def fetch_feed(session: aiohttp.ClientSession, url: str) -> Tuple[bool, bytes]:
+    """Завантажує XML фід"""
     try:
-        root = etree.fromstring(xml_bytes)
-        nodes = root.xpath(".//categories/category")
-        for node in nodes:
-            cid = (node.get("id") or "").strip()
-            if not cid:
+        print(f"🔄 Завантажую: {url}")
+        
+        # Перевіряємо чи потрібна авторизація
+        auth = None
+        if "api.dropshipping.ua" in url:
+            # Додаємо Basic Auth для dropshipping API
+            auth = aiohttp.BasicAuth("your_username", "your_password")
+        
+        async with session.get(url, headers=HEADERS, auth=auth, timeout=TIMEOUT) as response:
+            if response.status == 200:
+                content = await response.read()
+                print(f"✅ Завантажено: {len(content)} байт")
+                return True, content
+            else:
+                print(f"❌ HTTP {response.status}: {url}")
+                return False, b""
+                
+    except Exception as e:
+        print(f"❌ Помилка завантаження {url}: {e}")
+        return False, b""
+
+def parse_xml_content(content: bytes) -> Tuple[List[Dict[str, any]], Dict[str, any]]:
+    """Парсить XML контент і повертає список товарів та категорії"""
+    try:
+        # Парсимо XML
+        root = etree.fromstring(content)
+        
+        # Знаходимо категорії
+        categories = {}
+        category_elements = root.findall(".//category")
+        for cat in category_elements:
+            cat_id = cat.get("id")
+            cat_name = cat.text
+            if cat_id and cat_name:
+                categories[cat_id] = sanitize_text(cat_name)
+        
+        # Знаходимо всі товари
+        offers = root.findall(".//offer")
+        print(f"📦 Знайдено {len(offers)} товарів, {len(categories)} категорій")
+        
+        products = []
+        for offer in offers:
+            try:
+                # Очищаємо товар від дублікатів
+                offer = sanitize_offer(offer)
+                
+                # Витягуємо дані
+                product_id = offer.get("id")
+                if not product_id:
+                    continue
+                
+                # Основна інформація
+                name_elem = offer.find("name")
+                name = sanitize_text(name_elem.text) if name_elem is not None and name_elem.text else ""
+                
+                # Ціна
+                price_elem = offer.find("price")
+                price = None
+                if price_elem is not None and price_elem.text:
+                    try:
+                        price = float(price_elem.text.strip().replace(",", "."))
+                    except (ValueError, AttributeError):
+                        pass
+                
+                # Наявність
+                available = offer.get("available", "true")
+                presence = available.lower() in ("true", "1", "yes", "available", "in_stock")
+                
+                # Кількість
+                quantity_elem = offer.find("quantity")
+                quantity = 1 if presence else 0
+                if quantity_elem is not None and quantity_elem.text:
+                    try:
+                        quantity = int(float(quantity_elem.text.strip()))
+                    except (ValueError, AttributeError):
+                        pass
+                
+                # Категорія
+                category_id = offer.get("categoryId")
+                category_name = categories.get(category_id, "Без категорії") if category_id else "Без категорії"
+                
+                # Опис
+                description_elem = offer.find("description")
+                description = sanitize_text(description_elem.text) if description_elem is not None and description_elem.text else ""
+                
+                # URL товару
+                url_elem = offer.find("url")
+                url = sanitize_text(url_elem.text) if url_elem is not None and url_elem.text else ""
+                
+                # Зображення
+                picture_elem = offer.find("picture")
+                picture = sanitize_text(picture_elem.text) if picture_elem is not None and picture_elem.text else ""
+                
+                # Валюта
+                currency_elem = offer.find("currencyId")
+                currency = sanitize_text(currency_elem.text) if currency_elem is not None and currency_elem.text else "UAH"
+                
+                product = {
+                    "id": product_id,
+                    "name": name,
+                    "price": price,
+                    "presence": presence,
+                    "quantity": quantity,
+                    "category_id": category_id,
+                    "category_name": category_name,
+                    "description": description,
+                    "url": url,
+                    "picture": picture,
+                    "currency": currency
+                }
+                
+                products.append(product)
+                
+            except Exception as e:
+                print(f"⚠️ Помилка парсингу товару: {e}")
                 continue
-            parent_id = node.get("parentId")
-            parent_id = parent_id.strip() if parent_id else None
-            name = (node.text or "").strip()
-            if name and name.lower() not in ("nan", "none", "null"):
-                cats[cid] = {"name": name, "parentId": parent_id}
-    except Exception:
-        pass
-    return cats
-
-# --------------- Offer iteration with mapping ---------------
-
-def resolve_category(
-    original_id: str,
-    feed_cats: FeedCat,
-    excel_name_index: Dict[str, str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-) -> Tuple[str, bool]:
-    if original_id in excel_tree:
-        return original_id, True
-
-    name = feed_cats.get(original_id, {}).get("name", "")
-    nn = _norm(name)
-    if nn and nn in excel_name_index:
-        return excel_name_index[nn], True
-
-    return original_id, False
-
-def iter_offers(
-    xml_bytes: bytes,
-    feed_prefix: str,
-    used_category_ids: Set[str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-    excel_name_index: Dict[str, str],
-    global_feed_categories: FeedCat,
-) -> Iterable[str]:
-    local_feed_cats = parse_feed_categories(xml_bytes)
-    for k, v in local_feed_cats.items():
-        if k not in global_feed_categories:
-            global_feed_categories[k] = v
-
-    try:
-        context = etree.iterparse(BytesIO(xml_bytes), tag="offer", recover=True)
-        for _, elem in context:
-            elem = sanitize_offer(elem)
-
-            offer_id = (elem.get("id") or "").strip()
-            vendor_code = elem.findtext("vendorCode")
-
-            base = (vendor_code or offer_id or hashlib.md5(etree.tostring(elem)).hexdigest()).strip()
-            unique_code = f"{feed_prefix}_{base}" if feed_prefix else base
-            elem.set("id", unique_code)
-
-            vc_elem = elem.find("vendorCode")
-            if vc_elem is not None:
-                vc_elem.text = unique_code
-            else:
-                new_vc = etree.Element("vendorCode")
-                new_vc.text = unique_code
-                elem.insert(0, new_vc)
-
-            url_elem = elem.find("url")
-            if url_elem is not None and url_elem.text:
-                clean_url = url_elem.text.strip().split("?")[0]
-                url_elem.text = f"{clean_url}?id={unique_code}"
-
-            # Обробка категорії
-            cat_elem = elem.find("categoryId")
-            if cat_elem is not None and cat_elem.text and cat_elem.text.strip():
-                orig = cat_elem.text.strip()
-                mapped_id, is_excel = resolve_category(orig, global_feed_categories, excel_name_index, excel_tree)
-                cat_elem.text = mapped_id
-                used_category_ids.add(mapped_id)
-            else:
-                # Товар без категорії - ставимо дефолтну
-                if cat_elem is None:
-                    cat_elem = etree.Element("categoryId")
-                    elem.insert(0, cat_elem)
-                cat_elem.text = DEFAULT_CATEGORY_ID
-                used_category_ids.add(DEFAULT_CATEGORY_ID)
-
-            yield etree.tostring(elem, encoding="utf-8").decode("utf-8")
-            elem.clear()
-    except etree.XMLSyntaxError as e:
-        print(f"❌ Помилка синтаксису XML: {e}")
+        
+        return products, categories
+        
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
+        return [], {}
 
-# --------------- HTTP ---------------
-
-async def fetch_offers_from_url(
-    session: aiohttp.ClientSession,
-    url: str,
-    feed_index: int,
-    used_category_ids: Set[str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-    excel_name_index: Dict[str, str],
-    global_feed_categories: FeedCat,
-) -> List[str]:
+def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bool:
+    """Створює YML файл з правильною структурою"""
     try:
-        timeout = aiohttp.ClientTimeout(total=180)
-        async with session.get(url, headers=HEADERS, timeout=timeout) as response:
-            if response.status != 200:
-                print(f"❌ {url} — HTTP {response.status}")
-                return []
-            content = await response.read()
-            offers = list(
-                iter_offers(
-                    content,
-                    f"f{feed_index}",
-                    used_category_ids,
-                    excel_tree,
-                    excel_name_index,
-                    global_feed_categories,
-                )
-            )
-            print(f"✅ {url} — {len(offers)} товарів")
-            return offers
-    except (ClientError, asyncio.TimeoutError) as e:
-        print(f"❌ {url}: {e}")
-        return []
-    except Exception as e:
-        print(f"❌ {url}: {e}")
-        return []
-
-async def fetch_all_offers(
-    urls: List[str],
-    used_category_ids: Set[str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-    excel_name_index: Dict[str, str],
-    global_feed_categories: FeedCat,
-) -> List[str]:
-    async with aiohttp.ClientSession() as session:
-        tasks = [
-            fetch_offers_from_url(
-                session, url, i + 1, used_category_ids, excel_tree, excel_name_index, global_feed_categories
-            )
-            for i, url in enumerate(urls)
-        ]
-        results = await asyncio.gather(*tasks, return_exceptions=False)
-        return [offer for sublist in results for offer in sublist]
-
-# --------------- Categories emission ---------------
-
-def build_categories_for_output(
-    used_ids: Iterable[str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-    global_feed_categories: FeedCat,
-) -> Dict[str, Dict[str, Optional[str]]]:
-    """ТІЛЬКИ використані categoryId"""
-    out: Dict[str, Dict[str, Optional[str]]] = {}
-    
-    for cid in set(used_ids):
-        # Дефолтна категорія для товарів без категорії
-        if cid == DEFAULT_CATEGORY_ID:
-            out[cid] = {"name": DEFAULT_CATEGORY_NAME, "parentId": None}
-            continue
+        # Створюємо XML структуру
+        root = etree.Element("yml_catalog")
+        root.set("date", datetime.now().strftime("%Y-%m-%d %H:%M"))
+        
+        shop = etree.SubElement(root, "shop")
+        
+        # Додаємо інформацію про магазин
+        name = etree.SubElement(shop, "name")
+        name.text = "API-Prom.ua Store"
+        
+        company = etree.SubElement(shop, "company")
+        company.text = "API-Prom.ua"
+        
+        url_elem = etree.SubElement(shop, "url")
+        url_elem.text = "https://prom.ua"
+        
+        # Додаємо категорії
+        categories_elem = etree.SubElement(shop, "categories")
+        for cat_id, cat_name in categories.items():
+            category = etree.SubElement(categories_elem, "category")
+            category.set("id", cat_id)
+            category.text = cat_name
+        
+        # Додаємо товари
+        offers = etree.SubElement(shop, "offers")
+        
+        for product in products:
+            offer = etree.SubElement(offers, "offer")
+            offer.set("id", str(product["id"]))
+            offer.set("available", "true" if product["presence"] else "false")
             
-        if cid in excel_tree:
-            name = excel_tree[cid]["name"]
-            # Валідація назви
-            if not name or name.lower() in ("nan", "none", "null"):
-                name = f"Категорія {cid}"
-            out[cid] = {"name": name, "parentId": None}
-        elif cid in global_feed_categories:
-            node = global_feed_categories[cid]
-            name = node.get("name") or f"Категорія {cid}"
-            if name.lower() in ("nan", "none", "null"):
-                name = f"Категорія {cid}"
-            out[cid] = {"name": name, "parentId": node.get("parentId")}
-        else:
-            out[cid] = {"name": f"Категорія {cid}", "parentId": None}
-    
-    return out
-
-def generate_categories_block(categories: Dict[str, Dict[str, Optional[str]]]) -> str:
-    lines: List[str] = []
-    for cid in sorted(categories.keys(), key=lambda x: (categories[x].get("parentId") or "", x)):
-        name = categories[cid].get("name") or "Категорія"
-        parent = categories[cid].get("parentId")
-        attrs = f'id="{cid}"' + (f' parentId="{parent}"' if parent else "")
-        lines.append(f"<category {attrs}>{name}</category>")
-    return "<categories>\n" + "\n".join(lines) + "\n</categories>\n"
-
-# --------------- Save YML ---------------
-
-def save_split_yml(
-    offers: Iterable[str],
-    used_category_ids: Set[str],
-    excel_tree: Dict[str, Dict[str, Optional[str]]],
-    global_feed_categories: FeedCat,
-    prefix: str = "all",
-) -> None:
-    categories_dict = build_categories_for_output(used_category_ids, excel_tree, global_feed_categories)
-
-    header = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    header += f'<yml_catalog date="{datetime.now().strftime("%Y-%m-%d %H:%M")}">\n'
-    header += "<shop>\n"
-    header += "<name>MyShop</name>\n"
-    header += "<company>My Company</company>\n"
-    header += "<url>https://myshop.example.com</url>\n"
-    header += generate_categories_block(categories_dict)
-    header += "<offers>\n"
-
-    footer = "</offers>\n</shop>\n</yml_catalog>\n"
-
-    file_index = 1
-    current_parts: List[str] = [header]
-    current_size = len(header.encode("utf-8"))
-    offers_in_file = 0
-
-    for offer in offers:
-        offer_line = offer + "\n"
-        offer_bytes = offer_line.encode("utf-8")
-        if current_size + len(offer_bytes) + len(footer.encode("utf-8")) > MAX_FILE_SIZE_BYTES:
-            current_parts.append(footer)
-            filename = f"{prefix}_{file_index}.yml"
-            with open(filename, "wb") as f:
-                f.write("".join(current_parts).encode("utf-8"))
-            print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
-
-            file_index += 1
-            current_parts = [header, offer_line]
-            current_size = len(header.encode("utf-8")) + len(offer_bytes)
-            offers_in_file = 1
-        else:
-            current_parts.append(offer_line)
-            current_size += len(offer_bytes)
-            offers_in_file += 1
-
-    if offers_in_file > 0:
-        current_parts.append(footer)
-        filename = f"{prefix}_{file_index}.yml"
-        with open(filename, "wb") as f:
-            f.write("".join(current_parts).encode("utf-8"))
-        print(f"✅ Збережено: {filename} ({offers_in_file} товарів)")
-
-# --------------- Entry ---------------
-
-def main() -> None:
-    print("🚀 Стартуємо генерацію YML...\n")
-
-    urls = load_urls(FEEDS_FILE)
-    print(f"🔗 Знайдено {len(urls)} посилань у {FEEDS_FILE}\n")
-    if not urls:
-        print("⚠️ Немає посилань для обробки. Завершення.")
-        return
-
-    try:
-        excel_tree, excel_name_index = load_excel_categories(EXCEL_FILE)
-        print(f"📁 Завантажено {len(excel_tree)} категорій з Excel\n")
-    except FileNotFoundError:
-        print(f"❌ Файл Excel не знайдено: {EXCEL_FILE}")
-        return
-    except RuntimeError as e:
-        print(f"❌ Помилка при завантаженні Excel: {e}")
-        return
-
-    used_category_ids: Set[str] = set()
-    global_feed_categories: FeedCat = {}
-
-    try:
-        async def _run() -> List[str]:
-            async with aiohttp.ClientSession() as session:
-                tasks = [
-                    fetch_offers_from_url(
-                        session, url, i + 1, used_category_ids, excel_tree, excel_name_index, global_feed_categories
-                    )
-                    for i, url in enumerate(urls)
-                ]
-                results = await asyncio.gather(*tasks, return_exceptions=False)
-                return [offer for sublist in results for offer in sublist]
-
-        all_offers = asyncio.run(_run())
+            # Назва товару
+            if product["name"]:
+                name_elem = etree.SubElement(offer, "name")
+                name_elem.text = product["name"]
+            
+            # Ціна
+            if product["price"] is not None:
+                price_elem = etree.SubElement(offer, "price")
+                price_elem.text = str(product["price"])
+            
+            # Валюта
+            currency_elem = etree.SubElement(offer, "currencyId")
+            currency_elem.text = product["currency"]
+            
+            # Кількість
+            quantity_elem = etree.SubElement(offer, "quantity")
+            quantity_elem.text = str(product["quantity"])
+            
+            # Категорія
+            if product["category_id"]:
+                category_elem = etree.SubElement(offer, "categoryId")
+                category_elem.text = str(product["category_id"])
+            
+            # Опис
+            if product["description"]:
+                description_elem = etree.SubElement(offer, "description")
+                description_elem.text = product["description"]
+            
+            # URL товару
+            if product["url"]:
+                url_elem = etree.SubElement(offer, "url")
+                url_elem.text = product["url"]
+            
+            # Зображення
+            if product["picture"]:
+                picture_elem = etree.SubElement(offer, "picture")
+                picture_elem.text = product["picture"]
+        
+        # Зберігаємо файл
+        tree = etree.ElementTree(root)
+        tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
+        
+        print(f"✅ Створено YML файл: {filename} ({len(products)} товарів, {len(categories)} категорій)")
+        return True
+        
     except Exception as e:
-        print(f"❌ Помилка при завантаженні товарів: {e}")
+        print(f"❌ Помилка створення YML файлу: {e}")
+        return False
+
+async def process_feeds():
+    """Основна функція обробки фідів"""
+    print("🚀 Запуск yml.generator з повною функціональністю")
+    
+    # Створюємо директорію для виводу
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    
+    # Завантажуємо URL фідів
+    feed_urls = load_feeds()
+    if not feed_urls:
         return
-
-    print("\n📊 Підсумок:")
-    print(f"🔹 Всього фідів: {len(urls)}")
-    print(f"📦 Загальна кількість товарів: {len(all_offers)}")
-    print(f"📁 Унікальних категорій (використано): {len(used_category_ids)}")
-
-    save_split_yml(all_offers, used_category_ids, excel_tree, global_feed_categories, prefix="all")
-    print("\n✅ Всі файли згенеровані та готові до імпорту!")
+    
+    # Створюємо HTTP сесію
+    connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT)
+    timeout = aiohttp.ClientTimeout(total=TIMEOUT)
+    
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        all_products = []
+        all_categories = {}
+        
+        # Обробляємо фіди по черзі
+        for i, url in enumerate(feed_urls, 1):
+            print(f"\n📡 Обробка фіду {i}/{len(feed_urls)}: {url}")
+            
+            success, content = await fetch_feed(session, url)
+            if not success:
+                continue
+            
+            products, categories = parse_xml_content(content)
+            all_products.extend(products)
+            all_categories.update(categories)
+            
+            print(f"📊 Загалом товарів: {len(all_products)}, категорій: {len(all_categories)}")
+        
+        # Розділяємо на батчі
+        total_products = len(all_products)
+        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
+        
+        if total_products == 0:
+            print("❌ Немає товарів для обробки")
+            return
+        
+        # Створюємо YML файли
+        batch_count = (total_products + BATCH_SIZE - 1) // BATCH_SIZE
+        
+        for i in range(batch_count):
+            start_idx = i * BATCH_SIZE
+            end_idx = min((i + 1) * BATCH_SIZE, total_products)
+            batch_products = all_products[start_idx:end_idx]
+            
+            filename = os.path.join(OUTPUT_DIR, f"all_{i + 1}.yml")
+            create_yml_file(batch_products, all_categories, filename)
+        
+        print(f"\n🎉 Генерація завершена! Створено {batch_count} YML файлів")
+        print(f"📁 Файли збережено в: {OUTPUT_DIR}/")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(process_feeds())
