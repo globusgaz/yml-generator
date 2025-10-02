@@ -2,7 +2,7 @@ name: 🛒 Generate Prom Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Щогодини (UTC)
+    - cron: '0 */4 * * *'  # Кожні 4 години (UTC)
   workflow_dispatch:     # Можна запускати вручну
 
 permissions:
@@ -28,8 +28,9 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: 📦 Встановлюю залежності з requirements.txt
-      run: pip install -r requirements.txt
+    - name: 📦 Встановлюю залежності
+      run: |
+        pip install aiohttp lxml pandas openpyxl
 
     - name: 🚀 Генерую YML
       run: python main.py
@@ -45,6 +46,6 @@ jobs:
         git config user.email "github-actions@github.com"
 
         COMMIT_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
-        git add -A
-        git commit -m "🔄 Оновлено all.yml ($COMMIT_TIME)" --allow-empty
+        git add all_1.yml all_2.yml all_3.yml
+        git commit -m "🔄 Оновлено YML файли ($COMMIT_TIME)" --allow-empty
         git push origin HEAD:main
