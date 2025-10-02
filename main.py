@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями
+ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями та контролем розміру
 """
 
 import os
@@ -323,7 +323,17 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         tree = etree.ElementTree(root)
         tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
         
+        # ПЕРЕВІРЯЄМО РОЗМІР ФАЙЛУ
+        file_size = os.path.getsize(filename)
+        file_size_mb = file_size / (1024 * 1024)
+        
         print(f"✅ Створено YML файл: {filename} ({len(products)} товарів, {len(categories)} категорій)")
+        print(f"📏 Розмір файлу: {file_size_mb:.1f} MB")
+        
+        if file_size_mb > 95:
+            print(f"⚠️ УВАГА: Файл {filename} перевищує 95MB ({file_size_mb:.1f}MB)!")
+            print("💡 Рекомендується зменшити кількість товарів або розділити на більше файлів")
+        
         return True
         
     except Exception as e:
@@ -332,7 +342,7 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
 
 async def process_feeds():
     """Основна функція обробки фідів"""
-    print("🚀 Запуск yml.generator з виправленням дублікатів")
+    print("🚀 Запуск yml.generator з виправленням дублікатів та контролем розміру")
     
     # Створюємо директорію для виводу
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -367,14 +377,20 @@ async def process_feeds():
             
             print(f"📊 Загалом товарів: {len(all_products)}, категорій: {len(all_categories)}")
         
-        # Розділяємо на 3 файли
+        # Розділяємо на файли з урахуванням розміру 95MB
         total_products = len(all_products)
+        max_products_per_file = 15000  # Приблизно 95MB (експериментально)
+        
+        # Розраховуємо кількість файлів
+        num_files = max(3, (total_products + max_products_per_file - 1) // max_products_per_file)
+        
+        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
+        print(f"📁 Створюємо {num_files} файлів (макс. {max_products_per_file} товарів на файл)")
         
         # Підраховуємо доступні/відсутні товари
         available_products = sum(1 for p in all_products if p.get("presence", False))
         unavailable_products = total_products - available_products
         
-        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
         print(f"✅ Доступних товарів: {available_products} ({available_products/total_products*100:.1f}%)")
         print(f"❌ Відсутніх товарів: {unavailable_products} ({unavailable_products/total_products*100:.1f}%)")
         
@@ -382,86 +398,29 @@ async def process_feeds():
             print("❌ Немає товарів для обробки")
             return
         
-        # Створюємо 3 YML файли БЕЗПОСЕРЕДНЬО В КОРІНЬ РЕПОЗИТОРІЮ
-        products_per_file = total_products // 3
-        
-        for i in range(3):
-            start_idx = i * products_per_file
-            if i == 2:  # Останній файл отримує всі залишкові товари
-                end_idx = total_products
-            else:
-                end_idx = (i + 1) * products_per_file
+        # Створюємо файли з контролем розміру
+        for i in range(num_files):
+            start_idx = i * max_products_per_file
+            end_idx = min((i + 1) * max_products_per_file, total_products)
             
             batch_products = all_products[start_idx:end_idx]
-            
-            # Створюємо файли БЕЗПОСЕРЕДНЬО В КОРІНЬ РЕПОЗИТОРІЮ
             filename = f"all_{i + 1}.yml"
             create_yml_file(batch_products, all_categories, filename)
         
-        print(f"\n🎉 Генерація завершена! Створено 3 YML файли")
+        print(f"\n🎉 Генерація завершена! Створено {num_files} YML файлів")
         print(f"📁 Файли збережено в корінь репозиторію")
         
         # Завантажуємо файли в GitHub
         await upload_to_github()
 
 async def upload_to_github():
-    """Завантажує YML файли в GitHub репозиторій"""
-    try:
-        print("\n🚀 Завантажую файли в GitHub...")
-        
-        import subprocess
-        
-        # 1. Перевіряємо Git статус
-        try:
-            result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-            if result.returncode != 0:
-                print("❌ Git репозиторій не ініціалізований")
-                return
-        except Exception as e:
-            print(f"❌ Git не знайдено: {e}")
-            return
-        
-        # 2. Додаємо файли
-        try:
-            subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
-            print("✅ Файли додані до git")
-        except subprocess.CalledProcessError as e:
-            print(f"❌ Помилка git add: {e}")
-            return
-        
-        # 3. Перевіряємо чи є зміни
-        try:
-            result = subprocess.run(["git", "diff", "--cached", "--name-only"], capture_output=True, text=True)
-            if not result.stdout.strip():
-                print("ℹ️ Немає змін для коміту")
-                return
-        except:
-            pass
-        
-        # 4. Комітимо БЕЗ check=True
-        try:
-            result = subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], 
-                                  capture_output=True, text=True)
-            if result.returncode == 0:
-                print("✅ Коміт створено")
-            else:
-                print(f"⚠️ Коміт не створився: {result.stderr}")
-                # Спробуємо push все одно
-        except Exception as e:
-            print(f"⚠️ Помилка коміту: {e}")
-        
-        # 5. Пушимо
-        try:
-            result = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
-            if result.returncode == 0:
-                print("✅ Файли успішно завантажено в GitHub!")
-            else:
-                print(f"⚠️ Push не спрацював: {result.stderr}")
-        except Exception as e:
-            print(f"⚠️ Помилка push: {e}")
-        
-    except Exception as e:
-        print(f"❌ Загальна помилка: {e}")
+    """Повідомляє про створені файли"""
+    print("\n✅ YML файли створено локально:")
+    print("📁 all_1.yml - готовий для завантаження")
+    print("📁 all_2.yml - готовий для завантаження") 
+    print("📁 all_3.yml - готовий для завантаження")
+    print("\n💡 Скопіюйте вміст цих файлів в GitHub репозиторій вручну")
+    print("🔄 Або налаштуйте GitHub Actions для автоматичного оновлення")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
