@@ -49,7 +49,7 @@ def sanitize_offer(elem: etree._Element) -> etree._Element:
         if child.tail:
             child.tail = sanitize_text(child.tail)
     
-    # ВИПРАВЛЕННЯ: Видаляємо дублікати тегів available
+    # VИПРАВЛЕННЯ: Видаляємо дублікати тегів available
     available_tags = elem.findall("available")
     if len(available_tags) > 1:
         # Залишаємо тільки останній тег available
@@ -106,6 +106,11 @@ def load_prom_categories() -> Dict[str, str]:
         if os.path.exists("prom_categories.xlsx"):
             df = pd.read_excel("prom_categories.xlsx")
             categories = {}
+            
+            print(f"📊 Доступні колонки: {list(df.columns)}")
+            print(f"📊 Перші 3 рядки:")
+            print(df.head(3))
+            
             for _, row in df.iterrows():
                 # Перевіряємо різні можливі назви колонок
                 id_col = None
