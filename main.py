@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ФІНАЛЬНИЙ робочий yml.generator з завантаженням в GitHub
+ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями
 """
 
 import os
@@ -423,8 +423,27 @@ async def upload_to_github():
         except:
             pass
         
+        # Перевіряємо статус git
+        try:
+            result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+            if result.returncode != 0:
+                print("❌ Git репозиторій не ініціалізований")
+                return
+        except:
+            print("❌ Git не знайдено")
+            return
+        
         # Додаємо файли
         subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
+        
+        # Перевіряємо чи є зміни для коміту
+        try:
+            result = subprocess.run(["git", "diff", "--cached", "--quiet"], check=False)
+            if result.returncode == 0:
+                print("ℹ️ Немає змін для коміту")
+                return
+        except:
+            pass
         
         # Комітимо
         subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
