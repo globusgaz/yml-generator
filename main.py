@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Повнофункціональна версія yml.generator з правильною YML структурою
+Повний робочий yml.generator з виправленням дублікатів
 """
 
 import os
@@ -15,8 +15,6 @@ import aiohttp
 from aiohttp import ClientError
 import pandas as pd
 from lxml import etree
-import subprocess
-import shutil
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
@@ -44,7 +42,7 @@ def sanitize_text(text: str) -> str:
     return text.strip()
 
 def sanitize_offer(elem: etree._Element) -> etree._Element:
-    """Покращена санітизація з видаленням дублікатів тегів available"""
+    """Санітизація з видаленням дублікатів тегів available"""
     for child in elem.iter():
         if child.text:
             child.text = sanitize_text(child.text)
@@ -289,7 +287,7 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
 
 async def process_feeds():
     """Основна функція обробки фідів"""
-    print("🚀 Запуск yml.generator з повною функціональністю")
+    print("🚀 Запуск yml.generator з виправленням дублікатів")
     
     # Створюємо директорію для виводу
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -321,7 +319,7 @@ async def process_feeds():
             
             print(f"📊 Загалом товарів: {len(all_products)}, категорій: {len(all_categories)}")
         
-        # Розділяємо на батчі
+        # Розділяємо на 3 файли
         total_products = len(all_products)
         print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
         
@@ -329,13 +327,12 @@ async def process_feeds():
             print("❌ Немає товарів для обробки")
             return
         
-        # Створюємо 3 YML файли (не більше!)
-        batch_count = min(3, (total_products + BATCH_SIZE - 1) // BATCH_SIZE)
-        products_per_file = total_products // batch_count
+        # Створюємо 3 YML файли
+        products_per_file = total_products // 3
         
-        for i in range(batch_count):
+        for i in range(3):
             start_idx = i * products_per_file
-            if i == batch_count - 1:  # Останній файл отримує всі залишкові товари
+            if i == 2:  # Останній файл отримує всі залишкові товари
                 end_idx = total_products
             else:
                 end_idx = (i + 1) * products_per_file
@@ -345,7 +342,7 @@ async def process_feeds():
             filename = os.path.join(OUTPUT_DIR, f"all_{i + 1}.yml")
             create_yml_file(batch_products, all_categories, filename)
         
-        print(f"\n🎉 Генерація завершена! Створено {batch_count} YML файлів")
+        print(f"\n🎉 Генерація завершена! Створено 3 YML файли")
         print(f"📁 Файли збережено в: {OUTPUT_DIR}/")
         
         # Завантажуємо файли в GitHub
@@ -366,10 +363,12 @@ async def upload_to_github():
             filename = os.path.join(OUTPUT_DIR, f"all_{i}.yml")
             if os.path.exists(filename):
                 # Копіюємо файл в корінь репозиторію
+                import shutil
                 shutil.copy2(filename, f"all_{i}.yml")
                 print(f"📋 Скопійовано: all_{i}.yml")
         
         # Git команди
+        import subprocess
         subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
         subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
@@ -378,6 +377,9 @@ async def upload_to_github():
         
     except subprocess.CalledProcessError as e:
         print(f"❌ Помилка git: {e}")
+        print("💡 Спробуйте налаштувати git config:")
+        print("   git config user.name 'Your Name'")
+        print("   git config user.email 'your@email.com'")
     except Exception as e:
         print(f"❌ Помилка завантаження в GitHub: {e}")
 
