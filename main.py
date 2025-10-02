@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями
+ФІНАЛЬНИЙ робочий yml.generator з завантаженням в GitHub
 """
 
 import os
@@ -382,7 +382,7 @@ async def process_feeds():
             print("❌ Немає товарів для обробки")
             return
         
-        # Створюємо 3 YML файли
+        # Створюємо 3 YML файли БЕЗПОСЕРЕДНЬО В КОРІНЬ РЕПОЗИТОРІЮ
         products_per_file = total_products // 3
         
         for i in range(3):
@@ -394,11 +394,53 @@ async def process_feeds():
             
             batch_products = all_products[start_idx:end_idx]
             
-            filename = os.path.join(OUTPUT_DIR, f"all_{i + 1}.yml")
+            # Створюємо файли БЕЗПОСЕРЕДНЬО В КОРІНЬ РЕПОЗИТОРІЮ
+            filename = f"all_{i + 1}.yml"
             create_yml_file(batch_products, all_categories, filename)
         
         print(f"\n🎉 Генерація завершена! Створено 3 YML файли")
-        print(f"📁 Файли збережено в: {OUTPUT_DIR}/")
+        print(f"📁 Файли збережено в корінь репозиторію")
+        
+        # Завантажуємо файли в GitHub
+        await upload_to_github()
+
+async def upload_to_github():
+    """Завантажує YML файли в GitHub репозиторій"""
+    try:
+        print("\n🚀 Завантажую файли в GitHub...")
+        
+        # Перевіряємо чи є git репозиторій
+        if not os.path.exists(".git"):
+            print("❌ Не знайдено git репозиторій")
+            return
+        
+        # Git команди
+        import subprocess
+        
+        # Скасовуємо rebase якщо активний
+        try:
+            subprocess.run(["git", "rebase", "--abort"], check=False)
+        except:
+            pass
+        
+        # Додаємо файли
+        subprocess.run(["git", "add", "all_1.yml", "all_2.yml", "all_3.yml"], check=True)
+        
+        # Комітимо
+        subprocess.run(["git", "commit", "-m", f"Update YML files - {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+        
+        # Пушимо
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        
+        print("✅ Файли успішно завантажено в GitHub!")
+        
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Помилка git: {e}")
+        print("💡 Спробуйте налаштувати git config:")
+        print("   git config user.name 'Your Name'")
+        print("   git config user.email 'your@email.com'")
+    except Exception as e:
+        print(f"❌ Помилка завантаження в GitHub: {e}")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
