@@ -100,20 +100,40 @@ async def fetch_feed(session: aiohttp.ClientSession, url: str) -> Tuple[bool, by
         print(f"❌ Помилка завантаження {url}: {e}")
         return False, b""
 
-def parse_xml_content(content: bytes) -> Tuple[List[Dict[str, any]], Dict[str, any]]:
+def load_prom_categories() -> Dict[str, str]:
+    """Завантажує категорії з prom_categories.xlsx"""
+    try:
+        if os.path.exists("prom_categories.xlsx"):
+            df = pd.read_excel("prom_categories.xlsx")
+            categories = {}
+            for _, row in df.iterrows():
+                if pd.notna(row.get('id')) and pd.notna(row.get('name')):
+                    categories[str(int(row['id']))] = str(row['name'])
+            print(f"📋 Завантажено {len(categories)} категорій з prom_categories.xlsx")
+            return categories
+        else:
+            print("⚠️ Файл prom_categories.xlsx не знайдено, використовуємо категорії з XML")
+            return {}
+    except Exception as e:
+        print(f"❌ Помилка завантаження prom_categories.xlsx: {e}")
+        return {}
+
+def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[List[Dict[str, any]], Dict[str, any]]:
     """Парсить XML контент і повертає список товарів та категорії"""
     try:
         # Парсимо XML
         root = etree.fromstring(content)
         
-        # Знаходимо категорії
-        categories = {}
-        category_elements = root.findall(".//category")
-        for cat in category_elements:
-            cat_id = cat.get("id")
-            cat_name = cat.text
-            if cat_id and cat_name:
-                categories[cat_id] = sanitize_text(cat_name)
+        # Використовуємо категорії з prom_categories.xlsx або з XML
+        categories = prom_categories.copy()
+        if not categories:
+            # Знаходимо категорії з XML як fallback
+            category_elements = root.findall(".//category")
+            for cat in category_elements:
+                cat_id = cat.get("id")
+                cat_name = cat.text
+                if cat_id and cat_name:
+                    categories[cat_id] = sanitize_text(cat_name)
         
         # Знаходимо всі товари
         offers = root.findall(".//offer")
@@ -302,6 +322,9 @@ async def process_feeds():
     # Створюємо директорію для виводу
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
+    # Завантажуємо категорії з prom_categories.xlsx
+    prom_categories = load_prom_categories()
+    
     # Завантажуємо URL фідів
     feed_urls = load_feeds()
     if not feed_urls:
@@ -323,7 +346,7 @@ async def process_feeds():
             if not success:
                 continue
             
-            products, categories = parse_xml_content(content)
+            products, categories = parse_xml_content(content, prom_categories)
             all_products.extend(products)
             all_categories.update(categories)
             
