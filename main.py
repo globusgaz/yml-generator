@@ -119,10 +119,10 @@ def load_prom_categories() -> Dict[str, str]:
             
             categories = {}
             
-            print(f"📊 Доступні колонки: {list(df.columns)}")
-            print(f"📊 Розмір файлу: {df.shape[0]} рядків, {df.shape[1]} колонок")
-            
             # Використовуємо колонку F (Идентификатор_подраздела) як ID та колонку C (Категория3) як назву
+            loaded_count = 0
+            error_count = 0
+            
             for _, row in df.iterrows():
                 # ID з колонки F (Идентификатор_подраздела)
                 category_id = None
@@ -135,6 +135,7 @@ def load_prom_categories() -> Dict[str, str]:
                         try:
                             category_id = str(int(row[id_col]))
                         except (ValueError, TypeError):
+                            error_count += 1
                             continue
                 
                 # Знаходимо назву в колонці C (Категория3)
@@ -145,12 +146,12 @@ def load_prom_categories() -> Dict[str, str]:
                 
                 if category_id and category_name:
                     categories[category_id] = category_name
-                    print(f"✅ Додано категорію: {category_id} -> {category_name}")
+                    loaded_count += 1
             
-            print(f"📋 Завантажено {len(categories)} категорій з prom_categories.xlsx")
-            if len(categories) == 0:
-                print("⚠️ Категорії не знайдено в Excel файлі")
-                print(f"Доступні колонки: {list(df.columns)}")
+            # Коротка статистика категорій
+            print(f"📋 Категорії: {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
+            if loaded_count == 0:
+                print("⚠️ Категорії не знайдено - використовуємо XML як fallback")
             return categories
         else:
             print("⚠️ Файл prom_categories.xlsx не знайдено, використовуємо категорії з XML")
@@ -179,7 +180,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
         
         # Знаходимо всі товари
         offers = root.findall(".//offer")
-        print(f"📦 Знайдено {len(offers)} товарів, {len(categories)} категорій")
+        print(f"📦 Фід {feed_index}: {len(offers)} товарів, {len(categories)} категорій")
         
         products = []
         skipped_no_id = 0
@@ -276,12 +277,9 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                 print(f"⚠️ Помилка парсингу товару: {e}")
                 continue
         
-        print(f"\n📊 Статистика фільтрації фіду {feed_index}:")
-        print(f"✅ Оброблено товарів: {len(products)}")
-        print(f"❌ Пропущено без ID: {skipped_no_id}")
-        print(f"❌ Пропущено без назви: {skipped_no_name}")
-        print(f"❌ Пропущено без ціни: {skipped_no_price}")
-        print(f"📦 Загалом товарів у фіді: {len(offers)}")
+        # Коротка статистика фіду
+        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price
+        print(f"📊 Фід {feed_index}: {len(products)} оброблено, {total_skipped} пропущено")
         
         return products, categories
         
@@ -466,16 +464,13 @@ async def process_feeds():
             all_products.extend(products)
             all_categories.update(categories)
             
-            print(f"📊 Загалом товарів: {len(all_products)}, категорій: {len(all_categories)}")
-        
         # Підраховуємо статистику
         total_products = len(all_products)
         available_products = sum(1 for p in all_products if p.get("presence", False))
         unavailable_products = total_products - available_products
         
-        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
-        print(f"✅ Доступних товарів: {available_products} ({available_products/total_products*100:.1f}%)")
-        print(f"❌ Відсутніх товарів: {unavailable_products} ({unavailable_products/total_products*100:.1f}%)")
+        print(f"\n📈 Підсумок: {total_products} товарів, {len(all_categories)} категорій")
+        print(f"📊 Наявність: {available_products} доступно ({available_products/total_products*100:.1f}%), {unavailable_products} відсутніх")
         
         if total_products == 0:
             print("❌ Немає товарів для обробки")
@@ -489,8 +484,7 @@ async def process_feeds():
             filename = f"all_{i}.yml"
             create_yml_file(batch_products, all_categories, filename)
         
-        print(f"\n🎉 Генерація завершена! Створено {len(file_batches)} YML файлів")
-        print(f"📁 Файли збережено в корінь репозиторію")
+        print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
