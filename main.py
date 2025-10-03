@@ -16,7 +16,7 @@ from lxml import etree
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 95
+MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
 
@@ -374,6 +374,8 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         
         if file_size_mb > MAX_FILE_SIZE_MB:
             print(f"⚠️ УВАГА: Файл {filename} перевищує {MAX_FILE_SIZE_MB}MB ({file_size_mb:.1f}MB)!")
+        elif file_size_mb > 90:
+            print(f"⚠️ УВАГА: Файл {filename} наближається до ліміту GitHub 100MB ({file_size_mb:.1f}MB)!")
         
         return True
         
@@ -385,8 +387,8 @@ def estimate_product_size(product: Dict) -> int:
     """Оцінює розмір товару в байтах"""
     size = 0
     
-    # Базовий розмір XML структури
-    size += 200  # <offer> теги
+    # Базовий розмір XML структури (збільшено для точності)
+    size += 500  # <offer> теги та структура
     
     # Розмір полів
     for field in ["id", "name", "price", "currency", "quantity", "category_id", "description", "url", "picture"]:
