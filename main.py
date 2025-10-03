@@ -1,26 +1,23 @@
 #!/usr/bin/env python3
 """
-ФІНАЛЬНИЙ робочий yml.generator з усіма виправленнями та контролем розміру
+FEEDS_GENERATOR - Генератор фідів для Prom.ua
+Обробляє 7 фідів → 1-4 YML файли з контролем розміру 95MB
 """
 
 import os
 import asyncio
-import hashlib
 import re
 from datetime import datetime
-from io import BytesIO
-from typing import Dict, Iterable, List, Optional, Set, Tuple
+from typing import Dict, List, Tuple, Optional
 
 import aiohttp
-from aiohttp import ClientError
 import pandas as pd
 from lxml import etree
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
-OUTPUT_DIR = "output"
-BATCH_SIZE = 1000
-MAX_CONCURRENT = 5
+MAX_FILE_SIZE_MB = 95
+MAX_FILES = 4
 TIMEOUT = 30
 
 # Заголовки для HTTP запитів
@@ -49,7 +46,7 @@ def sanitize_offer(elem: etree._Element) -> etree._Element:
         if child.tail:
             child.tail = sanitize_text(child.tail)
     
-    # VИПРАВЛЕННЯ: Видаляємо дублікати тегів available
+    # Видаляємо дублікати тегів available
     available_tags = elem.findall("available")
     if len(available_tags) > 1:
         # Залишаємо тільки останній тег available
@@ -104,30 +101,55 @@ def load_prom_categories() -> Dict[str, str]:
     """Завантажує категорії з prom_categories.xlsx"""
     try:
         if os.path.exists("prom_categories.xlsx"):
-            df = pd.read_excel("prom_categories.xlsx")
+            print("📁 Файл prom_categories.xlsx знайдено")
+            
+            # Спробуємо різні двигуни для Excel
+            try:
+                df = pd.read_excel("prom_categories.xlsx", engine='openpyxl')
+                print("✅ Excel файл прочитано через openpyxl")
+            except Exception as e1:
+                try:
+                    df = pd.read_excel("prom_categories.xlsx", engine='xlrd')
+                    print("✅ Excel файл прочитано через xlrd")
+                except Exception as e2:
+                    print(f"❌ Не вдалося прочитати Excel файл")
+                    print(f"openpyxl помилка: {e1}")
+                    print(f"xlrd помилка: {e2}")
+                    return {}
+            
             categories = {}
             
             print(f"📊 Доступні колонки: {list(df.columns)}")
-            print(f"📊 Перші 3 рядки:")
-            print(df.head(3))
+            print(f"📊 Розмір файлу: {df.shape[0]} рядків, {df.shape[1]} колонок")
             
+            # Використовуємо колонку F (Идентификатор_подраздела) як ID та колонку C (Категория3) як назву
             for _, row in df.iterrows():
-                # Перевіряємо різні можливі назви колонок
-                id_col = None
-                name_col = None
+                # ID з колонки F (Идентификатор_подраздела)
+                category_id = None
+                category_name = None
                 
-                for col in df.columns:
-                    if 'id' in col.lower():
-                        id_col = col
-                    if 'name' in col.lower() or 'назва' in col.lower():
-                        name_col = col
+                # Знаходимо ID в колонці F (остання колонка з ID)
+                if len(df.columns) >= 6:  # Перевіряємо що є колонка F
+                    id_col = df.columns[5]  # Колонка F (індекс 5)
+                    if pd.notna(row.get(id_col)):
+                        try:
+                            category_id = str(int(row[id_col]))
+                        except (ValueError, TypeError):
+                            continue
                 
-                if id_col and name_col and pd.notna(row.get(id_col)) and pd.notna(row.get(name_col)):
-                    categories[str(int(row[id_col]))] = str(row[name_col])
+                # Знаходимо назву в колонці C (Категория3)
+                if len(df.columns) >= 3:  # Перевіряємо що є колонка C
+                    name_col = df.columns[2]  # Колонка C (індекс 2)
+                    if pd.notna(row.get(name_col)):
+                        category_name = str(row[name_col]).strip()
+                
+                if category_id and category_name:
+                    categories[category_id] = category_name
+                    print(f"✅ Додано категорію: {category_id} -> {category_name}")
             
             print(f"📋 Завантажено {len(categories)} категорій з prom_categories.xlsx")
             if len(categories) == 0:
-                print("⚠️ Категорії не знайдено в Excel файлі, перевірте назви колонок")
+                print("⚠️ Категорії не знайдено в Excel файлі")
                 print(f"Доступні колонки: {list(df.columns)}")
             return categories
         else:
@@ -138,7 +160,7 @@ def load_prom_categories() -> Dict[str, str]:
         print(f"Деталі помилки: {str(e)}")
         return {}
 
-def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[List[Dict[str, any]], Dict[str, any]]:
+def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_index: int) -> Tuple[List[Dict], Dict[str, str]]:
     """Парсить XML контент і повертає список товарів та категорії"""
     try:
         # Парсимо XML
@@ -160,6 +182,10 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[
         print(f"📦 Знайдено {len(offers)} товарів, {len(categories)} категорій")
         
         products = []
+        skipped_no_id = 0
+        skipped_no_name = 0
+        skipped_no_price = 0
+        
         for offer in offers:
             try:
                 # Очищаємо товар від дублікатів
@@ -168,21 +194,16 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[
                 # Витягуємо дані
                 product_id = offer.get("id")
                 if not product_id:
+                    skipped_no_id += 1
                     continue
-                
-                # Додаємо префікс до ID
-                if not product_id.startswith(("f3_", "f4_", "f7_")):
-                    # Визначаємо префікс на основі URL або інших критеріїв
-                    if "dropshipping" in str(offer):
-                        product_id = f"f3_{product_id}"
-                    elif "api" in str(offer):
-                        product_id = f"f4_{product_id}"
-                    else:
-                        product_id = f"f7_{product_id}"
                 
                 # Основна інформація
                 name_elem = offer.find("name")
                 name = sanitize_text(name_elem.text) if name_elem is not None and name_elem.text else ""
+                
+                if not name:
+                    skipped_no_name += 1
+                    continue
                 
                 # Ціна
                 price_elem = offer.find("price")
@@ -192,6 +213,15 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[
                         price = float(price_elem.text.strip().replace(",", "."))
                     except (ValueError, AttributeError):
                         pass
+                
+                if price is None or price <= 0:
+                    skipped_no_price += 1
+                    continue
+                
+                # Додаємо унікальний префікс на основі номера фіду
+                prefix = f"f{feed_index}_"
+                if not product_id.startswith(prefix):
+                    product_id = f"{prefix}{product_id}"
                 
                 # Наявність
                 available = offer.get("available", "true")
@@ -245,6 +275,13 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str]) -> Tuple[
             except Exception as e:
                 print(f"⚠️ Помилка парсингу товару: {e}")
                 continue
+        
+        print(f"\n📊 Статистика фільтрації фіду {feed_index}:")
+        print(f"✅ Оброблено товарів: {len(products)}")
+        print(f"❌ Пропущено без ID: {skipped_no_id}")
+        print(f"❌ Пропущено без назви: {skipped_no_name}")
+        print(f"❌ Пропущено без ціни: {skipped_no_price}")
+        print(f"📦 Загалом товарів у фіді: {len(offers)}")
         
         return products, categories
         
@@ -328,16 +365,15 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         tree = etree.ElementTree(root)
         tree.write(filename, encoding="utf-8", xml_declaration=True, pretty_print=True)
         
-        # ПЕРЕВІРЯЄМО РОЗМІР ФАЙЛУ
+        # Перевіряємо розмір файлу
         file_size = os.path.getsize(filename)
         file_size_mb = file_size / (1024 * 1024)
         
         print(f"✅ Створено YML файл: {filename} ({len(products)} товарів, {len(categories)} категорій)")
         print(f"📏 Розмір файлу: {file_size_mb:.1f} MB")
         
-        if file_size_mb > 95:
-            print(f"⚠️ УВАГА: Файл {filename} перевищує 95MB ({file_size_mb:.1f}MB)!")
-            print("💡 Рекомендується зменшити кількість товарів або розділити на більше файлів")
+        if file_size_mb > MAX_FILE_SIZE_MB:
+            print(f"⚠️ УВАГА: Файл {filename} перевищує {MAX_FILE_SIZE_MB}MB ({file_size_mb:.1f}MB)!")
         
         return True
         
@@ -345,12 +381,60 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         print(f"❌ Помилка створення YML файлу: {e}")
         return False
 
+def estimate_product_size(product: Dict) -> int:
+    """Оцінює розмір товару в байтах"""
+    size = 0
+    
+    # Базовий розмір XML структури
+    size += 200  # <offer> теги
+    
+    # Розмір полів
+    for field in ["id", "name", "price", "currency", "quantity", "category_id", "description", "url", "picture"]:
+        if product.get(field):
+            size += len(str(product[field]).encode('utf-8'))
+    
+    return size
+
+def distribute_products(products: List[Dict], categories: Dict) -> List[List[Dict]]:
+    """Розподіляє товари на файли з контролем розміру 95MB"""
+    max_size_bytes = MAX_FILE_SIZE_MB * 1024 * 1024
+    
+    file_batches = []
+    current_batch = []
+    current_size = 0
+    
+    for product in products:
+        product_size = estimate_product_size(product)
+        
+        # Якщо додавання товару перевищить ліміт, створюємо новий файл
+        if current_size + product_size > max_size_bytes and current_batch:
+            file_batches.append(current_batch)
+            current_batch = [product]
+            current_size = product_size
+        else:
+            current_batch.append(product)
+            current_size += product_size
+        
+        # Обмежуємо кількість файлів
+        if len(file_batches) >= MAX_FILES - 1:  # -1 для останнього файлу
+            # Додаємо всі залишкові товари в останній файл
+            current_batch.extend(products[len([item for batch in file_batches for item in batch]) + len(current_batch):])
+            break
+    
+    # Додаємо останній файл
+    if current_batch:
+        file_batches.append(current_batch)
+    
+    print(f"📊 Розподіл товарів: {len(file_batches)} файлів")
+    for i, batch in enumerate(file_batches, 1):
+        estimated_size = sum(estimate_product_size(p) for p in batch) / (1024 * 1024)
+        print(f"   Файл {i}: {len(batch)} товарів (~{estimated_size:.1f}MB)")
+    
+    return file_batches
+
 async def process_feeds():
     """Основна функція обробки фідів"""
-    print("🚀 Запуск yml.generator з виправленням дублікатів та контролем розміру")
-    
-    # Створюємо директорію для виводу
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("🚀 Запуск feeds_generator з правильними префіксами та контролем розміру")
     
     # Завантажуємо категорії з prom_categories.xlsx
     prom_categories = load_prom_categories()
@@ -361,14 +445,14 @@ async def process_feeds():
         return
     
     # Створюємо HTTP сесію
-    connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT)
+    connector = aiohttp.TCPConnector(limit=5)
     timeout = aiohttp.ClientTimeout(total=TIMEOUT)
     
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
         all_products = []
         all_categories = {}
         
-        # Обробляємо фіди по черзі
+        # Обробляємо фіди по черзі з правильними префіксами
         for i, url in enumerate(feed_urls, 1):
             print(f"\n📡 Обробка фіду {i}/{len(feed_urls)}: {url}")
             
@@ -376,26 +460,18 @@ async def process_feeds():
             if not success:
                 continue
             
-            products, categories = parse_xml_content(content, prom_categories)
+            products, categories = parse_xml_content(content, prom_categories, i)
             all_products.extend(products)
             all_categories.update(categories)
             
             print(f"📊 Загалом товарів: {len(all_products)}, категорій: {len(all_categories)}")
         
-        # Розділяємо на файли з урахуванням розміру 95MB
+        # Підраховуємо статистику
         total_products = len(all_products)
-        max_products_per_file = 15000  # Приблизно 95MB (експериментально)
-        
-        # Розраховуємо кількість файлів
-        num_files = max(3, (total_products + max_products_per_file - 1) // max_products_per_file)
-        
-        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
-        print(f"📁 Створюємо {num_files} файлів (макс. {max_products_per_file} товарів на файл)")
-        
-        # Підраховуємо доступні/відсутні товари
         available_products = sum(1 for p in all_products if p.get("presence", False))
         unavailable_products = total_products - available_products
         
+        print(f"\n📈 Загалом оброблено: {total_products} товарів, {len(all_categories)} категорій")
         print(f"✅ Доступних товарів: {available_products} ({available_products/total_products*100:.1f}%)")
         print(f"❌ Відсутніх товарів: {unavailable_products} ({unavailable_products/total_products*100:.1f}%)")
         
@@ -403,29 +479,17 @@ async def process_feeds():
             print("❌ Немає товарів для обробки")
             return
         
-        # Створюємо файли з контролем розміру
-        for i in range(num_files):
-            start_idx = i * max_products_per_file
-            end_idx = min((i + 1) * max_products_per_file, total_products)
-            
-            batch_products = all_products[start_idx:end_idx]
-            filename = f"all_{i + 1}.yml"
+        # Розподіляємо товари на файли з контролем розміру
+        file_batches = distribute_products(all_products, all_categories)
+        
+        # Створюємо YML файли
+        for i, batch_products in enumerate(file_batches, 1):
+            filename = f"all_{i}.yml"
             create_yml_file(batch_products, all_categories, filename)
         
-        print(f"\n🎉 Генерація завершена! Створено {num_files} YML файлів")
+        print(f"\n🎉 Генерація завершена! Створено {len(file_batches)} YML файлів")
         print(f"📁 Файли збережено в корінь репозиторію")
-        
-        # Завантажуємо файли в GitHub
-        await upload_to_github()
-
-async def upload_to_github():
-    """Повідомляє про створені файли"""
-    print("\n✅ YML файли створено локально:")
-    print("📁 all_1.yml - готовий для завантаження")
-    print("📁 all_2.yml - готовий для завантаження") 
-    print("📁 all_3.yml - готовий для завантаження")
-    print("\n💡 Скопіюйте вміст цих файлів в GitHub репозиторій вручну")
-    print("🔄 Або налаштуйте GitHub Actions для автоматичного оновлення")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
+
