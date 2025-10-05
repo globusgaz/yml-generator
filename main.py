@@ -16,7 +16,7 @@ from lxml import etree
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 99  # Зменшено для GitHub (ліміт 100MB)
+MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
 
@@ -261,6 +261,13 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                 category_id = offer.get("categoryId")
                 category_name = categories.get(category_id, "Без категорії") if category_id else "Без категорії"
                 
+                # Виробник
+                vendor_elem = offer.find("vendor")
+                vendor = sanitize_text(vendor_elem.text) if vendor_elem is not None and vendor_elem.text else "API-Prom.ua"
+                
+                # Артикул (використовуємо ID як артикул)
+                vendor_code = product_id
+                
                 # Опис
                 description_elem = offer.find("description")
                 description = sanitize_text(description_elem.text) if description_elem is not None and description_elem.text else ""
@@ -269,13 +276,27 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                 url_elem = offer.find("url")
                 url = sanitize_text(url_elem.text) if url_elem is not None and url_elem.text else ""
                 
-                # Зображення
-                picture_elem = offer.find("picture")
-                picture = sanitize_text(picture_elem.text) if picture_elem is not None and picture_elem.text else ""
+                # Зображення (може бути кілька)
+                pictures = []
+                for picture_elem in offer.findall("picture"):
+                    if picture_elem is not None and picture_elem.text:
+                        pictures.append(sanitize_text(picture_elem.text))
+                
+                # Якщо немає зображень, додаємо порожній список
+                if not pictures:
+                    pictures = [""]
                 
                 # Валюта
                 currency_elem = offer.find("currencyId")
                 currency = sanitize_text(currency_elem.text) if currency_elem is not None and currency_elem.text else "UAH"
+                
+                # Параметри товару
+                params = {}
+                for param_elem in offer.findall("param"):
+                    param_name = param_elem.get("name", "")
+                    param_value = sanitize_text(param_elem.text) if param_elem.text else ""
+                    if param_name and param_value:
+                        params[param_name] = param_value
                 
                 product = {
                     "id": product_id,
@@ -285,10 +306,13 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                     "quantity": quantity,
                     "category_id": category_id,
                     "category_name": category_name,
+                    "vendor": vendor,
+                    "vendor_code": vendor_code,
                     "description": description,
                     "url": url,
-                    "picture": picture,
-                    "currency": currency
+                    "pictures": pictures,
+                    "currency": currency,
+                    "params": params
                 }
                 
                 products.append(product)
@@ -364,6 +388,16 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
                 category_elem = etree.SubElement(offer, "categoryId")
                 category_elem.text = str(product["category_id"])
             
+            # Виробник
+            if product["vendor"]:
+                vendor_elem = etree.SubElement(offer, "vendor")
+                vendor_elem.text = product["vendor"]
+            
+            # Артикул
+            if product["vendor_code"]:
+                vendor_code_elem = etree.SubElement(offer, "vendorCode")
+                vendor_code_elem.text = product["vendor_code"]
+            
             # Опис
             if product["description"]:
                 description_elem = etree.SubElement(offer, "description")
@@ -374,10 +408,18 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
                 url_elem = etree.SubElement(offer, "url")
                 url_elem.text = product["url"]
             
-            # Зображення
-            if product["picture"]:
-                picture_elem = etree.SubElement(offer, "picture")
-                picture_elem.text = product["picture"]
+            # Зображення (може бути кілька)
+            for picture in product["pictures"]:
+                if picture:
+                    picture_elem = etree.SubElement(offer, "picture")
+                    picture_elem.text = picture
+            
+            # Параметри товару
+            for param_name, param_value in product["params"].items():
+                if param_name and param_value:
+                    param_elem = etree.SubElement(offer, "param")
+                    param_elem.set("name", param_name)
+                    param_elem.text = param_value
         
         # Зберігаємо файл
         tree = etree.ElementTree(root)
@@ -406,12 +448,22 @@ def estimate_product_size(product: Dict) -> int:
     size = 0
     
     # Базовий розмір XML структури (збільшено для точності)
-    size += 500  # <offer> теги та структура
+    size += 800  # <offer> теги та структура з новими полями
     
-    # Розмір полів
-    for field in ["id", "name", "price", "currency", "quantity", "category_id", "description", "url", "picture"]:
+    # Розмір основних полів
+    for field in ["id", "name", "price", "currency", "quantity", "category_id", "description", "url", "vendor", "vendor_code"]:
         if product.get(field):
             size += len(str(product[field]).encode('utf-8'))
+    
+    # Розмір зображень
+    for picture in product.get("pictures", []):
+        if picture:
+            size += len(picture.encode('utf-8'))
+    
+    # Розмір параметрів
+    for param_name, param_value in product.get("params", {}).items():
+        if param_name and param_value:
+            size += len(param_name.encode('utf-8')) + len(param_value.encode('utf-8'))
     
     return size
 
