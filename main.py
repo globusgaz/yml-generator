@@ -16,7 +16,7 @@ from lxml import etree
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
-MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
+MAX_FILE_SIZE_MB = 180  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
 
