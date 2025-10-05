@@ -186,6 +186,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
         skipped_no_id = 0
         skipped_no_name = 0
         skipped_no_price = 0
+        skipped_services = 0
         
         for offer in offers:
             try:
@@ -204,6 +205,25 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                 
                 if not name:
                     skipped_no_name += 1
+                    continue
+                
+                # Фільтрація послуг (невигідно для дропшипінгу)
+                service_keywords = [
+                    'услуга', 'услуги', 'сервис', 'обслуживание', 'обслуговування',
+                    'ремонт', 'настройка', 'настроювання', 'установка', 'встановлення',
+                    'доставка', 'доставка', 'монтаж', 'консультация', 'консультація',
+                    'диагностика', 'діагностика', 'замена', 'заміна', 'прошивка',
+                    'обновление', 'оновлення', 'подключение', 'підключення', 'настройка',
+                    'гарантия', 'гарантія', 'гарантийное', 'гарантійне', 'поддержка',
+                    'підтримка', 'техподдержка', 'техпідтримка', 'сервисное', 'сервісне',
+                    'техническое', 'технічне', 'обслуживание', 'обслуговування',
+                    'абонемент', 'абонемент', 'подписка', 'підписка', 'аренда', 'оренда'
+                ]
+                
+                # Перевіряємо назву на ключові слова послуг
+                name_lower = name.lower()
+                if any(keyword in name_lower for keyword in service_keywords):
+                    skipped_services += 1
                     continue
                 
                 # Ціна
@@ -278,8 +298,8 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                 continue
         
         # Коротка статистика фіду
-        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price
-        print(f"📊 Фід {feed_index}: {len(products)} оброблено, {total_skipped} пропущено")
+        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services
+        print(f"📊 Фід {feed_index}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг)")
         
         return products, categories
         
