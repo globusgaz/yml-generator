@@ -27,6 +27,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
+GSHEET_ENV_VAR = "PROM_CATEGORIES_SHEET_URL"
+
 def sanitize_text(text: str) -> str:
     """Очищає текст від небажаних символів"""
     if not text:
@@ -99,13 +101,68 @@ async def fetch_feed(session: aiohttp.ClientSession, url: str) -> Tuple[bool, by
         print(f"❌ Помилка завантаження {url}: {e}")
         return False, b""
 
+def gsheet_to_csv_url(sheet_url: str) -> str:
+    """Перетворює URL Google Sheets на CSV export URL."""
+    if "export?format=csv" in sheet_url:
+        return sheet_url
+    if "/edit" in sheet_url:
+        base = sheet_url.split("/edit")[0]
+        return f"{base}/export?format=csv"
+    # Фолбек: повертаємо як є
+    return sheet_url
+
+
 def load_prom_categories() -> Dict[str, str]:
-    """Завантажує категорії з prom_categories.xlsx"""
+    """Завантажує категорії з Google Sheets (пріоритет), потім з prom_categories.xlsx, інакше пусто."""
+    # 1) Google Sheets через CSV (якщо задано змінну оточення)
+    gsheet_url = os.getenv(GSHEET_ENV_VAR)
+    if gsheet_url:
+        try:
+            csv_url = gsheet_to_csv_url(gsheet_url)
+            print(f"📁 Завантажую категорії з Google Sheets: {csv_url}")
+            df = pd.read_csv(csv_url)
+            categories: Dict[str, str] = {}
+            loaded_count = 0
+            error_count = 0
+
+            # Очікуємо, що колонка A = ID, колонка C = Назва (позиційно)
+            for _, row in df.iterrows():
+                category_id = None
+                category_name = None
+                try:
+                    # колонки за позицією: 0 -> A, 2 -> C
+                    if 0 in row and pd.notna(row[0]):
+                        category_id = str(int(row[0]))
+                    if 2 in row and pd.notna(row[2]):
+                        category_name = str(row[2]).strip()
+                except Exception:
+                    # fallback через .iloc
+                    try:
+                        if pd.notna(row.iloc[0]):
+                            category_id = str(int(row.iloc[0]))
+                        if pd.notna(row.iloc[2]):
+                            category_name = str(row.iloc[2]).strip()
+                    except Exception:
+                        error_count += 1
+                        continue
+                if category_id and category_name:
+                    categories[category_id] = category_name
+                    loaded_count += 1
+                else:
+                    error_count += 1
+            print(f"📋 Категорії (Google Sheets): {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
+            if loaded_count:
+                return categories
+            else:
+                print("⚠️ Порожній набір з Google Sheets, пробуємо Excel")
+        except Exception as e:
+            print(f"⚠️ Не вдалося прочитати Google Sheets: {e}")
+            print("Пробуємо Excel...")
+
+    # 2) Excel
     try:
         if os.path.exists("prom_categories.xlsx"):
             print("📁 Файл prom_categories.xlsx знайдено")
-            
-            # Спробуємо різні двигуни для Excel
             try:
                 df = pd.read_excel("prom_categories.xlsx", engine='openpyxl')
                 print("✅ Excel файл прочитано через openpyxl")
@@ -118,40 +175,28 @@ def load_prom_categories() -> Dict[str, str]:
                     print(f"openpyxl помилка: {e1}")
                     print(f"xlrd помилка: {e2}")
                     return {}
-            
             categories = {}
-            
-            # Використовуємо колонку F (Идентификатор_подраздела) як ID та колонку C (Категория3) як назву
             loaded_count = 0
             error_count = 0
-            
             for _, row in df.iterrows():
-                # ID з колонки F (Идентификатор_подраздела)
                 category_id = None
                 category_name = None
-                
-                # Знаходимо ID в колонці F (остання колонка з ID)
-                if len(df.columns) >= 6:  # Перевіряємо що є колонка F
-                    id_col = df.columns[5]  # Колонка F (індекс 5)
+                if len(df.columns) >= 6:
+                    id_col = df.columns[5]  # Колонка F
                     if pd.notna(row.get(id_col)):
                         try:
                             category_id = str(int(row[id_col]))
                         except (ValueError, TypeError):
                             error_count += 1
                             continue
-                
-                # Знаходимо назву в колонці C (Категория3)
-                if len(df.columns) >= 3:  # Перевіряємо що є колонка C
-                    name_col = df.columns[2]  # Колонка C (індекс 2)
+                if len(df.columns) >= 3:
+                    name_col = df.columns[2]  # Колонка C
                     if pd.notna(row.get(name_col)):
                         category_name = str(row[name_col]).strip()
-                
                 if category_id and category_name:
                     categories[category_id] = category_name
                     loaded_count += 1
-            
-            # Коротка статистика категорій
-            print(f"📋 Категорії: {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
+            print(f"📋 Категорії (Excel): {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
             if loaded_count == 0:
                 print("⚠️ Категорії не знайдено - використовуємо XML як fallback")
             return categories
