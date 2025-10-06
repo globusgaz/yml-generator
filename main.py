@@ -340,7 +340,11 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                         pass
                 
                 # Категорія
-                category_id = offer.get("categoryId")
+                category_id_elem = offer.find("categoryId")
+                if category_id_elem is not None and category_id_elem.text:
+                    category_id = sanitize_text(category_id_elem.text)
+                else:
+                    category_id = offer.get("categoryId")
                 category_name = categories.get(category_id, "Без категорії") if category_id else "Без категорії"
                 
                 # Виробник
