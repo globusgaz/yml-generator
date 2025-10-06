@@ -7,6 +7,7 @@ FEEDS_GENERATOR - Генератор фідів для Prom.ua
 import os
 import asyncio
 import re
+import json
 from datetime import datetime
 from typing import Dict, List, Tuple, Optional
 
@@ -16,6 +17,7 @@ from lxml import etree
 
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
+PREFIX_MAP_FILE = "prefix_map.json"
 MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
@@ -161,7 +163,43 @@ def load_prom_categories() -> Dict[str, str]:
         print(f"Деталі помилки: {str(e)}")
         return {}
 
-def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_index: int) -> Tuple[List[Dict], Dict[str, str]]:
+def load_prefix_map(feed_urls: List[str]) -> Dict[str, str]:
+    """Завантажує/оновлює стабільну мапу URL→префікс (f1_, f2_, ...)."""
+    existing_map: Dict[str, str] = {}
+    # Завантажуємо існуючу мапу, якщо є
+    if os.path.exists(PREFIX_MAP_FILE):
+        try:
+            with open(PREFIX_MAP_FILE, "r", encoding="utf-8") as f:
+                existing_map = json.load(f)
+        except Exception:
+            existing_map = {}
+    # Залоговані префікси, що вже зайняті
+    used_prefix_numbers = set()
+    for prefix in existing_map.values():
+        if prefix.startswith("f") and prefix.endswith("_"):
+            try:
+                used_prefix_numbers.add(int(prefix[1:-1]))
+            except ValueError:
+                continue
+    # Призначаємо префікси для нових URL
+    next_num = 1
+    for url in feed_urls:
+        if url not in existing_map:
+            # Шукаємо найменший вільний номер
+            while next_num in used_prefix_numbers:
+                next_num += 1
+            existing_map[url] = f"f{next_num}_"
+            used_prefix_numbers.add(next_num)
+            next_num += 1
+    # Зберігаємо оновлену мапу
+    try:
+        with open(PREFIX_MAP_FILE, "w", encoding="utf-8") as f:
+            json.dump(existing_map, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+    return existing_map
+
+def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_prefix: str) -> Tuple[List[Dict], Dict[str, str]]:
     """Парсить XML контент і повертає список товарів та категорії"""
     try:
         # Парсимо XML
@@ -180,7 +218,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
         
         # Знаходимо всі товари
         offers = root.findall(".//offer")
-        print(f"📦 Фід {feed_index}: {len(offers)} товарів, {len(categories)} категорій")
+        print(f"📦 Фід {feed_prefix}: {len(offers)} товарів, {len(categories)} категорій")
         
         products = []
         skipped_no_id = 0
@@ -239,10 +277,9 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
                     skipped_no_price += 1
                     continue
                 
-                # Додаємо унікальний префікс на основі номера фіду
-                prefix = f"f{feed_index}_"
-                if not product_id.startswith(prefix):
-                    product_id = f"{prefix}{product_id}"
+                # Додаємо унікальний стабільний префікс до ID
+                if not product_id.startswith(feed_prefix):
+                    product_id = f"{feed_prefix}{product_id}"
                 
                 # Наявність
                 available = offer.get("available", "true")
@@ -323,7 +360,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_inde
         
         # Коротка статистика фіду
         total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services
-        print(f"📊 Фід {feed_index}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг)")
+        print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг)")
         
         return products, categories
         
@@ -530,6 +567,9 @@ async def process_feeds():
     if not feed_urls:
         return
     
+    # Завантажуємо/оновлюємо стабільну мапу URL→префікс
+    url_prefix_map = load_prefix_map(feed_urls)
+    
     # Створюємо HTTP сесію
     connector = aiohttp.TCPConnector(limit=5)
     timeout = aiohttp.ClientTimeout(total=TIMEOUT)
@@ -538,18 +578,19 @@ async def process_feeds():
         all_products = []
         all_categories = {}
         
-        # Обробляємо фіди по черзі з правильними префіксами
+        # Обробляємо фіди по черзі з СТАБІЛЬНИМИ префіксами
         for i, url in enumerate(feed_urls, 1):
             print(f"\n📡 Обробка фіду {i}/{len(feed_urls)}: {url}")
+            prefix = url_prefix_map.get(url, f"f{i}_")
             
             success, content = await fetch_feed(session, url)
             if not success:
                 continue
             
-            products, categories = parse_xml_content(content, prom_categories, i)
+            products, categories = parse_xml_content(content, prom_categories, prefix)
             all_products.extend(products)
             all_categories.update(categories)
-            
+        
         # Підраховуємо статистику
         total_products = len(all_products)
         available_products = sum(1 for p in all_products if p.get("presence", False))
