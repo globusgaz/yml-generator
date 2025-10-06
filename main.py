@@ -350,12 +350,26 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         url_elem = etree.SubElement(shop, "url")
         url_elem.text = "https://prom.ua"
         
-        # Додаємо категорії
+        # Додаємо тільки категорії, які використовуються в товарах
         categories_elem = etree.SubElement(shop, "categories")
-        for cat_id, cat_name in categories.items():
-            category = etree.SubElement(categories_elem, "category")
-            category.set("id", cat_id)
-            category.text = cat_name
+        used_categories = set()
+        
+        # Збираємо ID категорій, які використовуються в товарах
+        for product in products:
+            if product.get("category_id"):
+                used_categories.add(product["category_id"])
+        
+        # Додаємо тільки використовувані категорії
+        for cat_id in used_categories:
+            if cat_id in categories:
+                category = etree.SubElement(categories_elem, "category")
+                category.set("id", cat_id)
+                category.text = categories[cat_id]
+            else:
+                # Якщо категорія не знайдена в Excel, використовуємо ID як назву
+                category = etree.SubElement(categories_elem, "category")
+                category.set("id", cat_id)
+                category.text = f"Категорія {cat_id}"
         
         # Додаємо товари
         offers = etree.SubElement(shop, "offers")
@@ -551,7 +565,7 @@ async def process_feeds():
         # Розподіляємо товари на файли з контролем розміру
         file_batches = distribute_products(all_products, all_categories)
         
-        # Створюємо YML файли
+        # Створюємо YML файли (статичні імена для стабільних посилань у Prom.ua)
         for i, batch_products in enumerate(file_batches, 1):
             filename = f"all_{i}.yml"
             create_yml_file(batch_products, all_categories, filename)
