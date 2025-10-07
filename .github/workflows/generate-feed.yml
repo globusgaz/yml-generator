@@ -2,8 +2,8 @@ name: 🛒 Generate Prom Feed
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Кожні 1 години
-  workflow_dispatch:     # Ручний запуск
+    - cron: '0 */1 * * *'   # Щогодини
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,25 +13,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 📥 Клоную репозиторій
-      uses: actions/checkout@v3
+      - name: 📥 Клоную репозиторій (повний фетч)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-    - name: 🐍 Встановлюю Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+      - name: 🔐 Налаштовую git user і safe.directory
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory $GITHUB_WORKSPACE
 
-    - name: 📦 Встановлюю залежності
-      run: |
-        pip install aiohttp lxml pandas openpyxl xlrd
+      - name: 🐍 Встановлюю Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-    - name: 🚀 Генерую YML
-      run: python main.py
+      - name: 📦 Встановлюю залежності
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp lxml pandas openpyxl xlrd
 
-    - name: 📝 Комічу зміни
-      run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
-        git add all_*.yml
-        git commit -m "🔄 Оновлено YML файли" --allow-empty
-        git push
+      # Опційно: вкажіть URL Google Sheets (CSV export) через секрет, якщо потрібно
+      # - name: 🌐 Export env
+      #   run: echo "PROM_CATEGORIES_SHEET_URL=${{ secrets.PROM_CATEGORIES_SHEET_URL }}" >> $GITHUB_ENV
+
+      - name: 🚀 Генерую YML
+        run: python main.py
+
+      - name: 🔄 Оновлюю локальну main (rebase, щоб уникнути відмови пушу)
+        run: |
+          git pull --rebase origin main || true
+
+      - name: 📝 Комічу зміни (YML + state + prefix map)
+        run: |
+          git add all_*.yml product_state.json prefix_map.json
+          git commit -m "🔄 Оновлено YML та state (product_state/prefix_map)" || echo "No changes"
+
+      - name: ⬆️ Публікую в main
+        run: git push origin HEAD:main
