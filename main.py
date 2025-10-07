@@ -28,6 +28,12 @@ ENABLE_ARCHIVE = os.getenv("ENABLE_ARCHIVE", "true").lower() == "true"
 ARCHIVE_AFTER_HOURS = int(os.getenv("ARCHIVE_AFTER_HOURS", "1"))  # швидка реакція
 MAX_ARCHIVE_PER_RUN = int(os.getenv("MAX_ARCHIVE_PER_RUN", "500"))
 
+# Енрічмент та пороги якості
+ENRICH_STRICT = os.getenv("ENRICH_STRICT", "true").lower() == "true"
+COMPLETENESS_THRESHOLD = int(os.getenv("COMPLETENESS_THRESHOLD", "80"))  # 0-100
+DROP_NEW_BELOW_THRESHOLD = os.getenv("DROP_NEW_BELOW_THRESHOLD", "true").lower() == "true"
+ARCHIVE_EXISTING_BELOW_THRESHOLD = os.getenv("ARCHIVE_EXISTING_BELOW_THRESHOLD", "true").lower() == "true"
+
 # Заголовки для HTTP запитів
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -729,12 +735,51 @@ async def process_feeds():
                 continue
             
             products, categories = parse_xml_content(content, prom_categories, prefix)
-            all_products.extend(products)
+            # Енрічмент і скоринг для кожного продукту
+            enriched = []
+            for p in products:
+                p2 = enrich_product(p, categories)
+                enriched.append(p2)
+            all_products.extend(enriched)
             all_categories.update(categories)
+        
+        # Фільтрація/архівація за порогом заповненості
+        filtered_products: List[Dict] = []
+        for p in all_products:
+            score = p.get("completeness_score", score_completeness(p))
+            if score >= COMPLETENESS_THRESHOLD:
+                filtered_products.append(p)
+            else:
+                # нижче порогу
+                # Визначаємо, чи товар новий або існуючий (за наявністю в state перевіримо нижче)
+                filtered_products.append(p)  # тимчасово додамо; архівацію вирішимо після завантаження state
+        all_products = filtered_products
         
         # Завантажуємо стан та оновлюємо last_seen по активних товарах
         state = load_state()
         update_state_with_products(state, all_products)
+        
+        # Визначаємо нові/існуючі та коригуємо за порогом
+        final_products: List[Dict] = []
+        for p in all_products:
+            score = p.get("completeness_score", score_completeness(p))
+            pid = p.get("id")
+            is_existing = pid in state and state[pid].get("last_seen") is not None
+            if score >= COMPLETENESS_THRESHOLD:
+                final_products.append(p)
+            else:
+                if not is_existing and DROP_NEW_BELOW_THRESHOLD:
+                    # пропускаємо новий, недостатньо заповнений товар
+                    continue
+                if is_existing and ARCHIVE_EXISTING_BELOW_THRESHOLD:
+                    # публікуємо як відсутній
+                    p_arch = dict(p)
+                    p_arch["presence"] = False
+                    p_arch["quantity"] = 0
+                    final_products.append(p_arch)
+                else:
+                    final_products.append(p)
+        all_products = final_products
         
         # Побудова архівних оферів для зниклих позицій
         active_ids = {p["id"] for p in all_products}
@@ -767,6 +812,108 @@ async def process_feeds():
             create_yml_file(batch_products, all_categories, filename)
         
         print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
+
+def normalize_param_name(name: str) -> str:
+    if not name:
+        return ""
+    name = sanitize_text(name)
+    mapping = {
+        "Тип цоколю": "Тип цоколю",
+        "Матеріал": "Матеріал",
+        "Матеріал каркаса": "Матеріал каркаса",
+        "Матеріал плафона": "Матеріал плафона",
+        "Колір": "Колір",
+        "Потужність": "Потужність",
+        "Розмір": "Розмір",
+        "Довжина, мм": "Довжина, мм",
+        "Висота, мм": "Висота, мм",
+        "Ширина, мм": "Ширина, мм",
+        "Кількість джерел світла": "Кількість джерел світла",
+    }
+    return mapping.get(name, name)
+
+
+def build_clean_title(category_name: str, vendor: str, vendor_code: str, name: str) -> str:
+    base = sanitize_text(name)
+    # Прибрати службові коди типу SP000..., комбінації великих літер+цифр без слів
+    base = re.sub(r"\b[A-ZА-ЯІЇЄ]{2,}\d{3,}\b", " ", base)
+    base = re.sub(r"\bSP\d{6,}\b", " ", base, flags=re.IGNORECASE)
+    base = re.sub(r"\s+", " ", base).strip()
+    parts = []
+    if category_name and not base.lower().startswith(category_name.lower()):
+        parts.append(category_name)
+    if vendor:
+        parts.append(vendor)
+    # Модель/артикул як короткий ідентифікатор
+    model = vendor_code if vendor_code and len(vendor_code) <= 20 else ""
+    title_core = base if base else ""
+    # Формуємо
+    if title_core:
+        parts.append(title_core)
+    elif model:
+        parts.append(model)
+    title = " ".join(parts)
+    title = re.sub(r"\s+", " ", title).strip()
+    # Обмеження довжини
+    if len(title) > 95:
+        title = title[:95].rstrip()
+    return title
+
+
+def build_bullets_from_params(params: Dict[str, str]) -> List[str]:
+    bullets: List[str] = []
+    allow = {
+        "Матеріал", "Матеріал каркаса", "Матеріал плафона", "Колір",
+        "Тип цоколю", "Кількість джерел світла", "Потужність",
+        "Розмір", "Довжина, мм", "Висота, мм", "Ширина, мм",
+    }
+    for k, v in params.items():
+        k2 = normalize_param_name(k)
+        if k2 in allow and v:
+            bullets.append(f"{k2}: {v}")
+            if len(bullets) >= 6:
+                break
+    return bullets
+
+
+def render_description_html(name: str, bullets: List[str], params: Dict[str, str]) -> str:
+    safe_name = sanitize_text(name)
+    html_parts = []
+    if safe_name:
+        html_parts.append(f"<p><b>{safe_name}</b></p>")
+    if bullets:
+        html_parts.append("<ul>" + "".join([f"<li>{sanitize_text(b)}</li>" for b in bullets]) + "</ul>")
+    # Легка секція характеристик (параметри дублювати не обов'язково — вони окремо передаються як <param>)
+    return " ".join(html_parts)
+
+
+def score_completeness(product: Dict) -> int:
+    score = 0
+    if product.get("name"): score += 20
+    if product.get("price"): score += 15
+    if product.get("currency"): score += 5
+    if product.get("category_id"): score += 10
+    pics = product.get("pictures", [])
+    if pics and any(pics): score += 20
+    if product.get("description"): score += 20
+    if product.get("params"): score += 10
+    return min(score, 100)
+
+
+def enrich_product(product: Dict, categories: Dict[str, str]) -> Dict:
+    if not ENRICH_STRICT:
+        return product
+    category_name = categories.get(product.get("category_id", ""), "")
+    # Назва
+    product["name"] = build_clean_title(category_name, product.get("vendor", ""), product.get("vendor_code", ""), product.get("name", ""))
+    # Буллети
+    bullets = build_bullets_from_params(product.get("params", {}))
+    # Опис
+    if not product.get("description"):
+        product["description"] = render_description_html(product.get("name", ""), bullets, product.get("params", {}))
+    # Перерахунок скора
+    product["completeness_score"] = score_completeness(product)
+    return product
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
