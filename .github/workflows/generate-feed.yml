@@ -53,7 +53,7 @@ jobs:
         env:
           # 📊 Енрічмент та фільтрація якості
           ENRICH_STRICT: "true"                      # строге збагачення без вигадки
-          COMPLETENESS_THRESHOLD: "90"               # поріг заповненості 0-100 (назва+ціна+фото+опис)
+          COMPLETENESS_THRESHOLD: "95"               # поріг заповненості 0-100 (назва+ціна+фото+опис)
           DROP_NEW_BELOW_THRESHOLD: "true"           # не публікувати нові товари з низькою якістю
           ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"   # архівувати існуючі товари з низькою якістю
           
