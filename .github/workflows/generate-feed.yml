@@ -44,8 +44,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp lxml pandas openpyxl xlrd
 
-      - name: 🚀 Generate YML
-        run: python main.py
+      - name: 🚀 Generate YML with enrichment
+        env:
+          # 📊 Енрічмент та фільтрація якості
+          ENRICH_STRICT: "true"                      # строге збагачення без вигадки
+          COMPLETENESS_THRESHOLD: "80"               # поріг заповненості 0-100 (назва+ціна+фото+опис)
+          DROP_NEW_BELOW_THRESHOLD: "true"           # не публікувати нові товари з низькою якістю
+          ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"   # архівувати існуючі товари з низькою якістю
+          
+          # 🗄️ Архівація зниклих товарів
+          ENABLE_ARCHIVE: "true"                     # увімкнути архівацію
+          ARCHIVE_AFTER_HOURS: "1"                   # архівувати через 1 год відсутності у фідах
+          MAX_ARCHIVE_PER_RUN: "500"                 # макс. кількість архівних товарів за раз
+          
+          # 📦 Розмір та структура файлів
+          MAX_FILE_SIZE_MB: "80"                     # макс. розмір файлу (запас до GitHub 100MB)
+          MAX_FILES: "4"                             # макс. кількість YML файлів
+          TIMEOUT: "30"                              # таймаут завантаження фідів (сек)
+          
+          # 🏷️ Категорії (опціонально, якщо є Google Sheets)
+          PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
+        run: python feeds_generator_final.py
 
       - name: 🔄 Rebase
         run: git pull --rebase origin main || true
@@ -54,4 +73,22 @@ jobs:
         run: |
           git add all_*.yml prefix_map.json
           git commit -m "🔄 Update YML and prefix map" || echo "No changes"
-          git push origin HEAD:main
+
+      - name: ⬆️ Push to main
+        run: git push origin HEAD:main
+
+      - name: 💾 Save cache (state + prefix map)
+        uses: actions/cache@v3
+        with:
+          path: |
+            product_state.json
+            prefix_map.json
+          key: state-${{ github.ref }}-${{ hashFiles('feeds.txt') }}
+
+      - name: 📊 Summary
+        if: always()
+        run: |
+          echo "✅ Workflow completed"
+          echo "📁 Generated files: $(ls -lh all_*.yml 2>/dev/null | wc -l) YML files"
+          echo "💾 Cache preserved: product_state.json, prefix_map.json"
+
