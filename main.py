@@ -423,6 +423,20 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services
         print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг)")
         
+        # Детальна діагностика фільтрів
+        if len(products) > 0:
+            sample_products = products[:5]  # Перші 5 товарів для аналізу
+            print(f"🔍 Діагностика фільтрів для {feed_prefix}:")
+            for i, p in enumerate(sample_products, 1):
+                name = p.get("name", "")[:50]
+                price = p.get("price", 0)
+                presence = p.get("presence", False)
+                service_check = any(keyword in name.lower() for keyword in [
+                    'услуга', 'услуги', 'сервис', 'обслуживание', 'обслуговування',
+                    'ремонт', 'настройка', 'настроювання', 'установка', 'встановлення'
+                ])
+                print(f"  {i}. '{name}...' | ціна={price} | наявність={presence} | послуга={service_check}")
+        
         return products, categories
         
     except Exception as e:
@@ -856,6 +870,22 @@ async def process_feeds():
             else:
                 below_threshold += 1
         print(f"\n🧮 Якість наповнення: {total_scored} товарів; ≥{COMPLETENESS_THRESHOLD}: {above_threshold}, <{COMPLETENESS_THRESHOLD}: {below_threshold}")
+        
+        # Діагностика completeness_score для зразків
+        if total_scored > 0:
+            sample_for_analysis = all_products[:3]  # Перші 3 товари
+            print(f"🔍 Діагностика completeness_score:")
+            for i, p in enumerate(sample_for_analysis, 1):
+                score = p.get("completeness_score", score_completeness(p))
+                name = p.get("name", "")[:40]
+                has_name = bool(p.get("name"))
+                has_price = bool(p.get("price"))
+                has_currency = bool(p.get("currency"))
+                has_category = bool(p.get("category_id"))
+                has_pics = bool(p.get("pictures") and any(p.get("pictures", [])))
+                has_desc = bool(p.get("description"))
+                has_params = bool(p.get("params"))
+                print(f"  {i}. '{name}...' | score={score} | name={has_name} price={has_price} currency={has_currency} cat={has_category} pics={has_pics} desc={has_desc} params={has_params}")
         # Тимчасово залишимо всі; остаточне рішення нижче після завантаження state
         filtered_products: List[Dict] = list(all_products)
         all_products = filtered_products
