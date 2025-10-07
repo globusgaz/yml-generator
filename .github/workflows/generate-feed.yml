@@ -44,6 +44,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp lxml pandas openpyxl xlrd
 
+      - name: 🔎 Debug workspace
+        run: |
+          pwd
+          ls -la
+
       - name: 🚀 Generate YML with enrichment
         env:
           # 📊 Енрічмент та фільтрація якості
@@ -64,7 +69,7 @@ jobs:
           
           # 🏷️ Категорії (опціонально, якщо є Google Sheets)
           PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
-        run: python feeds_generator_final.py
+        run: python main.py
 
       - name: 🔄 Rebase
         run: git pull --rebase origin main || true
