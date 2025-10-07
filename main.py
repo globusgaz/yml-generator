@@ -18,9 +18,15 @@ from lxml import etree
 # Конфігурація
 FEEDS_FILE = "feeds.txt"
 PREFIX_MAP_FILE = "prefix_map.json"
+STATE_FILE = "product_state.json"
 MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
+
+# Архівація зниклих товарів
+ENABLE_ARCHIVE = os.getenv("ENABLE_ARCHIVE", "true").lower() == "true"
+ARCHIVE_AFTER_HOURS = int(os.getenv("ARCHIVE_AFTER_HOURS", "1"))  # швидка реакція
+MAX_ARCHIVE_PER_RUN = int(os.getenv("MAX_ARCHIVE_PER_RUN", "500"))
 
 # Заголовки для HTTP запитів
 HEADERS = {
@@ -604,6 +610,92 @@ def distribute_products(products: List[Dict], categories: Dict) -> List[List[Dic
     
     return file_batches
 
+def load_state() -> Dict[str, Dict]:
+    """Завантажує стан товарів з STATE_FILE."""
+    if not os.path.exists(STATE_FILE):
+        return {}
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, dict):
+                return data
+            return {}
+    except Exception:
+        return {}
+
+
+def save_state(state: Dict[str, Dict]) -> None:
+    """Зберігає стан товарів у STATE_FILE."""
+    try:
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump(state, f, ensure_ascii=False)
+    except Exception:
+        pass
+
+
+def update_state_with_products(state: Dict[str, Dict], products: List[Dict]) -> None:
+    """Оновлює last_seen та кеш полів для активних товарів."""
+    now_iso = datetime.utcnow().isoformat()
+    for p in products:
+        pid = p.get("id")
+        if not pid:
+            continue
+        cached = state.get(pid, {})
+        cached.update({
+            "last_seen": now_iso,
+            "name": p.get("name"),
+            "price": p.get("price"),
+            "currency": p.get("currency"),
+            "quantity": p.get("quantity"),
+            "category_id": p.get("category_id"),
+            "description": p.get("description"),
+            "url": p.get("url"),
+            "pictures": p.get("pictures", []),
+            "vendor": p.get("vendor"),
+            "vendor_code": p.get("vendor_code"),
+            "params": p.get("params", {}),
+        })
+        state[pid] = cached
+
+
+def build_archive_offers(state: Dict[str, Dict], active_ids: set) -> List[Dict]:
+    """Формує список оферів для товарів, що зникли понад ARCHIVE_AFTER_HOURS."""
+    if not ENABLE_ARCHIVE:
+        return []
+    archive_offers: List[Dict] = []
+    now = datetime.utcnow()
+    threshold = now.timestamp() - ARCHIVE_AFTER_HOURS * 3600
+    for pid, cached in state.items():
+        if pid in active_ids:
+            continue
+        last_seen = cached.get("last_seen")
+        if not last_seen:
+            continue
+        try:
+            ts = datetime.fromisoformat(last_seen).timestamp()
+        except Exception:
+            continue
+        if ts <= threshold:
+            archive_offers.append({
+                "id": pid,
+                "name": cached.get("name", pid),
+                "price": cached.get("price", 0),
+                "presence": False,
+                "quantity": 0,
+                "category_id": cached.get("category_id"),
+                "category_name": "Без категорії",
+                "vendor": cached.get("vendor", "API-Prom.ua"),
+                "vendor_code": cached.get("vendor_code", pid),
+                "description": cached.get("description", ""),
+                "url": cached.get("url", ""),
+                "pictures": cached.get("pictures", []),
+                "currency": cached.get("currency", "UAH"),
+                "params": cached.get("params", {}),
+            })
+            if len(archive_offers) >= MAX_ARCHIVE_PER_RUN:
+                break
+    return archive_offers
+
 async def process_feeds():
     """Основна функція обробки фідів"""
     print("🚀 Запуск feeds_generator з правильними префіксами та контролем розміру")
@@ -640,13 +732,27 @@ async def process_feeds():
             all_products.extend(products)
             all_categories.update(categories)
         
+        # Завантажуємо стан та оновлюємо last_seen по активних товарах
+        state = load_state()
+        update_state_with_products(state, all_products)
+        
+        # Побудова архівних оферів для зниклих позицій
+        active_ids = {p["id"] for p in all_products}
+        archive_offers = build_archive_offers(state, active_ids)
+        if archive_offers:
+            print(f"🗄️ Додано до архіву (available=false): {len(archive_offers)} позицій")
+            all_products.extend(archive_offers)
+        
+        # Зберігаємо оновлений стан
+        save_state(state)
+        
         # Підраховуємо статистику
         total_products = len(all_products)
         available_products = sum(1 for p in all_products if p.get("presence", False))
         unavailable_products = total_products - available_products
         
         print(f"\n📈 Підсумок: {total_products} товарів, {len(all_categories)} категорій")
-        print(f"📊 Наявність: {available_products} доступно ({available_products/total_products*100:.1f}%), {unavailable_products} відсутніх")
+        print(f"📊 Наявність: {available_products} доступно ({(available_products/total_products*100 if total_products else 0):.1f}%), {unavailable_products} відсутніх")
         
         if total_products == 0:
             print("❌ Немає товарів для обробки")
