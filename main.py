@@ -702,117 +702,6 @@ def build_archive_offers(state: Dict[str, Dict], active_ids: set) -> List[Dict]:
                 break
     return archive_offers
 
-async def process_feeds():
-    """Основна функція обробки фідів"""
-    print("🚀 Запуск feeds_generator з правильними префіксами та контролем розміру")
-    
-    # Завантажуємо категорії з prom_categories.xlsx
-    prom_categories = load_prom_categories()
-    
-    # Завантажуємо URL фідів
-    feed_urls = load_feeds()
-    if not feed_urls:
-        return
-    
-    # Завантажуємо/оновлюємо стабільну мапу URL→префікс
-    url_prefix_map = load_prefix_map(feed_urls)
-    
-    # Створюємо HTTP сесію
-    connector = aiohttp.TCPConnector(limit=5)
-    timeout = aiohttp.ClientTimeout(total=TIMEOUT)
-    
-    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-        all_products = []
-        all_categories = {}
-        
-        # Обробляємо фіди по черзі з СТАБІЛЬНИМИ префіксами
-        for i, url in enumerate(feed_urls, 1):
-            print(f"\n📡 Обробка фіду {i}/{len(feed_urls)}: {url}")
-            prefix = url_prefix_map.get(url, f"f{i}_")
-            
-            success, content = await fetch_feed(session, url)
-            if not success:
-                continue
-            
-            products, categories = parse_xml_content(content, prom_categories, prefix)
-            # Енрічмент і скоринг для кожного продукту
-            enriched = []
-            for p in products:
-                p2 = enrich_product(p, categories)
-                enriched.append(p2)
-            all_products.extend(enriched)
-            all_categories.update(categories)
-        
-        # Фільтрація/архівація за порогом заповненості
-        filtered_products: List[Dict] = []
-        for p in all_products:
-            score = p.get("completeness_score", score_completeness(p))
-            if score >= COMPLETENESS_THRESHOLD:
-                filtered_products.append(p)
-            else:
-                # нижче порогу
-                # Визначаємо, чи товар новий або існуючий (за наявністю в state перевіримо нижче)
-                filtered_products.append(p)  # тимчасово додамо; архівацію вирішимо після завантаження state
-        all_products = filtered_products
-        
-        # Завантажуємо стан та оновлюємо last_seen по активних товарах
-        state = load_state()
-        update_state_with_products(state, all_products)
-        
-        # Визначаємо нові/існуючі та коригуємо за порогом
-        final_products: List[Dict] = []
-        for p in all_products:
-            score = p.get("completeness_score", score_completeness(p))
-            pid = p.get("id")
-            is_existing = pid in state and state[pid].get("last_seen") is not None
-            if score >= COMPLETENESS_THRESHOLD:
-                final_products.append(p)
-            else:
-                if not is_existing and DROP_NEW_BELOW_THRESHOLD:
-                    # пропускаємо новий, недостатньо заповнений товар
-                    continue
-                if is_existing and ARCHIVE_EXISTING_BELOW_THRESHOLD:
-                    # публікуємо як відсутній
-                    p_arch = dict(p)
-                    p_arch["presence"] = False
-                    p_arch["quantity"] = 0
-                    final_products.append(p_arch)
-                else:
-                    final_products.append(p)
-        all_products = final_products
-        
-        # Побудова архівних оферів для зниклих позицій
-        active_ids = {p["id"] for p in all_products}
-        archive_offers = build_archive_offers(state, active_ids)
-        if archive_offers:
-            print(f"🗄️ Додано до архіву (available=false): {len(archive_offers)} позицій")
-            all_products.extend(archive_offers)
-        
-        # Зберігаємо оновлений стан
-        save_state(state)
-        
-        # Підраховуємо статистику
-        total_products = len(all_products)
-        available_products = sum(1 for p in all_products if p.get("presence", False))
-        unavailable_products = total_products - available_products
-        
-        print(f"\n📈 Підсумок: {total_products} товарів, {len(all_categories)} категорій")
-        print(f"📊 Наявність: {available_products} доступно ({(available_products/total_products*100 if total_products else 0):.1f}%), {unavailable_products} відсутніх")
-        
-        if total_products == 0:
-            print("❌ Немає товарів для обробки")
-            return
-        
-        # Розподіляємо товари на файли з контролем розміру
-        file_batches = distribute_products(all_products, all_categories)
-        
-        # Створюємо YML файли (статичні імена для стабільних посилань у Prom.ua)
-        for i, batch_products in enumerate(file_batches, 1):
-            filename = f"all_{i}.yml"
-            create_yml_file(batch_products, all_categories, filename)
-        
-        print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
-
 def normalize_param_name(name: str) -> str:
     if not name:
         return ""
@@ -914,6 +803,135 @@ def enrich_product(product: Dict, categories: Dict[str, str]) -> Dict:
     # Перерахунок скора
     product["completeness_score"] = score_completeness(product)
     return product
+
+async def process_feeds():
+    """Основна функція обробки фідів"""
+    print("🚀 Запуск feeds_generator з правильними префіксами та контролем розміру")
+    
+    # Завантажуємо категорії з prom_categories.xlsx
+    prom_categories = load_prom_categories()
+    
+    # Завантажуємо URL фідів
+    feed_urls = load_feeds()
+    if not feed_urls:
+        return
+    
+    # Завантажуємо/оновлюємо стабільну мапу URL→префікс
+    url_prefix_map = load_prefix_map(feed_urls)
+    
+    # Створюємо HTTP сесію
+    connector = aiohttp.TCPConnector(limit=5)
+    timeout = aiohttp.ClientTimeout(total=TIMEOUT)
+    
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        all_products = []
+        all_categories = {}
+        
+        # Обробляємо фіди по черзі з СТАБІЛЬНИМИ префіксами
+        for i, url in enumerate(feed_urls, 1):
+            print(f"\n📡 Обробка фіду {i}/{len(feed_urls)}: {url}")
+            prefix = url_prefix_map.get(url, f"f{i}_")
+            
+            success, content = await fetch_feed(session, url)
+            if not success:
+                continue
+            
+            products, categories = parse_xml_content(content, prom_categories, prefix)
+            # Енрічмент і скоринг для кожного продукту
+            enriched = []
+            for p in products:
+                p2 = enrich_product(p, categories)
+                enriched.append(p2)
+            all_products.extend(enriched)
+            all_categories.update(categories)
+        
+        # Фільтрація/архівація за порогом заповненості (попередній підрахунок)
+        total_scored = len(all_products)
+        above_threshold = 0
+        below_threshold = 0
+        for p in all_products:
+            score = p.get("completeness_score", score_completeness(p))
+            if score >= COMPLETENESS_THRESHOLD:
+                above_threshold += 1
+            else:
+                below_threshold += 1
+        print(f"\n🧮 Якість наповнення: {total_scored} товарів; ≥{COMPLETENESS_THRESHOLD}: {above_threshold}, <{COMPLETENESS_THRESHOLD}: {below_threshold}")
+        # Тимчасово залишимо всі; остаточне рішення нижче після завантаження state
+        filtered_products: List[Dict] = list(all_products)
+        all_products = filtered_products
+        
+        # Завантажуємо стан та оновлюємо last_seen по активних товарах
+        state = load_state()
+        update_state_with_products(state, all_products)
+        
+        # Визначаємо нові/існуючі та коригуємо за порогом
+        final_products: List[Dict] = []
+        dropped_new_low = 0
+        archived_existing_low = 0
+        kept_ok = 0
+        avg_score_acc = 0.0
+        counted = 0
+        for p in all_products:
+            score = p.get("completeness_score", score_completeness(p))
+            if isinstance(score, (int, float)):
+                avg_score_acc += float(score)
+                counted += 1
+            pid = p.get("id")
+            is_existing = pid in state and state[pid].get("last_seen") is not None
+            if score >= COMPLETENESS_THRESHOLD:
+                final_products.append(p)
+                kept_ok += 1
+            else:
+                if not is_existing and DROP_NEW_BELOW_THRESHOLD:
+                    # пропускаємо новий, недостатньо заповнений товар
+                    dropped_new_low += 1
+                    continue
+                if is_existing and ARCHIVE_EXISTING_BELOW_THRESHOLD:
+                    # публікуємо як відсутній
+                    p_arch = dict(p)
+                    p_arch["presence"] = False
+                    p_arch["quantity"] = 0
+                    final_products.append(p_arch)
+                    archived_existing_low += 1
+                else:
+                    final_products.append(p)
+        all_products = final_products
+        avg_score = (avg_score_acc / counted) if counted else 0.0
+        print(
+            f"📉 Фільтр якості: залишено OK={kept_ok}, відсіяно нових={dropped_new_low}, заархівовано існуючих={archived_existing_low}; середня повнота={avg_score:.1f}"
+        )
+        
+        # Побудова архівних оферів для зниклих позицій
+        active_ids = {p["id"] for p in all_products}
+        archive_offers = build_archive_offers(state, active_ids)
+        if archive_offers:
+            print(f"🗄️ Додано до архіву (available=false): {len(archive_offers)} позицій")
+            all_products.extend(archive_offers)
+        
+        # Зберігаємо оновлений стан
+        save_state(state)
+        
+        # Підраховуємо статистику
+        total_products = len(all_products)
+        available_products = sum(1 for p in all_products if p.get("presence", False))
+        unavailable_products = total_products - available_products
+        
+        print(f"\n📈 Підсумок: {total_products} товарів, {len(all_categories)} категорій")
+        print(f"📊 Наявність: {available_products} доступно ({(available_products/total_products*100 if total_products else 0):.1f}%), {unavailable_products} відсутніх")
+        
+        if total_products == 0:
+            print("❌ Немає товарів для обробки")
+            return
+        
+        # Розподіляємо товари на файли з контролем розміру
+        file_batches = distribute_products(all_products, all_categories)
+        
+        # Створюємо YML файли (статичні імена для стабільних посилань у Prom.ua)
+        for i, batch_products in enumerate(file_batches, 1):
+            filename = f"all_{i}.yml"
+            create_yml_file(batch_products, all_categories, filename)
+        
+        print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
