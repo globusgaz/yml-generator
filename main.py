@@ -140,9 +140,15 @@ def load_my_products() -> List[Dict]:
                 # Детальне логування для перших 3 товарів
                 if idx < 3:
                     print(f"\n🔍 Товар #{idx+1}:")
-                    print(f"   ID: {product_id}")
-                    print(f"   Назва: {name}")
-                    print(f"   Ціна: {price}")
+                    print(f"   ID (col 0): {product_id}")
+                    print(f"   Назва (col 2): {name}")
+                    print(f"   Col 9 raw: {row.iloc[9]}")
+                    print(f"   Col 9 type: {type(row.iloc[9])}")
+                    print(f"   Ціна parsed: {price}")
+                    # Показуємо кілька колонок навколо ціни
+                    print(f"   Col 8: {row.iloc[8] if pd.notna(row.iloc[8]) else 'NaN'}")
+                    print(f"   Col 10: {row.iloc[10] if pd.notna(row.iloc[10]) else 'NaN'}")
+                    print(f"   Col 11: {row.iloc[11] if pd.notna(row.iloc[11]) else 'NaN'}")
                 
                 # Перевірка обов'язкових полів
                 if not product_id:
