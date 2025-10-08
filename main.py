@@ -23,6 +23,9 @@ MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
 TIMEOUT = 30
 
+# Google Sheets для ваших товарів
+MY_PRODUCTS_SHEET_URL = os.getenv("MY_PRODUCTS_SHEET_URL", "")
+
 # Архівація зниклих товарів
 ENABLE_ARCHIVE = os.getenv("ENABLE_ARCHIVE", "true").lower() == "true"
 ARCHIVE_AFTER_HOURS = int(os.getenv("ARCHIVE_AFTER_HOURS", "1"))  # швидка реакція
@@ -78,6 +81,91 @@ def sanitize_offer(elem: etree._Element) -> etree._Element:
         elem.append(last_available)
     
     return elem
+
+def gsheet_to_csv_url(sheet_url: str) -> str:
+    """Конвертує Google Sheets URL в CSV export URL"""
+    if '/edit' in sheet_url:
+        base = sheet_url.split('/edit')[0]
+        return f"{base}/export?format=csv"
+    return sheet_url
+
+
+def load_my_products() -> List[Dict]:
+    """
+    Завантажує ваші власні товари з Google Sheets (експорт Prom.ua).
+    Повертає список товарів у форматі для YML.
+    """
+    if not MY_PRODUCTS_SHEET_URL:
+        print("ℹ️ Власні товари через Google Sheets не налаштовано")
+        return []
+    
+    try:
+        csv_url = gsheet_to_csv_url(MY_PRODUCTS_SHEET_URL)
+        print(f"📦 Завантажую ваші власні товари: {csv_url}")
+        df = pd.read_csv(csv_url)
+        
+        products: List[Dict] = []
+        loaded = 0
+        skipped = 0
+        
+        # Мапінг колонок з експорту Prom.ua
+        for idx, row in df.iterrows():
+            if idx == 0:  # Пропускаємо заголовок
+                continue
+            
+            try:
+                # Основні поля (за номерами колонок)
+                product_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else None  # A: Код_товару
+                name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # C: Назва_позиції_укр
+                description = str(row.iloc[7]).strip() if pd.notna(row.iloc[7]) else ""  # H: Опис_укр
+                price = float(row.iloc[9]) if pd.notna(row.iloc[9]) else None  # J: Ціна
+                currency = str(row.iloc[10]).strip() if pd.notna(row.iloc[10]) else "UAH"  # K: Валюта
+                image_url = str(row.iloc[21]).strip() if pd.notna(row.iloc[21]) else None  # V: Посилання_зображення
+                presence_str = str(row.iloc[22]).strip().lower() if pd.notna(row.iloc[22]) else ""  # W: Наявність
+                quantity = int(row.iloc[23]) if pd.notna(row.iloc[23]) and str(row.iloc[23]).strip() else 0  # X: Кількість
+                
+                # Перевірка обов'язкових полів
+                if not product_id or not name or not price:
+                    skipped += 1
+                    continue
+                
+                # Визначення наявності
+                presence = presence_str in ['в наявності', 'наявний', 'available', '+']
+                
+                # Формуємо товар
+                product = {
+                    "id": f"my_{product_id}",  # Префікс my_ для ваших товарів
+                    "name": name,
+                    "price": price,
+                    "currency": currency.upper(),
+                    "description": description if description else name,
+                    "presence": presence,
+                    "quantity": quantity if presence else 0,
+                    "pictures": [image_url] if image_url else [],
+                    "category_id": "0",  # Дефолтна категорія
+                    "vendor": "My Store",
+                    "vendor_code": product_id,
+                    "url": f"https://prom.ua/p{product_id}",
+                    "params": {}
+                }
+                
+                products.append(product)
+                loaded += 1
+                
+            except Exception as e:
+                skipped += 1
+                continue
+        
+        print(f"✅ Завантажено власних товарів: {loaded}")
+        print(f"⚠️ Пропущено: {skipped}")
+        available_count = sum(1 for p in products if p.get("presence", False))
+        print(f"📊 В наявності: {available_count}/{loaded}")
+        
+        return products
+    except Exception as e:
+        print(f"❌ Помилка завантаження власних товарів: {e}")
+        return []
+
 
 def load_feeds() -> List[str]:
     """Завантажує список URL фідів"""
