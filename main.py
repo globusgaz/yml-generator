@@ -975,23 +975,28 @@ async def process_feeds():
                 counted += 1
             pid = p.get("id")
             is_existing = pid in state and state[pid].get("last_seen") is not None
+            
+            # Якщо score вище порогу - завжди додаємо
             if score >= COMPLETENESS_THRESHOLD:
                 final_products.append(p)
                 kept_ok += 1
             else:
+                # Якщо score нижче порогу - перевіряємо прапорці
                 if not is_existing and DROP_NEW_BELOW_THRESHOLD:
-                    # пропускаємо новий, недостатньо заповнений товар
+                    # Новий товар з низькою якістю - пропускаємо
                     dropped_new_low += 1
                     continue
-                if is_existing and ARCHIVE_EXISTING_BELOW_THRESHOLD:
-                    # публікуємо як відсутній
+                elif is_existing and ARCHIVE_EXISTING_BELOW_THRESHOLD:
+                    # Існуючий товар з низькою якістю - архівуємо
                     p_arch = dict(p)
                     p_arch["presence"] = False
                     p_arch["quantity"] = 0
                     final_products.append(p_arch)
                     archived_existing_low += 1
                 else:
+                    # Прапорці вимкнені - додаємо товар як є
                     final_products.append(p)
+                    kept_ok += 1
         all_products = final_products
         avg_score = (avg_score_acc / counted) if counted else 0.0
         print(
