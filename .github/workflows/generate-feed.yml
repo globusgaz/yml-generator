@@ -52,20 +52,20 @@ jobs:
       - name: 🚀 Generate YML with enrichment
         env:
           # 📊 Енрічмент та фільтрація якості
-          ENRICH_STRICT: "true"                      # строге збагачення без вигадки
-          COMPLETENESS_THRESHOLD: "95"               # поріг заповненості 0-100 (назва+ціна+фото+опис)
-          DROP_NEW_BELOW_THRESHOLD: "true"           # не публікувати нові товари з низькою якістю
-          ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"   # архівувати існуючі товари з низькою якістю
+          ENRICH_STRICT: "true"
+          COMPLETENESS_THRESHOLD: "100"
+          DROP_NEW_BELOW_THRESHOLD: "false"
+          ARCHIVE_EXISTING_BELOW_THRESHOLD: "false"
           
           # 🗄️ Архівація зниклих товарів
-          ENABLE_ARCHIVE: "true"                     # увімкнути архівацію
-          ARCHIVE_AFTER_HOURS: "1"                   # архівувати через 1 год відсутності у фідах
-          MAX_ARCHIVE_PER_RUN: "500"                 # макс. кількість архівних товарів за раз
+          ENABLE_ARCHIVE: "true"
+          ARCHIVE_AFTER_HOURS: "1"
+          MAX_ARCHIVE_PER_RUN: "500"
           
           # 📦 Розмір та структура файлів
-          MAX_FILE_SIZE_MB: "80"                     # макс. розмір файлу (запас до GitHub 100MB)
-          MAX_FILES: "4"                             # макс. кількість YML файлів
-          TIMEOUT: "30"                              # таймаут завантаження фідів (сек)
+          MAX_FILE_SIZE_MB: "78"
+          MAX_FILES: "4"
+          TIMEOUT: "30"
           
           # 🏷️ Категорії (опціонально, якщо є Google Sheets)
           PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
