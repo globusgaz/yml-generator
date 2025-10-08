@@ -25,6 +25,7 @@ TIMEOUT = 30
 
 # Google Sheets для ваших товарів
 MY_PRODUCTS_SHEET_URL = os.getenv("MY_PRODUCTS_SHEET_URL", "")
+print(f"🔍 DEBUG: MY_PRODUCTS_SHEET_URL = {'[встановлено]' if MY_PRODUCTS_SHEET_URL else '[ПОРОЖНЬО]'}")
 
 # Архівація зниклих товарів
 ENABLE_ARCHIVE = os.getenv("ENABLE_ARCHIVE", "true").lower() == "true"
