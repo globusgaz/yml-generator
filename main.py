@@ -104,29 +104,58 @@ def load_my_products() -> List[Dict]:
         print(f"📦 Завантажую ваші власні товари: {csv_url}")
         df = pd.read_csv(csv_url)
         
+        print(f"📊 Завантажено рядків: {len(df)}, колонок: {len(df.columns)}")
+        print(f"📋 Перші 3 колонки заголовків: {list(df.columns[:3])}")
+        
         products: List[Dict] = []
         loaded = 0
         skipped = 0
+        skipped_reasons = {"no_id": 0, "no_name": 0, "no_price": 0, "parse_error": 0}
         
         # Мапінг колонок з експорту Prom.ua
         for idx, row in df.iterrows():
-            if idx == 0:  # Пропускаємо заголовок
-                continue
-            
             try:
                 # Основні поля (за номерами колонок)
                 product_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else None  # A: Код_товару
                 name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # C: Назва_позиції_укр
                 description = str(row.iloc[7]).strip() if pd.notna(row.iloc[7]) else ""  # H: Опис_укр
-                price = float(row.iloc[9]) if pd.notna(row.iloc[9]) else None  # J: Ціна
+                
+                # Парсинг ціни (може бути з комами)
+                try:
+                    price_str = str(row.iloc[9]).strip().replace(',', '.') if pd.notna(row.iloc[9]) else None
+                    price = float(price_str) if price_str and price_str != '' else None
+                except (ValueError, AttributeError):
+                    price = None
+                
                 currency = str(row.iloc[10]).strip() if pd.notna(row.iloc[10]) else "UAH"  # K: Валюта
                 image_url = str(row.iloc[21]).strip() if pd.notna(row.iloc[21]) else None  # V: Посилання_зображення
                 presence_str = str(row.iloc[22]).strip().lower() if pd.notna(row.iloc[22]) else ""  # W: Наявність
-                quantity = int(row.iloc[23]) if pd.notna(row.iloc[23]) and str(row.iloc[23]).strip() else 0  # X: Кількість
+                
+                # Парсинг кількості
+                try:
+                    quantity = int(float(str(row.iloc[23]).strip())) if pd.notna(row.iloc[23]) and str(row.iloc[23]).strip() else 0
+                except (ValueError, AttributeError):
+                    quantity = 0
+                
+                # Детальне логування для перших 3 товарів
+                if idx < 3:
+                    print(f"\n🔍 Товар #{idx+1}:")
+                    print(f"   ID: {product_id}")
+                    print(f"   Назва: {name}")
+                    print(f"   Ціна: {price}")
                 
                 # Перевірка обов'язкових полів
-                if not product_id or not name or not price:
+                if not product_id:
                     skipped += 1
+                    skipped_reasons["no_id"] += 1
+                    continue
+                if not name:
+                    skipped += 1
+                    skipped_reasons["no_name"] += 1
+                    continue
+                if not price:
+                    skipped += 1
+                    skipped_reasons["no_price"] += 1
                     continue
                 
                 # Визначення наявності
@@ -154,16 +183,27 @@ def load_my_products() -> List[Dict]:
                 
             except Exception as e:
                 skipped += 1
+                skipped_reasons["parse_error"] += 1
+                if idx < 3:
+                    print(f"❌ Помилка парсингу товару #{idx+1}: {e}")
                 continue
         
-        print(f"✅ Завантажено власних товарів: {loaded}")
+        print(f"\n✅ Завантажено власних товарів: {loaded}")
         print(f"⚠️ Пропущено: {skipped}")
+        if skipped > 0:
+            print(f"   Причини пропуску:")
+            print(f"   • Немає ID: {skipped_reasons['no_id']}")
+            print(f"   • Немає назви: {skipped_reasons['no_name']}")
+            print(f"   • Немає ціни: {skipped_reasons['no_price']}")
+            print(f"   • Помилка парсингу: {skipped_reasons['parse_error']}")
         available_count = sum(1 for p in products if p.get("presence", False))
         print(f"📊 В наявності: {available_count}/{loaded}")
         
         return products
     except Exception as e:
         print(f"❌ Помилка завантаження власних товарів: {e}")
+        import traceback
+        traceback.print_exc()
         return []
 
 
