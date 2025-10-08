@@ -124,6 +124,27 @@ def gsheet_to_csv_url(sheet_url: str) -> str:
     return sheet_url
 
 
+def is_good_category_name(name: str) -> bool:
+    """Перевіряє чи назва категорії зрозуміла і не є fallback."""
+    if not name or len(name.strip()) < 3:
+        return False
+    
+    # Відкидаємо fallback назви
+    bad_patterns = [
+        r"^Категорія \d+$",  # "Категорія 123"
+        r"^Category \d+$",    # "Category 123"  
+        r"^Cat \d+$",         # "Cat 123"
+        r"^\d+$",             # Тільки цифри
+        r"^[A-Z]{2,}\d{3,}$", # "ABC123"
+    ]
+    
+    for pattern in bad_patterns:
+        if re.match(pattern, name.strip(), re.IGNORECASE):
+            return False
+    
+    return True
+
+
 def load_prom_categories() -> Dict[str, str]:
     """Завантажує категорії з Google Sheets (пріоритет), потім з prom_categories.xlsx, інакше пусто."""
     # 1) Google Sheets через CSV (якщо задано змінну оточення)
@@ -136,6 +157,7 @@ def load_prom_categories() -> Dict[str, str]:
             categories: Dict[str, str] = {}
             loaded_count = 0
             error_count = 0
+            bad_names = 0
 
             # Очікуємо, що колонка A = ID, колонка C = Назва (позиційно)
             for _, row in df.iterrows():
@@ -157,12 +179,19 @@ def load_prom_categories() -> Dict[str, str]:
                     except Exception:
                         error_count += 1
                         continue
+                
                 if category_id and category_name:
-                    categories[category_id] = category_name
-                    loaded_count += 1
+                    if is_good_category_name(category_name):
+                        categories[category_id] = category_name
+                        loaded_count += 1
+                    else:
+                        bad_names += 1
+                        # Зберігаємо fallback назву для діагностики
+                        categories[category_id] = f"Категорія {category_id}"
                 else:
                     error_count += 1
-            print(f"📋 Категорії (Google Sheets): {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
+            
+            print(f"📋 Категорії (Google Sheets): {loaded_count} завантажено, {error_count} помилок, {bad_names} поганих назв з {df.shape[0]} рядків")
             if loaded_count:
                 return categories
             else:
@@ -190,6 +219,13 @@ def load_prom_categories() -> Dict[str, str]:
             categories = {}
             loaded_count = 0
             error_count = 0
+            bad_names = 0
+            
+            # Діагностика структури Excel
+            print(f"📊 Excel структура: {len(df.columns)} колонок")
+            for i, col in enumerate(df.columns):
+                print(f"  Колонка {i}: '{col}'")
+            
             for _, row in df.iterrows():
                 category_id = None
                 category_name = None
@@ -205,10 +241,17 @@ def load_prom_categories() -> Dict[str, str]:
                     name_col = df.columns[2]  # Колонка C
                     if pd.notna(row.get(name_col)):
                         category_name = str(row[name_col]).strip()
+                
                 if category_id and category_name:
-                    categories[category_id] = category_name
-                    loaded_count += 1
-            print(f"📋 Категорії (Excel): {loaded_count} завантажено, {error_count} помилок з {df.shape[0]} рядків")
+                    if is_good_category_name(category_name):
+                        categories[category_id] = category_name
+                        loaded_count += 1
+                    else:
+                        bad_names += 1
+                        # Зберігаємо fallback назву
+                        categories[category_id] = f"Категорія {category_id}"
+            
+            print(f"📋 Категорії (Excel): {loaded_count} завантажено, {error_count} помилок, {bad_names} поганих назв з {df.shape[0]} рядків")
             if loaded_count == 0:
                 print("⚠️ Категорії не знайдено - використовуємо XML як fallback")
             return categories
@@ -795,7 +838,16 @@ def score_completeness(product: Dict) -> int:
     if product.get("name"): score += 20
     if product.get("price"): score += 15
     if product.get("currency"): score += 5
-    if product.get("category_id"): score += 10
+    
+    # Категорія з бонусом за зрозумілість назви
+    category_id = product.get("category_id")
+    category_name = product.get("category_name", "")
+    if category_id:
+        if is_good_category_name(category_name):
+            score += 15  # Зрозуміла назва категорії
+        else:
+            score += 5   # Є категорія, але незрозуміла назва
+    
     pics = product.get("pictures", [])
     if pics and any(pics): score += 20
     if product.get("description"): score += 20
@@ -858,6 +910,21 @@ async def process_feeds():
                 enriched.append(p2)
             all_products.extend(enriched)
             all_categories.update(categories)
+        
+        # Фільтрація товарів з поганими категоріями
+        filtered_products = []
+        bad_category_count = 0
+        for p in all_products:
+            category_name = p.get("category_name", "")
+            if is_good_category_name(category_name) or not category_name:
+                filtered_products.append(p)
+            else:
+                bad_category_count += 1
+        
+        if bad_category_count > 0:
+            print(f"🚫 Відфільтровано товарів з поганими категоріями: {bad_category_count}")
+        
+        all_products = filtered_products
         
         # Фільтрація/архівація за порогом заповненості (попередній підрахунок)
         total_scored = len(all_products)
