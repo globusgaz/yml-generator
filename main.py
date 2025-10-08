@@ -40,6 +40,8 @@ HEADERS = {
 }
 
 GSHEET_ENV_VAR = "PROM_CATEGORIES_SHEET_URL"
+PRODUCTS_CONTROL_SHEET_URL = os.getenv("PRODUCTS_CONTROL_SHEET_URL", "")
+MY_PRODUCTS_SHEET_URL = os.getenv("MY_PRODUCTS_SHEET_URL", "")
 
 def sanitize_text(text: str) -> str:
     """Очищає текст від небажаних символів"""
@@ -143,6 +145,139 @@ def is_good_category_name(name: str) -> bool:
             return False
     
     return True
+
+
+def load_my_products() -> List[Dict]:
+    """
+    Завантажує ваші власні товари з Google Sheets (експорт Prom.ua).
+    Повертає список товарів у форматі для YML.
+    """
+    if not MY_PRODUCTS_SHEET_URL:
+        print("ℹ️ Власні товари через Google Sheets не налаштовано")
+        return []
+    
+    try:
+        csv_url = gsheet_to_csv_url(MY_PRODUCTS_SHEET_URL)
+        print(f"📦 Завантажую ваші власні товари: {csv_url}")
+        df = pd.read_csv(csv_url)
+        
+        products: List[Dict] = []
+        loaded = 0
+        skipped = 0
+        
+        # Мапінг колонок з експорту Prom.ua
+        for idx, row in df.iterrows():
+            if idx == 0:  # Пропускаємо заголовок
+                continue
+            
+            try:
+                # Основні поля
+                product_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else None  # A: Код_товару
+                name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # C: Назва_позиції_укр
+                description = str(row.iloc[7]).strip() if pd.notna(row.iloc[7]) else ""  # H: Опис_укр
+                price = float(row.iloc[9]) if pd.notna(row.iloc[9]) else None  # J: Ціна
+                currency = str(row.iloc[10]).strip() if pd.notna(row.iloc[10]) else "UAH"  # K: Валюта
+                image_url = str(row.iloc[21]).strip() if pd.notna(row.iloc[21]) else None  # V: Посилання_зображення
+                presence_str = str(row.iloc[22]).strip().lower() if pd.notna(row.iloc[22]) else ""  # W: Наявність
+                quantity = int(row.iloc[23]) if pd.notna(row.iloc[23]) and str(row.iloc[23]).strip() else 0  # X: Кількість
+                
+                # Перевірка обов'язкових полів
+                if not product_id or not name or not price:
+                    skipped += 1
+                    continue
+                
+                # Визначення наявності
+                presence = presence_str in ['в наявності', 'наявний', 'available', '+']
+                
+                # Формуємо товар
+                product = {
+                    "id": f"my_{product_id}",  # Префікс my_ для ваших товарів
+                    "name": name,
+                    "price": price,
+                    "currency": currency.upper(),
+                    "description": description if description else name,
+                    "presence": presence,
+                    "quantity": quantity if presence else 0,
+                    "pictures": [image_url] if image_url else [],
+                    "category_id": "0",  # Дефолтна категорія
+                    "vendor": "My Store",
+                    "vendor_code": product_id,
+                    "url": f"https://prom.ua/p{product_id}",
+                    "params": {}
+                }
+                
+                products.append(product)
+                loaded += 1
+                
+            except Exception as e:
+                skipped += 1
+                continue
+        
+        print(f"✅ Завантажено власних товарів: {loaded}")
+        print(f"⚠️ Пропущено: {skipped}")
+        available_count = sum(1 for p in products if p.get("presence", False))
+        print(f"📊 В наявності: {available_count}/{loaded}")
+        
+        return products
+    except Exception as e:
+        print(f"❌ Помилка завантаження власних товарів: {e}")
+        import traceback
+        traceback.print_exc()
+        return []
+
+
+def load_products_control_rules() -> Dict[str, str]:
+    """
+    Завантажує правила контролю товарів з Google Sheets.
+    Формат: product_id | action (show/hide/unavailable)
+    Повертає: {product_id: action}
+    """
+    if not PRODUCTS_CONTROL_SHEET_URL:
+        print("ℹ️ Контроль товарів через Google Sheets не налаштовано")
+        return {}
+    
+    try:
+        csv_url = gsheet_to_csv_url(PRODUCTS_CONTROL_SHEET_URL)
+        print(f"📋 Завантажую правила контролю товарів: {csv_url}")
+        df = pd.read_csv(csv_url)
+        
+        rules: Dict[str, str] = {}
+        loaded = 0
+        
+        # Очікуємо колонки: product_id (A), action (B)
+        for _, row in df.iterrows():
+            product_id = None
+            action = None
+            
+            try:
+                # Колонка A = product_id
+                if 0 in row and pd.notna(row[0]):
+                    product_id = str(row[0]).strip()
+                # Колонка B = action
+                if 1 in row and pd.notna(row[1]):
+                    action = str(row[1]).strip().lower()
+            except Exception:
+                try:
+                    if pd.notna(row.iloc[0]):
+                        product_id = str(row.iloc[0]).strip()
+                    if pd.notna(row.iloc[1]):
+                        action = str(row.iloc[1]).strip().lower()
+                except Exception:
+                    continue
+            
+            if product_id and action in ['show', 'hide', 'unavailable']:
+                rules[product_id] = action
+                loaded += 1
+        
+        print(f"✅ Завантажено правил контролю: {loaded} товарів")
+        print(f"   • show: {sum(1 for a in rules.values() if a == 'show')}")
+        print(f"   • hide: {sum(1 for a in rules.values() if a == 'hide')}")
+        print(f"   • unavailable: {sum(1 for a in rules.values() if a == 'unavailable')}")
+        
+        return rules
+    except Exception as e:
+        print(f"⚠️ Помилка завантаження правил контролю товарів: {e}")
+        return {}
 
 
 def load_prom_categories() -> Dict[str, str]:
@@ -613,11 +748,11 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         return False
 
 def estimate_product_size(product: Dict) -> int:
-    """Оцінює розмір товару в байтах"""
+    """Оцінює розмір товару в байтах з запасом безпеки"""
     size = 0
     
-    # Базовий розмір XML структури (збільшено для точності)
-    size += 800  # <offer> теги та структура з новими полями
+    # Базовий розмір XML структури + запас на XML escape символи та форматування
+    size += 1000  # <offer> теги, атрибути, відступи, escape символи
     
     # Розмір основних полів
     for field in ["id", "name", "price", "currency", "quantity", "category_id", "description", "url", "vendor", "vendor_code"]:
@@ -629,10 +764,14 @@ def estimate_product_size(product: Dict) -> int:
         if picture:
             size += len(picture.encode('utf-8'))
     
-    # Розмір параметрів
+    # Розмір параметрів (кожен <param> додає теги)
     for param_name, param_value in product.get("params", {}).items():
         if param_name and param_value:
             size += len(param_name.encode('utf-8')) + len(param_value.encode('utf-8'))
+            size += 50  # теги <param name="...">...</param>
+    
+    # Додаємо 15% запасу на XML escape (&lt; &gt; &amp; тощо) та форматування
+    size = int(size * 1.15)
     
     return size
 
@@ -877,6 +1016,9 @@ async def process_feeds():
     # Завантажуємо категорії з prom_categories.xlsx
     prom_categories = load_prom_categories()
     
+    # Завантажуємо ваші власні товари з Google Sheets
+    my_products = load_my_products()
+    
     # Завантажуємо URL фідів
     feed_urls = load_feeds()
     if not feed_urls:
@@ -1010,16 +1152,94 @@ async def process_feeds():
             print(f"🗄️ Додано до архіву (available=false): {len(archive_offers)} позицій")
             all_products.extend(archive_offers)
         
+        # ДОДАЄМО ВАШІ ВЛАСНІ ТОВАРИ
+        if my_products:
+            print(f"\n📦 Додаю ваші власні товари: {len(my_products)} шт")
+            
+            # Перевірка якості ваших товарів
+            my_quality_stats = {
+                "total": len(my_products),
+                "high_quality": 0,
+                "low_quality": 0,
+                "total_score": 0
+            }
+            
+            for p in my_products:
+                score = score_completeness(p)
+                p["completeness_score"] = score
+                my_quality_stats["total_score"] += score
+                
+                if score >= COMPLETENESS_THRESHOLD:
+                    my_quality_stats["high_quality"] += 1
+                else:
+                    my_quality_stats["low_quality"] += 1
+            
+            avg_my_score = my_quality_stats["total_score"] / my_quality_stats["total"] if my_quality_stats["total"] else 0
+            
+            print(f"📊 Якість ваших товарів:")
+            print(f"   • Високої якості (≥{COMPLETENESS_THRESHOLD}): {my_quality_stats['high_quality']}")
+            print(f"   • Низької якості (<{COMPLETENESS_THRESHOLD}): {my_quality_stats['low_quality']}")
+            print(f"   • Середній score: {avg_my_score:.1f}")
+            
+            all_products.extend(my_products)
+            print(f"✅ Загальна кількість після додавання: {len(all_products)} товарів")
+        
         # Зберігаємо оновлений стан
         save_state(state)
         
-        # Підраховуємо статистику
-        total_products = len(all_products)
-        available_products = sum(1 for p in all_products if p.get("presence", False))
-        unavailable_products = total_products - available_products
+        # Підраховуємо статистику ДО фільтрації
+        total_before = len(all_products)
+        available_before = sum(1 for p in all_products if p.get("presence", False))
+        unavailable_before = total_before - available_before
         
-        print(f"\n📈 Підсумок: {total_products} товарів, {len(all_categories)} категорій")
-        print(f"📊 Наявність: {available_products} доступно ({(available_products/total_products*100 if total_products else 0):.1f}%), {unavailable_products} відсутніх")
+        print(f"\n📈 Всього товарів: {total_before} ({available_before} доступно, {unavailable_before} відсутніх)")
+        
+        # Завантажуємо правила контролю товарів з Google Sheets
+        control_rules = load_products_control_rules()
+        
+        # Застосовуємо правила контролю
+        if control_rules:
+            hidden_count = 0
+            made_unavailable = 0
+            forced_show = 0
+            
+            filtered_products = []
+            for p in all_products:
+                pid = p.get("id")
+                action = control_rules.get(pid)
+                
+                if action == "hide":
+                    # Видаляємо товар з файлу (Prom.ua приховає автоматично)
+                    hidden_count += 1
+                    continue
+                elif action == "unavailable":
+                    # Позначаємо як недоступний
+                    p["presence"] = False
+                    p["quantity"] = 0
+                    made_unavailable += 1
+                    filtered_products.append(p)
+                elif action == "show":
+                    # Примусово показуємо (навіть якщо був відсутній)
+                    if not p.get("presence", False):
+                        p["presence"] = True
+                        forced_show += 1
+                    filtered_products.append(p)
+                else:
+                    # Немає правила - залишаємо як є
+                    filtered_products.append(p)
+            
+            all_products = filtered_products
+            print(f"📋 Застосовано правила контролю:")
+            print(f"   • Приховано: {hidden_count}")
+            print(f"   • Зроблено недоступними: {made_unavailable}")
+            print(f"   • Примусово показано: {forced_show}")
+        
+        # ФІЛЬТР: Залишаємо тільки товари в наявності
+        all_products = [p for p in all_products if p.get("presence", False)]
+        
+        total_products = len(all_products)
+        print(f"✅ Після фільтрації (тільки в наявності): {total_products} товарів")
+        print(f"📊 Відфільтровано відсутніх: {unavailable_before} товарів")
         
         if total_products == 0:
             print("❌ Немає товарів для обробки")
