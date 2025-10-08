@@ -115,40 +115,37 @@ def load_my_products() -> List[Dict]:
         # Мапінг колонок з експорту Prom.ua
         for idx, row in df.iterrows():
             try:
-                # Основні поля (за номерами колонок)
-                product_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else None  # A: Код_товару
-                name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # C: Назва_позиції_укр
-                description = str(row.iloc[7]).strip() if pd.notna(row.iloc[7]) else ""  # H: Опис_укр
+                # Основні поля (за номерами колонок з експорту Prom.ua)
+                product_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else None  # Колонка 0: Код_товару
+                name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # Колонка 2: Назва_позиції_укр
+                description = str(row.iloc[6]).strip() if pd.notna(row.iloc[6]) else ""  # Колонка 6: Опис_укр
                 
-                # Парсинг ціни (може бути з комами)
+                # Парсинг ціни (колонка 8: Ціна)
                 try:
-                    price_str = str(row.iloc[9]).strip().replace(',', '.') if pd.notna(row.iloc[9]) else None
-                    price = float(price_str) if price_str and price_str != '' else None
+                    price_str = str(row.iloc[8]).strip().replace(',', '.') if pd.notna(row.iloc[8]) else None
+                    price = float(price_str) if price_str and price_str != '' and price_str.lower() != 'nan' else None
                 except (ValueError, AttributeError):
                     price = None
                 
-                currency = str(row.iloc[10]).strip() if pd.notna(row.iloc[10]) else "UAH"  # K: Валюта
-                image_url = str(row.iloc[21]).strip() if pd.notna(row.iloc[21]) else None  # V: Посилання_зображення
-                presence_str = str(row.iloc[22]).strip().lower() if pd.notna(row.iloc[22]) else ""  # W: Наявність
+                currency = str(row.iloc[9]).strip() if pd.notna(row.iloc[9]) else "UAH"  # Колонка 9: Валюта
+                image_url = str(row.iloc[14]).strip() if pd.notna(row.iloc[14]) else None  # Колонка 14: Посилання_зображення
+                presence_str = str(row.iloc[15]).strip().lower() if pd.notna(row.iloc[15]) else ""  # Колонка 15: Наявність
                 
-                # Парсинг кількості
+                # Парсинг кількості (колонка 16: Кількість)
                 try:
-                    quantity = int(float(str(row.iloc[23]).strip())) if pd.notna(row.iloc[23]) and str(row.iloc[23]).strip() else 0
+                    quantity = int(float(str(row.iloc[16]).strip())) if pd.notna(row.iloc[16]) and str(row.iloc[16]).strip() else 0
                 except (ValueError, AttributeError):
                     quantity = 0
                 
                 # Детальне логування для перших 3 товарів
                 if idx < 3:
                     print(f"\n🔍 Товар #{idx+1}:")
-                    print(f"   ID (col 0): {product_id}")
-                    print(f"   Назва (col 2): {name}")
-                    print(f"   Col 9 raw: {row.iloc[9]}")
-                    print(f"   Col 9 type: {type(row.iloc[9])}")
-                    print(f"   Ціна parsed: {price}")
-                    # Показуємо кілька колонок навколо ціни
-                    print(f"   Col 8: {row.iloc[8] if pd.notna(row.iloc[8]) else 'NaN'}")
-                    print(f"   Col 10: {row.iloc[10] if pd.notna(row.iloc[10]) else 'NaN'}")
-                    print(f"   Col 11: {row.iloc[11] if pd.notna(row.iloc[11]) else 'NaN'}")
+                    print(f"   ID: {product_id}")
+                    print(f"   Назва: {name}")
+                    print(f"   Ціна: {price}")
+                    print(f"   Валюта: {currency}")
+                    print(f"   Наявність: {presence_str}")
+                    print(f"   Кількість: {quantity}")
                 
                 # Перевірка обов'язкових полів
                 if not product_id:
