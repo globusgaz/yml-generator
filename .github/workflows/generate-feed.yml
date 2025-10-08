@@ -67,8 +67,9 @@ jobs:
           MAX_FILES: "4"
           TIMEOUT: "30"
           
-          # 🏷️ Категорії (опціонально, якщо є Google Sheets)
+          # 🏷️ Категорії та ваші товари (Google Sheets)
           PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
+          MY_PRODUCTS_SHEET_URL: ${{ secrets.MY_PRODUCTS_SHEET_URL || '' }}
         run: python main.py
 
       - name: 🔄 Rebase
