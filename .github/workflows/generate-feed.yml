@@ -57,8 +57,8 @@ jobs:
           DROP_NEW_BELOW_THRESHOLD: "true"
           ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"
           
-          # 🗄️ Архівація зниклих товарів
-          ENABLE_ARCHIVE: "true"
+          # 🗄️ Архівація зниклих товарів (вимкнено для оптимізації)
+          ENABLE_ARCHIVE: "false"
           ARCHIVE_AFTER_HOURS: "1"
           MAX_ARCHIVE_PER_RUN: "500"
           
