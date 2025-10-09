@@ -721,17 +721,17 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
             if product.get("category_id"):
                 used_categories.add(product["category_id"])
         
-        # Додаємо тільки використовувані категорії
+        # Додаємо тільки використовувані категорії з нормальними назвами
         for cat_id in used_categories:
             if cat_id in categories:
-                category = etree.SubElement(categories_elem, "category")
-                category.set("id", cat_id)
-                category.text = categories[cat_id]
-            else:
-                # Якщо категорія не знайдена в Excel, використовуємо ID як назву
-                category = etree.SubElement(categories_elem, "category")
-                category.set("id", cat_id)
-                category.text = f"Категорія {cat_id}"
+                cat_name = categories[cat_id]
+                # Перевіряємо, чи назва категорії нормальна
+                if is_good_category_name(cat_name):
+                    category = etree.SubElement(categories_elem, "category")
+                    category.set("id", cat_id)
+                    category.text = cat_name
+                # Якщо назва погана - просто пропускаємо цю категорію
+            # Якщо категорія не знайдена в Excel - також пропускаємо
         
         # Додаємо товари
         offers = etree.SubElement(shop, "offers")
