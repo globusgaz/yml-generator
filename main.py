@@ -563,9 +563,10 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 # Артикул з XML фіду (визначаємо спочатку, бо використовується для ID)
                 vendor_code_elem = offer.find("vendorCode")
                 if vendor_code_elem is not None and vendor_code_elem.text:
-                    vendor_code = sanitize_text(vendor_code_elem.text)  # Оригінальний артикул (наприклад, "20323")
-                    # Використовуємо vendorCode з префіксом як основний ID товару для унікальності
-                    product_id = f"{feed_prefix}{vendor_code}"  # f6_20323
+                    original_vendor_code = sanitize_text(vendor_code_elem.text)  # Оригінальний артикул (наприклад, "20323")
+                    # Використовуємо vendorCode з префіксом для повної унікальності
+                    vendor_code = f"{feed_prefix}{original_vendor_code}"  # f6_20323
+                    product_id = vendor_code  # ID = vendorCode для зручності
                 else:
                     # Fallback: якщо немає vendorCode, використовуємо ID з XML з префіксом
                     if not product_id.startswith(feed_prefix):
