@@ -53,9 +53,9 @@ jobs:
         env:
           # 📊 Енрічмент та фільтрація якості
           ENRICH_STRICT: "true"
-          COMPLETENESS_THRESHOLD: "100"
-          DROP_NEW_BELOW_THRESHOLD: "false"
-          ARCHIVE_EXISTING_BELOW_THRESHOLD: "false"
+          COMPLETENESS_THRESHOLD: "95"
+          DROP_NEW_BELOW_THRESHOLD: "true"
+          ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"
           
           # 🗄️ Архівація зниклих товарів
           ENABLE_ARCHIVE: "true"

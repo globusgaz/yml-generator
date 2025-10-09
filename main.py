@@ -25,7 +25,6 @@ TIMEOUT = 30
 
 # Google Sheets для ваших товарів
 MY_PRODUCTS_SHEET_URL = os.getenv("MY_PRODUCTS_SHEET_URL", "")
-print(f"🔍 DEBUG: MY_PRODUCTS_SHEET_URL = {'[встановлено]' if MY_PRODUCTS_SHEET_URL else '[ПОРОЖНЬО]'}")
 
 # Архівація зниклих товарів
 ENABLE_ARCHIVE = os.getenv("ENABLE_ARCHIVE", "true").lower() == "true"
@@ -104,8 +103,6 @@ def load_my_products() -> List[Dict]:
         print(f"📦 Завантажую ваші власні товари: {csv_url}")
         df = pd.read_csv(csv_url)
         
-        print(f"📊 Завантажено рядків: {len(df)}, колонок: {len(df.columns)}")
-        print(f"📋 Перші 3 колонки заголовків: {list(df.columns[:3])}")
         
         products: List[Dict] = []
         loaded = 0
@@ -137,15 +134,6 @@ def load_my_products() -> List[Dict]:
                 except (ValueError, AttributeError):
                     quantity = 0
                 
-                # Детальне логування для перших 3 товарів
-                if idx < 3:
-                    print(f"\n🔍 Товар #{idx+1}:")
-                    print(f"   ID: {product_id}")
-                    print(f"   Назва: {name}")
-                    print(f"   Ціна: {price}")
-                    print(f"   Валюта: {currency}")
-                    print(f"   Наявність: {presence_str}")
-                    print(f"   Кількість: {quantity}")
                 
                 # Перевірка обов'язкових полів
                 if not product_id:
@@ -178,7 +166,8 @@ def load_my_products() -> List[Dict]:
                     "vendor": "My Store",
                     "vendor_code": product_id,
                     "url": f"https://prom.ua/p{product_id}",
-                    "params": {}
+                    "params": {},
+                    "is_my_product": True  # Маркер для пропуску фільтра якості
                 }
                 
                 products.append(product)
@@ -1147,6 +1136,11 @@ async def process_feeds():
                 has_desc = bool(p.get("description"))
                 has_params = bool(p.get("params"))
                 print(f"  {i}. '{name}...' | score={score} | name={has_name} price={has_price} currency={has_currency} cat={has_category} pics={has_pics} desc={has_desc} params={has_params}")
+        # ДОДАЄМО ВАШІ ВЛАСНІ ТОВАРИ (ДО ФІЛЬТРАЦІЇ)
+        if my_products:
+            print(f"\n📦 Додаю ваші власні товари: {len(my_products)} шт (пропускають фільтр якості)")
+            all_products.extend(my_products)
+        
         # Тимчасово залишимо всі; остаточне рішення нижче після завантаження state
         filtered_products: List[Dict] = list(all_products)
         all_products = filtered_products
@@ -1163,6 +1157,17 @@ async def process_feeds():
         avg_score_acc = 0.0
         counted = 0
         for p in all_products:
+            # ВАШІ ТОВАРИ ЗАВЖДИ ПРОХОДЯТЬ
+            if p.get("is_my_product"):
+                final_products.append(p)
+                kept_ok += 1
+                score = p.get("completeness_score", score_completeness(p))
+                if isinstance(score, (int, float)):
+                    avg_score_acc += float(score)
+                    counted += 1
+                continue
+            
+            # Фільтруємо товари постачальників
             score = p.get("completeness_score", score_completeness(p))
             if isinstance(score, (int, float)):
                 avg_score_acc += float(score)
@@ -1204,37 +1209,17 @@ async def process_feeds():
             print(f"🗄️ Додано до архіву (available=false): {len(archive_offers)} позицій")
             all_products.extend(archive_offers)
         
-        # ДОДАЄМО ВАШІ ВЛАСНІ ТОВАРИ
-        if my_products:
-            print(f"\n📦 Додаю ваші власні товари: {len(my_products)} шт")
-            
-            # Перевірка якості ваших товарів
-            my_quality_stats = {
-                "total": len(my_products),
-                "high_quality": 0,
-                "low_quality": 0,
-                "total_score": 0
-            }
-            
-            for p in my_products:
-                score = score_completeness(p)
-                p["completeness_score"] = score
-                my_quality_stats["total_score"] += score
-                
-                if score >= COMPLETENESS_THRESHOLD:
-                    my_quality_stats["high_quality"] += 1
-                else:
-                    my_quality_stats["low_quality"] += 1
-            
-            avg_my_score = my_quality_stats["total_score"] / my_quality_stats["total"] if my_quality_stats["total"] else 0
-            
-            print(f"📊 Якість ваших товарів:")
-            print(f"   • Високої якості (≥{COMPLETENESS_THRESHOLD}): {my_quality_stats['high_quality']}")
-            print(f"   • Низької якості (<{COMPLETENESS_THRESHOLD}): {my_quality_stats['low_quality']}")
-            print(f"   • Середній score: {avg_my_score:.1f}")
-            
-            all_products.extend(my_products)
-            print(f"✅ Загальна кількість після додавання: {len(all_products)} товарів")
+        
+        # Статистика по вашим товарам
+        my_products_in_final = [p for p in final_products if p.get("is_my_product")]
+        if my_products_in_final:
+            my_available = sum(1 for p in my_products_in_final if p.get("presence"))
+            my_total_score = sum(p.get("completeness_score", 0) for p in my_products_in_final)
+            my_avg_score = my_total_score / len(my_products_in_final) if my_products_in_final else 0
+            print(f"\n📊 Ваші товари у фіналі:")
+            print(f"   • Всього: {len(my_products_in_final)}")
+            print(f"   • В наявності: {my_available}")
+            print(f"   • Середній score: {my_avg_score:.1f}")
         
         # Зберігаємо оновлений стан
         save_state(state)
