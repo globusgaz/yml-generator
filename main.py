@@ -367,8 +367,7 @@ def load_prom_categories() -> Dict[str, str]:
                         loaded_count += 1
                     else:
                         bad_names += 1
-                        # Зберігаємо fallback назву для діагностики
-                        categories[category_id] = f"Категорія {category_id}"
+                        # Не додаємо погані категорії взагалі
                 else:
                     error_count += 1
             
@@ -429,8 +428,7 @@ def load_prom_categories() -> Dict[str, str]:
                         loaded_count += 1
                     else:
                         bad_names += 1
-                        # Зберігаємо fallback назву
-                        categories[category_id] = f"Категорія {category_id}"
+                        # Не додаємо погані категорії взагалі
             
             print(f"📋 Категорії (Excel): {loaded_count} завантажено, {error_count} помилок, {bad_names} поганих назв з {df.shape[0]} рядків")
             if loaded_count == 0:
@@ -495,7 +493,10 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 cat_id = cat.get("id")
                 cat_name = cat.text
                 if cat_id and cat_name:
-                    categories[cat_id] = sanitize_text(cat_name)
+                    sanitized_name = sanitize_text(cat_name)
+                    # Додаємо тільки категорії з нормальними назвами
+                    if is_good_category_name(sanitized_name):
+                        categories[cat_id] = sanitized_name
         
         # Знаходимо всі товари
         offers = root.findall(".//offer")
