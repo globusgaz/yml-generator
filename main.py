@@ -560,18 +560,24 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     skipped_no_price += 1
                     continue
                 
-                # Додаємо унікальний префікс фіду до ID (для унікальності між постачальниками)
-                if not product_id.startswith(feed_prefix):
-                    product_id = f"{feed_prefix}{product_id}"
-                
-                # Артикул з XML фіду (додаємо префікс для унікальності)
+                # Артикул з XML фіду (використовуємо для формування унікального ID)
                 vendor_code_elem = offer.find("vendorCode")
+                original_vendor_code = None
                 if vendor_code_elem is not None and vendor_code_elem.text:
-                    original_vendor_code = sanitize_text(vendor_code_elem.text)  # Оригінальний артикул
+                    original_vendor_code = sanitize_text(vendor_code_elem.text)  # Оригінальний артикул (20323)
+                
+                # Формуємо унікальний ID: префікс_originalID_vendorCode (f6_729470_20323)
+                if not product_id.startswith(feed_prefix):
+                    if original_vendor_code:
+                        product_id = f"{feed_prefix}{product_id}_{original_vendor_code}"  # f6_729470_20323
+                    else:
+                        product_id = f"{feed_prefix}{product_id}"  # f6_729470
+                
+                # vendorCode теж з префіксом для консистентності
+                if original_vendor_code:
                     vendor_code = f"{feed_prefix}{original_vendor_code}"  # f6_20323
                 else:
-                    # Fallback: використовуємо product_id як vendorCode
-                    vendor_code = product_id
+                    vendor_code = product_id  # Використовуємо product_id як fallback
                 
                 # Наявність
                 available = offer.get("available", "true")
