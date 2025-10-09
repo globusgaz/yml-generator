@@ -594,10 +594,16 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 url = sanitize_text(url_elem.text) if url_elem is not None and url_elem.text else ""
                 
                 # Зображення (може бути кілька, максимум 10)
+                # Відфільтровуємо проблемні фото (великі файли з 24.ecomm.plus)
                 pictures = []
                 for picture_elem in offer.findall("picture"):
                     if picture_elem is not None and picture_elem.text:
                         picture_url = sanitize_text(picture_elem.text)
+                        
+                        # Пропускаємо відомі проблемні URL (великі файли >10MB)
+                        if '24.ecomm.plus:8080/TrampOpt/' in picture_url:
+                            continue  # Ці фото >10MB, Prom.ua не приймає
+                        
                         # Виправляємо розширення на lowercase
                         if picture_url.upper().endswith('.JPEG'):
                             picture_url = picture_url[:-5] + '.jpeg'
@@ -605,6 +611,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                             picture_url = picture_url[:-4] + '.png'
                         elif picture_url.upper().endswith('.JPG'):
                             picture_url = picture_url[:-4] + '.jpg'
+                        
                         pictures.append(picture_url)
                         
                         # Обмежуємо до 10 фото
@@ -1045,10 +1052,30 @@ def render_description_html(name: str, bullets: List[str], params: Dict[str, str
 
 
 def score_completeness(product: Dict) -> int:
+    """
+    Строгий scoring для Prom.ua:
+    - Назва >20 символів: 20 балів
+    - Ціна: 15 балів
+    - Валюта: 5 балів
+    - Категорія зрозуміла: 15 балів
+    - Мінімум 1 валідне фото: 20 балів
+    - Опис >50 символів: 15 балів
+    - Хоча б 1 параметр: 10 балів
+    """
     score = 0
-    if product.get("name"): score += 20
-    if product.get("price"): score += 15
-    if product.get("currency"): score += 5
+    
+    # Назва (мінімум 20 символів)
+    name = product.get("name", "")
+    if len(name) >= 20:
+        score += 20
+    elif len(name) >= 10:
+        score += 10
+    
+    # Ціна та валюта
+    if product.get("price"): 
+        score += 15
+    if product.get("currency"): 
+        score += 5
     
     # Категорія з бонусом за зрозумілість назви
     category_id = product.get("category_id")
@@ -1059,10 +1086,24 @@ def score_completeness(product: Dict) -> int:
         else:
             score += 5   # Є категорія, але незрозуміла назва
     
+    # Фото (СТРОГО: мінімум 1 непорожнє фото)
     pics = product.get("pictures", [])
-    if pics and any(pics): score += 20
-    if product.get("description"): score += 20
-    if product.get("params"): score += 10
+    valid_pics = [p for p in pics if p and len(p) > 10]  # URL має бути >10 символів
+    if len(valid_pics) >= 1:
+        score += 20
+    
+    # Опис (мінімум 50 символів для змістовності)
+    desc = product.get("description", "")
+    if len(desc) >= 100:
+        score += 15
+    elif len(desc) >= 50:
+        score += 10
+    
+    # Параметри (хоча б 1 параметр)
+    params = product.get("params", {})
+    if params and len(params) > 0:
+        score += 10
+    
     return min(score, 100)
 
 
