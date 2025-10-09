@@ -117,6 +117,10 @@ def load_my_products() -> List[Dict]:
                 name = str(row.iloc[2]).strip() if pd.notna(row.iloc[2]) else None  # Колонка 2: Назва_позиції_укр
                 description = str(row.iloc[6]).strip() if pd.notna(row.iloc[6]) else ""  # Колонка 6: Опис_укр
                 
+                # Категорія з експорту
+                category_id = str(row.iloc[26]).strip() if pd.notna(row.iloc[26]) and str(row.iloc[26]).strip() else "0"  # Колонка 26: Ідентифікатор_підрозділу
+                category_name = str(row.iloc[18]).strip() if pd.notna(row.iloc[18]) else ""  # Колонка 18: Назва_групи
+                
                 # Парсинг ціни (колонка 8: Ціна)
                 try:
                     price_str = str(row.iloc[8]).strip().replace(',', '.') if pd.notna(row.iloc[8]) else None
@@ -162,7 +166,8 @@ def load_my_products() -> List[Dict]:
                     "presence": presence,
                     "quantity": quantity if presence else 0,
                     "pictures": [image_url] if image_url else [],
-                    "category_id": "0",  # Дефолтна категорія
+                    "category_id": category_id,  # З експорту Prom.ua
+                    "category_name": category_name,  # Назва категорії з експорту
                     "vendor": "My Store",
                     "vendor_code": product_id,
                     "url": f"https://prom.ua/p{product_id}",
