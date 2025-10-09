@@ -80,6 +80,9 @@ jobs:
           git add all_*.yml prefix_map.json
           git commit -m "🔄 Update YML and prefix map" || echo "No changes"
 
+      - name: 🔄 Pull before push
+        run: git pull --rebase origin main || true
+
       - name: ⬆️ Push to main
         run: git push origin HEAD:main
 
