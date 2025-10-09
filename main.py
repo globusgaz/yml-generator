@@ -501,6 +501,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         skipped_no_name = 0
         skipped_no_price = 0
         skipped_services = 0
+        skipped_bad_category = 0
         
         for offer in offers:
             try:
@@ -634,6 +635,11 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     if param_name and param_value:
                         params[param_name] = param_value
                 
+                # СТРОГИЙ ФІЛЬТР: пропускаємо товари з поганими категоріями
+                if not is_good_category_name(category_name):
+                    skipped_bad_category += 1
+                    continue  # Відсіюємо товари типу "Категорія 95118362"
+                
                 product = {
                     "id": product_id,
                     "name": name,
@@ -658,8 +664,8 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 continue
         
         # Коротка статистика фіду
-        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services
-        print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг)")
+        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services + skipped_bad_category
+        print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг, {skipped_bad_category} погані категорії)")
         
         # Детальна діагностика фільтрів
         if len(products) > 0:
