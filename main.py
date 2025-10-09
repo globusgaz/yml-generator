@@ -613,13 +613,21 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     if picture_elem is not None and picture_elem.text:
                         picture_url = sanitize_text(picture_elem.text)
                         
-                        # Пропускаємо відомі проблемні URL (великі файли >10MB)
+                        # Пропускаємо проблемні URL
                         if '24.ecomm.plus:8080/TrampOpt/' in picture_url:
-                            continue  # Ці фото >10MB, Prom.ua не приймає
+                            continue  # Великі файли >10MB
                         
-                        # Виправляємо розширення на lowercase
+                        # Пропускаємо битіURL (обрізані або неповні)
+                        if picture_url.endswith('...') or '...' in picture_url:
+                            continue
+                        
+                        # Перевіряємо базову валідність URL
+                        if not picture_url.startswith(('http://', 'https://')):
+                            continue
+                        
+                        # Виправляємо розширення (Prom.ua підтримує тільки .jpg, .png, .gif)
                         if picture_url.upper().endswith('.JPEG'):
-                            picture_url = picture_url[:-5] + '.jpeg'
+                            picture_url = picture_url[:-5] + '.jpg'  # .jpeg → .jpg
                         elif picture_url.upper().endswith('.PNG'):
                             picture_url = picture_url[:-4] + '.png'
                         elif picture_url.upper().endswith('.JPG'):
@@ -798,11 +806,11 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
             pictures = product.get("pictures", [])[:10]  # Обмежуємо до 10 фото
             for picture in pictures:
                 if picture:
-                    # Виправляємо розширення файлів на lowercase (Prom.ua вимога)
+                    # Виправляємо розширення файлів (Prom.ua підтримує тільки .jpg, .png, .gif)
                     picture_url = picture
-                    # .JPEG → .jpeg, .PNG → .png, .JPG → .jpg
+                    # .JPEG → .jpg, .PNG → .png, .JPG → .jpg
                     if picture_url.upper().endswith('.JPEG'):
-                        picture_url = picture_url[:-5] + '.jpeg'
+                        picture_url = picture_url[:-5] + '.jpg'  # .jpeg → .jpg
                     elif picture_url.upper().endswith('.PNG'):
                         picture_url = picture_url[:-4] + '.png'
                     elif picture_url.upper().endswith('.JPG'):
