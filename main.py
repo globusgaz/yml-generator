@@ -1223,6 +1223,14 @@ async def process_feeds():
         if my_products:
             print(f"\n📦 Додаю ваші власні товари: {len(my_products)} шт (пропускають фільтр якості)")
             all_products.extend(my_products)
+            
+            # Додаємо категорії з ваших товарів до загального словника
+            for p in my_products:
+                cat_id = p.get("category_id")
+                cat_name = p.get("category_name")
+                if cat_id and cat_name and cat_id != "0":
+                    all_categories[cat_id] = cat_name
+                    print(f"   ➕ Додаю категорію: {cat_id} → '{cat_name}'")
         
         # Тимчасово залишимо всі; остаточне рішення нижче після завантаження state
         filtered_products: List[Dict] = list(all_products)
