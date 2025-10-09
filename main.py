@@ -733,15 +733,19 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
                 category_elem = etree.SubElement(offer, "categoryId")
                 category_elem.text = str(product["category_id"])
             
-            # Виробник
-            if product["vendor"]:
-                vendor_elem = etree.SubElement(offer, "vendor")
-                vendor_elem.text = product["vendor"]
+            # Виробник (обов'язково для Prom.ua)
+            vendor_text = product.get("vendor", "").strip()
+            if not vendor_text or vendor_text.lower() in ['невідомий', 'unknown', '']:
+                vendor_text = "Виробник"  # Fallback для Prom.ua
+            vendor_elem = etree.SubElement(offer, "vendor")
+            vendor_elem.text = vendor_text
             
-            # Артикул
-            if product["vendor_code"]:
-                vendor_code_elem = etree.SubElement(offer, "vendorCode")
-                vendor_code_elem.text = product["vendor_code"]
+            # Артикул (обов'язково для Prom.ua)
+            vendor_code = product.get("vendor_code", "").strip()
+            if not vendor_code:
+                vendor_code = str(product["id"])  # Використовуємо ID як артикул
+            vendor_code_elem = etree.SubElement(offer, "vendorCode")
+            vendor_code_elem.text = vendor_code
             
             # Опис
             if product["description"]:
@@ -753,18 +757,23 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
                 url_elem = etree.SubElement(offer, "url")
                 url_elem.text = product["url"]
             
-            # Зображення (може бути кілька)
-            for picture in product["pictures"]:
+            # Зображення (максимум 10 для Prom.ua)
+            pictures = product.get("pictures", [])[:10]  # Обмежуємо до 10 фото
+            for picture in pictures:
                 if picture:
                     picture_elem = etree.SubElement(offer, "picture")
                     picture_elem.text = picture
             
-            # Параметри товару
+            # Параметри товару (обмеження Prom.ua: назва ≤255, значення ≤255)
             for param_name, param_value in product["params"].items():
                 if param_name and param_value:
+                    # Обрізаємо до 255 символів
+                    param_name_str = str(param_name)[:255]
+                    param_value_str = str(param_value)[:255]
+                    
                     param_elem = etree.SubElement(offer, "param")
-                    param_elem.set("name", param_name)
-                    param_elem.text = param_value
+                    param_elem.set("name", param_name_str)
+                    param_elem.text = param_value_str
         
         # Зберігаємо файл
         tree = etree.ElementTree(root)
