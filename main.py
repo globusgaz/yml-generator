@@ -593,15 +593,27 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 url_elem = offer.find("url")
                 url = sanitize_text(url_elem.text) if url_elem is not None and url_elem.text else ""
                 
-                # Зображення (може бути кілька)
+                # Зображення (може бути кілька, максимум 10)
                 pictures = []
                 for picture_elem in offer.findall("picture"):
                     if picture_elem is not None and picture_elem.text:
-                        pictures.append(sanitize_text(picture_elem.text))
+                        picture_url = sanitize_text(picture_elem.text)
+                        # Виправляємо розширення на lowercase
+                        if picture_url.upper().endswith('.JPEG'):
+                            picture_url = picture_url[:-5] + '.jpeg'
+                        elif picture_url.upper().endswith('.PNG'):
+                            picture_url = picture_url[:-4] + '.png'
+                        elif picture_url.upper().endswith('.JPG'):
+                            picture_url = picture_url[:-4] + '.jpg'
+                        pictures.append(picture_url)
+                        
+                        # Обмежуємо до 10 фото
+                        if len(pictures) >= 10:
+                            break
                 
                 # Якщо немає зображень, додаємо порожній список
                 if not pictures:
-                    pictures = [""]
+                    pictures = []
                 
                 # Валюта
                 currency_elem = offer.find("currencyId")
@@ -761,8 +773,18 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
             pictures = product.get("pictures", [])[:10]  # Обмежуємо до 10 фото
             for picture in pictures:
                 if picture:
+                    # Виправляємо розширення файлів на lowercase (Prom.ua вимога)
+                    picture_url = picture
+                    # .JPEG → .jpeg, .PNG → .png, .JPG → .jpg
+                    if picture_url.upper().endswith('.JPEG'):
+                        picture_url = picture_url[:-5] + '.jpeg'
+                    elif picture_url.upper().endswith('.PNG'):
+                        picture_url = picture_url[:-4] + '.png'
+                    elif picture_url.upper().endswith('.JPG'):
+                        picture_url = picture_url[:-4] + '.jpg'
+                    
                     picture_elem = etree.SubElement(offer, "picture")
-                    picture_elem.text = picture
+                    picture_elem.text = picture_url
             
             # Параметри товару (обмеження Prom.ua: назва ≤255, значення ≤255)
             for param_name, param_value in product["params"].items():
