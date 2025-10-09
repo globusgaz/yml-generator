@@ -560,9 +560,17 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     skipped_no_price += 1
                     continue
                 
-                # Додаємо унікальний стабільний префікс до ID
-                if not product_id.startswith(feed_prefix):
-                    product_id = f"{feed_prefix}{product_id}"
+                # Артикул з XML фіду (визначаємо спочатку, бо використовується для ID)
+                vendor_code_elem = offer.find("vendorCode")
+                if vendor_code_elem is not None and vendor_code_elem.text:
+                    vendor_code = sanitize_text(vendor_code_elem.text)  # Оригінальний артикул (наприклад, "20323")
+                    # Використовуємо vendorCode з префіксом як основний ID товару для унікальності
+                    product_id = f"{feed_prefix}{vendor_code}"  # f6_20323
+                else:
+                    # Fallback: якщо немає vendorCode, використовуємо ID з XML з префіксом
+                    if not product_id.startswith(feed_prefix):
+                        product_id = f"{feed_prefix}{product_id}"
+                    vendor_code = product_id  # Використовуємо product_id як vendorCode
                 
                 # Наявність
                 available = offer.get("available", "true")
@@ -588,10 +596,6 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 # Виробник
                 vendor_elem = offer.find("vendor")
                 vendor = sanitize_text(vendor_elem.text) if vendor_elem is not None and vendor_elem.text else "API-Prom.ua"
-                
-                # Артикул (використовуємо vendorCode з XML, fallback на product_id)
-                vendor_code_elem = offer.find("vendorCode")
-                vendor_code = sanitize_text(vendor_code_elem.text) if vendor_code_elem is not None and vendor_code_elem.text else product_id
                 
                 # Опис
                 description_elem = offer.find("description")
