@@ -484,19 +484,19 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         # Парсимо XML
         root = etree.fromstring(content)
         
-        # Використовуємо категорії з prom_categories.xlsx або з XML
+        # Використовуємо категорії з prom_categories.xlsx + доповнюємо з XML
         categories = prom_categories.copy()
-        if not categories:
-            # Знаходимо категорії з XML як fallback
-            category_elements = root.findall(".//category")
-            for cat in category_elements:
-                cat_id = cat.get("id")
-                cat_name = cat.text
-                if cat_id and cat_name:
-                    sanitized_name = sanitize_text(cat_name)
-                    # Додаємо тільки категорії з нормальними назвами
-                    if is_good_category_name(sanitized_name):
-                        categories[cat_id] = sanitized_name
+        
+        # Доповнюємо категоріями з XML (якщо їх немає в Excel)
+        category_elements = root.findall(".//category")
+        for cat in category_elements:
+            cat_id = cat.get("id")
+            cat_name = cat.text
+            if cat_id and cat_name and cat_id not in categories:  # Додаємо тільки відсутні
+                sanitized_name = sanitize_text(cat_name)
+                # Додаємо тільки категорії з нормальними назвами
+                if is_good_category_name(sanitized_name):
+                    categories[cat_id] = sanitized_name
         
         # Знаходимо всі товари
         offers = root.findall(".//offer")
