@@ -589,8 +589,9 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 vendor_elem = offer.find("vendor")
                 vendor = sanitize_text(vendor_elem.text) if vendor_elem is not None and vendor_elem.text else "API-Prom.ua"
                 
-                # Артикул (використовуємо ID як артикул)
-                vendor_code = product_id
+                # Артикул (використовуємо vendorCode з XML, fallback на product_id)
+                vendor_code_elem = offer.find("vendorCode")
+                vendor_code = sanitize_text(vendor_code_elem.text) if vendor_code_elem is not None and vendor_code_elem.text else product_id
                 
                 # Опис
                 description_elem = offer.find("description")
