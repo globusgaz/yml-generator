@@ -573,11 +573,8 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     else:
                         product_id = f"{feed_prefix}{product_id}"  # f6_729470
                 
-                # vendorCode теж з префіксом для консистентності
-                if original_vendor_code:
-                    vendor_code = f"{feed_prefix}{original_vendor_code}"  # f6_20323
-                else:
-                    vendor_code = product_id  # Використовуємо product_id як fallback
+                # vendorCode має бути унікальним - використовуємо product_id
+                vendor_code = product_id  # f6_729470_20323 - завжди унікальний
                 
                 # Наявність
                 available = offer.get("available", "true")
@@ -712,6 +709,32 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
     except Exception as e:
         print(f"❌ Помилка парсингу XML: {e}")
         return [], {}
+
+def normalize_categories(categories: Dict[str, str]) -> tuple:
+    """Нормалізує категорії - об'єднує різні ID з однаковою назвою в один ID."""
+    # Створюємо мапу назва -> найменший ID
+    name_to_id = {}
+    for cat_id, cat_name in categories.items():
+        if cat_name in name_to_id:
+            # Використовуємо найменший ID
+            if int(cat_id) < int(name_to_id[cat_name]):
+                name_to_id[cat_name] = cat_id
+        else:
+            name_to_id[cat_name] = cat_id
+    
+    # Створюємо нормалізовану мапу ID -> ID
+    id_mapping = {}
+    for cat_id, cat_name in categories.items():
+        normalized_id = name_to_id[cat_name]
+        id_mapping[cat_id] = normalized_id
+    
+    # Створюємо нормалізовану мапу категорій
+    normalized_categories = {}
+    for cat_name, normalized_id in name_to_id.items():
+        normalized_categories[normalized_id] = cat_name
+    
+    print(f"🔄 Нормалізація категорій: {len(categories)} → {len(normalized_categories)} унікальних")
+    return normalized_categories, id_mapping
 
 def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bool:
     """Створює YML файл з правильною структурою"""
@@ -1036,8 +1059,11 @@ def build_clean_title(category_name: str, vendor: str, vendor_code: str, name: s
     base = re.sub(r"\bSP\d{6,}\b", " ", base, flags=re.IGNORECASE)
     base = re.sub(r"\s+", " ", base).strip()
     parts = []
-    if category_name and not base.lower().startswith(category_name.lower()):
-        parts.append(category_name)
+    
+    # НЕ додаємо category_name до назви товару - воно часто неправильне з XML фідів
+    # if category_name and not base.lower().startswith(category_name.lower()):
+    #     parts.append(category_name)
+    
     if vendor:
         parts.append(vendor)
     # Модель/артикул як короткий ідентифікатор
@@ -1397,10 +1423,20 @@ async def process_feeds():
         # Розподіляємо товари на файли з контролем розміру
         file_batches = distribute_products(all_products, all_categories)
         
+        # Нормалізуємо категорії (об'єднуємо різні ID з однаковою назвою)
+        normalized_categories, id_mapping = normalize_categories(all_categories)
+        
+        # Нормалізуємо category_id в товарах
+        for batch_products in file_batches:
+            for product in batch_products:
+                old_category_id = product.get("category_id")
+                if old_category_id and old_category_id in id_mapping:
+                    product["category_id"] = id_mapping[old_category_id]
+        
         # Створюємо YML файли (статичні імена для стабільних посилань у Prom.ua)
         for i, batch_products in enumerate(file_batches, 1):
             filename = f"all_{i}.yml"
-            create_yml_file(batch_products, all_categories, filename)
+            create_yml_file(batch_products, normalized_categories, filename)
         
         print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
 
