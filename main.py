@@ -503,11 +503,14 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         print(f"📦 Фід {feed_prefix}: {len(offers)} товарів, {len(categories)} категорій")
         
         products = []
+        seen_products = {}  # Для відстеження дублікатів: {product_id: name}
         skipped_no_id = 0
         skipped_no_name = 0
         skipped_no_price = 0
         skipped_services = 0
         skipped_bad_category = 0
+        skipped_duplicates = 0
+        skipped_different_products = 0  # Різні товари з однаковим ID
         category_corrections = 0  # Лічильник виправлень категорій
         
         for offer in offers:
@@ -519,6 +522,36 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 product_id = offer.get("id")
                 if not product_id:
                     skipped_no_id += 1
+                    continue
+                
+                # ОПТИМІЗАЦІЯ: Перевіряємо наявність ОДРАЗУ (щоб не обробляти відсутні товари)
+                available = offer.get("available", "true")
+                presence = available.lower() in ("true", "1", "yes", "available", "in_stock")
+                
+                # Перевіряємо кількість
+                quantity_elem = offer.find("quantity")
+                quantity = 1 if presence else 0
+                if quantity_elem is not None and quantity_elem.text:
+                    try:
+                        quantity = int(float(quantity_elem.text.strip()))
+                    except (ValueError, AttributeError):
+                        pass
+                
+                # Якщо товару немає в наявності - пропускаємо (не має сенсу обробляти)
+                if not presence or quantity <= 0:
+                    continue
+                
+                # Ціна (перевіряємо рано, бо багато товарів без ціни)
+                price_elem = offer.find("price")
+                price = None
+                if price_elem is not None and price_elem.text:
+                    try:
+                        price = float(price_elem.text.strip().replace(",", "."))
+                    except (ValueError, AttributeError):
+                        pass
+                
+                if price is None or price <= 0:
+                    skipped_no_price += 1
                     continue
                 
                 # Основна інформація
@@ -548,19 +581,6 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     skipped_services += 1
                     continue
                 
-                # Ціна
-                price_elem = offer.find("price")
-                price = None
-                if price_elem is not None and price_elem.text:
-                    try:
-                        price = float(price_elem.text.strip().replace(",", "."))
-                    except (ValueError, AttributeError):
-                        pass
-                
-                if price is None or price <= 0:
-                    skipped_no_price += 1
-                    continue
-                
                 # Артикул з XML фіду (використовуємо для формування унікального ID)
                 vendor_code_elem = offer.find("vendorCode")
                 original_vendor_code = None
@@ -577,18 +597,26 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 # vendorCode має бути унікальним - використовуємо product_id
                 vendor_code = product_id  # f6_729470_20323 - завжди унікальний
                 
-                # Наявність
-                available = offer.get("available", "true")
-                presence = available.lower() in ("true", "1", "yes", "available", "in_stock")
+                # Перевіряємо на дублікат (якщо постачальник надав той самий товар двічі)
+                if product_id in seen_products:
+                    previous_name = seen_products[product_id]
+                    # Порівнюємо назви (нормалізовано: без пробілів, lowercase)
+                    name_normalized = name.lower().replace(" ", "").replace("-", "")
+                    prev_name_normalized = previous_name.lower().replace(" ", "").replace("-", "")
+                    
+                    if name_normalized == prev_name_normalized:
+                        # Це справжній дублікат (той самий товар)
+                        skipped_duplicates += 1
+                        continue
+                    else:
+                        # Це РІЗНІ товари з однаковим ID! Додаємо суфікс до ID
+                        product_id = f"{product_id}_v2"
+                        vendor_code = product_id
+                        skipped_different_products += 1
+                        print(f"⚠️ УВАГА: Різні товари з однаковим ID! '{previous_name}' vs '{name}' → додано суфікс _v2")
                 
-                # Кількість
-                quantity_elem = offer.find("quantity")
-                quantity = 1 if presence else 0
-                if quantity_elem is not None and quantity_elem.text:
-                    try:
-                        quantity = int(float(quantity_elem.text.strip()))
-                    except (ValueError, AttributeError):
-                        pass
+                # Зберігаємо product_id та назву для наступних перевірок
+                seen_products[product_id] = name
                 
                 # Категорія - спочатку беремо з XML, потім намагаємось виправити через prom_categories
                 category_elem = offer.find("categoryId")
@@ -701,8 +729,10 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                 continue
         
         # Коротка статистика фіду
-        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services + skipped_bad_category
-        print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг, {skipped_bad_category} погані категорії)")
+        total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services + skipped_bad_category + skipped_duplicates
+        print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг, {skipped_bad_category} погані категорії, {skipped_duplicates} дублікатів)")
+        if skipped_different_products > 0:
+            print(f"⚠️ Різні товари з однаковим ID (додано суфікс _v2): {skipped_different_products}")
         if category_corrections > 0:
             print(f"✅ Виправлено категорій за ключовими словами: {category_corrections}")
         
@@ -1125,19 +1155,50 @@ def find_category_by_keywords(product_name: str, prom_categories: Dict[str, str]
         'для', 'на', 'з', 'та', 'і', 'в', 'по', 'від', 'до', 'під', 'над', 'або', 'при',
         'api-prom.ua', 'valeso', 'шт', 'мм', 'см', 'м', 'кг', 'г', 'л', 'мл', 'шт.',
         'комплект', 'набір', 'new', 'pro', 'max', 'mini', 'plus', 'sale', 'код',
-        'black', 'white', 'red', 'blue', 'green', 'чорний', 'білий', 'червоний'
+        'black', 'white', 'red', 'blue', 'green', 'чорний', 'білий', 'червоний',
+        'із', 'зі', 'без', 'про', 'через', 'після', 'перед', 'між'
+    }
+    
+    # Whitelist: явні відповідності (товар → категорія)
+    # Ключ - слово в назві товару, значення - категорія з prom_categories
+    whitelist_keywords = {
+        'молоток': ['Ручний інструмент', 'Інструменти'],
+        'відверт': ['Ручний інструмент', 'Інструменти'],
+        'дриль': ['Електроінструменти', 'Інструменти'],
+        'перфоратор': ['Електроінструменти', 'Інструменти'],
+        'шуруповерт': ['Електроінструменти', 'Інструменти'],
+        'болгарк': ['Електроінструменти', 'Інструменти'],
+        'міксер': ['Дрібна побутова техніка', 'Техніка для кухні', 'Кухонна техніка'],
+        'блендер': ['Дрібна побутова техніка', 'Техніка для кухні', 'Кухонна техніка'],
+        'кавоварк': ['Дрібна побутова техніка', 'Техніка для кухні', 'Кухонна техніка'],
+        'чайник': ['Дрібна побутова техніка', 'Техніка для кухні', 'Кухонна техніка'],
+        'лампа': ['Освітлення', 'Світильники', 'Лампи', 'Люстри'],
+        'світильник': ['Освітлення', 'Світильники', 'Лампи', 'Люстри'],
+        'люстр': ['Освітлення', 'Світільники', 'Лампи', 'Люстри'],
+        'сумка': ['Сумки', 'Аксесуари', 'Одяг', 'Жіночі аксесуари', 'Чоловічі аксесуари'],
+        'рюкзак': ['Сумки', 'Аксесуари', 'Одяг', 'Спортивні товари'],
+        'ножиц': ['Ручний інструмент', 'Інструменти', 'Канцелярія'],
+        'пасатиж': ['Ручний інструмент', 'Інструменти'],
+        'тепловізор': ['Вимірювальні прилади', 'Інструменти', 'Обладнання'],
     }
     
     # Правила виключення: якщо в назві товару є ключ, не можна в категорії зі значень
     exclude_rules = {
-        'іграшк': ['бджільництв', 'інструмент', 'будівельн', 'сантехнік', 'паливо'],
-        'дитяч': ['інструмент', 'будівельн', 'сантехнік', 'паливо'],
+        'іграшк': ['бджільництв', 'інструмент', 'будівельн', 'сантехнік', 'паливо', 'харчов', 'снек'],
+        'дитяч': ['інструмент', 'будівельн', 'сантехнік', 'паливо', 'харчов', 'снек'],
         'самоклеюч': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо'],
         'самоклеящ': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо'],
         'панел': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо', 'снек', 'харчов'],
         '3d': ['автокрісл', 'паливо', 'снек', 'харчов'],
         'декоратив': ['паливо', 'снек', 'харчов', 'інструмент'],
         'рейк': ['снек', 'харчов', 'паливо'],
+        'сумк': ['тепловізор', 'прилад', 'обладнання', 'паливо', 'харчов', 'снек'],
+        'ножиц': ['паливо', 'харчов', 'снек', 'продукт', 'їжа'],
+        'міксер': ['комп\'ютер', 'оргтехніка', 'електронік', 'паливо'],
+        'лампа': ['харчов', 'снек', 'продукт', 'їжа', 'паливо'],
+        'світильник': ['харчов', 'снек', 'продукт', 'їжа', 'паливо'],
+        'інструмент': ['харчов', 'снек', 'продукт', 'їжа', 'одяг', 'взуття'],
+        'техніка': ['харчов', 'снек', 'паливо', 'одяг', 'взуття'],
     }
     
     # Витягуємо значущі слова з назви товару та нормалізуємо їх
@@ -1154,7 +1215,20 @@ def find_category_by_keywords(product_name: str, prom_categories: Dict[str, str]
     if not product_words:
         return None, None
     
-    # Шукаємо категорію з найбільшою кількістю збігів слів (використовуємо кеш)
+    # ЕТАП 1: Перевіряємо whitelist (явні відповідності)
+    for keyword, target_categories in whitelist_keywords.items():
+        if keyword in product_name_lower:
+            # Шукаємо чи є така категорія в prom_categories
+            for cat_id, cat_name in prom_categories.items():
+                cat_name_lower = cat_name.lower()
+                for target_cat in target_categories:
+                    if target_cat.lower() in cat_name_lower:
+                        # Знайшли точну відповідність з whitelist!
+                        return cat_id, cat_name
+            # Якщо категорію з whitelist не знайдено в prom_categories, продовжуємо звичайний пошук
+            break
+    
+    # ЕТАП 2: Шукаємо категорію з найбільшою кількістю збігів слів (використовуємо кеш)
     best_match = None
     best_match_score = 0
     
@@ -1189,8 +1263,8 @@ def find_category_by_keywords(product_name: str, prom_categories: Dict[str, str]
             best_match = (cat_id, cat_name)
     
     # Повертаємо результат тільки якщо є хороший збіг (мінімальний score)
-    # MIN_SCORE = мінімум 1 слово довжиною 6+ символів
-    MIN_SCORE = 0.75  # Знижуємо поріг для більшої гнучкості
+    # MIN_SCORE = мінімум 2 слова по 6 символів або 1 слово довжиною 12+ символів
+    MIN_SCORE = 1.5  # Підвищено для зменшення помилкових збігів
     if best_match and best_match_score >= MIN_SCORE:
         return best_match
     else:
