@@ -1061,93 +1061,140 @@ def build_archive_offers(state: Dict[str, Dict], active_ids: set) -> List[Dict]:
                 break
     return archive_offers
 
+def normalize_word(word: str) -> str:
+    """
+    Нормалізує слово для кращого порівняння (стеммінг).
+    Приводить до спільного кореня укр/рос варіанти.
+    """
+    if len(word) < 3:
+        return word
+    
+    normalized = word.lower()
+    
+    # Укр/Рос варіанти → спільний корінь
+    transliterations = {
+        'і': 'и', 'ї': 'и', 'є': 'е', 'ґ': 'г',
+    }
+    
+    for uk, ru in transliterations.items():
+        normalized = normalized.replace(uk, ru)
+    
+    # Видаляємо закінчення (від найдовших до найкоротших)
+    # Множина, відмінки, закінчення
+    endings = ['ами', 'ями', 'ах', 'ях', 'ів', 'ей', 'ою', 'єю', 'ем', 'ом', 'им', 'ий', 'ій', 'ого', 'ому', 'ім', 'ка', 'ок', 'ик', 'ік', 'ач', 'і', 'и', 'а', 'я', 'у', 'ю']
+    
+    for ending in endings:
+        if len(normalized) > 4 and normalized.endswith(ending):
+            normalized = normalized[:-len(ending)]
+            break
+    
+    return normalized
+
+
+# Глобальний кеш для нормалізованих категорій (щоб не нормалізувати кожен раз)
+_normalized_categories_cache = {}
+
 def find_category_by_keywords(product_name: str, prom_categories: Dict[str, str]) -> tuple:
     """
     Шукає відповідну категорію за ключовими словами в назві товару.
     Повертає (category_id, category_name) або (None, None) якщо не знайдено.
     """
+    global _normalized_categories_cache
+    
     if not product_name or not prom_categories:
         return None, None
     
-    # Нормалізуємо назву товару для пошуку
+    # Ініціалізуємо кеш категорій один раз
+    if not _normalized_categories_cache:
+        for cat_id, cat_name in prom_categories.items():
+            if not cat_name or len(cat_name.strip()) < 3:
+                continue
+            cat_name_lower = cat_name.lower()
+            cat_words_normalized = []
+            for cat_word in cat_name_lower.split():
+                cat_word = cat_word.strip('.,;:!?()[]{}\"\'')
+                if len(cat_word) >= 3:
+                    cat_words_normalized.append(normalize_word(cat_word))
+            _normalized_categories_cache[cat_id] = (cat_name, cat_name_lower, cat_words_normalized)
+    
+    # Нормалізуємо назву товару
     product_name_lower = product_name.lower()
     
-    # Словник ключових слів → ймовірні категорії
-    keyword_rules = {
-        # Сантехніка та кухня
-        "змішувач": ["змішувач", "сантехнік", "кран"],
-        "мийка": ["мийка", "сантехнік", "кухн"],
-        "раковин": ["раковин", "сантехнік", "умивальник"],
-        "душ": ["душ", "сантехнік"],
-        "ванн": ["ванн", "сантехнік"],
-        "унітаз": ["унітаз", "сантехнік"],
-        
-        # Освітлення
-        "люстра": ["люстр", "світильник", "освітлен"],
-        "світильник": ["світильник", "освітлен", "лампа"],
-        "торшер": ["торшер", "освітлен"],
-        "бра": ["бра", "освітлен"],
-        
-        # Електроніка
-        "телефон": ["телефон", "смартфон", "мобільн"],
-        "планшет": ["планшет", "електронік"],
-        "ноутбук": ["ноутбук", "комп'ютер"],
-        "монітор": ["монітор", "комп'ютер"],
-        
-        # Побутова техніка
-        "пилосос": ["пилосос", "побутов", "прибиран"],
-        "праска": ["праска", "побутов"],
-        "мультиварка": ["мультиварка", "кухн", "побутов"],
-        "міксер": ["міксер", "кухн", "побутов"],
-        "блендер": ["блендер", "кухн", "побутов"],
-        
-        # Інструменти
-        "дриль": ["дриль", "інструмент", "електроінструмент"],
-        "шуруповерт": ["шуруповерт", "інструмент"],
-        "болгарка": ["болгарка", "інструмент"],
-        "пила": ["пила", "інструмент"],
-        
-        # Одяг
-        "футболка": ["футболк", "одяг", "майк"],
-        "штани": ["штан", "одяг", "брюки"],
-        "куртка": ["куртк", "одяг", "верхній одяг"],
-        "взуття": ["взуття", "черевик", "туфл"],
-        
-        # Товари для тварин
-        "корм": ["корм", "тварин", "собак", "кіш", "pet"],
-        "нашийник": ["нашийник", "тварин", "собак"],
-        "когтеточка": ["когтеточк", "тварин", "кіш"],
+    # Стоп-слова, які ігноруємо (не несуть смислу для категоризації)
+    stop_words = {
+        'для', 'на', 'з', 'та', 'і', 'в', 'по', 'від', 'до', 'під', 'над', 'або', 'при',
+        'api-prom.ua', 'valeso', 'шт', 'мм', 'см', 'м', 'кг', 'г', 'л', 'мл', 'шт.',
+        'комплект', 'набір', 'new', 'pro', 'max', 'mini', 'plus', 'sale', 'код',
+        'black', 'white', 'red', 'blue', 'green', 'чорний', 'білий', 'червоний'
     }
     
-    # Шукаємо ключові слова в назві товару
-    matched_keywords = []
-    for keyword, search_terms in keyword_rules.items():
-        if keyword in product_name_lower:
-            matched_keywords.extend(search_terms)
+    # Правила виключення: якщо в назві товару є ключ, не можна в категорії зі значень
+    exclude_rules = {
+        'іграшк': ['бджільництв', 'інструмент', 'будівельн', 'сантехнік', 'паливо'],
+        'дитяч': ['інструмент', 'будівельн', 'сантехнік', 'паливо'],
+        'самоклеюч': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо'],
+        'самоклеящ': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо'],
+        'панел': ['автокрісл', 'електронік', 'комп\'ютер', 'паливо', 'снек', 'харчов'],
+        '3d': ['автокрісл', 'паливо', 'снек', 'харчов'],
+        'декоратив': ['паливо', 'снек', 'харчов', 'інструмент'],
+        'рейк': ['снек', 'харчов', 'паливо'],
+    }
     
-    if not matched_keywords:
+    # Витягуємо значущі слова з назви товару та нормалізуємо їх
+    product_words = []
+    product_words_normalized = []
+    for word in product_name_lower.split():
+        # Прибираємо розділові знаки
+        word = word.strip('.,;:!?()[]{}\"\'')
+        # Перевіряємо довжину та чи не є стоп-словом
+        if len(word) >= 3 and word not in stop_words:
+            product_words.append(word)
+            product_words_normalized.append(normalize_word(word))
+    
+    if not product_words:
         return None, None
     
-    # Шукаємо категорію, яка містить хоча б одне з ключових слів
+    # Шукаємо категорію з найбільшою кількістю збігів слів (використовуємо кеш)
     best_match = None
     best_match_score = 0
     
-    for cat_id, cat_name in prom_categories.items():
-        if not cat_name:
+    for cat_id, (cat_name, cat_name_lower, cat_words_normalized) in _normalized_categories_cache.items():
+        # Перевіряємо правила виключення
+        skip_category = False
+        for exclude_key, exclude_cats in exclude_rules.items():
+            if exclude_key in product_name_lower:
+                for exclude_cat in exclude_cats:
+                    if exclude_cat in cat_name_lower:
+                        skip_category = True
+                        break
+            if skip_category:
+                break
+        
+        if skip_category:
             continue
         
-        cat_name_lower = cat_name.lower()
         match_score = 0
         
-        for keyword in matched_keywords:
-            if keyword in cat_name_lower:
-                match_score += 1
+        # Порівнюємо нормалізовані слова (для укр/рос варіантів)
+        for i, norm_word in enumerate(product_words_normalized):
+            if norm_word in cat_words_normalized:
+                # Довші слова дають більший вес (більш специфічні)
+                original_word = product_words[i]
+                weight = len(original_word) / 8.0
+                match_score += weight
         
-        if match_score > best_match_score:
+        # Якщо знайшли кращий збіг
+        if match_score > best_match_score and match_score > 0:
             best_match_score = match_score
             best_match = (cat_id, cat_name)
     
-    return best_match if best_match else (None, None)
+    # Повертаємо результат тільки якщо є хороший збіг (мінімальний score)
+    # MIN_SCORE = мінімум 1 слово довжиною 6+ символів
+    MIN_SCORE = 0.75  # Знижуємо поріг для більшої гнучкості
+    if best_match and best_match_score >= MIN_SCORE:
+        return best_match
+    else:
+        return None, None
 
 
 def normalize_param_name(name: str) -> str:
