@@ -736,19 +736,14 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         if category_corrections > 0:
             print(f"✅ Виправлено категорій за ключовими словами: {category_corrections}")
         
-        # Детальна діагностика фільтрів
-        if len(products) > 0:
-            sample_products = products[:5]  # Перші 5 товарів для аналізу
-            print(f"🔍 Діагностика фільтрів для {feed_prefix}:")
-            for i, p in enumerate(sample_products, 1):
-                name = p.get("name", "")[:50]
-                price = p.get("price", 0)
-                presence = p.get("presence", False)
-                service_check = any(keyword in name.lower() for keyword in [
-                    'услуга', 'услуги', 'сервис', 'обслуживание', 'обслуговування',
-                    'ремонт', 'настройка', 'настроювання', 'установка', 'встановлення'
-                ])
-                print(f"  {i}. '{name}...' | ціна={price} | наявність={presence} | послуга={service_check}")
+        # Детальна діагностика фільтрів вимкнена для зменшення логів
+        # Розкоментуйте якщо потрібна детальна інформація
+        # if len(products) > 0:
+        #     sample_products = products[:5]
+        #     print(f"🔍 Діагностика фільтрів для {feed_prefix}:")
+        #     for i, p in enumerate(sample_products, 1):
+        #         name = p.get("name", "")[:50]
+        #         print(f"  {i}. '{name}...' | ціна={p.get('price')} | наявність={p.get('presence')}")
         
         return products, categories
         
@@ -1512,12 +1507,15 @@ async def process_feeds():
             all_products.extend(my_products)
             
             # Додаємо категорії з ваших товарів до загального словника
+            added_categories = 0
             for p in my_products:
                 cat_id = p.get("category_id")
                 cat_name = p.get("category_name")
                 if cat_id and cat_name and cat_id != "0":
                     all_categories[cat_id] = cat_name
-                    print(f"   ➕ Додаю категорію: {cat_id} → '{cat_name}'")
+                    added_categories += 1
+            if added_categories > 0:
+                print(f"   ➕ Додано категорій з моїх товарів: {added_categories}")
         
         # Тимчасово залишимо всі; остаточне рішення нижче після завантаження state
         filtered_products: List[Dict] = list(all_products)
