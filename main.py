@@ -508,6 +508,7 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         skipped_no_price = 0
         skipped_services = 0
         skipped_bad_category = 0
+        category_corrections = 0  # Лічильник виправлень категорій
         
         for offer in offers:
             try:
@@ -589,13 +590,26 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     except (ValueError, AttributeError):
                         pass
                 
-                # Категорія
-                category_id_elem = offer.find("categoryId")
-                if category_id_elem is not None and category_id_elem.text:
-                    category_id = sanitize_text(category_id_elem.text)
+                # Категорія - спочатку беремо з XML, потім намагаємось виправити через prom_categories
+                category_elem = offer.find("categoryId")
+                xml_category_id = sanitize_text(category_elem.text) if category_elem is not None and category_elem.text else "0"
+                xml_category_name = categories.get(xml_category_id, f"Категорія {xml_category_id}")
+                
+                # Спробуємо знайти краще відповідність в prom_categories за назвою товару
+                better_cat_id, better_cat_name = find_category_by_keywords(name, prom_categories)
+                
+                if better_cat_id and better_cat_name:
+                    # Знайшли кращу категорію за ключовими словами
+                    category_id = better_cat_id
+                    category_name = better_cat_name
+                    category_corrections += 1
+                    # Додаємо виправлену категорію до списку
+                    if category_id not in categories:
+                        categories[category_id] = category_name
                 else:
-                    category_id = offer.get("categoryId")
-                category_name = categories.get(category_id, "Без категорії") if category_id else "Без категорії"
+                    # Використовуємо категорію з XML
+                    category_id = xml_category_id
+                    category_name = xml_category_name
                 
                 # Виробник
                 vendor_elem = offer.find("vendor")
@@ -689,6 +703,8 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
         # Коротка статистика фіду
         total_skipped = skipped_no_id + skipped_no_name + skipped_no_price + skipped_services + skipped_bad_category
         print(f"📊 Фід {feed_prefix}: {len(products)} оброблено, {total_skipped} пропущено ({skipped_services} послуг, {skipped_bad_category} погані категорії)")
+        if category_corrections > 0:
+            print(f"✅ Виправлено категорій за ключовими словами: {category_corrections}")
         
         # Детальна діагностика фільтрів
         if len(products) > 0:
@@ -712,9 +728,20 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
 
 def normalize_categories(categories: Dict[str, str]) -> tuple:
     """Нормалізує категорії - об'єднує різні ID з однаковою назвою в один ID."""
+    # Фільтруємо категорії з дуже великими ID (ймовірно, неправильні)
+    MAX_VALID_CATEGORY_ID = 10000000  # 10 мільйонів
+    filtered_categories = {}
+    for cat_id, cat_name in categories.items():
+        try:
+            if int(cat_id) < MAX_VALID_CATEGORY_ID:
+                filtered_categories[cat_id] = cat_name
+        except (ValueError, TypeError):
+            # Якщо ID не число - пропускаємо
+            pass
+    
     # Створюємо мапу назва -> найменший ID
     name_to_id = {}
-    for cat_id, cat_name in categories.items():
+    for cat_id, cat_name in filtered_categories.items():
         if cat_name in name_to_id:
             # Використовуємо найменший ID
             if int(cat_id) < int(name_to_id[cat_name]):
@@ -724,16 +751,18 @@ def normalize_categories(categories: Dict[str, str]) -> tuple:
     
     # Створюємо нормалізовану мапу ID -> ID
     id_mapping = {}
-    for cat_id, cat_name in categories.items():
-        normalized_id = name_to_id[cat_name]
-        id_mapping[cat_id] = normalized_id
+    for cat_id, cat_name in filtered_categories.items():
+        normalized_id = name_to_id.get(cat_name)
+        if normalized_id:
+            id_mapping[cat_id] = normalized_id
     
     # Створюємо нормалізовану мапу категорій
     normalized_categories = {}
     for cat_name, normalized_id in name_to_id.items():
         normalized_categories[normalized_id] = cat_name
     
-    print(f"🔄 Нормалізація категорій: {len(categories)} → {len(normalized_categories)} унікальних")
+    bad_count = len(categories) - len(filtered_categories)
+    print(f"🔄 Нормалізація категорій: {len(categories)} → {len(filtered_categories)} валідних → {len(normalized_categories)} унікальних (відфільтровано {bad_count} з великими ID)")
     return normalized_categories, id_mapping
 
 def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bool:
@@ -1032,6 +1061,95 @@ def build_archive_offers(state: Dict[str, Dict], active_ids: set) -> List[Dict]:
                 break
     return archive_offers
 
+def find_category_by_keywords(product_name: str, prom_categories: Dict[str, str]) -> tuple:
+    """
+    Шукає відповідну категорію за ключовими словами в назві товару.
+    Повертає (category_id, category_name) або (None, None) якщо не знайдено.
+    """
+    if not product_name or not prom_categories:
+        return None, None
+    
+    # Нормалізуємо назву товару для пошуку
+    product_name_lower = product_name.lower()
+    
+    # Словник ключових слів → ймовірні категорії
+    keyword_rules = {
+        # Сантехніка та кухня
+        "змішувач": ["змішувач", "сантехнік", "кран"],
+        "мийка": ["мийка", "сантехнік", "кухн"],
+        "раковин": ["раковин", "сантехнік", "умивальник"],
+        "душ": ["душ", "сантехнік"],
+        "ванн": ["ванн", "сантехнік"],
+        "унітаз": ["унітаз", "сантехнік"],
+        
+        # Освітлення
+        "люстра": ["люстр", "світильник", "освітлен"],
+        "світильник": ["світильник", "освітлен", "лампа"],
+        "торшер": ["торшер", "освітлен"],
+        "бра": ["бра", "освітлен"],
+        
+        # Електроніка
+        "телефон": ["телефон", "смартфон", "мобільн"],
+        "планшет": ["планшет", "електронік"],
+        "ноутбук": ["ноутбук", "комп'ютер"],
+        "монітор": ["монітор", "комп'ютер"],
+        
+        # Побутова техніка
+        "пилосос": ["пилосос", "побутов", "прибиран"],
+        "праска": ["праска", "побутов"],
+        "мультиварка": ["мультиварка", "кухн", "побутов"],
+        "міксер": ["міксер", "кухн", "побутов"],
+        "блендер": ["блендер", "кухн", "побутов"],
+        
+        # Інструменти
+        "дриль": ["дриль", "інструмент", "електроінструмент"],
+        "шуруповерт": ["шуруповерт", "інструмент"],
+        "болгарка": ["болгарка", "інструмент"],
+        "пила": ["пила", "інструмент"],
+        
+        # Одяг
+        "футболка": ["футболк", "одяг", "майк"],
+        "штани": ["штан", "одяг", "брюки"],
+        "куртка": ["куртк", "одяг", "верхній одяг"],
+        "взуття": ["взуття", "черевик", "туфл"],
+        
+        # Товари для тварин
+        "корм": ["корм", "тварин", "собак", "кіш", "pet"],
+        "нашийник": ["нашийник", "тварин", "собак"],
+        "когтеточка": ["когтеточк", "тварин", "кіш"],
+    }
+    
+    # Шукаємо ключові слова в назві товару
+    matched_keywords = []
+    for keyword, search_terms in keyword_rules.items():
+        if keyword in product_name_lower:
+            matched_keywords.extend(search_terms)
+    
+    if not matched_keywords:
+        return None, None
+    
+    # Шукаємо категорію, яка містить хоча б одне з ключових слів
+    best_match = None
+    best_match_score = 0
+    
+    for cat_id, cat_name in prom_categories.items():
+        if not cat_name:
+            continue
+        
+        cat_name_lower = cat_name.lower()
+        match_score = 0
+        
+        for keyword in matched_keywords:
+            if keyword in cat_name_lower:
+                match_score += 1
+        
+        if match_score > best_match_score:
+            best_match_score = match_score
+            best_match = (cat_id, cat_name)
+    
+    return best_match if best_match else (None, None)
+
+
 def normalize_param_name(name: str) -> str:
     if not name:
         return ""
@@ -1219,9 +1337,10 @@ async def process_feeds():
             # Енрічмент і скоринг для кожного продукту
             enriched = []
             for p in products:
-                p2 = enrich_product(p, categories)
+                p2 = enrich_product(p, prom_categories)
                 enriched.append(p2)
             all_products.extend(enriched)
+            # Додаємо категорії з XML фіду постачальника
             all_categories.update(categories)
         
         # Фільтрація товарів з поганими категоріями
@@ -1423,15 +1542,26 @@ async def process_feeds():
         # Розподіляємо товари на файли з контролем розміру
         file_batches = distribute_products(all_products, all_categories)
         
-        # Нормалізуємо категорії (об'єднуємо різні ID з однаковою назвою)
+        # Нормалізуємо категорії (об'єднуємо дублікати з однаковими назвами)
         normalized_categories, id_mapping = normalize_categories(all_categories)
         
-        # Нормалізуємо category_id в товарах
-        for batch_products in file_batches:
-            for product in batch_products:
-                old_category_id = product.get("category_id")
-                if old_category_id and old_category_id in id_mapping:
-                    product["category_id"] = id_mapping[old_category_id]
+        # Оновлюємо category_id у товарах відповідно до нормалізованих категорій
+        # Товари з невалідними категоріями отримують дефолтну категорію "0"
+        if "0" not in normalized_categories:
+            normalized_categories["0"] = "Без категорії"
+        
+        reassigned_count = 0
+        for p in all_products:
+            old_cat_id = p.get("category_id")
+            if old_cat_id and old_cat_id in id_mapping:
+                p["category_id"] = id_mapping[old_cat_id]
+            elif old_cat_id and old_cat_id not in normalized_categories:
+                # Категорія була відфільтрована - призначаємо дефолтну
+                p["category_id"] = "0"
+                reassigned_count += 1
+        
+        if reassigned_count > 0:
+            print(f"⚠️ Перенаправлено {reassigned_count} товарів до категорії 'Без категорії' (невалідні категорії)")
         
         # Створюємо YML файли (статичні імена для стабільних посилань у Prom.ua)
         for i, batch_products in enumerate(file_batches, 1):
