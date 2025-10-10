@@ -83,6 +83,11 @@ jobs:
       - name: 🔄 Pull before push
         run: git pull --rebase origin main || true
 
+      - name: 🔄 Final pull (безпосередньо перед push)
+        run: |
+          git pull --rebase origin main || true
+          sleep 2
+
       - name: ⬆️ Push to main
         run: git push origin HEAD:main
 
