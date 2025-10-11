@@ -8,6 +8,7 @@ import os
 import asyncio
 import re
 import json
+import hashlib
 from datetime import datetime
 from typing import Dict, List, Tuple, Optional
 
@@ -595,7 +596,13 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                         product_id = f"{feed_prefix}{product_id}"  # f6_729470
                 
                 # vendorCode має бути унікальним - використовуємо product_id
-                vendor_code = product_id  # f6_729470_20323 - завжди унікальний
+                # Prom.ua вимагає max 25 символів для vendorCode
+                if len(product_id) > 25:
+                    # Для довгих ID використовуємо hash (зберігаємо prefix + hash)
+                    hash_part = hashlib.md5(product_id.encode()).hexdigest()[:18]
+                    vendor_code = f"{feed_prefix}{hash_part}"  # f6_a1b2c3d4e5f6g7h8i9 (21 символ)
+                else:
+                    vendor_code = product_id  # f6_729470_20323 - завжди унікальний
                 
                 # Перевіряємо на дублікат (якщо постачальник надав той самий товар двічі)
                 if product_id in seen_products:
@@ -611,7 +618,12 @@ def parse_xml_content(content: bytes, prom_categories: Dict[str, str], feed_pref
                     else:
                         # Це РІЗНІ товари з однаковим ID! Додаємо суфікс до ID
                         product_id = f"{product_id}_v2"
-                        vendor_code = product_id
+                        # Перераховуємо vendorCode для нового ID
+                        if len(product_id) > 25:
+                            hash_part = hashlib.md5(product_id.encode()).hexdigest()[:18]
+                            vendor_code = f"{feed_prefix}{hash_part}"
+                        else:
+                            vendor_code = product_id
                         skipped_different_products += 1
                         print(f"⚠️ УВАГА: Різні товари з однаковим ID! '{previous_name}' vs '{name}' → додано суфікс _v2")
                 
