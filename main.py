@@ -825,10 +825,11 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
         categories_elem = etree.SubElement(shop, "categories")
         used_categories = set()
         
-        # Збираємо ID категорій, які використовуються в товарах
+        # Збираємо ID категорій, які використовуються в товарах (крім "0")
         for product in products:
-            if product.get("category_id"):
-                used_categories.add(product["category_id"])
+            cat_id = product.get("category_id")
+            if cat_id and cat_id != "0":
+                used_categories.add(cat_id)
         
         # Додаємо тільки використовувані категорії з нормальними назвами
         for cat_id in used_categories:
@@ -868,8 +869,8 @@ def create_yml_file(products: List[Dict], categories: Dict, filename: str) -> bo
             quantity_elem = etree.SubElement(offer, "quantity")
             quantity_elem.text = str(product["quantity"])
             
-            # Категорія
-            if product["category_id"]:
+            # Категорія (пропускаємо якщо categoryId="0" - Prom.ua не підтримує)
+            if product["category_id"] and product["category_id"] != "0":
                 category_elem = etree.SubElement(offer, "categoryId")
                 category_elem.text = str(product["category_id"])
             
