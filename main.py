@@ -1311,7 +1311,8 @@ def build_clean_title(category_name: str, vendor: str, vendor_code: str, name: s
     # if category_name and not base.lower().startswith(category_name.lower()):
     #     parts.append(category_name)
     
-    if vendor:
+    # Додаємо vendor тільки якщо це не fallback "API-Prom.ua"
+    if vendor and vendor != "API-Prom.ua":
         parts.append(vendor)
     # Модель/артикул як короткий ідентифікатор
     model = vendor_code if vendor_code and len(vendor_code) <= 20 else ""
