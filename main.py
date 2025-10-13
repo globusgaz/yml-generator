@@ -1702,6 +1702,18 @@ async def process_feeds():
             create_yml_file(batch_products, normalized_categories, filename)
         
         print(f"🎉 Створено {len(file_batches)} YML файлів в корінь репозиторію")
+        
+        # Запускаємо prom-sync-api після оновлення YML
+        try:
+            import subprocess
+            result = subprocess.run(['python3', 'trigger_prom_sync.py'], 
+                                  capture_output=True, text=True, timeout=30)
+            if result.returncode == 0:
+                print("✅ Запущено синхронізацію з Prom.ua")
+            else:
+                print(f"⚠️  Не вдалося запустити синхронізацію: {result.stderr}")
+        except Exception as e:
+            print(f"⚠️  Помилка запуску синхронізації: {e}")
 
 if __name__ == "__main__":
     asyncio.run(process_feeds())
