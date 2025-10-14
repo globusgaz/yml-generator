@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # Для repository_dispatch
 
 jobs:
   build:
@@ -90,6 +91,15 @@ jobs:
 
       - name: ⬆️ Push to main
         run: git push origin HEAD:main
+
+      - name: 🔄 Trigger prom-sync-api
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/globusgaz/prom-sync-API/dispatches \
+            -d '{"event_type":"yml-updated","client_payload":{"message":"YML файли оновлені"}}'
+          echo "✅ Запущено синхронізацію з Prom.ua"
 
       - name: 💾 Save cache (state + prefix map)
         uses: actions/cache@v3
