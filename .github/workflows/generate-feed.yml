@@ -96,7 +96,7 @@ jobs:
         run: |
           response=$(curl -w "\n%{http_code}" -X POST \
             -H "Accept: application/vnd.github.v3+json" \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" \
             https://api.github.com/repos/globusgaz/prom-sync-API/dispatches \
             -d '{"event_type":"yml-updated","client_payload":{"message":"YML файли оновлені"}}')
           
