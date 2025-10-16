@@ -1,44 +1,226 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-10-16 19:52">
+<yml_catalog date="2025-10-16 20:36">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
       <category id="410606">Дистанційні вимикачі</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="141722">Акумуляторні викрутки</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12130">Умные замки</category>
+      <category id="141726">Клейові електричні пістолети</category>
+      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="12125">Часы встраиваемые</category>
       <category id="153504">Датчики для розумного будинку</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="8210101">Декоративна косметика, загальне</category>
       <category id="35702">Обувь для Взрослых</category>
       <category id="800508">Пластикові покриття</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="12128">Электрокарнизы</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="300506">Протиударні щитки і бронещитки</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="141726">Клейові електричні пістолети</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="12116">Выключатели</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="180513">Чохли, кейси для музичних інструментів</category>
-      <category id="150426">Led освітлення</category>
-      <category id="12117">Электрические розетки</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="141722">Акумуляторні викрутки</category>
       <category id="141717">Шліфувальні машини</category>
-      <category id="836">корневая</category>
       <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="12128">Электрокарнизы</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="8210101">Декоративна косметика, загальне</category>
+      <category id="300506">Протиударні щитки і бронещитки</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="3221201">Детская обувь и одежда</category>
       <category id="141735">Багатофункціональні інструменти</category>
-      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="12116">Выключатели</category>
+      <category id="150426">Led освітлення</category>
+      <category id="12130">Умные замки</category>
+      <category id="836">корневая</category>
+      <category id="12117">Электрические розетки</category>
     </categories>
     <offers>
+      <offer id="f7_406589_DFP5050RGBW4-60P-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL RGB+W (4000K), 18 W, 5050, 60 ШТ., IP33, 24V, 1100 ЛМ</name>
+        <price>437.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_e956f98379234e7797</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Різнокольорова світлодіодна стрічка Led-Stil на 24в має достатню яскравість для створення загального освітлення, а також добре виглядає в декорі. У ній встановлені гібридні світлодіоди, які дозволяють змінювати та комбінувати колір свічення. При цьому, якщо ви оберете один колір, led-стрічка 5050 60 діодів на метр світитиме рівномірно, без провалів, як у стрічок з іншими типами діодів.&lt;/p&gt; &lt;p&gt;Кольорова led стрічка Led-Stil призначена для роботи в приміщенні або всередині салону транспортного засобу, її ступінь захисту IP33.&lt;/p&gt; &lt;p&gt;Через те, що у стрічці використаний трикристальний діод SMD 5050, її ширина становить 12 мм. Втім, більшість якісних led-стрічок RGB ширша за однобарвні.&lt;/p&gt; &lt;p&gt;Стрічка керована. Зміна режимів відбувається за допомогою контролера RGBW. Монтування стрічки не відрізняється від звичайної для світлодіодних стрічок - гнучка клейка основа дозволяє закріпити стрічку на будь-якій поверхні. Разом з цим, оскільки стрічка працює від напруги 24V, її можна монтувати довгими відрізками до 20 метрів.&lt;/p&gt; &lt;p&gt;Придбати RGBW стрічку Led-Stil для декору за низькою ціною можна у нашому інтернет-магазині. Ми працюємо з постачальником безпосередньо, що дозволяє нам самостійно формувати ціни та стежити за якістю. Можлива доставка поштовою службою по Україні.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка професійного класу високої яскравості та кольору RA 85+, функціональність якої забезпечить задоволення потреб у різнобарвному освітленні, а також у звичайному білому нейтральному світлі. Основа світлодіодної стрічки RGBW покрита сріблом, що забезпечить багаторічне використання її без проблем з окисленням і втратою контакту живлення.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Гарантія: 5 років&lt;/strong&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-34116490215892_+acb5c76027.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-16195135742574_+981ff4c70a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-18378645888986_+184beba3d7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-34116490215892_+acb5c76027.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-41252511700202_+e425c04a8f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-43462150866089_+0485b0ca94.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-75313405144279_+8e64ad4093.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-79484593985535_+ce04a9c451.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-16195135742574_+981ff4c70a.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht.-ip33-24v-1100-lm-18378645888986_+184beba3d7.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">12 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">18 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">до 70 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGBW</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406590_DFP5050RGBW4-60P-IP33" available="true">
+        <name>LED-STIL LED стрічка LED-STIL RGB+W 4000K, 18 W, 5050, 60 шт, IP33, 24V, 1100 LM</name>
+        <price>414.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_e1dec93b44b29e6a69</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Різнокольорова світлодіодна стрічка Led-Stil на 24в має достатню яскравість для створення загального освітлення, а також добре виглядає в декорі. У ній встановлені гібридні світлодіоди, які дозволяють змінювати та комбінувати колір свічення. При цьому, якщо ви оберете один колір, led-стрічка 5050 60 діодів на метр світитиме рівномірно, без провалів, як у стрічок з іншими типами діодів.&lt;/p&gt; &lt;p&gt;Кольорова led стрічка Led-Stil призначена для роботи в приміщенні або всередині салону транспортного засобу, її ступінь захисту IP33.&lt;/p&gt; &lt;p&gt;Через те, що у стрічці використаний трикристальний діод SMD 5050, її ширина становить 12 мм. Втім, більшість якісних led-стрічок RGB ширша за однобарвні.&lt;/p&gt; &lt;p&gt;Стрічка керована. Зміна режимів відбувається за допомогою контролера RGBW. Монтування стрічки не відрізняється від звичайної для світлодіодних стрічок - гнучка клейка основа дозволяє закріпити стрічку на будь-якій поверхні. Разом з цим, оскільки стрічка працює від напруги 24V, її можна монтувати довгими відрізками до 20 метрів.&lt;/p&gt; &lt;p&gt;Придбати RGBW стрічку Led-Stil для декору за низькою ціною можна у нашому інтернет-магазині. Ми працюємо з постачальником безпосередньо, що дозволяє нам самостійно формувати ціни та стежити за якістю. Можлива доставка поштовою службою по Україні.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка професійного класу високої яскравості та кольору RA 85+, функціональність якої забезпечить задоволення потреб у різнобарвному освітленні, а також у звичайному білому нейтральному світлі. Основа світлодіодної стрічки RGBW покрита сріблом, що забезпечить багаторічне використання її без проблем з окисленням і втратою контакту живлення.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Гарантія: 5 років&lt;/strong&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-71273123289605_+7279c756b7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-12370279752436_+3bd1c64aae.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-32428251230494_+7db04b16cc.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-40546312808206_+cdf699ac03.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-40667517601636_+f9ebeafca1.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-71273123289605_+7279c756b7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-89711044875007_+ac91a522ba.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-93186206103612_+b02d5051d4.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-12370279752436_+3bd1c64aae.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-rgbw-4000k-18-w-5050-60-sht-ip33-24v-1100-lm-32428251230494_+7db04b16cc.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">12 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">18 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">до 70 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGBW</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406591_DFP5050RGBWW-60P-IP20-CCT" available="true">
+        <name>LED-STIL LED стрічка LED-STIL RGB+WW(2700K/6500K), 24 W, світлодіоди 5050, 620-630NM, 460-470NM</name>
+        <price>711.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_aee3a25aa32677eb18</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Leds: Hongli&lt;/p&gt; &lt;p&gt;Стрічка димується за яскравістю та температурою (2700 - 6500K) + RGB! В одному світлодіоді 5&amp;nbsp;кристалів(теплий 2700K, RGB і холодний 6500K).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особливості:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Тип LED кристала: SMD5050 (5-1/R+G+B+CW+WW).&lt;/li&gt; &lt;li&gt;Напруга живлення: 24VDC (високо якісні LED кристали та електронні елементи витримують відхилення напруги до 20%).&lt;/li&gt; &lt;li&gt;висока передача кольорів - CRI 85+.&lt;/li&gt; &lt;li&gt;Матеріал підкладки PCB &amp;ndash; мідь.&lt;/li&gt; &lt;li&gt;Ширина підкладки &amp;ndash; 12 мм.&lt;/li&gt; &lt;li&gt;Клейка поверхня &amp;ndash; оригінальна стрічка 3М.&lt;/li&gt; &lt;li&gt;Призначена для застосування із системами димування та контролерами кольору (керування світлом), без пульсації.&lt;/li&gt; &lt;li&gt;Забезпечує можливість димування, зміни колірної температури від 2700К до 6500К та зміни кольорів RGB палітри у статичних та динамічних режимах.&lt;/li&gt; &lt;li&gt;Термін служби до&amp;nbsp;втрати світлоефективності не більше ніж на 30% - 50000 годин.&lt;/li&gt; &lt;li&gt;Гарантія &amp;ndash; 5 років.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ціна вказана за 1 м. Продаж бухтами по 5 м.&lt;/strong&gt;&lt;br /&gt; Особливості серії: підкладка подвійна, холоднокатана мідь. У чіпі золоті дроти.&lt;/p&gt; &lt;p&gt;LM-80. CRI&gt;80, SMD&lt;5; ERP system, тільки один BIN; CE, ROHS, UL.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-31998042672071_+a28a6ebee7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-21250068670677_+abd1220d35.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-21844752863535_+fb0cafdce9.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-26965393559925_+6459dc0494.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-31488034105238_+4dea9f0a75.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-31998042672071_+a28a6ebee7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-56895434411420_+878d29bb4d.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-72886998145613_+972968bbe0.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-78745773371043_+67f9a2461d.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-rgbww2700k-6500k-24-w-svitlodiody-5050-620-630nm-460-470nm515-525nm-w2700-92231707539396_+91013bd854.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">12 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">24 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGB+CCT (белый теплый + белый холодный)</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406592_DFNRGB-60A-IP20" available="true">
+        <name>LED-STIL LED стрічка LED-STIL, RGB, 14.4 W, LEDS SAMSUNG 5050, 60 шт, IP20, 12V</name>
+        <price>256.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_406592_DFNRGB-60A-IP20</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Дана світлодіодна стрічка використовується з низьковольтним&amp;nbsp;&lt;strong&gt;джерелом живлення з робочою напругою 12В&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;При низькому споживанні&amp;nbsp;потужності&amp;nbsp;висока яскравість&lt;/li&gt; &lt;li&gt;Тип світлодіода: Hongli 5050 RGB&amp;nbsp;SMD&amp;nbsp;led&lt;/li&gt; &lt;li&gt;Кут розсіювання світла: 120&amp;deg;&lt;/li&gt; &lt;li&gt;Кількість світлодіодів: 60 leds/м&lt;/li&gt; &lt;li&gt;При монтажі можна використовувати&amp;nbsp;&lt;strong&gt;конектори для лед стрічки RGB&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Робоча температура: від -20 до +50 &amp;deg;C&lt;/li&gt; &lt;li&gt;Передача кольорів, СRI: 85+&lt;/li&gt; &lt;li&gt;Зміна яскравості та кольору світіння за допомогою контролера&lt;/li&gt; &lt;li&gt;Клас IP: доступний IP20&lt;/li&gt; &lt;li&gt;Гарантія: 3 роки або 30000 годин&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Якщо зацікавила&amp;nbsp;&lt;strong&gt;аналогічна модель з робочою напругою 24 Вольти&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Особливості серії: підкладка подвійна, холоднокатана мідь. У чіпі золоті дроти.&lt;/p&gt; &lt;p&gt;LM-80. CRI&gt;80, SMD&lt;5; ERP system, тільки один BIN; CE, ROHS, UL.&lt;/p&gt; &lt;p&gt;Дана світлодіодна стрічка може використовуватися з&amp;nbsp;&lt;strong&gt;алюмінієвими профілями різних конфігурацій&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Ознайомитись з усім асортиментом кольорових стрічок та стрічок RGB можна&amp;nbsp;&lt;strong&gt;&lt;a href="https://livolo.in.ua/zigbee-light/filter/page=4/" target="_blank"&gt;за посиланням&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-15111427657362_+dbc243c425.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-15111427657362_+dbc243c425.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-25110585321516_+56ead8ae96.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-31665088366468_+4a58353b5c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-41951422353426_+0b9de64dc5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-64526735661774_+dd8cb455af.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-80652390638886_+014aace1b0.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-88737463998223_+ce161df833.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-93636784189603_+c80b3b34d2.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/17/led-strichka-led-stil-rgb-14.4-w-leds-samsung-5050-60-sht-ip20-12v-25110585321516_+56ead8ae96.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGB</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406593_R0060TA-A3" available="true">
+        <name>RISHANG LED стрічка R0060TA-A, 3000K, 12W, 2835, 60 шт, IP33, 12V, 980LM</name>
+        <price>214.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>RISHANG</vendor>
+        <vendorCode>f7_406593_R0060TA-A3</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Rishang серії R виробляється у великій гамі кольорів, якість і термін її служби відповідають високим світовим стандартам до світлодіодних стрічк і дозволяють дизайнерам об&amp;#39;єднати ці переваги в будь-яких проектах. Світлодіодні стрічки широко використовуються для забезпечення освітлення архітектурних споруд, вивісок, торговельного обладнання, театрів, для створення прихованого освітлення, меблевого світла в шафах, виставкових стендів і т.д.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Rishang серії R має три роки гарантії&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-88070774437856_+442d40d388.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-64039177225649_+581fb530cc.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-78509252151397_+7e71ff6340.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-88070774437856_+442d40d388.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-64039177225649_+581fb530cc.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-r0060ta-a-3000k-12w-2835-60-sht-ip33-12v-980lm-78509252151397_+7e71ff6340.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Напряжение сети">12 В</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">12 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">81-90 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">RISHANG</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
       <offer id="f7_406594_R0060TA-A4" available="true">
         <name>RISHANG LED стрічка R0060TA-A, 4000K, 12W, 2835, 60 шт, IP33, 12V, 980LM</name>
         <price>214.0</price>
