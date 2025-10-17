@@ -1,80 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-10-17 04:38">
+<yml_catalog date="2025-10-17 05:32">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="150426">Led освітлення</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="836">корневая</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="800508">Пластикові покриття</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="141726">Клейові електричні пістолети</category>
-      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
-      <category id="300506">Протиударні щитки і бронещитки</category>
       <category id="12125">Часы встраиваемые</category>
-      <category id="8210101">Декоративна косметика, загальне</category>
-      <category id="12128">Электрокарнизы</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="141735">Багатофункціональні інструменти</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="141722">Акумуляторні викрутки</category>
-      <category id="12130">Умные замки</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="12116">Выключатели</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="150426">Led освітлення</category>
       <category id="35702">Обувь для Взрослых</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="300506">Протиударні щитки і бронещитки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="141717">Шліфувальні машини</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="8210101">Декоративна косметика, загальне</category>
+      <category id="12116">Выключатели</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="836">корневая</category>
+      <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="12128">Электрокарнизы</category>
       <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="12130">Умные замки</category>
+      <category id="141726">Клейові електричні пістолети</category>
+      <category id="141735">Багатофункціональні інструменти</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="141722">Акумуляторні викрутки</category>
+      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="800508">Пластикові покриття</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="410606">Дистанційні вимикачі</category>
     </categories>
     <offers>
-      <offer id="f7_406584_DFN2835-120A-IP33-L" available="true">
-        <name>LED-STIL LED стрічка LED-STIL 9,6 W, 2835, 120 шт, IP33, 12V, лимонний колір світіння</name>
-        <price>230.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12118</categoryId>
-        <vendor>LED-STIL</vendor>
-        <vendorCode>f7_630f16b5c786cb4fc4</vendorCode>
-        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;ЦІНИ НА САЙТІ ВКАЗАНІ ЗА 1 МЕТР. LED СТРІЧКА LED-STIL&amp;nbsp;ВІДПУСКАЄТЬСЯ КРАТНО 1 МЕТРУ&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;LED стрічка LED-STIL 9,6 w, 2835, 120 шт., IP33, 12V, лимонний колір свічення&lt;/p&gt; &lt;p&gt;Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Потужність 9,6 Вт.&lt;/li&gt; &lt;li&gt;Тип світлодіодів SMD 2835.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне свічення без загасань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 Вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік в 700 люменів порівняний з інтенсивністю світіння лампи розжарювання на 60 Вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку та всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи, що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-14613816742438_+19ccd805b4.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-14613816742438_+19ccd805b4.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-27355580125969_+406fb28cb5.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-28351268840632_+801b2ab569.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-69881009397382_+98b2dc064c.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-74504042907833_+bcd19670a3.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-83791093409799_+87ac34e191.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-27355580125969_+406fb28cb5.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-28351268840632_+801b2ab569.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-96-w-2835-120-sht-ip33-12v-lymonnyi-kolir-svitinnia-69881009397382_+98b2dc064c.jpg</picture>
-        <param name="Гарантия">36 мес.</param>
-        <param name="Световой поток">601-1000 Лм</param>
-        <param name="Количество светодиодов">120 шт/м</param>
-        <param name="Степень защиты">IP33</param>
-        <param name="Напряжение">12 В</param>
-        <param name="Цвет свечения">Лимонный</param>
-        <param name="Ширина">8 мм</param>
-        <param name="Длина">5000 мм</param>
-        <param name="Мощность">9.6 Вт/м</param>
-        <param name="Рабочий ресурс">30000 часов</param>
-        <param name="Тип светодиода">SMD 2835</param>
-        <param name="Угол рассеивания">115°</param>
-        <param name="Цветопередача (CRI)">80</param>
-        <param name="Температура света">Лимонный</param>
-        <param name="Бренд">LED-STIL</param>
-        <param name="Гарантийный срок, мес.">36</param>
-      </offer>
       <offer id="f7_406587_DFN2835-120A-IP68-B" available="true">
         <name>LED-STIL LED стрічка LED-STIL 9,6 W, 2835, 120 шт., IP68, 12V, синій колір світіння</name>
         <price>314.0</price>
