@@ -1,44 +1,1292 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-10-17 13:42">
+<yml_catalog date="2025-10-17 14:33">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12117">Электрические розетки</category>
-      <category id="800508">Пластикові покриття</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="141726">Клейові електричні пістолети</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="141722">Акумуляторні викрутки</category>
-      <category id="8210101">Декоративна косметика, загальне</category>
-      <category id="180513">Чохли, кейси для музичних інструментів</category>
-      <category id="12116">Выключатели</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="836">корневая</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="300506">Протиударні щитки і бронещитки</category>
-      <category id="141735">Багатофункціональні інструменти</category>
-      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
       <category id="153504">Датчики для розумного будинку</category>
-      <category id="3200608">Набори весільних аксесуарів</category>
       <category id="12130">Умные замки</category>
-      <category id="12128">Электрокарнизы</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="150426">Led освітлення</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="141726">Клейові електричні пістолети</category>
+      <category id="836">корневая</category>
+      <category id="810305">Тепла підлога</category>
       <category id="141717">Шліфувальні машини</category>
+      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
+      <category id="12128">Электрокарнизы</category>
+      <category id="8210101">Декоративна косметика, загальне</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="150426">Led освітлення</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="12116">Выключатели</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="141735">Багатофункціональні інструменти</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="300506">Протиударні щитки і бронещитки</category>
+      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="141722">Акумуляторні викрутки</category>
+      <category id="800508">Пластикові покриття</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="2613">Радіокеровані іграшки</category>
     </categories>
     <offers>
+      <offer id="f7_406507_VL-C701SC1EU1USBC1A-13" available="true">
+        <name>LIVOLO Сенсорний прохідний/перехресний вимикач 1 сенсор 1 розетка 1 USB 1 розетка універсальна</name>
+        <price>2855.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230620</categoryId>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f7_ec30d2dd402f17e50c</vendorCode>
+        <description>&lt;h2&gt;Сенсорний прохідний/перехресний вимикач&lt;/h2&gt; &lt;p&gt;Прохідний вимикач використовується для управління освітленням з декількох місць. Він дозволяє перемикати освітлення між різними точками управління.&amp;nbsp;Правильна робота прохідних перемикачів LIVOLO передбачає використання від двох до п&amp;#39;яти&amp;nbsp;вимикачів в одному ланцюзі.&lt;/p&gt; &lt;p&gt;Для установки прохідного вимикача LIVOLO не потрібно вносити зміни до електропроводки. Сенсорні прохідні (альтернативні) перемикачі LIVOLO можна встановити на наявну&amp;nbsp;проводку, яка була закладена для механічних прохідних вимикачів.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Переваги&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Зручне управління&lt;/strong&gt;: Вимикач активується при дотику долонею або пальцем, що робить його зручним у використанні.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Висока безпека&lt;/strong&gt;: Можна включати вимикач навіть мокрими руками, що забезпечує безпеку вологих приміщень, наприклад, ванних кімнат.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Підсвічування&lt;/strong&gt;: Світлодіодна підсвітка дозволяє легко знайти вимикач навіть у темряві, що забезпечує зручність використання.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Простий монтаж&lt;/strong&gt;: Легкість в монтажі дозволяє швидко встановити вимикач всього за кілька хвилин.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Надійність&lt;/strong&gt;: Вимикач має високу надійність і може пройти близько 100 000 циклів використання, що гарантує тривалий термін служби.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Дистанційне керування&lt;/strong&gt;&amp;nbsp;(опція): Існує можливість дистанційного керування вимикачем, що забезпечує зручність управління освітленням з використанням мобільного телефону.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Особливості&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Дозволяє керувати освітленням з декількох місць;&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Може використовуватися з будь-яким джерелом світла від 1 Вт до 1000 Вт;&lt;/li&gt; &lt;li&gt;Підсвічування сенсора синім та червоним кольором, тому ви можете легко знайти перемикач вночі;&lt;/li&gt; &lt;li&gt;Горизонтальне&amp;nbsp;або вертикальне встановлення;&lt;/li&gt; &lt;li&gt;Можлива установка як в стандартні, так і в глибокі монтажні коробки;&lt;/li&gt; &lt;li&gt;Проста і швидка установка за допомогою гвинтового з&amp;#39;єднання;&lt;/li&gt; &lt;li&gt;Можливо встановити до 5 штук в одну рамку;&lt;/li&gt; &lt;li&gt;Кріпиться до монтажної коробки гвинтами;&lt;/li&gt; &lt;li&gt;Використовується з рамкою з загартованого скла;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Сенсорне управління&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;У сенсорну панель вбудовані інноваційні ємнісні датчики. Завдяки їм, вимикач реагує на найменші дотики до панелі управління. Датчики спрацьовують, навіть якщо Ви доторкнетеся до панелі мокрими руками.&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/chutliviy-sensor_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Загартоване скло&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Гладка, з елегантними лініями, приємна на дотик поверхня сенсорного вимикача дарує непередавані тактильні відчуття. Поверхня сенсорного вимикача виготовлена з високоміцного загартованого скла.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="337" loading="lazy" src="https://livolo.in.ua/content/uploads/images/100%284%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Підсвічування сенсорної зони&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Стильна LED-підсвітка навколо сенсорної зони вимикача створює ефектну атмосферу і дозволяє легко знайти його навіть у темряві. Підсвічування має різні кольори, у&amp;nbsp;вимкненому стані підсвічування синє, у включеному - червоне.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/nformativna-pdsvtka-2_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Вологонепроникний&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO є вологонепроникними та підходять для використання у вологих приміщеннях, таких як ванні кімнати. Вони відповідають вимогам безпеки та захисту від вологи, забезпечуючи надійну та безпечну роботу у таких умовах.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="647" loading="lazy" src="https://livolo.in.ua/content/uploads/images/vologostykiy%282%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Довговічні. Завжди як новий&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO відмінно витримують випробування часу і зберігають свій первозданний вигляд, завжди виглядаючи як нові.&amp;nbsp;Скло OptiWite захищає від механічного впливу і запобігає появі подряпин і інших дрібних дефектів. До того ж воно не потребує особливого догляду.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1ruq5xvwg3kvjszfpq6xaixxar.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Вогнестійкі&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Вогнестійкі матеріали забезпечують додатковий захист. Панель із загартованого скла витримує температуру до 300&amp;deg;С. Відсутність механічних деталей виключає можливість утворення іскор.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="384" loading="lazy" src="https://livolo.in.ua/content/uploads/images/vognestykiy_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Інтелектуальний процесор&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Процесор контролює всі аспекти роботи вимикача, забезпечуючи зручність, ефективність та безпеку.&amp;nbsp;У випадку перегорання лампи, сенсорний вимикач автоматично відключається. Це дозволяє забезпечити&amp;nbsp;додатковий рівень автономної системи безпеки.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="280" loading="lazy" src="https://livolo.in.ua/content/uploads/images/916889888_w640_h2048_banner04.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Стандартний монтаж&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO мають стандартний монтаж, що робить їх сумісними зі звичайною проводкою. Вони легко встановлюються у круглі підрозетники, що використовуються в нашій країні згідно з будівельними стандартами.&amp;nbsp;Таким чином, установка сенсорних вимикачів LIVOLO є легкою і зручною.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/pages/support/"&gt;&lt;img alt="" height="310" loading="lazy" src="https://livolo.in.ua/content/uploads/images/2268747891_2268747891%281%29.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Сумісність з усіма лампами&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO&amp;nbsp;сумісні з різними типами ламп та освітлювальних пристроїв забезпечуючи вам велику свободу вибору освітлення для вашого будинку:&amp;nbsp;LED лампи, LED стрічки, економки, галогенні лампи, точкові світильники, розумні люстри з пультом, і багато інших.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="387" loading="lazy" src="https://livolo.in.ua/content/uploads/images/pdxodit-dlja-vsx-lamp%283%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Безпечний&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Всі електронні частини вимикачів надійно закриті та захищені, що запобігає потенційній небезпеці виникнення іскор на контактах.&amp;nbsp;Ви можете бути впевнені в їх надійності та безпеці використання у своєму будинку.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/bezpechn_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;ul&gt; &lt;/ul&gt; &lt;h2&gt;&lt;b&gt;Регулювання яскравості світла *&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Можливість регулювання яскравості світла, що дозволяє вам плавно включати та вимикати світильники. Це особливо зручно в темний період доби, коли потрібно поступово налаштовувати освітлення на комфортний рівень.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/sensorne-reguluvannja-jaskravost_optimized.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Дистанційне управління *&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Зручна можливість керувати освітленням будинку з вашого телефона. З&amp;nbsp;розумним вимикачем від LIVOLO користувач може налаштувати включення світла в приміщенні за розкладом, вручну або за попередньо написаним сценарієм. Це дає можливість економити енергію та забезпечує максимальну зручність користування вимикачем.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/wi-fi-vykluchateli-i-rozetki/"&gt;&lt;img alt="" height="620" loading="lazy" src="https://livolo.in.ua/content/uploads/images/keruvannja-z-dodatka%281%29.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;ul&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Інструкція із встановлення&lt;/strong&gt;&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Вимкніть напругу;&lt;/li&gt; &lt;li&gt;Підключайте вимикач згідно зі схемою;&lt;/li&gt; &lt;li&gt;Прикрутіть вимикач гвинтами до підрозетника;&lt;/li&gt; &lt;li&gt;Встановіть сенсорну панель;&lt;/li&gt; &lt;li&gt;Подайте напругу;&lt;/li&gt; &lt;li&gt;Вимикач починає працювати через 15 секунд.&lt;a href="https://livolo.in.ua/pages/support/"&gt;&lt;img alt="" loading="lazy" src="https://livolo.in.ua/content/uploads/images/livolo-vstanivlennya-vymykacha%281%29.jpg" /&gt;&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;Підключення прохідного вимикача&lt;/h2&gt; &lt;h3&gt;Для керування освітлення з двох місць&lt;/h3&gt; &lt;p&gt;Підключаємо фазну напругу до точки підключення &amp;laquo;L&amp;raquo; в обох вимикачах, з&amp;#39;єднуємо два вимикача інформаційним дротом в точці підключення &amp;laquo;COM&amp;raquo; і підключаємо провід лампи до Головного вимикача до точки підключення &amp;laquo;L1&amp;raquo;.&lt;/p&gt; &lt;p&gt;Після підключення проводів і повторного підключення напруги до мережі вимикачі потрібно запрограмувати. Програмування потрібно починати з Головного вимикача.&amp;nbsp;&lt;a href="https://livolo.in.ua/prokhodnoy-vykluchatel/"&gt;Більш детально про програмування&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Головний (Master) вимикач&lt;/strong&gt;&amp;nbsp;- це&amp;nbsp;прохідний вимикач&lt;b&gt;&amp;nbsp;&lt;/b&gt;працює в режимі вкл/викл.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Другорядний&amp;nbsp;(Slave)&amp;nbsp;&lt;/strong&gt;- це&amp;nbsp;прохідний вимикач&amp;nbsp;який передає команду вкл/викл Головному вимикачу.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;для підключення Головного (Master) вимикача використовуються клеми: L&amp;nbsp;- фаза, L1 вихід на лінії навантаження, COM - інформаційний.&lt;/li&gt; &lt;li&gt;для підключення Другорядного (Slave) вимикача використовуються дві клеми: L&amp;nbsp;- фаза, COM - інформаційний.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img height="275" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c706d-livolo-fenyeroszabalyzos-dimmer-alternativ-valto-erintokapcsolo-betet-erintopanel-240v-2a-500w-vl-fc1sd2-2g-bekotesi-utmutato-kapcsolasi-r.jpg" width="550" /&gt;&lt;/p&gt; &lt;h3&gt;Для керування освітлення з трьох місць&lt;/h3&gt; &lt;p&gt;Підключаємо фазну напругу до точки підключення &amp;laquo;L&amp;raquo; у всіх трьох вимикачах, в точці підключення &amp;laquo;COM&amp;raquo; з&amp;#39;єднуємо всі три вимикачі інформаційним дротом, а провід лампи підключаємо до одного з&amp;nbsp;вимикачів в точці підключення &amp;quot;L1&amp;quot;.&lt;/p&gt; &lt;p&gt;Після підключення проводів і повторного підключення напруги до мережі вимикачі потрібно запрограмувати. Програмування потрібно починати з Головного вимикача.&amp;nbsp;&lt;a href="https://livolo.in.ua/prokhodnoy-vykluchatel/"&gt;Більш детально про програмування&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="297" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c706d-livolo-fenyeroszabalyzos-dimmer-alternativ-valto-erintokapcsolo-betet-erintopanel-240v-2a-500w-vl-fc1sd2-2g-bekotesi-utmutato-kapcsola-1.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Відеоінструкція&lt;/h2&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="394" loading="lazy" scrolling="no" src="https://www.youtube.com/embed/F3nkuVscPgQ" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="394" loading="lazy" scrolling="no" src="https://www.youtube.com/embed/198x_RCJhM0" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;h2&gt;Найпоширеніші питання&lt;/h2&gt; &lt;h3&gt;Чи є перехресний вимикач у LIVOLO&lt;/h3&gt; &lt;p&gt;Так є. Звичайні сенсорні альтернативні (прохідні) вимикачі мають функцію перехресного перемикання. Лампа може перемикатися із 3-5 місць. Тому окремої моделі перехресного вимикача немає, оскільки в ньому немає потреби.&lt;/p&gt; &lt;h3&gt;Чи можливо приєднати сенсорні прохідні вимикачі LIVOLO з клавішними вимикач&lt;/h3&gt; &lt;p&gt;Прохідні сенсорні вимикачі (перемикачі) Livolo працюють тільки в парті один з одним. Вони нерозраховані на роботу з клавішними вимикачами. Після підключення, сенсорні вимикачі необхідно запрограмувати на спільну роботу.&lt;/p&gt; &lt;h3&gt;Чи можу я керувати одним світлом з трьох різних місць&lt;/h3&gt; &lt;p&gt;Так. Ви можете контролювати освітлення з різних місць. Для цього використовуються прохідні вимикачі Livolo. Принцип підключення похідних сенсорних вимикачів схожий зі звичайними клавішними прохідними вимикачами, різниця лише в тому, що управління освітленням проводиться через COM провід, яким з&amp;#39;єднуються прохідні вимикачі в будь-якій кількості.&lt;/p&gt; &lt;h3&gt;Прохідний вимикач може працювати як звичайний вимикач&lt;/h3&gt; &lt;p&gt;Прохідний вимикач LIVOLO універсальний, він може працювати як звичайний вимикач. Більш того, у двохсенсорного прохідного вимикача один сенсор може працювати як звичайний вимикач, а другий - як прохідний вимикач.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;Яка схема підключення розумного прохідного вимикача&lt;/h3&gt; &lt;p&gt;У прохідних вимикачів є Головний вимикач, та Другорядний вимикач. Навантаженням керує Головний вимикач, Другорядні вимикачі передають команду вкл/викл Головному вимикачу. Розумні вимикачі встановлюються тільки на місце Головного вимикача. Другорядні вимикачі використовуються звичайні прохідні.&lt;/p&gt; &lt;h3&gt;На яких вимикачах є підсвітка&lt;/h3&gt; &lt;p&gt;Всі сенсорні вимикачі обладнані підсвічуванням робочої зони сенсора. На клавішних вимикачах Livolo підсвічування немає.&lt;/p&gt; &lt;h3&gt;Чи можна встановлювати вимикачі та розетки LIVOLO вертикально&lt;/h3&gt; &lt;p&gt;Так! LIVOLO можна також встановлювати вертикально. Оскільки механізм&amp;nbsp;може бути встановлений в скляну панель або рамку тільки одним способом, вимикачі або розетки повинні бути повернені на 90 градусів вправо або вліво для вертикального монтажу. У разі розеток необхідно повернути тільки металевий каркас, розетку необхідно витягти з металевого каркаса і після повороту металевого каркаса знову вставити в металевий каркас так, щоб отвори для розеток стояли горизонтально.&lt;/p&gt; &lt;h3&gt;Який термін придатності сенсорних вимикачів LIVOLO&lt;/h3&gt; &lt;p&gt;Виробник заявляє про 100 000 операцій включення-виключення, перевірити це на практика дуже непросто тому, що це дуже велика цифра. Але по нашій практиці вимикачі на демонстраційному стенді, котрі дуже часто використовуються продовжують функціонувати нормально вже протягом 5,5 років.&lt;/p&gt; &lt;h3&gt;Який термін гарантії на продукцію LIVOLO&lt;/h3&gt; &lt;p&gt;Гарантійний термін на продукцію LIVOLO становить 1 рік. Ми забезпечуємо повну та негайну заміну будь-яких дефектних товарів LIVOLO.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/24/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-zolotoy-steklo-livolo-vl-c701sc1eu1usbc1a-13-87413965932157_+7ab4f89f2f.png</picture>
+        <picture>https://livolo.in.ua/content/images/24/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-zolotoy-steklo-livolo-vl-c701sc1eu1usbc1a-13-42432433534210_+4dfbee5045.png</picture>
+        <picture>https://livolo.in.ua/content/images/24/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-zolotoy-steklo-livolo-vl-c701sc1eu1usbc1a-13-87413965932157_+7ab4f89f2f.png</picture>
+        <picture>https://livolo.in.ua/content/images/44/54086972662897_+91e9d5166c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/44/91494214633371_+90b5bb21ea.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/24/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-zolotoy-steklo-livolo-vl-c701sc1eu1usbc1a-13-42432433534210_+4dfbee5045.png</picture>
+        <picture>https://www.livolo.in.ua/content/images/44/54086972662897_+91e9d5166c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/44/91494214633371_+90b5bb21ea.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Цвет">Золотой</param>
+        <param name="Тип выключателя">Проходной, Перекрестный</param>
+        <param name="Материал рамки">Закаленное стекло</param>
+        <param name="Длина">223 мм</param>
+        <param name="Ширина">80 мм</param>
+        <param name="Глубина">34 мм</param>
+        <param name="Подсветка">Синий - выключено, Красный - включено</param>
+        <param name="Количество постов">3</param>
+        <param name="Количество сенсоров">1</param>
+        <param name="Напряжение сети">110-250 В</param>
+        <param name="Максимальный ток">5 А</param>
+        <param name="Максимальная нагрузка">1000 Вт</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Место монтажа">Внутренний</param>
+        <param name="Способ коммутации">Механическое реле</param>
+        <param name="Крепление проводов">Винтами</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
+        <param name="Бренд">LIVOLO</param>
+        <param name="Гарантийный срок, мес.">60</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Срок службы">100 000 включений</param>
+        <param name="Доставка в город">Киев|Харьков|Днепр|Херсон|Запорожье|Львов|Одесса|Кривой Рог|Николаев|Винница|Чернигов|Ужгород|Полтава</param>
+      </offer>
+      <offer id="f7_406508_VL-C701SC1EU1USBC1A-15" available="true">
+        <name>LIVOLO Сенсорний прохідний/перехресний вимикач 1 сенсор 1 розетка 1 USB 1 розетка універсальна</name>
+        <price>2855.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230620</categoryId>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f7_2661eb4a1d5f616ff1</vendorCode>
+        <description>&lt;h2&gt;Сенсорний прохідний/перехресний вимикач&lt;/h2&gt; &lt;p&gt;Прохідний вимикач використовується для управління освітленням з декількох місць. Він дозволяє перемикати освітлення між різними точками управління.&amp;nbsp;Правильна робота прохідних перемикачів LIVOLO передбачає використання від двох до п&amp;#39;яти&amp;nbsp;вимикачів в одному ланцюзі.&lt;/p&gt; &lt;p&gt;Для установки прохідного вимикача LIVOLO не потрібно вносити зміни до електропроводки. Сенсорні прохідні (альтернативні) перемикачі LIVOLO можна встановити на наявну&amp;nbsp;проводку, яка була закладена для механічних прохідних вимикачів.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Переваги&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Зручне управління&lt;/strong&gt;: Вимикач активується при дотику долонею або пальцем, що робить його зручним у використанні.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Висока безпека&lt;/strong&gt;: Можна включати вимикач навіть мокрими руками, що забезпечує безпеку вологих приміщень, наприклад, ванних кімнат.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Підсвічування&lt;/strong&gt;: Світлодіодна підсвітка дозволяє легко знайти вимикач навіть у темряві, що забезпечує зручність використання.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Простий монтаж&lt;/strong&gt;: Легкість в монтажі дозволяє швидко встановити вимикач всього за кілька хвилин.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Надійність&lt;/strong&gt;: Вимикач має високу надійність і може пройти близько 100 000 циклів використання, що гарантує тривалий термін служби.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Дистанційне керування&lt;/strong&gt;&amp;nbsp;(опція): Існує можливість дистанційного керування вимикачем, що забезпечує зручність управління освітленням з використанням мобільного телефону.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Особливості&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Дозволяє керувати освітленням з декількох місць;&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Може використовуватися з будь-яким джерелом світла від 1 Вт до 1000 Вт;&lt;/li&gt; &lt;li&gt;Підсвічування сенсора синім та червоним кольором, тому ви можете легко знайти перемикач вночі;&lt;/li&gt; &lt;li&gt;Горизонтальне&amp;nbsp;або вертикальне встановлення;&lt;/li&gt; &lt;li&gt;Можлива установка як в стандартні, так і в глибокі монтажні коробки;&lt;/li&gt; &lt;li&gt;Проста і швидка установка за допомогою гвинтового з&amp;#39;єднання;&lt;/li&gt; &lt;li&gt;Можливо встановити до 5 штук в одну рамку;&lt;/li&gt; &lt;li&gt;Кріпиться до монтажної коробки гвинтами;&lt;/li&gt; &lt;li&gt;Використовується з рамкою з загартованого скла;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Сенсорне управління&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;У сенсорну панель вбудовані інноваційні ємнісні датчики. Завдяки їм, вимикач реагує на найменші дотики до панелі управління. Датчики спрацьовують, навіть якщо Ви доторкнетеся до панелі мокрими руками.&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/chutliviy-sensor_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Загартоване скло&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Гладка, з елегантними лініями, приємна на дотик поверхня сенсорного вимикача дарує непередавані тактильні відчуття. Поверхня сенсорного вимикача виготовлена з високоміцного загартованого скла.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="337" loading="lazy" src="https://livolo.in.ua/content/uploads/images/100%284%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Підсвічування сенсорної зони&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Стильна LED-підсвітка навколо сенсорної зони вимикача створює ефектну атмосферу і дозволяє легко знайти його навіть у темряві. Підсвічування має різні кольори, у&amp;nbsp;вимкненому стані підсвічування синє, у включеному - червоне.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/nformativna-pdsvtka-2_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Вологонепроникний&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO є вологонепроникними та підходять для використання у вологих приміщеннях, таких як ванні кімнати. Вони відповідають вимогам безпеки та захисту від вологи, забезпечуючи надійну та безпечну роботу у таких умовах.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="647" loading="lazy" src="https://livolo.in.ua/content/uploads/images/vologostykiy%282%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Довговічні. Завжди як новий&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO відмінно витримують випробування часу і зберігають свій первозданний вигляд, завжди виглядаючи як нові.&amp;nbsp;Скло OptiWite захищає від механічного впливу і запобігає появі подряпин і інших дрібних дефектів. До того ж воно не потребує особливого догляду.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1ruq5xvwg3kvjszfpq6xaixxar.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Вогнестійкі&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Вогнестійкі матеріали забезпечують додатковий захист. Панель із загартованого скла витримує температуру до 300&amp;deg;С. Відсутність механічних деталей виключає можливість утворення іскор.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="384" loading="lazy" src="https://livolo.in.ua/content/uploads/images/vognestykiy_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Інтелектуальний процесор&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Процесор контролює всі аспекти роботи вимикача, забезпечуючи зручність, ефективність та безпеку.&amp;nbsp;У випадку перегорання лампи, сенсорний вимикач автоматично відключається. Це дозволяє забезпечити&amp;nbsp;додатковий рівень автономної системи безпеки.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="280" loading="lazy" src="https://livolo.in.ua/content/uploads/images/916889888_w640_h2048_banner04.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Стандартний монтаж&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO мають стандартний монтаж, що робить їх сумісними зі звичайною проводкою. Вони легко встановлюються у круглі підрозетники, що використовуються в нашій країні згідно з будівельними стандартами.&amp;nbsp;Таким чином, установка сенсорних вимикачів LIVOLO є легкою і зручною.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/pages/support/"&gt;&lt;img alt="" height="310" loading="lazy" src="https://livolo.in.ua/content/uploads/images/2268747891_2268747891%281%29.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Сумісність з усіма лампами&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі LIVOLO&amp;nbsp;сумісні з різними типами ламп та освітлювальних пристроїв забезпечуючи вам велику свободу вибору освітлення для вашого будинку:&amp;nbsp;LED лампи, LED стрічки, економки, галогенні лампи, точкові світильники, розумні люстри з пультом, і багато інших.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="387" loading="lazy" src="https://livolo.in.ua/content/uploads/images/pdxodit-dlja-vsx-lamp%283%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Безпечний&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Всі електронні частини вимикачів надійно закриті та захищені, що запобігає потенційній небезпеці виникнення іскор на контактах.&amp;nbsp;Ви можете бути впевнені в їх надійності та безпеці використання у своєму будинку.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/bezpechn_optimized.jpg" width="700" /&gt;&lt;/p&gt; &lt;ul&gt; &lt;/ul&gt; &lt;h2&gt;&lt;b&gt;Регулювання яскравості світла *&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Можливість регулювання яскравості світла, що дозволяє вам плавно включати та вимикати світильники. Це особливо зручно в темний період доби, коли потрібно поступово налаштовувати освітлення на комфортний рівень.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/sensorne-reguluvannja-jaskravost_optimized.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Дистанційне управління *&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Зручна можливість керувати освітленням будинку з вашого телефона. З&amp;nbsp;розумним вимикачем від LIVOLO користувач може налаштувати включення світла в приміщенні за розкладом, вручну або за попередньо написаним сценарієм. Це дає можливість економити енергію та забезпечує максимальну зручність користування вимикачем.&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/wi-fi-vykluchateli-i-rozetki/"&gt;&lt;img alt="" height="620" loading="lazy" src="https://livolo.in.ua/content/uploads/images/keruvannja-z-dodatka%281%29.jpg" width="700" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;ul&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Інструкція із встановлення&lt;/strong&gt;&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Вимкніть напругу;&lt;/li&gt; &lt;li&gt;Підключайте вимикач згідно зі схемою;&lt;/li&gt; &lt;li&gt;Прикрутіть вимикач гвинтами до підрозетника;&lt;/li&gt; &lt;li&gt;Встановіть сенсорну панель;&lt;/li&gt; &lt;li&gt;Подайте напругу;&lt;/li&gt; &lt;li&gt;Вимикач починає працювати через 15 секунд.&lt;a href="https://livolo.in.ua/pages/support/"&gt;&lt;img alt="" loading="lazy" src="https://livolo.in.ua/content/uploads/images/livolo-vstanivlennya-vymykacha%281%29.jpg" /&gt;&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;Підключення прохідного вимикача&lt;/h2&gt; &lt;h3&gt;Для керування освітлення з двох місць&lt;/h3&gt; &lt;p&gt;Підключаємо фазну напругу до точки підключення &amp;laquo;L&amp;raquo; в обох вимикачах, з&amp;#39;єднуємо два вимикача інформаційним дротом в точці підключення &amp;laquo;COM&amp;raquo; і підключаємо провід лампи до Головного вимикача до точки підключення &amp;laquo;L1&amp;raquo;.&lt;/p&gt; &lt;p&gt;Після підключення проводів і повторного підключення напруги до мережі вимикачі потрібно запрограмувати. Програмування потрібно починати з Головного вимикача.&amp;nbsp;&lt;a href="https://livolo.in.ua/prokhodnoy-vykluchatel/"&gt;Більш детально про програмування&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Головний (Master) вимикач&lt;/strong&gt;&amp;nbsp;- це&amp;nbsp;прохідний вимикач&lt;b&gt;&amp;nbsp;&lt;/b&gt;працює в режимі вкл/викл.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Другорядний&amp;nbsp;(Slave)&amp;nbsp;&lt;/strong&gt;- це&amp;nbsp;прохідний вимикач&amp;nbsp;який передає команду вкл/викл Головному вимикачу.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;для підключення Головного (Master) вимикача використовуються клеми: L&amp;nbsp;- фаза, L1 вихід на лінії навантаження, COM - інформаційний.&lt;/li&gt; &lt;li&gt;для підключення Другорядного (Slave) вимикача використовуються дві клеми: L&amp;nbsp;- фаза, COM - інформаційний.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img height="275" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c706d-livolo-fenyeroszabalyzos-dimmer-alternativ-valto-erintokapcsolo-betet-erintopanel-240v-2a-500w-vl-fc1sd2-2g-bekotesi-utmutato-kapcsolasi-r.jpg" width="550" /&gt;&lt;/p&gt; &lt;h3&gt;Для керування освітлення з трьох місць&lt;/h3&gt; &lt;p&gt;Підключаємо фазну напругу до точки підключення &amp;laquo;L&amp;raquo; у всіх трьох вимикачах, в точці підключення &amp;laquo;COM&amp;raquo; з&amp;#39;єднуємо всі три вимикачі інформаційним дротом, а провід лампи підключаємо до одного з&amp;nbsp;вимикачів в точці підключення &amp;quot;L1&amp;quot;.&lt;/p&gt; &lt;p&gt;Після підключення проводів і повторного підключення напруги до мережі вимикачі потрібно запрограмувати. Програмування потрібно починати з Головного вимикача.&amp;nbsp;&lt;a href="https://livolo.in.ua/prokhodnoy-vykluchatel/"&gt;Більш детально про програмування&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="297" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c706d-livolo-fenyeroszabalyzos-dimmer-alternativ-valto-erintokapcsolo-betet-erintopanel-240v-2a-500w-vl-fc1sd2-2g-bekotesi-utmutato-kapcsola-1.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Відеоінструкція&lt;/h2&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="394" loading="lazy" scrolling="no" src="https://www.youtube.com/embed/F3nkuVscPgQ" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="394" loading="lazy" scrolling="no" src="https://www.youtube.com/embed/198x_RCJhM0" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;h2&gt;Найпоширеніші питання&lt;/h2&gt; &lt;h3&gt;Чи є перехресний вимикач у LIVOLO&lt;/h3&gt; &lt;p&gt;Так є. Звичайні сенсорні альтернативні (прохідні) вимикачі мають функцію перехресного перемикання. Лампа може перемикатися із 3-5 місць. Тому окремої моделі перехресного вимикача немає, оскільки в ньому немає потреби.&lt;/p&gt; &lt;h3&gt;Чи можливо приєднати сенсорні прохідні вимикачі LIVOLO з клавішними вимикач&lt;/h3&gt; &lt;p&gt;Прохідні сенсорні вимикачі (перемикачі) Livolo працюють тільки в парті один з одним. Вони нерозраховані на роботу з клавішними вимикачами. Після підключення, сенсорні вимикачі необхідно запрограмувати на спільну роботу.&lt;/p&gt; &lt;h3&gt;Чи можу я керувати одним світлом з трьох різних місць&lt;/h3&gt; &lt;p&gt;Так. Ви можете контролювати освітлення з різних місць. Для цього використовуються прохідні вимикачі Livolo. Принцип підключення похідних сенсорних вимикачів схожий зі звичайними клавішними прохідними вимикачами, різниця лише в тому, що управління освітленням проводиться через COM провід, яким з&amp;#39;єднуються прохідні вимикачі в будь-якій кількості.&lt;/p&gt; &lt;h3&gt;Прохідний вимикач може працювати як звичайний вимикач&lt;/h3&gt; &lt;p&gt;Прохідний вимикач LIVOLO універсальний, він може працювати як звичайний вимикач. Більш того, у двохсенсорного прохідного вимикача один сенсор може працювати як звичайний вимикач, а другий - як прохідний вимикач.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;Яка схема підключення розумного прохідного вимикача&lt;/h3&gt; &lt;p&gt;У прохідних вимикачів є Головний вимикач, та Другорядний вимикач. Навантаженням керує Головний вимикач, Другорядні вимикачі передають команду вкл/викл Головному вимикачу. Розумні вимикачі встановлюються тільки на місце Головного вимикача. Другорядні вимикачі використовуються звичайні прохідні.&lt;/p&gt; &lt;h3&gt;На яких вимикачах є підсвітка&lt;/h3&gt; &lt;p&gt;Всі сенсорні вимикачі обладнані підсвічуванням робочої зони сенсора. На клавішних вимикачах Livolo підсвічування немає.&lt;/p&gt; &lt;h3&gt;Чи можна встановлювати вимикачі та розетки LIVOLO вертикально&lt;/h3&gt; &lt;p&gt;Так! LIVOLO можна також встановлювати вертикально. Оскільки механізм&amp;nbsp;може бути встановлений в скляну панель або рамку тільки одним способом, вимикачі або розетки повинні бути повернені на 90 градусів вправо або вліво для вертикального монтажу. У разі розеток необхідно повернути тільки металевий каркас, розетку необхідно витягти з металевого каркаса і після повороту металевого каркаса знову вставити в металевий каркас так, щоб отвори для розеток стояли горизонтально.&lt;/p&gt; &lt;h3&gt;Який термін придатності сенсорних вимикачів LIVOLO&lt;/h3&gt; &lt;p&gt;Виробник заявляє про 100 000 операцій включення-виключення, перевірити це на практика дуже непросто тому, що це дуже велика цифра. Але по нашій практиці вимикачі на демонстраційному стенді, котрі дуже часто використовуються продовжують функціонувати нормально вже протягом 5,5 років.&lt;/p&gt; &lt;h3&gt;Який термін гарантії на продукцію LIVOLO&lt;/h3&gt; &lt;p&gt;Гарантійний термін на продукцію LIVOLO становить 1 рік. Ми забезпечуємо повну та негайну заміну будь-яких дефектних товарів LIVOLO.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/25/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-seryy-steklo-livolo-vl-c701sc1eu1usbc1a-15-62466609160267_+da615c7bc6.png</picture>
+        <picture>https://livolo.in.ua/content/images/25/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-seryy-steklo-livolo-vl-c701sc1eu1usbc1a-15-39580929252579_+c649490d94.png</picture>
+        <picture>https://livolo.in.ua/content/images/25/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-seryy-steklo-livolo-vl-c701sc1eu1usbc1a-15-62466609160267_+da615c7bc6.png</picture>
+        <picture>https://livolo.in.ua/content/images/44/54086972662897_+91e9d5166c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/44/91494214633371_+90b5bb21ea.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/25/sensornyy-prokhodnoy-vykluchatel-1-sensor-1-rozetka-1-usb-1-rozetka-universalnaya-seryy-steklo-livolo-vl-c701sc1eu1usbc1a-15-39580929252579_+c649490d94.png</picture>
+        <picture>https://www.livolo.in.ua/content/images/44/54086972662897_+91e9d5166c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/44/91494214633371_+90b5bb21ea.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Цвет">Сірий</param>
+        <param name="Тип выключателя">Проходной, Перекрестный</param>
+        <param name="Материал рамки">Закаленное стекло</param>
+        <param name="Длина">223 мм</param>
+        <param name="Ширина">80 мм</param>
+        <param name="Глубина">34 мм</param>
+        <param name="Подсветка">Синий - выключено, Красный - включено</param>
+        <param name="Количество постов">3</param>
+        <param name="Количество сенсоров">1</param>
+        <param name="Напряжение сети">110-250 В</param>
+        <param name="Максимальный ток">5 А</param>
+        <param name="Максимальная нагрузка">1000 Вт</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Место монтажа">Внутренний</param>
+        <param name="Способ коммутации">Механическое реле</param>
+        <param name="Крепление проводов">Винтами</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
+        <param name="Бренд">LIVOLO</param>
+        <param name="Гарантийный срок, мес.">60</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Срок службы">100 000 включений</param>
+        <param name="Доставка в город">Киев|Харьков|Днепр|Херсон|Запорожье|Львов|Одесса|Кривой Рог|Николаев|Винница|Чернигов|Ужгород|Полтава</param>
+      </offer>
+      <offer id="f7_406523_DFN2835-120A-IP33-R" available="true">
+        <name>LED-STIL LED стрічка LED STIL 2835, 120 шт, DC 12V, 9,6 W, IP33, червоний колір світіння</name>
+        <price>230.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_a682875c0f275c3ca1</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Потужність 9,6 Вт/метр.&lt;/li&gt; &lt;li&gt;Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&amp;nbsp;Дана світлодіодна стрічка використовується з низьковольтним&amp;nbsp;&lt;strong&gt;джерелом живлення з робочою напругою 12В.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Світловий потік в 900 люмен порівнюваний з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/li&gt; &lt;li&gt;Дана світлодіодна стрічка може використовуватися з&amp;nbsp;&lt;strong&gt;алюмінієвими профілями різних конфігурацій.&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Також можна ознайомитися з аналогічною стрічкою в&amp;nbsp;&lt;strong&gt;ЗЕЛЕНОМУ&lt;/strong&gt;&amp;nbsp;світлі, в&amp;nbsp;&lt;strong&gt;СИНЬОМУ&lt;/strong&gt;&amp;nbsp;світлі, в&amp;nbsp;&lt;strong&gt;ЯНТАРНОМУ&lt;/strong&gt;&amp;nbsp;світлі, в&amp;nbsp;&lt;strong&gt;РОЖЕВОМУ&lt;/strong&gt;&amp;nbsp;світлі, в&amp;nbsp;&lt;strong&gt;ПОМАРАНЧЕВОМУ&lt;/strong&gt;&amp;nbsp;світлі, а також у&amp;nbsp;&lt;strong&gt;ЛИМОННОМУ&lt;/strong&gt;&amp;nbsp;світлі.&lt;/p&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt; &lt;p&gt;Ознайомитись з усім асортиментом кольорових стрічок та стрічок RGB можна&amp;nbsp;за &lt;strong&gt;&lt;a href="https://livolo.in.ua/zigbee-light/" target="_blank"&gt;посиланням&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-93245644083148_+e80224f5a9.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-16781000483247_+61b6d17c48.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-60154978440274_+c34db20b82.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-64110664426502_+b5d8f32b6f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-93245644083148_+e80224f5a9.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-16781000483247_+61b6d17c48.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-60154978440274_+c34db20b82.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/46/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-chervonyi-kolir-svitinnia-64110664426502_+b5d8f32b6f.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Красный</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406524_DFN5050-60H-IP33-RGB" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 14,4 W, 5050, 60 шт, IP33, RGB SMART, 12V</name>
+        <price>839.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_1d42a720652f686667</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Smart стрічка LED-STIL сумісна з більшістю RGB (Smart) контролерів, має високу ефективність, тривалий ресурс роботи і може застосовуватися як для домашнього використання (світломузика, оздоблення інтер&amp;#39;єру), так і для професійного застосування (клуби, театри і т.д.) . Наші фахівці допоможуть Вам підібрати контролер, блок живлення та інші комплектуючі конкретно для Вашої задачі.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-37563124163011_+cfdb8056cf.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-37563124163011_+cfdb8056cf.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-42505550985211_+74bc7d3cd6.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-48313944910092_+d70bd53605.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-54402097377231_+b1c2759e3c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-93504321592471_+42334ce863.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-42505550985211_+74bc7d3cd6.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-48313944910092_+d70bd53605.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-54402097377231_+b1c2759e3c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/47/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-smart-12v-93504321592471_+42334ce863.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGB (Smart)</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406525_DFN5050-60A-IP33-RGB-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 14,4 W, 5050, 60 шт, IP33, RGB, 24V</name>
+        <price>1256.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_15deb793aa9727da61</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Використовується з низьковольтним&amp;nbsp;&lt;strong&gt;джерелом живлення з робочою напругою 24В&lt;/strong&gt;. Безпека та енергоефективність: DC 24V&lt;/p&gt; &lt;ul&gt; &lt;li&gt;При низькому споживанні потужності - висока яскравість&lt;/li&gt; &lt;li&gt;Тип світлодіода: SAMSUNG 5050 RGB SMD led&lt;/li&gt; &lt;li&gt;Кут розсіювання світла: 120 &amp;deg;&lt;/li&gt; &lt;li&gt;Кількість світлодіодів: 60 leds / м&lt;/li&gt; &lt;li&gt;При монтажі можна використовувати&amp;nbsp;&lt;strong&gt;конектори для лед стрічки RGB&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Робоча температура: від -20 до +50 &amp;deg; C&lt;/li&gt; &lt;li&gt;Передача кольору, СRI: 85+&lt;/li&gt; &lt;li&gt;Зміна яскравості і кольору світіння за допомогою контролера&lt;/li&gt; &lt;li&gt;Клас захисту: IP33&lt;/li&gt; &lt;li&gt;Гарантія: 3 роки або 30 000 годин&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Якщо зацікавила&amp;nbsp;&lt;strong&gt;аналогічна модель з робочою напругою 12 Вольт&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Особливості серії: підкладка подвійна, холоднокатана відпалена мідь. Всередині діодів золоті дроти.&lt;/p&gt; &lt;p&gt;LM-80. CRI&gt; 80, SMD &lt;5; ERP system, тільки один BIN; CE, ROHS, UL.&lt;/p&gt; &lt;p&gt;Ознайомитись з усім асортиментом кольорових стрічок та стрічок RGB можна&amp;nbsp;&lt;strong&gt;&lt;a href="https://livolo.in.ua/en/zigbee-light/" target="_blank"&gt;за посиланням&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Дана світлодіодна стрічка може використовуватися з&amp;nbsp;&lt;strong&gt;алюмінієвими профілями різних конфігурацій&lt;/strong&gt;.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-12669031755324_+3bd271c15b.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-12669031755324_+3bd271c15b.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-27864513957934_+41cab16bf2.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-41901427755130_+c5cb17b6b4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-60531943193162_+ac1bfb88b5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-71377161747868_+50c423f69f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-71871854200321_+e68383899d.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-85999230699970_+9dd2640f3f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-89240981402425_+324d5575b9.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/48/led-strichka-led-stil-144-w-5050-60-sht-ip33-rgb-24v-27864513957934_+41cab16bf2.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">RGB</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406526_DFN5050-60A-IP68-RGB-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 14,4 Вт, 5050, 60 шт, IP68, RGB, 24V</name>
+        <price>364.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_be095934e251c17e16</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Для підсвічування фасаду будівлі з динамічними ефектами підійде світлодіодна стрічка Led-Stil зі світлодіодами типу SMD 5050. Ця стрічка працює від перетворювача і має обмеження по довжині відрізка - до 20 метрів. Якщо потрібна довжина побільше, підключайте кілька стрічок з індивідуальними блоками живлення.&lt;br /&gt; Чому цю світлодіодну стрічку варто купити для підсвічування фасаду&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Led-стрічка RGB 5050 має трьохкристальний світлодіод. Він розділений на 3 частини різних кольорів. Тому у неї немає провалів при зміні кольору світіння.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Стрічка гнучка і легко адаптується під вигини поверхні. При необхідності, її можна монтувати на гнучкий профіль.&lt;/li&gt; &lt;li&gt;Щільність світлодіодів складає 60 шт на метр. Led-стрічка 5050 60 діодів на метр має високу інтенсивність світіння, тому ваш декор не залишиться непоміченим.&lt;/li&gt; &lt;li&gt;Захист від вологи класу IP68. Така стрічка буде працювати навіть під водою.&lt;/li&gt; &lt;li&gt;Ціна світлодіодної стрічки Led-Stil 5050 для фасаду - в категорії найнижчих в Україні.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому інтернет-магазині ви можете отримати консультацію по світлодіодним стрічкам для фасаду та оформити доставку. У нас у продажу є декілька моделей на вибір, тому ви знайдете те, що вам потрібно.&lt;/p&gt; &lt;p&gt;&lt;br /&gt; Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 80, так як правильна передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 30 000 годин, а також гарантію 3 роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-53864081061623_+046062b38c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-31479478131162_+75328d0c2f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-44748809791068_+70d9761e1e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-53864081061623_+046062b38c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-61138662587503_+bb6acc2325.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-89295147525429_+d88e6898ee.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-93420822199815_+cf67840ee2.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-31479478131162_+75328d0c2f.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-44748809791068_+70d9761e1e.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/49/led-strichka-led-stil-144-vt-5050-60-sht-ip68-rgb-24v-61138662587503_+bb6acc2325.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP68</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Многоцветная</param>
+        <param name="Ширина">12 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">до 70 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">RGB</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406527_DFN2835-60A27-IP33" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2700K, 4,8 W, 2835, 60 шт, IP33,12V, 450LM</name>
+        <price>122.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_72ce585001c4c3661a</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі светопередачей CRI 80, так як правильна передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості комплектуючих світлодіодної стрічки LED-STIL, вона має тривалий ресурс роботи, 30 000 годин, а також гарантію 3 роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-23942618741106_+393ddb3383.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-23942618741106_+393ddb3383.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-43195585317496_+5bb4aca591.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-52866352454857_+e1f072bf64.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-43195585317496_+5bb4aca591.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/50/led-strichka-led-stil-2700k-48-w-2835-60-sht-ip3312v-450lm-52866352454857_+e1f072bf64.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">4.8 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">2700 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406528_DFP2835-64A27-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2700K, 6 W, 2835, 64 шт, IP33, 24V, 850LM</name>
+        <price>202.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_c1594bc1f2f52c3096</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Яскрава світлодіодна стрічка Led-Stil 2700К на 6 Вт може використовуватися як для спрямованого світла, так і для декору. Вона видає м&amp;#39;яке світіння теплуватого відтінку, що робить її універсальною для різних інтер&amp;#39;єрів.&lt;/p&gt; &lt;p&gt;Ця світлодіодна стрічка працює від акумулятора перетворювача на 24V. Led-стрічки 2835 з такою напругою живлення не дуже популярні в Україні, так як їх ціна вище, ніж у стрічки з ідентичними характеристиками на 12 вольт. Однак у світлодіодної стрічки на 24в є ряд переваг:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Стрічку можна монтувати довшими відрізками - до 20 метрів;&lt;/li&gt; &lt;li&gt;Завдяки більш низькій силі струму в ланцюзі, стрічка нагрівається менше без втрат в потужності і яскравості;&lt;/li&gt; &lt;li&gt;Щільне розміщення світлодіодів типу SMD на відрізку стрічки робить світло приємніше для очей;&lt;/li&gt; &lt;li&gt;Вище робочий ресурс стрічки.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;До того ж, вирішивши купити світлодіодну стрічку для декору на 24в в нашому інтернет-магазині, ви отримуєте гарантію на 5 років.&lt;/p&gt; &lt;p&gt;Варто відзначити, що дана стрічка призначена для роботи в приміщенні і не має захисту від вологи.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі светопередачей CRI 85+, так як правильна передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-63369606847764_+04603a6699.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-13669664131088_+7a4dff1287.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-19887441191401_+fd9d94136e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-63369606847764_+04603a6699.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-13669664131088_+7a4dff1287.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/1/led-strichka-led-stil-2700k-6-w-2835-64-sht-ip33-24v-850lm-19887441191401_+fd9d94136e.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">64 шт/м</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">2700 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406529_DFN2835-120A27-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2700K, 9,6 W, 2835, 120 шт, IP33, 24V</name>
+        <price>167.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_c2d559e2995e483aac</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодну стрічку Led-Stil 2835, 2700К відрізняють доступна ціна і світіння, що нагадує лампу розжарювання. Тому її часто обирають для домашнього використання, зокрема освітлення кухні.&lt;br /&gt; Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Температура світіння 2700К. Це біле світіння з теплим відтінком. Така температура приємна для очей і не спотворює кольору продуктів, що важливо для кухні.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Потужність 9,6W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Напруга живлення 24В. Led-стрічки на 24V є безпечними.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Світловий потік в 900 люмен порівняємий з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї.&amp;nbsp;Дана світлодіодна стрічка може використовуватися з&amp;nbsp;&lt;strong&gt;алюмінієвими профілями різних конфігурацій&lt;/strong&gt;. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&amp;nbsp;До цієї світлодіодної стрічки підходять&amp;nbsp;&lt;strong&gt;блоки живлення з робочою напругою 24 Вольти&lt;/strong&gt;.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-38721000713400_+f45fcae1be.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-20119797340516_+45a2d68567.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-38721000713400_+f45fcae1be.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-56781716170359_+585dd107d3.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-20119797340516_+45a2d68567.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/2/led-strichka-led-stil-2700k-96-w-2835-120-sht-ip33-24v-56781716170359_+585dd107d3.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">90</param>
+        <param name="Температура света">2700 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406530_DFP5050WW-60P-IP20-2W-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2700K/6500K, 12 W, світлодіоди 5050, 60 шт/м, IP20, 24V, CRI85, 1</name>
+        <price>405.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_93483d50193a667b5d</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Світлодіодна стрічка Ultra Premium-класу&lt;/strong&gt;. Довгий термін служби, висока передача кольору, якісні матеріали, низьке енергоспоживання.&lt;/p&gt; &lt;p&gt;Кут складає&amp;nbsp;&lt;strong&gt;115 &amp;deg;&lt;/strong&gt;. Температура світла змінюється за допомогою контролера від теплого білого світла до холодного білого світла в залежності від Ваших переваг - multi white 2700-6500K. Використовуються світлодіоди SMD 5050, в яких по 2 кристали одночасно. Світлоефективність понад 100 lm / Вт. Матеріал підкладки - катана мідь. Клеюча поверхня оригінального виробництва 3М. Коефіцієнт пульсації - 0%. Важливо відзначити, що дана стрічка відповідає заявленим характеристикам, протестована в лабораторних і побутових умовах.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особливість стрічки&lt;/strong&gt;&amp;nbsp;- диммування стрічки по яскравості і по температурі світла (від 2700К (теплий білий) до 6500К (холодний білий).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Основне застосування&lt;/strong&gt;&amp;nbsp;- інтер&amp;#39;єрне освітлення (кімнатна, кухня та інше підсвічування), а також ландшафтне, дизайнерське освітлення.&lt;/p&gt; &lt;p&gt;Можливе застосування з системами діммірованія (&lt;strong&gt;управління світлом&lt;/strong&gt;).&lt;/p&gt; &lt;p&gt;Кількість включень / виключень не впливає на термін служби LED стрічки.&lt;/p&gt; &lt;p&gt;Термін служби більше 50 000 годин.&amp;nbsp;&lt;strong&gt;Гарантія - 5 років.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Особливості серії: підкладка подвійна, холоднокатана відпалена мідь. У чіпі&amp;nbsp;&lt;strong&gt;золоті&amp;nbsp;&lt;/strong&gt;дроти.&lt;/p&gt; &lt;p&gt;LM-80. CRI&gt; 80, SMD &lt;5; ERP system, тільки один BIN; CE, ROHS, UL.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-72414864321157_+00e51a179c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-45475070298083_+8aab9cae02.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-72414864321157_+00e51a179c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-73296565519804_+cdeca61d7f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-75859568140572_+af4b7359d9.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-79130749215049_+53b20bdc67.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-84922979343951_+030b2e155d.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-45475070298083_+8aab9cae02.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-73296565519804_+cdeca61d7f.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/3/led-strichka-led-stil-2700k-6500k-12-w-svitlodiody-5050-60-sht-m-ip20-24v-cri85-1200-lm-m-75859568140572_+af4b7359d9.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Регулируемый (теплый, нейтральный, холодный)</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">12 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 5050</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">2700+6500 К (multi white)</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406531_DFN2835-120A-IP33-Y" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2835 120 ШТ., DC 12V, 9,6 W, IP33, жовтий колір свічення</name>
+        <price>230.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_5eb7d123303c3047b8</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt; Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 2700К. Це біле світіння з теплим відтінком. Така температура приємна для очей і не спотворює кольору продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9,6W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік в 900 люмен порівняємий з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-17753346500001_+a4c1d99866.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-17753346500001_+a4c1d99866.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-21901459437046_+4766138d40.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-41776303412434_+145021afa9.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-64398547469681_+20c572f43c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-21901459437046_+4766138d40.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-41776303412434_+145021afa9.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/4/led-strichka-led-stil-2835-120-sht.-dc-12v-96-w-ip33-zhovtyi-kolir-svichennia-64398547469681_+20c572f43c.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Желтый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406532_DFN2835-120A-IP33-G" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2835 120 шт, DC 12V, 9,6 W, IP33, зелений колір світіння</name>
+        <price>230.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_f4a79f1df82c160408</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt; Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 2700К. Це біле світіння з теплим відтінком. Така температура приємна для очей і не спотворює кольору продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9,6W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік в 900 люмен порівняємий з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-18974423615637_+7a46d7d8fe.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-18974423615637_+7a46d7d8fe.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-36038090841459_+b52019609a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-42792398542031_+67b83d5aca.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-48273589513847_+467c17f091.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-36038090841459_+b52019609a.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-42792398542031_+67b83d5aca.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/5/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-zelenyi-kolir-svitinnia-48273589513847_+467c17f091.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Зеленый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">Зеленый</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406533_DFN2835-120A-IP33-P" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2835 120 шт, DC 12V, 9,6 W, IP33, рожевий колір світіння</name>
+        <price>230.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_8601bce455dfb1036a</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt; Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 2700К. Це біле світіння з теплим відтінком. Така температура приємна для очей і не спотворює кольору продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9,6W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік в 900 люмен порівнівняний&amp;nbsp;з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-37489091549963_+184306b413.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-14536266957956_+20ecca38bc.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-37489091549963_+184306b413.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-82942412315997_+a23f459f4c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-86641570785245_+2e92533cff.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-14536266957956_+20ecca38bc.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-82942412315997_+a23f459f4c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/6/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-rozhevyi-kolir-svitinnia-86641570785245_+2e92533cff.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Розовый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">Розовый</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406534_DFN2835-120A-IP33-B" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 2835 120 шт, DC 12V, 9,6 W, IP33, синій колір світіння</name>
+        <price>230.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_87f3f70da3b7df2b68</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt; Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 2700К. Це біле світіння з теплим відтінком. Така температура приємна для очей і не спотворює кольору продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9,6W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без затухань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік в 900 люмен порівняний&amp;nbsp;з інтенсивністю світіння лампи розжарювання на 75Вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-53511796344916_+54c06bc936.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-27831711551986_+efaec152d5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-45220730467516_+bd7913fd63.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-53511796344916_+54c06bc936.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-71513631845997_+3089593d51.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-27831711551986_+efaec152d5.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-45220730467516_+bd7913fd63.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/7/led-strichka-led-stil-2835-120-sht-dc-12v-96-w-ip33-synii-kolir-svitinnia-71513631845997_+3089593d51.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Синий</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">Синий</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406535_DFP2835-128B3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 12 W, 2835, 128 шт, IP33, 24V, 1700LM</name>
+        <price>368.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_a01226679e5839a78c</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;У стельовому освітленні світлодіодні стрічки на 24в не так популярні, як стрічки на 12 вольт. Головні причини - малий вибір на ринку України і більш висока ціна. При цьому, у led-стрічки 24V від Led-Stil є маса переваг:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Світлодіодну стрічку Led-Stil на 24V можна підключати відрізками від 5 до 20 метрів, тоді як максимальна довжина відрізка стрічки на 12в - 5 метрів. Таким чином, led-стрічка Led-Stil на 24 вольт прекрасно підходить для оформлення стелі в офісі або просторій вітальні.&lt;/li&gt; &lt;li&gt;Світлодіодна стрічка менше гріється. В цілому, led-стрічки 2835 славляться довговічністю, а напруга в 24 вольт додає ресурсу і без того "витривалим" світлодіодам SMD 2835.&lt;/li&gt; &lt;li&gt;Низька споживана потужність одного метра стрічки, при цьому світіння яскравіше, ніж у аналогічної стрічки з меншою напругою живлення.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Ще одним важливим фактором при виборі світлодіодної стрічки для стелі є ступінь захисту стрічки. Led-стрічка Led-Stil на 24V має індекс вологозахисту IP33 і призначена для роботи в приміщенні.&lt;/p&gt; &lt;p&gt;Розглянуті характеристики роблять світлодіодну стрічку Led-Stil на 24V відмінним вибором для стельового освітлення. Крім цього, в нашому інтернет-магазині ви можете купити led-стрічку для стелі c гарантією до 5 років. У нас є своя доставка по Києву, а в інші міста і регіони відправляємо поштовими службами.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного висвітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується&amp;nbsp;світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею&amp;nbsp;CRI 85+, так як правильно передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-71230013058117_+a2abae55f4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-46930749566560_+c6d874dc24.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-57722507191131_+838adeda32.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-71230013058117_+a2abae55f4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-74001174902312_+c5ebaa3b9a.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-46930749566560_+c6d874dc24.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-57722507191131_+838adeda32.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/8/led-strichka-led-stil-3000k-12-w-2835-128-sht-ip33-24v-1700lm-74001174902312_+c5ebaa3b9a.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">128 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">12 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406536_DFN2835-120B3-IP33" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 14,4 W, 2835, 120 шт, IP33, 12V, 1400LM</name>
+        <price>197.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_c3b59441e4353a1574</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;У більшості сучасних квартир встановлюються натяжні стелі. Це практично і дозволяє креативно підійти до вибору джерела освітлення. В Україні популярно робити підсвічування по периметру стелі. Для цієї мети наш інтернет-магазин пропонує світлодіодну стрічку Led-Stil 3000К з напругою живлення 12 вольт. Вона має ряд переваг:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Щільність світлодіодів 120 штук на метр забезпечують рівне світіння без втрат в яскравості до кінця відрізка стрічки.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Світлодіоди типу SMD 2835 довговічні й економічні.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Стрічка не вимагає додаткових пристосувань для монтування - її гнучка&amp;nbsp;підставка&amp;nbsp;має липкий шар.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ступінь захисту світлодіодним стрічки для стелі Led-Stil IP33 дозволяє їй не боятися пилу і навіть окремих бризок води.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Led-стрічки на 12V працюють від блоку живлення, а значить не бояться випадкових перепадів напруги в мережі.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити світлодіодну стрічку для стелі з доставкою. Наш товар сертифікований і має гарантію від виробника. Додатково ви отримуєте гарантію терміном від року від магазину.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного висвітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якомувикористовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею&amp;nbsp;CRI 80, так як правильно передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 30 000 годин, а також гарантію 3 роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-43118489576068_+f01ab55004.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-38331570266764_+b250aa0ea2.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-43118489576068_+f01ab55004.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-66504002843944_+1a0814b629.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-70074460855677_+a6916b2af5.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-38331570266764_+b250aa0ea2.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-66504002843944_+1a0814b629.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/9/led-strichka-led-stil-3000k-144-w-2835-120-sht-ip33-12v-1400lm-70074460855677_+a6916b2af5.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406537_DFP2835-192C3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 18 W, 2835, 192 шт, IP33, 24V, 2600LM</name>
+        <price>386.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_d539278c7e3ec03151</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil 3000К на 24V випромінює м&amp;#39;яке світіння трохи теплого відтінку. Якщо ви плануєте стельове освітлення в спальні, дитячої або зоні відпочинку, з асортименту нашого інтернет-магазину рекомендуємо купити цю стрічку. Освітлення буде яскравим, і в той же час створиться затишна, розслаблююча атмосфера.&lt;/p&gt; &lt;p&gt;Вже згадана світлодіодна стрічка Led-Stil для стелі працює від блоку живлення на 24в. Вона найбільш ефективна при монтажі відрізками від 5 до 20 метрів. При цьому, щільність світлодіодів на метр стрічки - 192 шт, тому, як правило, одного ряду стрічки по периметру стелі досить для гарного освітлення.&lt;/p&gt; &lt;p&gt;Тип світлодіодів на стрічці SMD 2835. Led-стрічки 2835 відрізняються надійністю і довговічністю.&lt;br /&gt; &lt;strong&gt;Поради перед покупкою:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Збираючись купити світлодіодну стрічку для стелі, враховуйте сумарну потужність всіх відрізків, щоб підібрати блок живлення.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Враховуйте особливості приміщення, де буде працювати стрічка. Дана стрічка має ступінь захисту IP33 і призначена для сухих&amp;nbsp;умов.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ціна світлодіодним стрічки на 24 вольт вище ніж стрічки на 12 вольт зі схожими характеристиками. Зате стрічка на 24в прослужить довше і має більш тривалий термін гарантії.&lt;/li&gt; &lt;li&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ви можете оформити доставку з нашого магазину в будь-який населений пункт України.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного висвітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодний стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею&amp;nbsp;CRI 85+, так як правильно передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-76062954007317_+2b74c9e27c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-14023454083508_+21acfe6832.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-27815783699126_+0074ae33e9.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-52202604184504_+140acb9c5a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-76062954007317_+2b74c9e27c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-14023454083508_+21acfe6832.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-27815783699126_+0074ae33e9.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/led-strichka-led-stil-3000k-18-vt-2835-192-sht-ip33-24v-2600lm-52202604184504_+140acb9c5a.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Напряжение сети">24 В</param>
+        <param name="Световой поток">более 2000 Лм</param>
+        <param name="Количество светодиодов">192 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">18 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406538_DFN2835S-120C-IP20-WW" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 22 W, LEDS SAMSUNG 2835, 120 шт, IP20, 12V, 2200 LM</name>
+        <price>339.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_ad9220b0d77e5b7a74</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка професіонального рівня, яка може використовувати&amp;nbsp;як для створення основного освітлення будь-якого типу приміщень, так і для створення світлодіодних світильників.&lt;/p&gt; &lt;p&gt;Завдяки високим світлотехнічним показником&amp;nbsp;100 lm / w, передачі кольору CRI понад 85 і високої стійкості світлодіодів Samsung до падіння світлового потураючи, Гараня на дану світлодіодну стрічку 5 років.&lt;/p&gt; &lt;p&gt;Високої якості основа світлодіодної стрічки забезпечує довговічне її використання і не перегрівання світлодіодів.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-92017280780096_+3aa3a808d7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-27531512839721_+9ca9aa8177.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-80592368223568_+34486349da.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-92017280780096_+3aa3a808d7.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-27531512839721_+9ca9aa8177.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/11/led-strichka-led-stil-3000k-22-w-leds-samsung-2835-120-sht-ip20-12v-2200-lm-80592368223568_+34486349da.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">более 2000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">22 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406539_DFN2835-60A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 4,8 W, 2835, 60 шт, IP33, 24V</name>
+        <price>122.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_7fe9709055370f5e0f</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного висвітлення, її високі світло-технічні характеристики задовольнять навіть найвимогливіших клієнтів і дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується&amp;nbsp;&amp;nbsp;світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею&amp;nbsp;CRI 80, так як правильно передача колірної гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 30 000 годин, а також гарантію 3 роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/12/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip33-24v-78840054200517_+4744be2c86.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip33-24v-40041902647221_+71dc7a9831.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip33-24v-78840054200517_+4744be2c86.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/12/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip33-24v-40041902647221_+71dc7a9831.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">4.8 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406540_DFN2835-60A3-IP65" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 4,8 W, 2835, 60 шт, IP65, 12V</name>
+        <price>179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_ddeb6e201a6bef7fec</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Для декору інтер&amp;#39;єру вологого приміщення (ванної, сауни) або де є небезпека попадання води, варто вибрати вологозахищену світлодіодну стрічку. Світлодіодна стрічка Led-Stil на 3000К та потужністю 4, 8 ват має клас захисту IP65. Це означає, що вона високою мірою стійка до попадання пилу і бризок води на діоди.&lt;/p&gt; &lt;p&gt;Світіння у цієї стрічки білого кольору, трохи теплуватого відтінку, нагадує світло звичайної лампи розжарювання.&lt;/p&gt; &lt;p&gt;У стрічці для декору Led-Stil використані світлодіоди SMD2835. Пристрій стрічки такий, що тепло, що утворюється внаслідок роботи діодів, відводиться краще, ніж у стрічках коїться з іншими типами діодів. Це продовжує робочий ресурс світлодіодної стрічки. При цьому ціна на неї залишається невисокою.&lt;/p&gt; &lt;p&gt;Ми забезпечуємо гарантію на світлодіодні стрічки для декору на строк до 3 років. І стрічку, і комплектуючі до неї можна придбати з доставкою по Україні.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає більш прекрасним при включенні світла зі світлопередачею CRI 80, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, щонайменше 30 000 годин, а також гарантію 3&amp;nbsp;роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-48262521212285_+e521344b3a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-14696683807412_+698a7e3e61.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-43615769463879_+b7cc9c3f20.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-48262521212285_+e521344b3a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-92343252362786_+72e43a5e26.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-14696683807412_+698a7e3e61.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-43615769463879_+b7cc9c3f20.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/13/led-strichka-led-stil-3000k-48-w-2835-60-sht-ip65-12v-92343252362786_+72e43a5e26.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP65</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">4.8 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">81-90 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406541_DFP2835-128A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 6 W, 2835, 128 шт, IP33, 24V</name>
+        <price>296.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_e4f409c1426b4a43dc</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає більш прекрасним при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-59295623207733_+8c0d6674dd.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-19199601485073_+86212b3c47.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-20786488941000_+6bf107e8a2.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-27940836233779_+89f83028be.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-59295623207733_+8c0d6674dd.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-19199601485073_+86212b3c47.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-20786488941000_+6bf107e8a2.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/14/led-strichka-led-stil-3000k-6-w-2835-128-sht-ip33-24v-27940836233779_+89f83028be.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Напряжение сети">24 В</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">128 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406542_DFP2835-60A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 6 W, 2835, 60 шт, IP33, 24V, 550LM</name>
+        <price>190.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_39314f323da1f29e65</vendorCode>
+        <description>&lt;p&gt;LED-STIL преміум світлодіодна стрічка теплого відтінку (температура світіння 3000К) зі споживаною потужністю 6 Вт/метр - це вишукана стрічка, яка використовується як декоративне освітлення. Світловий коефіцієнт цієї моделі світлодіодної стрічки досягає значення 100 люмен на 1 Ватт. Це означає, що при витраті всього 6 Вт, 1 метр стрічки видає 550 люменів (лм), що еквівалентно 50-ватній лампі накалювання. Ця модель також доступна у нейтральному світлі. Основа цієї світлодіодної стрічки виготовлена з висококласної подвійної холоднокатаної прокатаної міді з товщиною 3Oz. Крім того, світлодіодна стрічка Led-Stil має високий показник відтворення кольору понад 85 (CRI &amp;gt;85). Чим вище цей показник у світлодіодних стрічок, тим більш природніми будуть виглядати об&amp;#39;єкти та поверхні при такому світлі, а показники кольору наближаються до сонячного освітлення. Також у нашому інтернет-магазині можна ознайомитися з іншими світлодіодними стрічками з індексом відтворення кольору понад 85. Вас також можуть зацікавити LED стрічки з індексом відтворення кольору понад 90. Кількість світлодіодів на 1 метрі стрічки складає 60 штук, а довжина різки - 10 см. Робоча напруга світлодіодної стрічки LED-STIL 6 Вт/м становить 24 Вольта, тому при виборі блока живлення потрібно звертати увагу на цей показник. Ознайомитися з блоками живлення 24 Вольта можна тут. Особливістю світлодіодних стрічок на 24V є те, що вони найбільш ефективні при використанні відрізків від 5 метрів до 20 метрів. Маркування led-стрічки 2835 вказує на тип світлодіодів, які використані для її виробництва SMD 2835. Цей світлодіод 2835 - один з найбільш енергоефективних. Захист стрічки IP33 дозволяє монтувати її в сухих непиловитих приміщеннях. Це означає, що стрічка захищена лише від рідкісних випадкових бризок води. Постійна вологість може пошкодити світлодіоди. Для естетичного оформлення, відведення тепла, а також захисту LED стрічки ІР33 від вологи чи пилу часто використовують алюмінієвий профіль з рассеивателем, з якими можна ознайомитися тут. Якщо вас цікавлять світлодіодні стрічки з захистом IP65 або ІР68, натисніть для переходу. Ще однією особливістю цієї моделі, а також інших світлодіодних стрічок Led-Stil серії DFP, є спеціальне покриття мідної основи. Мідна підкладка додатково покрита спеціальним складом іммерсійного срібла, яке покращує токопровідність, захищає від окислення мідь, а також покращує якість пайки стрічки при її подальшому монтажі. Ознайомитися з LED стрічкою, покритою іммерсійним сріблом, також можна на нашому сайті. Ця світлодіодна стрічка в основному застосовується для освітлення кухонних поверхонь, підсвічування карнизних ніш, освітлення стельового простору (натяжні стелі), освітлення робочих зон офісних приміщень, а також використовується для підсвічування приміщень в дизайн-проектах. Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, принаймні 50 000 годин, а також гарантію 5 років. Ознайомитися з іншими моделями світлодіодних стрічок з гарантією 5 років можна тут. Купити LED стрічку за низькою ціною в Києві можна в інтернет-магазині LED-STIL. Якщо вам потрібна додаткова консультація - зв&amp;#39;яжіться з нами за одним із номерів вище. Ми відправляємо товари по всій Україні за допомогою поштових служб.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-52591630432453_+2e6837f2b5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-25032496406894_+0593aed3e6.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-44322550505938_+37cae9937a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-52591630432453_+2e6837f2b5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-88932845988474_+4bcd7f263a.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-25032496406894_+0593aed3e6.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-44322550505938_+37cae9937a.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/led-strichka-led-stil-3000k-6-w-2835-60-sht-ip33-24v-550lm-88932845988474_+4bcd7f263a.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406543_DFP2835-120A3-IP33-12V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 6 W, 2835, 120 шт, IP33, 12V, 850LM</name>
+        <price>244.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_ab8d52a632a24fe1ec</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Кухня &amp;mdash; одне з найвідповідальніших приміщень щодо освітленості. В Україні кухня найчастіше поєднує функцію зони для приготування їжі з обідньою, інколи ж і зони відпочинку. Тому рекомендується розділяти простір кухні за допомогою джерел світла, що видають світло різної яскравості.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil 3000К потужністю 6 ватів підходить для загального освітлення кухні, або простору над обідньою зоною. Вона видає м&amp;#39;яке розслаблююче світло, не навантажує очі, налаштовує на відпочинок.&lt;/p&gt; &lt;p&gt;Основні характеристики світлодіодної стрічки Led-Stil 6 ват:&lt;br /&gt; Світлодіод типу SMD 2835. Led-стрічка 2835 вимагає мало місця для монтування та відрізняється довговічністю.&lt;br /&gt; Кількість діодів становить 120 прим на метр. Led-стрічка 120 led/m видає рівномірне світло та плавно регулюється.&lt;br /&gt; Світлодіодна стрічка має захист від зовнішніх впливів IP 33. Це означає, що їй не страшні торкання пальців або ручних інструментів та окремі бризки води.&lt;br /&gt; Стрічка живиться від акумулятора, напруга не перевищує 12 вольт. Led-стрічки на 12V часто вибирають для дому через їхню більшу безпеку.&lt;br /&gt; Купити світлодіодну стрічку для кухні ви можете у нашому інтернет-магазині. Ми завжди готові допомогти з вибором моделі та комплектуючих, а наша ціна вас приємно порадує.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-81657294285335_+f107c1a0c1.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-37721777152480_+e5de875671.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-60023715421225_+a159945cec.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-71303041458434_+f844358c03.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-81657294285335_+f107c1a0c1.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-37721777152480_+e5de875671.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-60023715421225_+a159945cec.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/16/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-12v-850lm-71303041458434_+f844358c03.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406544_DFP2835-120A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 6 W, 2835, 120 шт, IP33, 24V, 850LM</name>
+        <price>288.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_4aaa2e2fa8c6d1ecab</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil з кількістю світлодіодів 120 шт на метр та потужністю 6 ват використовується в декоративному освітленні. Завдяки великій щільності світлодіодів у світінні стрічки немає провалів і вона сприймається як безперервна смуга світла. Це красиво виглядає у підсвічуванні меблів, картин, а також у тюнінг салону автомобіля.&lt;/p&gt; &lt;p&gt;Ще однією перевагою світлодіодної стрічки для декору є її гнучка основа. Завдяки цьому стрічка плавно огинає криволінійні поверхні і, маючи клейку підкладку, монтується під будь-яким кутом.&lt;/p&gt; &lt;p&gt;Варто зауважити, що, вирішивши купити стрічку для декору автомобіля, краще вибрати led-стрічку 24V.&lt;/p&gt; &lt;p&gt;Стрічка не має захисту від води та пилу, тому її слід використовувати лише для декору всередині приміщення.&lt;/p&gt; &lt;p&gt;Якщо у вас є питання про ціни, доставку та гарантії на дану стрічку, зверніться до нашого інтернет-магазину за одним із зазначених телефонів. Ми будемо раді допомогти!&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-93397497425739_+04b252f443.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-39380920643458_+e62f74a1d7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-50159727800710_+556f2a8e43.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-93101270353617_+6bed6e504f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-93397497425739_+04b252f443.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-39380920643458_+e62f74a1d7.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-50159727800710_+556f2a8e43.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/18/led-strichka-led-stil-3000k-6-w-2835-120-sht-ip33-24v-850lm-93101270353617_+6bed6e504f.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406545_DFP2835-64A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 6 W, 2835, 64 шт, IP33, 24V, 850LM</name>
+        <price>167.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_9be7a8687deb9577ac</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Яскрава світлодіодна стрічка Led-Stil 3000К на 6 вт може використовуватись як для спрямованого підсвічування, так і для декору. Вона видає м&amp;#39;яке світіння теплуватого відтінку, що робить її універсальною для різних інтер&amp;#39;єрів.&lt;/p&gt; &lt;p&gt;Ця світлодіодна стрічка живиться від акумулятора на 24V. Led-стрічки 2835 з такою напругою живлення не дуже популярні в Україні, тому що їх ціна вища, ніж у стрічки з ідентичними характеристиками на 12 вольт. Однак у світлодіодної стрічки на 24 в є ряд переваг:&lt;/p&gt; &lt;p&gt;Стрічку можна монтувати довшими відрізками &amp;ndash; до 20 метрів;&lt;br /&gt; Завдяки нижчій силі струму в ланцюгу, стрічка нагрівається менше без втрат у потужності та яскравості;&lt;br /&gt; Щільне розміщення світлодіодів типу SMD на відрізку стрічки робить світло приємнішим для очей;&lt;br /&gt; Вище робочий ресурс стрічки.&lt;br /&gt; До того ж вирішивши купити світлодіодну стрічку для декору на 24в у нашому інтернет-магазині, ви отримуєте гарантію на 5 років.&lt;/p&gt; &lt;p&gt;Ця стрічка призначена для роботи в приміщенні та не має захисту від вологи.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-12598279684073_+4a29cd57ee.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-12598279684073_+4a29cd57ee.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-53064159050420_+5ceb0a50f8.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-79376863093966_+76c51a57cf.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-96278520848521_+4b3f34d8ff.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-53064159050420_+5ceb0a50f8.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-79376863093966_+76c51a57cf.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/19/led-strichka-led-stil-3000k-6-w-2835-64-sht-ip33-24v-850lm-96278520848521_+4b3f34d8ff.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">64 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">6 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406546_DFN2216-120A3-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 7,2 W, 2216, 120 шт, IP33, 24V, 580LM</name>
+        <price>242.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_0f2b602e8299a45451</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;ЦІНИ НА САЙТІ ВКАЗАНІ ЗА 1 МЕТР.&amp;nbsp;LED СТРІЧКА LED-STIL&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;ВІДПУСКАЄТЬСЯ КРАТНО 5 МЕТРАМ&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодну стрічку Led-Stil 2216, 3000К відрізняють доступна ціна та свічення, що нагадує лампу розжарювання. Тому її часто вибирають для домашнього використання, зокрема освітлення кухні.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ця світлодіодна стрічка Led-Stil має такі характеристики:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Температура світіння 3000К. Це біле свічення з теплим відтінком. Така температура приємна для ока і не спотворює кольори продуктів, що важливо для кухні.&lt;/p&gt; &lt;/li&gt; &lt;li&gt;Потужність 7,2 W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні в класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2216. Led-стрічка 2216 &amp;mdash; популярне рішення для &amp;nbsp; декоративного підсвічування. З нею створюють ефект кухні, підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне свічення без загасань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 24 вольти. Led-стрічки на 24V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік у 700 люменів порівнянний з інтенсивністю свічення лампи розжарювання на 60 вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити саму стрічку та всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи, що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-30593279594868_+ab2a549c18.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-30593279594868_+ab2a549c18.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-84433006658622_+ab1bc7beab.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-89802826107931_+5e12c8b104.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-84433006658622_+ab1bc7beab.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/20/led-strichka-led-stil-3000k-72-w-2216-120-sht-ip33-24v-580lm-89802826107931_+5e12c8b104.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">4 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">7.2 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2216</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406547_DFN2835-120A3-IP33" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 9,6 W, 2835, 120 шт, IP33, 12V, 900LM</name>
+        <price>166.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_99607cb560cbec0653</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодну стрічку Led-Stil 2835, 3000К відрізняють доступна ціна та свічення, що нагадує лампу розжарювання. Тому її часто вибирають для домашнього використання, зокрема освітлення кухні.&lt;/p&gt; &lt;p&gt;Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 3000К. Це біле світіння із теплим відтінком. Така температура приємна для ока і не спотворює кольори продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9, 6 W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні у класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють ефект ширяючої кухні, підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без загасань.&lt;/li&gt; &lt;li&gt;Захист IP33, стандартний для домашніх світлодіодних стрічок.&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольтів. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік 900 люмен порівняємо з інтенсивністю світіння лампи розжарювання на 75 вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи, що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-11346759354851_+7cd68e1deb.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-11346759354851_+7cd68e1deb.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-62679326873708_+934d19c791.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-69007471133536_+66f21a3fc3.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-76260420630616_+9b30d68af3.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-62679326873708_+934d19c791.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-69007471133536_+66f21a3fc3.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/21/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip33-12v-900lm-76260420630616_+9b30d68af3.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406548_DFN2835-120A3-IP65" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 9,6 W, 2835, 120 шт, IP65, 12V</name>
+        <price>245.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_094105e39b17558da0</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодну стрічку Led-Stil 2835, 3000К відрізняють доступна ціна та свічення, що нагадує лампу розжарювання. Тому її часто вибирають для домашнього використання, зокрема освітлення кухні.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Дана світлодіодна стрічка Led-Stil має такі характеристики:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння 3000К. Це біле світіння із теплим відтінком. Така температура приємна для ока і не спотворює кольори продуктів, що важливо для кухні.&lt;/li&gt; &lt;li&gt;Потужність 9, 6 W. Економічна led-стрічка добре підійде для інтер&amp;#39;єру кухні у класичному стилі.&lt;/li&gt; &lt;li&gt;Тип світлодіода SMD 2835. Led-стрічка 2835 - популярне рішення для декоративного підсвічування. З нею створюють ефект ширяючої кухні, підсвічування барної стійки або багаторівневої стелі, підкреслюють елементи кухонного інтер&amp;#39;єру.&lt;/li&gt; &lt;li&gt;Щільність 120 діодів на метр забезпечує рівномірне світіння без загасань.&lt;/li&gt; &lt;li&gt;Захист IP65, стандартний для домашніх світлодіодних стрічок у приміщеннях з повішеною вологістю (ванна, кухня).&lt;/li&gt; &lt;li&gt;Напруга живлення 12 вольт. Led-стрічки на 12V є найбезпечнішими.&lt;/li&gt; &lt;li&gt;Світловий потік 900 люмен порівняємо з інтенсивністю світіння лампи розжарювання на 75 вт.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому магазині ви можете купити стрічку і всі комплектуючі до неї. Світлодіодна стрічка легко монтується і ви можете зробити це самостійно, пам&amp;#39;ятаючи, що схема з&amp;#39;єднання проводів паралельна.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-30228930545957_+843acd71db.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-13640483962993_+d38cfd8fe1.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-30228930545957_+843acd71db.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-40158198341628_+020c351774.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-59598348694508_+400d4ef9db.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-13640483962993_+d38cfd8fe1.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-40158198341628_+020c351774.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/22/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip65-12v-59598348694508_+400d4ef9db.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP65</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406549_DFN2835-120A3-IP68-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 9,6 W, 2835, 120 шт, IP68, 24V, 900LM</name>
+        <price>314.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_7d6686cfb367dbb9de</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil з теплим світлом та захистом від води має всі необхідні характеристики для оформлення підсвічування фасаду будинку. Її потужності та світлового потоку в 900 люмен вистачить, щоб висвітлити підходи до будинку та надати фасаду ошатного вигляду.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;На що звертати увагу при покупці світлодіодної стрічки для фасаду:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Світлодіоди типу SMD 2835. Led-стрічки 2835 найбільш світлоефективні на ринку України.&lt;/li&gt; &lt;li&gt;Кількість світлодіодів 120 шт. на метр. Led-стрічка 120 led/m світить рівномірно та яскраво, без мерехтінь та згасань у кінці відрізка.&lt;/li&gt; &lt;li&gt;Напруга живлення 24 в. Стрічки на 24V широко використовуються професійними майстрами для декоративного освітлення, оскільки вони мають низьку ціну і високу надійність.&lt;/li&gt; &lt;li&gt;Ступінь захисту стрічки IP68. Ця світлодіодна стрічка повністю пилонепроникна і може працювати під водою.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Ви можете купити світлодіодну стрічку для оформлення фасаду та підсвічування прибудинкової території у нашому інтернет-магазині. Якщо у вас є питання, зв&amp;#39;яжіться з нами і ми з радістю відповімо на них.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає більш прекрасним при включенні світла зі світлопередачею CRI 80, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, щонайменше 30 000 годин, а також гарантію 3&amp;nbsp;роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-52739265624064_+eb7ae8f405.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-17817239328331_+6356b76ba7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-52739265624064_+eb7ae8f405.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-58854779279188_+f6be9dd120.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-89709289098960_+70f28fabfc.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-17817239328331_+6356b76ba7.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-58854779279188_+f6be9dd120.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/23/led-strichka-led-stil-3000k-96-w-2835-120-sht-ip68-24v-900lm-89709289098960_+70f28fabfc.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP68</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый теплый</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9.6 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406550_UC3-24-480-8-90" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 3000K, 9W, COB, 480 шт, IP33, 24V, 900LM</name>
+        <price>527.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_406550_UC3-24-480-8-90</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка суцільного світіння&amp;nbsp;LED-STIL 3000K, створена на технології COB, світлодіодні чіпи розташовані прямо на платі без пластикових основ. Поверху множинних світлодіодних чіпів нанесена смуга з люмінофором, що й дає ефект суцільного світіння, без темних проміжків. Світловий потік до 900 люменів на метрі, а робоча напруга світлодіодної стрічки 24 Вольти.&lt;/p&gt; &lt;p&gt;Лед стрічка&amp;nbsp;LED-STIL&amp;nbsp;СОВ 3000К (артикул&amp;nbsp;UC3-24-480-8-90) &amp;ndash; це стрічка нового покоління світлодіодного освітлення.&amp;nbsp;Суть&amp;nbsp;&lt;strong&gt;технології COB&lt;/strong&gt;&amp;nbsp;(Chip-On-Board) полягає в наступному: велика кількість маленьких кристалів розташовується в єдиному корпусі. Всі чіпи об&amp;#39;єднані один з одним в послідовно-паралельне з&amp;#39;єднання.&lt;/p&gt; &lt;p&gt;Led&amp;nbsp;стрічка&amp;nbsp;LED-STIL COB&amp;nbsp;&amp;ndash; це стрічка з&amp;nbsp;&lt;strong&gt;рівномірним суцільним світінням&lt;/strong&gt;!&amp;nbsp;Кількість діодів на стрічці досягає 480 штук! В їх суцільному світінні не видно окремих точок, виходить суцільна безперервна лінія світла. Завдяки використанню суцільного люмінофору отримуємо більш широкий кут освітлення у 180 градусів, ніж у SMD стрічок (115-120 градусів).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Стрічка&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;LED-STIL&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;СО&lt;/strong&gt;&lt;strong&gt;B&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;має високий коефіцієнт передачі кольору&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;RA!&amp;nbsp;&lt;/strong&gt;Індекс передачі кольору стрічки COB більше 90 Ra дозволяє людському зору правильно розрізняти відтінки і кольори навколишніх об&amp;#39;єктів.&lt;/p&gt; &lt;p&gt;Для функціонування світлодіодної стрічки потрібен блок живлення напругою 24 вольт. Стрічки випускаються довжиною 5 метрів. Щоб створити більш довгу лінію підсвічування, додавши ще стрічку, застосовують паралельний метод підключення.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-50385419617328_+a82c623a5e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-18246892399307_+35a333e041.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-26303463429557_+46a2e0f344.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-50385419617328_+a82c623a5e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-52763867112847_+4947e3dff4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-99865591162387_+8263c97931.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-18246892399307_+35a333e041.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-26303463429557_+46a2e0f344.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-52763867112847_+4947e3dff4.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/24/led-strichka-led-stil-3000k-9w-cob-480-sht-ip33-24v-900lm-99865591162387_+8263c97931.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">601-1000 Лм</param>
+        <param name="Степень защиты">IP40</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Ширина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">9 Вт/м</param>
+        <param name="Светоотдача">91-100 Лм/м</param>
+        <param name="Тип светодиода">COB</param>
+        <param name="Угол рассеивания">180°</param>
+        <param name="Цветопередача (CRI)">90+</param>
+        <param name="Температура света">3000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406551_DFP2835-128B4-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 12 W, 2835, 128 шт, IP33, 24V, 1800LM</name>
+        <price>368.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_f7f33bbba3d6a9d1a9</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Для стельового освітлення житлового приміщення рекомендуються світильники нейтрального світла з яскравим світінням без мерехтінь. Ці вимоги повністю задовольняє світлодіодна стрічка Led-Stil із температурою світла 4000 кельвінів та напругою живлення 24в.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Основні характеристики світлодіодної стрічки для стелі Led-Stil:&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Потужність led-стрічки для стелі Led-Stil складає 12 Вт на метр.&lt;/li&gt; &lt;li&gt;Щільність світлодіодів 128 шт/м.&lt;/li&gt; &lt;li&gt;Світлодіодна стрічка Led-Stil, що розглядається, працює під напругою 24V. Це означає, що опір усередині стрічки менший, ніж в інших, і її можна монтувати довшими відрізками - від 5 метрів, що ідеально для стельового підсвічування великих приміщень.&lt;/li&gt; &lt;li&gt;У стрічці використані світлодіоди типу SMD2835. Led-стрічки 2835 відрізняються тривалим терміном служби.&lt;/li&gt; &lt;li&gt;Світлодіодна стрічка Led-Stil має захист від зовнішніх факторів IP33. Цього достатньо для нормальної роботи стрічки усередині приміщення.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Незважаючи на те, що ціна на стрічку 24в вище, ніж на 12-вольтну, її надійність і великий ресурс з лишком це компенсують.&lt;/p&gt; &lt;p&gt;Якщо ви вирішили купити світлодіодну стрічку для стелі в нашому інтернет-магазині, крім гарантії від виробника, ви отримуєте нашу гарантію на безперебійну роботу стрічки на строк до 5 років. Ви можете оформити доставку як по Києву, так і по всій Україні.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-23190462898110_+1e41952fde.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-20697414212578_+cf01e027cd.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-23190462898110_+1e41952fde.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-28440485772887_+ccbe291e96.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-64486285014967_+0049e9b2e5.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-20697414212578_+cf01e027cd.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-28440485772887_+ccbe291e96.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/25/led-strichka-led-stil-4000k-12-w-2835-128-sht-ip33-24v-1800lm-64486285014967_+0049e9b2e5.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">128 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">12 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406552_DFN2835H-128B-IP65-NW" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 12 вт/м, 2835, 128 шт/м., IP65, 24V, 2000 LM</name>
+        <price>403.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_1cd29a839d7b90e688</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна LED стрічка з діодами Hongli створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка з діодами Hongli, стає більш прекрасним при включенні світла зі світлопередачею 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором. Світлодіодну стрічку купити Ви можете в будь-якому доступному магазині або ринку, але якщо Ви хочете створити в своєму будинку або офісі якісне освітлення, сприятливе для зору та нервової системи на довгі роки і не згадувати про його заміну найближчими 10 років, то Вам просто необхідно звернутися до компанії&amp;nbsp;Livolo і купити світлодіодну LED стрічку з діодами Hongli, якість якої ми гарантуємо.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки та світлодіодам Hongli, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt; &lt;p&gt;Особливості серії: підкладка подвійна, холоднокатана мідь. У чіпі золоті дроти.&lt;/p&gt; &lt;p&gt;LM-80. CRI&gt;80, SMD&lt;5; ERP system, тільки один BIN; CE, ROHS, UL.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-11125177035048_+e0d66f78f6.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-11125177035048_+e0d66f78f6.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-38211586899418_+9e62efa312.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-97366699727871_+c2ac87b181.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-38211586899418_+9e62efa312.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/26/led-strichka-led-stil-4000k-12-vt-m-2835-128-sht-m.-ip65-24v-2000-lm-97366699727871_+c2ac87b181.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">128 шт/м</param>
+        <param name="Степень защиты">IP65</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Ширина">12 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">12 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406553_DFN2835-120B4-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 14,4 W, 2835, 120 шт, IP33, 24V, 1500LM</name>
+        <price>219.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_57641b68291032b8d6</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil 4000К зі світловим потоком 1500 люмен буде доречною у загальному освітленні вітальні або кухні. Вона яскрава, має високу потужність, тому фахівці рекомендують монтувати таку led-стрічку по периметру стелі.&amp;nbsp;Дана світлодіодна стрічка може використовуватися з&amp;nbsp;&lt;strong&gt;алюмінієвими профілями різних конфігурацій&lt;/strong&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Вибираючи світлодіодну стрічку для стелі, зверніть увагу на такі характеристики:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Температура світіння. Світлодіодна стрічка Led-Stil 4000К випромінює нейтральне денне світло, приємне оку.&lt;/li&gt; &lt;li&gt;Захист від вологи. Ця led-стрічка має рівень захисту IP33 і не призначена для вологих приміщень.&lt;/li&gt; &lt;li&gt;Щільність світлодіодів. Як випливає з назви "led-стрічці 120 led/m", на одному метрі стрічки 120 діодів.&lt;/li&gt; &lt;li&gt;Робоча напруга світлодіодної стрічки для стелі Led-Stil &amp;ndash; 24 вольт. Led-стрічки на 24V найчастіше зустрічаються у квартирах, тому що їх можна розрізати на відрізки практично будь-якої довжини.&amp;nbsp;До цієї світлодіодної стрічки підходять&amp;nbsp;&lt;strong&gt;блоки живлення з робочою напругою 24 Вольти&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Тип світлодіоду. В однобарвних стрічках для стелі найчастіше використовується SMD 2835. Led-стрічка 2835 довговічна та економічна.&lt;/li&gt; &lt;li&gt;Ціна світлодіодної стрічки для стелі. Зекономивши на стрічці, ви ризикуєте отримати тьмяне освітлення, мерехтливе світло, або вам доведеться замінити джерело світла вже через півроку-рік. У Led-Stil ми робимо все, щоб ціна була розумною.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає більш прекрасним при включенні світла зі світлопередачею CRI 80, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, щонайменше 30 000 годин, а також гарантію 3&amp;nbsp;роки.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-84768387419922_+d70345a2be.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-50760548247868_+5495349e37.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-64075891980251_+02684fb68d.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-84768387419922_+d70345a2be.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-85943550271000_+1a71b6e841.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-50760548247868_+5495349e37.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-64075891980251_+02684fb68d.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/27/led-strichka-led-stil-4000k-144-w-2835-120-sht-ip33-24v-1500lm-85943550271000_+1a71b6e841.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">1001-2000 Лм</param>
+        <param name="Количество светодиодов">120 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">14.4 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406555_DFP2835-192C4-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 18 Вт, 2835, 192 шт, IP33, 24V, 2700LM</name>
+        <price>425.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_11b5945fa8828e1007</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Для загального освітлення мультифункціональних приміщень краще купити світильник із нейтральним світінням. Світлодіодна стрічка Led-Stil для стелі з температурою свічення 4000К та напругою живлення 24в підійде під цю вимогу. Декілька слів про характеристики даної стрічки:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Стрічка має потужність 18 ватів на метр, і завдяки високій щільності світлодіодів - 192 шт на метрі стрічки - сприймається оком як одна безперервна смуга світла. Розмістивши її по периметру стелі ви отримаєте рівномірне та ефектне освітлення.&lt;/li&gt; &lt;li&gt;Тип світлодіода у стрічці - SMD 2835. Основна характеристика led-стрічки 2835 - це її висока надійність та робочий ресурс.&lt;/li&gt; &lt;li&gt;Світлодіодна стрічка для стелі, що розглядається, працює від блоку живлення на 24V, який легко сховати в стельовій ніші.&lt;/li&gt; &lt;li&gt;Стрічка має захист з індексом IP33, що означає, що ця стрічка Led-Stil призначена для стелі сухого непильного приміщення.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;У нашому інтернет-магазині найдоступніша ціна на світлодіодні стрічки для стелі. Ми здійснюємо доставку по Україні та будемо раді допомогти вам із вибором.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає прекраснішим при включенні світла зі світлопередачею CRI 85+, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, мінімум 50 000 годин, а також гарантію 5 років.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-80710819332478_+958696f569.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-42432394626514_+0b2f39a1cf.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-44576499022742_+2f7bf60499.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-61494480313337_+eb6db9b446.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-80710819332478_+958696f569.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-42432394626514_+0b2f39a1cf.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-44576499022742_+2f7bf60499.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/29/led-lenta-led-stil-4000k-18-w-2835-192-sht-ip33-24v-2700lm-61494480313337_+eb6db9b446.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Световой поток">более 2000 Лм</param>
+        <param name="Количество светодиодов">192 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Ширина">10 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">18 Вт/м</param>
+        <param name="Рабочий ресурс">50000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">85+</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">60</param>
+      </offer>
+      <offer id="f7_406556_DFN2835-60A4-IP33" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 4,8 W, 2835, 60 шт, IP33, 12V,500LM</name>
+        <price>134.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_5291b73ddbdffc5cac</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка Led-Stil з температурою світіння 4000К та потужністю 4, 8 ват в основному використовується для декору елементів усередині приміщення. На одному метрі цієї стрічки розташовується 60 світлодіодів серії SMD 2835. Це невеликі діоди, тому при заданій потужності яскравості світіння буде недостатньо для повноцінного освітлення. Також клас захисту стрічки IP33. Це означає, що діоди не захищені від вологи, а лише від зіткнення з твердими предметами діаметром від 2, 5 мм і випадкових бризок. Зате характеристик стрічки достатньо для ефектного підсвічування меблів та обладнання.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка для декору Led-Stil 4, 8W працює від напруги 12 вольт. Загалом, led-стрічки на 12V потрібні в Україні. У них доступна ціна, вони мають гнучку клейку основу, яка кріпиться на будь-яку поверхню, а блок живлення невеликого розміру легко ховається.&lt;/p&gt; &lt;p&gt;Крім того, в інтернет-магазині Livolo&amp;nbsp;ви можете купити стрічку та комплектуючі з доставкою додому (по Києву) або до найближчого поштового відділення.&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світло-технічні характеристики задовольнять навіть найвибагливіших клієнтів та дизайнерів. Будь-який проект інтер&amp;#39;єру, в якому використовується світлодіодна стрічка LED-STIL, стає більш прекрасним при включенні світла зі світлопередачею CRI 80, оскільки правильна передача кольорової гами предметів гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер&amp;#39;єру.&lt;/p&gt; &lt;p&gt;Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, щонайменше 30 000 годин, а також гарантію 3&amp;nbsp;року.&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-68520544221298_+3ab6b3ac82.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-34159300642480_+deda13ac63.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-42808347298316_+b37676d617.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-68520544221298_+3ab6b3ac82.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-77425105383797_+483fbdfc74.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-34159300642480_+deda13ac63.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-42808347298316_+b37676d617.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/30/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-12v500lm-77425105383797_+483fbdfc74.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">12 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Глубина">8 мм</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">4.8 Вт/м</param>
+        <param name="Рабочий ресурс">30000 часов</param>
+        <param name="Светоотдача">больше 100 Лм/Вт</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Угол рассеивания">115°</param>
+        <param name="Цветопередача (CRI)">80</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
+      <offer id="f7_406557_DFN2835-60A4-IP33-24V" available="true">
+        <name>LED-STIL LED стрічка LED-STIL 4000K, 4,8 W, 2835, 60 шт, IP33, 24V</name>
+        <price>136.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12118</categoryId>
+        <vendor>LED-STIL</vendor>
+        <vendorCode>f7_051e41c22d72588a68</vendorCode>
+        <description>Світлодіодна стрічка Led-Stil серії DFN зі споживаною потужністю 4,8 Вт/м - це стрічка низької потужності, яка часто застосовується для декоративного освітлення. Це одна з найпопулярніших моделей в сегменті "ціна-якість". Ця світлодіодна стрічка має наступні характеристики: - Температура світіння 4000К. Це лед стрічка нейтрального світіння, яка максимально практична для використання в житлових і офісних приміщеннях. Температура світіння ідеально підходить для стін та стель, які виконані як в холодних, так і в нейтральних тонах. Також можна ознайомитися з моделлю в теплому світлі; - Потужність споживання світлодіодної стрічки не перевищує 4,8 Вт на метр, що гармонійно поєднує енергоефективність і достатню яскравість при виборі цієї моделі. Якщо вас зацікавила світлодіодна стрічка з потужністю понад 4,8 Вт на метр, можна ознайомитися за посиланням; - Робоча напруга цієї моделі світлодіодної стрічки 24 Вольти (аналогічна модель з робочою напругою 12 Вольт). Ця світлодіодна стрічка використовується з низьковольтним джерелом живлення з робочою напругою 24 В; - Кількість світлодіодів на 1 метр складає 60 штук. Ця led стрічка завдяки щільності діодів 60 led/m світить рівномірно та м'яко по всій довжині при монтажі без прямої видимості світлодіодів або в більш глибокому алюмінієвому профілі; - Ступінь захисту цієї лед стрічки - IP33. Це означає, що стрічка захищена лише від рідкісних випадкових бризок води. Постійна вологість може пошкодити світлодіоди. Якщо вас цікавлять світлодіодні стрічки з захистом IP65 або ІР68, натисніть для переходу. - тип світлодіода у цієї стрічки LED-STIL SMD 2835, який є одним з найбільш довговічних діодів, а також цей світлодіод 2835 - один з найбільш енергоефективних; - індекс передачі кольору лед стрічки LED-STIL 4,8 Вт становить понад 80 (CRI&gt;80), що відповідає правильній передачі кольорової гами об'єктів та гарантує позитивний вплив на сприйняття зором і підкреслює природну красу інтер'єру. Також в нашому інтернет-магазині можна ознайомитися зі світлодіодними стрічками з індексом передачі кольору понад 85 або індексом передачі кольору понад 90. - Ця світлодіодна стрічка може використовуватися з алюмінієвими профілями різних конфігурацій; - Завдяки високій якості основи світлодіодної стрічки LED-STIL, стрічка має дуже тривалий ресурс роботи, принаймні 30000 годин, а також гарантію 3 роки. LED стрічки з гарантією 5 років можна переглянути тут. Світлодіодна стрічка підходить для освітлення кухонних поверхонь, підсвічування натяжних стель, освітлення дитячих кімнат, підсвічування в приміщеннях кафе, барів, магазинів. Підсвічування сходів, підсвічуван ня перил або підсвічування гардеробних приміщень - LED стрічка LED-STIL 4,8 Вт підходить для вирішення цих завдань. Світлодіодна стрічка LED-STIL створена для професійного освітлення, її високі світлотехнічні характеристики задовольнять навіть найвимогливіших клієнтів та дизайнерів. Будь-який проект інтер'єру, в якому використовується світлодіодна стрічка LED-STIL, стає ще прекраснішим. Визначилися з вибором Ми будемо раді бачити вас у нашому офісі. А в інтернет-магазині Led-Stil ви можете замовити доставку зручною поштовою службою.</description>
+        <picture>https://www.livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-17289981293947_+ff0546d92e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-17289981293947_+ff0546d92e.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-58593190504161_+1be1c62590.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-91702219833573_+146291d692.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-58593190504161_+1be1c62590.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/31/led-strichka-led-stil-4000k-48-w-2835-60-sht-ip33-24v-91702219833573_+146291d692.jpg</picture>
+        <param name="Гарантия">36 мес.</param>
+        <param name="Световой поток">301-600 Лм</param>
+        <param name="Количество светодиодов">60 шт/м</param>
+        <param name="Степень защиты">IP33</param>
+        <param name="Напряжение">24 В</param>
+        <param name="Цвет свечения">Белый нейтральный</param>
+        <param name="Длина">5000 мм</param>
+        <param name="Мощность">4.8 Вт/м</param>
+        <param name="Тип светодиода">SMD 2835</param>
+        <param name="Температура света">4000 К</param>
+        <param name="Бренд">LED-STIL</param>
+        <param name="Гарантийный срок, мес.">36</param>
+      </offer>
       <offer id="f7_406558_DFN2835-60A4-IP65" available="true">
         <name>LED-STIL LED стрічка LED-STIL 4000K, 4,8 W, 2835, 60 шт, IP65, 12V</name>
         <price>180.0</price>
