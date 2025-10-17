@@ -1,79 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-10-17 11:30">
+<yml_catalog date="2025-10-17 12:58">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="8210101">Декоративна косметика, загальне</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="141717">Шліфувальні машини</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="12117">Электрические розетки</category>
       <category id="12125">Часы встраиваемые</category>
-      <category id="12116">Выключатели</category>
-      <category id="141722">Акумуляторні викрутки</category>
-      <category id="141735">Багатофункціональні інструменти</category>
+      <category id="35702">Обувь для Взрослых</category>
       <category id="150426">Led освітлення</category>
-      <category id="300506">Протиударні щитки і бронещитки</category>
-      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="230620">Клейка універсальна стрічка</category>
       <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
       <category id="12128">Электрокарнизы</category>
-      <category id="180513">Чохли, кейси для музичних інструментів</category>
-      <category id="836">корневая</category>
-      <category id="141726">Клейові електричні пістолети</category>
-      <category id="12130">Умные замки</category>
       <category id="800508">Пластикові покриття</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="3221201">Детская обувь и одежда</category>
+      <category id="3200608">Набори весільних аксесуарів</category>
       <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="141726">Клейові електричні пістолети</category>
+      <category id="836">корневая</category>
+      <category id="12130">Умные замки</category>
+      <category id="8210101">Декоративна косметика, загальне</category>
+      <category id="141735">Багатофункціональні інструменти</category>
       <category id="810305">Тепла підлога</category>
+      <category id="141722">Акумуляторні викрутки</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="141717">Шліфувальні машини</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="300506">Протиударні щитки і бронещитки</category>
+      <category id="12116">Выключатели</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="180513">Чохли, кейси для музичних інструментів</category>
     </categories>
     <offers>
-      <offer id="f7_406570_UC4-24-480-8-90" available="true">
-        <name>LED-STIL LED стрічка LED-STIL 4000K, 9W, COB, 480 шт, IP33, 24V, 1000LM</name>
-        <price>527.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12118</categoryId>
-        <vendor>LED-STIL</vendor>
-        <vendorCode>f7_406570_UC4-24-480-8-90</vendorCode>
-        <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Світлодіодна стрічка суцільного світіння&amp;nbsp;LED-STIL 4000K, створена на технології COB, світлодіодні чіпи розташовані прямо на платі без пластикових основ. Поверху множинних світлодіодних чіпів нанесена смуга з люмінофором, що й дає ефект суцільного світіння, без темних проміжків. Світловий потік до 1000 люменів на метрі, а робоча напруга світлодіодної стрічки 24 Вольти.&lt;/p&gt; &lt;p&gt;Лед стрічка&amp;nbsp;LED-STIL&amp;nbsp;СОВ 4000К (артикул&amp;nbsp;UC4-24-480-8-90) &amp;ndash; це стрічка нового покоління світлодіодного освітлення.&amp;nbsp;Суть&amp;nbsp;&lt;strong&gt;технології COB&lt;/strong&gt;&amp;nbsp;(Chip-On-Board) полягає в наступному: велика кількість маленьких кристалів розташовується в єдиному корпусі. Всі чіпи об&amp;#39;єднані один з одним в послідовно-паралельне з&amp;#39;єднання.&lt;/p&gt; &lt;p&gt;Led&amp;nbsp;стрічка&amp;nbsp;LED-STIL COB&amp;nbsp;&amp;ndash; це стрічка з&amp;nbsp;&lt;strong&gt;рівномірним суцільним світінням&lt;/strong&gt;!&amp;nbsp;Кількість діодів на стрічці досягає 480 штук! В їх суцільному світінні не видно окремих точок, виходить суцільна безперервна лінія світла. Завдяки використанню суцільного люмінофору отримуємо більш широкий кут освітлення у 180 градусів, ніж у SMD стрічок (115-120 градусів).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Стрічка&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;LED-STIL&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;СО&lt;/strong&gt;&lt;strong&gt;B&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;має високий коефіцієнт передачі кольору&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;RA!&amp;nbsp;&lt;/strong&gt;Індекс передачі кольору стрічки COB більше 90 Ra дозволяє людському зору правильно розрізняти відтінки і кольори навколишніх об&amp;#39;єктів.&lt;/p&gt; &lt;p&gt;Для функціонування світлодіодної стрічки потрібен блок живлення напругою 24 вольт. Стрічки випускаються довжиною 5 метрів. Щоб створити більш довгу лінію підсвічування, додавши ще стрічку, застосовують паралельний метод підключення.&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-50942404892298_+a515f65d7a.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-21972732816659_+5f67bdd5b7.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-50942404892298_+a515f65d7a.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-54598340207751_+c93a8d711b.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-88842765415486_+e153e0b4d6.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-21972732816659_+5f67bdd5b7.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-54598340207751_+c93a8d711b.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/45/led-strichka-led-stil-4000k-9w-cob-480-sht-ip33-24v-1000lm-88842765415486_+e153e0b4d6.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Напряжение сети">24 В</param>
-        <param name="Световой поток">601-1000 Лм</param>
-        <param name="Количество светодиодов">480 шт/м</param>
-        <param name="Степень защиты">IP33</param>
-        <param name="Напряжение">24 В</param>
-        <param name="Цвет свечения">Белый нейтральный</param>
-        <param name="Ширина">8 мм</param>
-        <param name="Длина">5000 мм</param>
-        <param name="Мощность">9 Вт/м</param>
-        <param name="Светоотдача">91-100 Лм/м</param>
-        <param name="Тип светодиода">COB</param>
-        <param name="Угол рассеивания">180°</param>
-        <param name="Цветопередача (CRI)">90+</param>
-        <param name="Температура света">4000 К</param>
-        <param name="Бренд">LED-STIL</param>
-        <param name="Гарантийный срок, мес.">60</param>
-      </offer>
       <offer id="f7_406571_UC5-24-480-8-90" available="true">
         <name>LED-STIL LED стрічка LED-STIL 5000K, 9W, COB, 480 шт, IP33, 24V, 1000LM</name>
         <price>527.0</price>
