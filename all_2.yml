@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-11-15 15:34">
+<yml_catalog date="2025-11-15 16:38">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="180513">Чохли, кейси для музичних інструментів</category>
-      <category id="810305">Тепла підлога</category>
       <category id="141726">Клейові електричні пістолети</category>
-      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="12128">Электрокарнизы</category>
       <category id="141722">Акумуляторні викрутки</category>
       <category id="12130">Умные замки</category>
-      <category id="800508">Пластикові покриття</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12128">Электрокарнизы</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="836">корневая</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="35702">Обувь для Взрослых</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="153504">Датчики для розумного будинку</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="150426">Led освітлення</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="8210101">Декоративна косметика, загальне</category>
-      <category id="141735">Багатофункціональні інструменти</category>
-      <category id="3221201">Детская обувь и одежда</category>
+      <category id="410606">Дистанційні вимикачі</category>
       <category id="12116">Выключатели</category>
+      <category id="150426">Led освітлення</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="141735">Багатофункціональні інструменти</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="8210101">Декоративна косметика, загальне</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="800508">Пластикові покриття</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
+      <category id="836">корневая</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="230620">Клейка універсальна стрічка</category>
       <category id="141717">Шліфувальні машини</category>
+      <category id="3200608">Набори весільних аксесуарів</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="35702">Обувь для Взрослых</category>
     </categories>
     <offers>
       <offer id="f7_407227_VL-C7FCMM10A-1BP" available="true">
