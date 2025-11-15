@@ -1,120 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-11-15 13:40">
+<yml_catalog date="2025-11-15 14:35">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="141726">Клейові електричні пістолети</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="836">корневая</category>
-      <category id="150403">Святкове освітлення</category>
+      <category id="230620">Клейка універсальна стрічка</category>
       <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="12128">Электрокарнизы</category>
-      <category id="141735">Багатофункціональні інструменти</category>
       <category id="141717">Шліфувальні машини</category>
-      <category id="141722">Акумуляторні викрутки</category>
-      <category id="12116">Выключатели</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="62610">Водяні конвектори</category>
-      <category id="150426">Led освітлення</category>
-      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
-      <category id="35702">Обувь для Взрослых</category>
+      <category id="800508">Пластикові покриття</category>
       <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="341634">Деталі пневмосистеми вантажних автомобілів</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
       <category id="180513">Чохли, кейси для музичних інструментів</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="12116">Выключатели</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="12130">Умные замки</category>
+      <category id="836">корневая</category>
+      <category id="141722">Акумуляторні викрутки</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="141735">Багатофункціональні інструменти</category>
+      <category id="62610">Водяні конвектори</category>
+      <category id="153504">Датчики для розумного будинку</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="3200608">Набори весільних аксесуарів</category>
-      <category id="12130">Умные замки</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="2613">Радіокеровані іграшки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="150426">Led освітлення</category>
       <category id="8210101">Декоративна косметика, загальне</category>
-      <category id="800508">Пластикові покриття</category>
+      <category id="141726">Клейові електричні пістолети</category>
+      <category id="12128">Электрокарнизы</category>
     </categories>
     <offers>
-      <offer id="f7_407225_VL-FCMM10A-1IP" available="true">
-        <name>LIVOLO Перехресний (хрестовий) вимикач LIVOLO, 2-клавішний, сірий, модуль без рамки (VL-FCMM10A</name>
-        <price>488.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f7_407225_VL-FCMM10A-1IP</vendorCode>
-        <description>&lt;h2&gt;Механічний двохклавішний перехресний вимикач&lt;/h2&gt; &lt;p&gt;Механічний клавішний вимикач Livolo є традиційним варіантом, який вже довго використовується і визнаний як надійне та&amp;nbsp;зручне рішення для управління освітленням.&lt;/p&gt; &lt;p&gt;Перехресний перемикач встановлюється в ситуаціях, коли потрібно контролювати освітлення з трьох різних місць. Зазвичай це довгі коридори, а також у прохідні кімнати. Якщо вам потрібно включити або вимкнути світло в одному місці, потім зробити це в іншому місці, і знову повернутись до третього місця, вам знадобиться перехресний перемикач.&lt;/p&gt; &lt;p&gt;Завдяки клавішному механізму, вимикач Livolo підтримує управління лампами будь-якого типу: від звичайних ламп розжарювання і галогенних ламп до енергоощадних, світлодіодних і низьковольтних ламп (12 вольтів).&lt;/p&gt; &lt;p&gt;Для встановлення вимикача використовується стандартна&amp;nbsp;кругла&amp;nbsp;монтажна&amp;nbsp;коробка.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Клавішний вимикач Livolo є ідеальним рішенням для вашого будинку, забезпечуючи надійну роботу, зручне керування. Встановіть вимикачі&amp;nbsp;Livolo і насолоджуйтесь комфортом і стилем в кожному приміщенні.&lt;/p&gt; &lt;h2&gt;Призначений&amp;nbsp;для встановлення в рамку&lt;/h2&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/glass-panel/"&gt;Рамка&lt;/a&gt;&amp;nbsp;та&amp;nbsp;&lt;a href="https://livolo.in.ua/products/metallicheskaya-ramka-livolo/"&gt;супорт&lt;/a&gt;&amp;nbsp;постачаються окремо&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/glass-panel/"&gt;&lt;img alt="" height="350" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c71srw-front-496-800x800.jpg" width="350" /&gt;&lt;/a&gt;&lt;a href="https://livolo.in.ua/products/metallicheskaya-ramka-livolo/"&gt;&lt;img alt="" height="350" loading="lazy" src="https://livolo.in.ua/content/uploads/images/femkeret-front-768x768.jpg" width="350" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Схема підключення перехресного клавішного вимикача&lt;/h2&gt; &lt;p&gt;Перехресний вимикач підключається за спеціальною схемою&amp;nbsp;разом з двома прохідними вимикачами.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="789" loading="lazy" src="https://livolo.in.ua/content/uploads/images/sxema-pdkluchennja-trox-vimikachv_ukr.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/38/vl-fcmm10a-1ip-98675804187406_+87d6cb2f30.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-24586469487920_+51b646994b.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-31975814547301_+21b6849af0.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-71081280929154_+100c7cb9e0.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-82432488992939_+0b806eb6ee.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-96499775487252_+dc44b081f1.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/38/vl-fcmm10a-1ip-98675804187406_+87d6cb2f30.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/38/vl-fcmm10a-1ip-24586469487920_+51b646994b.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/38/vl-fcmm10a-1ip-31975814547301_+21b6849af0.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/38/vl-fcmm10a-1ip-71081280929154_+100c7cb9e0.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-        <param name="Бренд">LIVOLO</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Тип выключателя">Клавишный</param>
-        <param name="Модификация выключателя">Перекрестный</param>
-        <param name="Количество клавиш">2</param>
-        <param name="Количество постов">1</param>
-        <param name="Подсветка">Нет</param>
-        <param name="Ширина">45 мм</param>
-        <param name="Длина">45 мм</param>
-        <param name="Глубина">25 мм</param>
-        <param name="Напряжение сети">110-250 В</param>
-        <param name="Максимальный ток">5 А</param>
-        <param name="Способ коммутации">Механический</param>
-        <param name="Крепление проводов">Винтами</param>
-        <param name="Место монтажа">Внутренний</param>
-        <param name="Степень защиты">IP20</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-        <param name="Страна производитель">Китай</param>
-      </offer>
-      <offer id="f7_407226_VL-C7FCMM10A-1WP" available="true">
-        <name>LIVOLO Двоклавішний перехресний вимикач Livolo білий (VL-C7FCMM10A-1WP)</name>
-        <price>878.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12116</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f7_4a54d9e6f74fd70996</vendorCode>
-        <description>&lt;h2&gt;Застосування двоклавішного перехресного вимикача&lt;/h2&gt; &lt;p&gt;Установка перехресного вимикача необхідна для забезпечення можливості включення світла в одному місці і його вимкнення в іншому місці. Зазвичай такий тип вимикача використовується в довгих коридорах і прохідних кімнатах. Перехресний вимикач підключається за&amp;nbsp;&lt;a href="https://livolo.in.ua/mekhanicheskiy-vykluchatel/" target="_blank"&gt;спеціальною схемою&lt;/a&gt;&amp;nbsp;у сполученні з іншим &lt;a href="https://livolo.in.ua/klavishnyy-prokhodnoy-vykluchatel-livolo-2-linii-tsvet-belyy-vl-c7k2s-11/"&gt;прохідним вимикачем&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Щоб мати змогу керувати освітленням з трьох різних місць, використовується третій вимикач - двоклавішний перехресний вимикач.&lt;/p&gt; &lt;p&gt;Клавішний вимикач LIVOLO &amp;mdash; це втілення сучасного стилю та вишуканості, які поєднуються з високою якістю виготовлення. Його неперевершений естетичний вигляд з лініями, що не мають зайвих деталей, створює атмосферу мінімалізму і сучасного дизайну. Кожна клавіша вимикача має гладку поверхню та комфортну текстуру, що дарує приємні відчуття при натисканні.&lt;/p&gt; &lt;p&gt;LIVOLO&amp;trade; &amp;mdash; це торгова марка, яка славиться своїми високоякісними розетками та вимикачами у стильних &lt;a href="https://livolo.in.ua/catalog/glass-panel/" target="_blank"&gt;скляних рамках&lt;/a&gt; які дозволяють створювати унікальний дизайн інтер&amp;#39;єру, виражаючи вашу індивідуальність та смак. З LIVOLO ви зможете з легкістю підібрати вимикач, який гармонійно впишеться у будь-який стиль інтер&amp;#39;єру &amp;mdash; від класичного до сучасного.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="753" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h51d6cbe60b314bf0951ec92791de71829_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Простота та функціональність&lt;/h2&gt; &lt;p&gt;Клавішний вимикач Livolo&amp;nbsp;це втілення сучасного дизайну і надійної роботи. Його мінімалістичний дизайн і гладкі лінії чудово поєднуються з будь-яким інтер&amp;#39;єром, додавши нотку елегантності та&amp;nbsp;стилю до вашого приміщення.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="789" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h9961890c61e44d6398a5b057818c2c37s_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Багата кольорова гама&lt;/h2&gt; &lt;p&gt;Livolo пропонує широке різноманіття кольорів для клавішних вимикачів, щоб задовольнити різні вподобання і стилі інтер&amp;#39;єру.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Білий:&lt;/strong&gt; Класичний і універсальний варіант, який легко поєднується з будь-яким інтер&amp;#39;єром і іншими кольорами.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Чорний:&lt;/strong&gt; Елегантний і сучасний варіант, який додає нотку стилю і контрасту до приміщення.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Сірий: &lt;/strong&gt;Модерний і стильний варіант, який додає металевий вигляд до пристрою.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Золотий:&lt;/strong&gt; Розкішний і витончений варіант, який надає класичного шарму і блиску до приміщення.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img alt="" height="397" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1vppfbdfvk1rjsszhq6acgfxa5_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Виготовлений&amp;nbsp;з високоякісних матеріалів&lt;/h2&gt; &lt;p&gt;Вимикач не піддається впливу ультрафіолету і навіть під прямим сонячним промінням колір вимикача залишається як новий роками.&amp;nbsp;Вони прослужать вам тривалий час, зберігаючи свій оригінальний вигляд і незмінну якість поверхні.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="395" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1zrrsbifrk1rjsspbq6a4pfxae_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Стійкі до подряпин&lt;/h2&gt; &lt;p&gt;Вимикач&amp;nbsp;Livolo виготовлений&amp;nbsp;з використанням загартованого скла, яке є стійким до подряпин,&amp;nbsp;що робить його ідеальним матеріалом для вимикачів, які піддаються щоденному використанню.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="394" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1ginvbcvrk1rjy0feq6atmvxa2_ukr%282%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Бездоганна обробка&lt;/h2&gt; &lt;p&gt;Кожен вимикач Livolo ретельно вирізаний та оброблений з великою увагою до деталей, щоб забезпечити бездоганну збірку та високу естетику.&amp;nbsp;Процес вирізання та обробки здійснюється з використанням передових технологій, що гарантує чітке вирізання кожної деталі вимикача. Краї вимикачів Livolo обробляються з високою точністю, забезпечуючи гладкість і однорідність поверхні.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="397" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1llzabidxk1rjy1zcq6ygexxag_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Комплектація&lt;/h2&gt; &lt;p&gt;Вимикач&amp;nbsp;Livolo поставляються у повній комплектації, що включає всі необхідні елементи для їх встановлення і використання. Основний комплект вимикача включає наступні елементи:&lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/vl-fcmm10a-1wp/"&gt;Двохклавішний перехресний вимикач.&lt;/a&gt;&amp;nbsp;Це основна частина, що має корпус і клавіші для управління світлом або приладами.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/products/vl-c7-sr-11/" target="_blank"&gt;Скляна&amp;nbsp;рамка&lt;/a&gt;.&amp;nbsp;Це зовнішнє обрамлення вимикача, яке монтується на стіну і надає йому закінчений вигляд.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/products/metallicheskaya-ramka-livolo/"&gt;Металевий супорт&lt;/a&gt;.&amp;nbsp;Для кріплення вимикача до стіни або електричної коробки та для кріплення рамки вимикача.&lt;/p&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;img alt="" height="473" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb1q4vfbfvsk1rjy0fiq6zwtxxay_ukr%282%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Розмір&lt;/h2&gt; &lt;p&gt;Вимикачі Livolo мають стандартний розмір 80х80 мм, який широко використовується у багатьох будівлях і приміщеннях.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="431" loading="lazy" src="https://livolo.in.ua/content/uploads/images/htb15ldwbcfrk1rjy0fmq6xhexxax_ukr%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Схема підключення клавішного вимикача Livolo&lt;/h2&gt; &lt;p&gt;Стандартна схема підключення клавішного вимикача Livolo включає використання розриву фази.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="789" loading="lazy" src="https://livolo.in.ua/content/uploads/images/sxema-pdkluchennja-trox-vimikachv_ukr.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-93044167405245_+b27cdaab7c.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/80798733824904_+24e00e0581.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-26766431669424_+3900975d4f.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-28575343396424_+120544ff63.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-40535240709732_+c89107a284.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-43001926616693_+28975d7d46.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-57017948276990_+b78c173688.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-68552261404310_+3de359b888.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-80101625151720_+b2cf89db36.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/39/vl-c7fcmm10a-1wp-93044167405245_+b27cdaab7c.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Білий</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-        <param name="Место монтажа">Внутренний</param>
-        <param name="Способ коммутации">Механический</param>
-        <param name="Напряжение сети">110-250 В</param>
-        <param name="Длина">80 мм</param>
-        <param name="Ширина">80 мм</param>
-        <param name="Подсветка">Нет</param>
-        <param name="Количество постов">1</param>
-        <param name="Количество клавиш">2</param>
-        <param name="Материал рамки">Закаленное стекло</param>
-        <param name="Модификация выключателя">Перекрестный</param>
-        <param name="Тип выключателя">Клавишный</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Бренд">LIVOLO</param>
-      </offer>
       <offer id="f7_407227_VL-C7FCMM10A-1BP" available="true">
         <name>LIVOLO Двоклавішний перехресний вимикач Livolo чорний (VL-C7FCMM10A-1BP)</name>
         <price>878.0</price>
