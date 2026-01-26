@@ -1,44 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-01-26 10:48">
+<yml_catalog date="2026-01-26 11:42">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="810305">Тепла підлога</category>
+      <category id="836">корневая</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="153504">Датчики для розумного будинку</category>
       <category id="230620">Клейка універсальна стрічка</category>
       <category id="2613">Радіокеровані іграшки</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="836">корневая</category>
-      <category id="150403">Святкове освітлення</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="410606">Дистанційні вимикачі</category>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
     </categories>
     <offers>
-      <offer id="f10_450608_VL-XR007-W/FC1Z2-2G" available="true">
-        <name>LIVOLO Комплект бездротовий сенсорний вимикач з реле Livolo білий скло (VL- -W/FC1Z2-2G)</name>
-        <price>1795.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>836</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_cc0c71e31145e491bb</vendorCode>
-        <description>&lt;p&gt;Буває, що після завершення ремонту ми помічаємо, що в деяких місцях бракує вимикачів, які були б там дійсно потрібні. У таких ситуаціях LIVOLO має зручне рішення &amp;mdash; бездротовий сенсорний вимикач.&lt;/p&gt; &lt;p&gt;Цей вимикач працює від батарейки, кріпиться на двосторонній скотч і має дальність дії до 30 метрів. Ви можете вибрати серед 4 кольорів: білий, чорний, сірий та золотий.&lt;/p&gt; &lt;p&gt;LIVOLO пропонує бездротові вимикачі з одним або двома сенсорами. Крім того, модульна система дозволяє створювати будь-які комбінації бездротових вимикачів від 1 до 10 сенсорів, а також інтегрувати їх із розетками в єдину скляну рамку.&lt;/p&gt; &lt;p&gt;Використання бездротового сенсорного вимикача разом із &lt;a href="https://livolo.in.ua/wi-fi-vykluchateli-i-rozetki/filter/texnologija=4/"&gt;розумними вимикачами&lt;/a&gt; дозволяє керувати освітленням не тільки вручну, а й через телефон. Це відкриває можливості для створення різних автоматичних сценаріїв, таких як ввімкнення світла за розкладом, при виявленні руху або за заходом сонця.&lt;/p&gt; &lt;p&gt;Якщо повноцінний розумний вимикач немає де встановити, можна скористатися його &lt;a href="http://livolo.in.ua/sensornye-zigbee/filter/texnologija=4/"&gt;модулем-реле&lt;/a&gt;, заховавши його всередині пристрою, який ви хочете дистанційно ввімкнути.&lt;/p&gt; &lt;p&gt;Тож, коли ситуація здається безвихідною, LIVOLO завжди має рішення, яке підійде саме вам.&lt;/p&gt; &lt;h2&gt;Способи використання бездротового вимикача&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Пряме керування розумним вимикачем.&amp;nbsp;Для цього потрібен бездротовий вимикач та розумний вимикач.&lt;/li&gt; &lt;li&gt;Керувати розумним вимикачем через налаштування автоматизації у &lt;a href="https://livolo.in.ua/kontrolery-dlia-rozumnoho-budynku/"&gt;шлюзі&lt;/a&gt;. Для цього потрібен бездротовий вимикач, шлюз та розумний вимикач.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Як підключити бездротовий вимикач&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;&lt;b&gt;Виконайте наступні дії:&lt;/b&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Доторкніться до сенсора &lt;a href="https://livolo.in.ua/rozumnyi-vymykach-ec/"&gt;розумного вимикача&lt;/a&gt;&amp;nbsp;або &lt;a href="http://livolo.in.ua/sensornye-zigbee/filter/texnologija=4/"&gt;модуля-реле&lt;/a&gt; на 10 секунд до другого звукового сигналу. Зачекайте 60 секунд, за цей час вимикач скидається до заводських налаштувань.&lt;/li&gt; &lt;li&gt;Доторкніться до сенсора &lt;a href="https://livolo.in.ua/rozumnyi-vymykach-ec/"&gt;розумного вимикача&lt;/a&gt; або &lt;a href="http://livolo.in.ua/sensornye-zigbee/filter/texnologija=4/"&gt;модуля-реле&lt;/a&gt;&amp;nbsp;на 5 секунд до звукового сигналу.&lt;/li&gt; &lt;li&gt;Доторкніться до сенсора на бездротовому вимикачі.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;em&gt;Бездротовий вимикач можна встановити в будь-якому місці, але спочатку перевірте, чи є там хороший бездротовий сигнал. Зробіть тест на зв&amp;rsquo;язок перед тим, як приклеїти вимикач. Рекомендується не приклеювати на металеві поверхні, щоб уникнути перешкод у сигналі.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Анулювання програмування.&amp;nbsp;&lt;/strong&gt;Доторкніться до сенсора&amp;nbsp;вимикача та утримуйте палець до другого звукового сигналу (приблизно 10 секунд). Програмування буде скинуто.&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Як налаштувати автоматизацію&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Переконайтеся, що шлюз, бездротовий вимикач і розумний вимикач додані в застосунок &lt;a href="https://livolo.in.ua/nastroyka-umnogo-doma/"&gt;LIVOLO HOME&lt;/a&gt;. Відкрийте розділ автоматизації та виконайте наступні дії:&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;1. Увімкнути&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Умова:&lt;/strong&gt;&lt;br /&gt; Стан пристрою &gt; Безпровідний вимикач &gt; Кнопка 1 - Одноразове натискання&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Вимкнути&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Виконання:&lt;/strong&gt;&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Увімкнути&lt;br /&gt; Пристрій &gt; Вимикач (Туалет) &gt; Увімкнено&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;2. Вимкнути&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Умова:&lt;/strong&gt;&lt;br /&gt; Стан пристрою &gt; Безпровідний вимикач &gt; Кнопка 1 - Одноразове натискання&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Увімкнути&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Виконання:&lt;/strong&gt;&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Вимкнути&lt;br /&gt; Пристрій &gt; Вимикач (Туалет) &gt; Вимкнено&lt;/p&gt; &lt;p&gt;Таким чином, навіть якщо члени родини не мають мобільного додатка для керування вимикачем, вони можуть використовувати бездротовий вимикач для управління іншими розумними пристроями через сценарії автоматизації.&lt;/p&gt; &lt;h2&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/1-ukr%281%29.jpg" width="700" /&gt;&lt;/h2&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/2-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/3-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/4-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Розмір&lt;/h2&gt; &lt;p&gt;Стандартний розмір як у всієї фурнітури LIVOLO&amp;nbsp;80х80 мм.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://images.prom.ua/2365510999_2365510999.jpg2365510999" width="640" /&gt;&lt;/p&gt; &lt;h2&gt;Розкішний дизайн&lt;/h2&gt; &lt;p&gt;Сьогодні вони відповідають практично всім вимогам дизайнерів. Колірна гамма та форми&amp;nbsp;дозволяють їх використовувати в будь-яких інтер&amp;#39;єрах. Використання загартованого скла&amp;nbsp;забезпечує практично бездоганну якість і довговічність. Це робить їх не лише функціональними, але й стильними акцентами у приміщенні.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="513" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h24c10414caf44961a5be64d57d9b350eh_ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Загартоване скло&lt;/h2&gt; &lt;p&gt;Поверхня виготовлена з високоміцного загартованого скла OptiWite.&amp;nbsp;Гладка, з елегантними лініями, приємна на дотик поверхня&amp;nbsp;дарує непередавані тактильні відчуття.&amp;nbsp;Вимикачі з таким дизайном стають майже вічними, зберігаючи свій привабливий зовнішній вигляд протягом тривалого часу.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="808" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h0143b637c63d420c9217f9cea6f4dba1t_ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Інструкція по збірці&lt;/h2&gt; &lt;p&gt;&lt;img alt="" height="355" loading="lazy" src="/content/uploads/images/vl-xr007-tutorial.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-58097475407500_+d88db7f60c.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/12683384060046_+f8e100b2e4.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/47908606465638_+86c21a83fa.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/74831740410967_+3fd50c5047.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-12340812736244_+46192e23c9.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-20085292124815_+80a4f99c46.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-40214443636976_+0eeea5b3b4.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-49777097101758_+8c67569782.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-58097475407500_+d88db7f60c.png</picture>
-        <picture>https://livolo.in.ua/content/images/31/vl-xr007-wfc1z2-2g-61093015334536_+eea226b0ea.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Білий</param>
-      </offer>
       <offer id="f10_450609_VL-XR007-B/FC1Z2-2G" available="true">
         <name>LIVOLO Комплект бездротовий сенсорний вимикач з реле Livolo чорний скло (VL- -B/FC1Z2-2G)</name>
         <price>1795.0</price>
