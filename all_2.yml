@@ -1,23 +1,152 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-01-27 21:39">
+<yml_catalog date="2026-01-27 22:44">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
+      <category id="2613">Радіокеровані іграшки</category>
       <category id="410606">Дистанційні вимикачі</category>
+      <category id="3221201">Детская обувь и одежда</category>
       <category id="153504">Датчики для розумного будинку</category>
-      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="836">корневая</category>
+      <category id="2302">Подарункові коробки і пакети</category>
       <category id="810305">Тепла підлога</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12116">Выключатели</category>
       <category id="150403">Святкове освітлення</category>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12116">Выключатели</category>
-      <category id="836">корневая</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="230620">Клейка універсальна стрічка</category>
     </categories>
     <offers>
+      <offer id="f10_408093_HRS-200-12" available="true">
+        <name>LIVOLO Димований блок живлення DIM IP20 12V 200W TRIAC 0/1-10V (HRS-200-12)</name>
+        <price>2245.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_408093_HRS-200-12</vendorCode>
+        <description>&lt;p&gt;Блок живлення з можливістю фазного димінгу TRIAC і димінгу за допомогою постійної напруги 0/1-10V&lt;/p&gt; &lt;p&gt;Управління TRIAC здійснюється по мережі 230 В,&amp;nbsp;&amp;nbsp;підходить для регулювання яскравості світильників/світлодіодних стрічок за допомогою &lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;настінного світлорегулятора&lt;/a&gt;. Зручність стандарту в тому, що для нього не потрібні додаткові дроти: достатньо замінити стандартний вимикач на димер.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість використання з &lt;a href="https://livolo.in.ua/products/sensornyj-dimmer-livolo/"&gt;димером&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Плавний запуск;&lt;/li&gt; &lt;li&gt;Захист від короткого замикання;&lt;/li&gt; &lt;li&gt;Захист від перевантажень;&lt;/li&gt; &lt;li&gt;Закрита клемна колодка;&lt;/li&gt; &lt;li&gt;Наявність отворів на корпусі для кріплення трансформатора поверхні;&lt;/li&gt; &lt;li&gt;Мають стабілізовану напругу на виході та не нагріваються під час роботи;&lt;/li&gt; &lt;li&gt;Компактні габаритні розміри дозволяють розмістити трансформатор у стінових, стельових та меблевих нішах при монтажі вбудованого освітлення.&lt;/li&gt; &lt;/ul&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/45/hrs-200-12-42532943550750_+97f6da1b2e.png</picture>
+        <picture>https://livolo.in.ua/content/images/45/hrs-200-12-42532943550750_+97f6da1b2e.png</picture>
+        <picture>https://livolo.in.ua/content/images/45/hrs-200-12-72064356946385_+4773cb449b.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/45/hrs-200-12-72064356946385_+4773cb449b.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Длина">287 мм</param>
+        <param name="Ширина">50 мм</param>
+        <param name="Высота">30 мм</param>
+        <param name="Мощность">200 Вт</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Рабочее напряжение">110-250 В</param>
+        <param name="Выходное напряжение">12 В</param>
+        <param name="Управление">TRIAC|0/1-10V</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Гарантийный срок, мес.">60</param>
+        <param name="Бренд">LIVOLO</param>
+      </offer>
+      <offer id="f10_408094_HRS-100-24" available="true">
+        <name>LIVOLO Димований блок живлення DIM IP20 24V 100W TRIAC 0/1-10V (HRS-100-24)</name>
+        <price>1711.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_408094_HRS-100-24</vendorCode>
+        <description>&lt;p&gt;Блок живлення з можливістю фазного димінгу TRIAC і димінгу за допомогою постійної напруги 0/1-10V&lt;/p&gt; &lt;p&gt;Управління TRIAC здійснюється по мережі 230 В,&amp;nbsp;&amp;nbsp;підходить для регулювання яскравості світильників/світлодіодних стрічок за допомогою &lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;настінного світлорегулятора&lt;/a&gt;. Зручність стандарту в тому, що для нього не потрібні додаткові дроти: достатньо замінити стандартний вимикач на димер.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість використання з &lt;a href="https://livolo.in.ua/products/sensornyj-dimmer-livolo/"&gt;димером&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Плавний запуск;&lt;/li&gt; &lt;li&gt;Захист від короткого замикання;&lt;/li&gt; &lt;li&gt;Захист від перевантажень;&lt;/li&gt; &lt;li&gt;Закрита клемна колодка;&lt;/li&gt; &lt;li&gt;Наявність отворів на корпусі для кріплення трансформатора поверхні;&lt;/li&gt; &lt;li&gt;Мають стабілізовану напругу на виході та не нагріваються під час роботи;&lt;/li&gt; &lt;li&gt;Компактні габаритні розміри дозволяють розмістити трансформатор у стінових, стельових та меблевих нішах при монтажі вбудованого освітлення.&lt;/li&gt; &lt;/ul&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/47/hrs-100-24-73205677368358_+25046bb53c.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/hrs-100-24-22835817372581_+038853577a.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/47/hrs-100-24-73205677368358_+25046bb53c.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/47/hrs-100-24-22835817372581_+038853577a.jpg</picture>
+        <param name="Гарантия">24 мес.</param>
+        <param name="Длина">230 мм</param>
+        <param name="Ширина">50 мм</param>
+        <param name="Высота">30 мм</param>
+        <param name="Мощность">100 Вт</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Рабочее напряжение">110-250 В</param>
+        <param name="Выходное напряжение">24 В</param>
+        <param name="Управление">TRIAC|0/1-10V</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Гарантийный срок, мес.">24</param>
+        <param name="Бренд">LIVOLO</param>
+      </offer>
+      <offer id="f10_408095_HRS-300-24" available="true">
+        <name>LIVOLO Димований блок живлення DIM IP20 24V 300W TRIAC 0/1-10V (HRS-300-24)</name>
+        <price>2948.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_408095_HRS-300-24</vendorCode>
+        <description>&lt;p&gt;Блок живлення з можливістю фазного димінгу TRIAC і димінгу за допомогою постійної напруги 0/1-10V&lt;/p&gt; &lt;p&gt;Управління TRIAC здійснюється по мережі 230 В,&amp;nbsp;&amp;nbsp;підходить для регулювання яскравості світильників/світлодіодних стрічок за допомогою &lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;настінного світлорегулятора&lt;/a&gt;. Зручність стандарту в тому, що для нього не потрібні додаткові дроти: достатньо замінити стандартний вимикач на димер.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість використання з &lt;a href="https://livolo.in.ua/products/sensornyj-dimmer-livolo/"&gt;димером&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Плавний запуск;&lt;/li&gt; &lt;li&gt;Захист від короткого замикання;&lt;/li&gt; &lt;li&gt;Захист від перевантажень;&lt;/li&gt; &lt;li&gt;Закрита клемна колодка;&lt;/li&gt; &lt;li&gt;Наявність отворів на корпусі для кріплення трансформатора поверхні;&lt;/li&gt; &lt;li&gt;Мають стабілізовану напругу на виході та не нагріваються під час роботи;&lt;/li&gt; &lt;li&gt;Компактні габаритні розміри дозволяють розмістити трансформатор у стінових, стельових та меблевих нішах при монтажі вбудованого освітлення.&lt;/li&gt; &lt;/ul&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/48/hrs-300-24-53318394939324_+ebb33364df.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/hrs-300-24-48540025490669_+a7d1228c24.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/48/hrs-300-24-53318394939324_+ebb33364df.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/48/hrs-300-24-48540025490669_+a7d1228c24.jpg</picture>
+        <param name="Гарантия">24 мес.</param>
+        <param name="Длина">287 мм</param>
+        <param name="Ширина">50 мм</param>
+        <param name="Высота">30 мм</param>
+        <param name="Мощность">300 Вт</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Рабочее напряжение">110-250 В</param>
+        <param name="Выходное напряжение">24 В</param>
+        <param name="Управление">TRIAC|0/1-10V</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Гарантийный срок, мес.">24</param>
+        <param name="Бренд">LIVOLO</param>
+      </offer>
+      <offer id="f10_408098_VL-XS002" available="true">
+        <name>LIVOLO Автономна бездротова кнопка EC Livolo (VL- )</name>
+        <price>535.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12131</categoryId>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_408098_VL-XS002</vendorCode>
+        <description>&lt;p&gt;&lt;strong&gt;Автономна бездротова кнопка EC Livolo&lt;/strong&gt; &amp;mdash; це зручний і сучасний елемент управління системами розумного дому. Вона не потребує живлення від батарейок чи електромережі, оскільки використовує кінетичну енергію натискання для генерації сигналу. Стильний дизайн та можливість монтажу в будь-якому місці роблять її ідеальним рішенням для автоматизації освітлення та інших розумних пристроїв у будинку.&lt;/p&gt; &lt;p&gt;Кнопка сумісна зі &lt;a href="http://livolo.in.ua/zigbee-shluz/"&gt;шлюзом EC&lt;/a&gt; Livolo і дає змогу запускати сценарії керування &amp;mdash; наприклад, увімкнення світла або техніки.&amp;nbsp;Для реалізації функції інтелектуального взаємозв&amp;#39;язку кнопку слід використовувати разом з іншими інтелектуальними пристроями. Наприклад, для найпростішої функції взаємозв&amp;#39;язку (увімкнути світло після натискання кнопки) потрібен принаймні один шлюз, один &lt;a href="https://livolo.in.ua/rozumnyi-vymykach-ec/" target="_blank"&gt;розумний вимикач&lt;/a&gt;&amp;nbsp;та одна автономна кнопка.&lt;/p&gt; &lt;h3&gt;Переваги:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Не потребує джерела живлення чи батарейок&lt;/li&gt; &lt;li&gt;Проста установка в будь-якому зручному місці&lt;/li&gt; &lt;li&gt;Працює в екосистемі LIVOLO HOME &amp;quot;&lt;a href="http://livolo.in.ua/smart-home/"&gt;розумний будинок&lt;/a&gt;&amp;quot;&lt;/li&gt; &lt;li&gt;Сумісність зі сценаріями автоматизації&lt;/li&gt; &lt;li&gt;Надійна якість і стильний дизайн&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Застосування:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Керування освітленням або пристроями у розумному будинку&lt;/li&gt; &lt;li&gt;Ідеально підходить для квартир, офісів, будинків, готелів&lt;/li&gt; &lt;li&gt;Можна використовувати у будь-якому місці, де потрібна швидка та зручна активація сценаріїв&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Комплектація:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;автономна кнопка Livolo&lt;/li&gt; &lt;li&gt;інструкція з експлуатації&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img alt="" height="817" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee-930_01_ukr.jpg" width="700" /&gt;&lt;img alt="" height="818" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_02_ukr.jpg" width="700" /&gt;&lt;img alt="" height="890" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_03_ukr.jpg" width="700" /&gt;&lt;a href="https://livolo.in.ua/kineticheskiy-pult-upravleniya-ustroystvami-zigbee-livolo-vl-xs001/" target="_blank"&gt;&lt;img alt="" height="953" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_04_ukr%281%29.jpg" width="700" /&gt;&lt;/a&gt;&lt;img alt="" height="826" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_05_ukr.jpg" width="700" /&gt;&lt;img alt="" height="888" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_06_ukr.jpg" width="700" /&gt;&lt;img alt="" height="568" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_07_ukr.jpg" width="700" /&gt;&lt;img alt="" height="500" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_08_ukr%281%29.jpg" width="700" /&gt;&lt;img alt="" height="297" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_09_ukr.jpg" width="700" /&gt;&lt;img alt="" height="248" loading="lazy" src="https://livolo.in.ua/content/uploads/images/zigbee930_10_ukr.jpg" width="700" /&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/10/33369824936778_+a26c42a21f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/33369824936778_+a26c42a21f.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/48813806251870_+8bb170d0e8.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/68031385568109_+83f8281cb8.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/10/86978785992843_+0c450931b0.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/48813806251870_+8bb170d0e8.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/68031385568109_+83f8281cb8.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/10/86978785992843_+0c450931b0.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Длина">66 мм</param>
+        <param name="Глубина">23 мм</param>
+        <param name="Дальность действия">30 м</param>
+        <param name="Питание">Работает без батареек</param>
+        <param name="Тип кнопок">Механические</param>
+        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Бренд">LIVOLO</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Гарантийный срок, мес.">60</param>
+        <param name="Степень защиты">IP20</param>
+      </offer>
+      <offer id="f10_408099_VL-XR007-M7FC1Z2-2WP" available="true">
+        <name>LIVOLO Комплект бездротовий сенсорний вимикач + розумний вимикач (реле) Livolo білий скло (VL-</name>
+        <price>2085.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>12116</categoryId>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_254d6da1e94d0ff6ad</vendorCode>
+        <description>&lt;h2&gt;Бездротовий вимикач + Розумний сенсорний вимикач&lt;/h2&gt; &lt;p data-end="808" data-start="405"&gt;Планування електропроводки у квартирі чи будинку &amp;ndash; це завжди відповідальний процес. Але навіть після ретельно продуманого ремонту часто виникають незручності: виявляється, що в певному місці &lt;strong data-end="615" data-start="596"&gt;бракує вимикача&lt;/strong&gt;, або було б зручно &lt;strong data-end="677" data-start="635"&gt;керувати світлом з іншого боку кімнати&lt;/strong&gt;, наприклад, &lt;strong data-end="711" data-start="690"&gt;з ліжка чи дивану&lt;/strong&gt;. А іноді вже наявний вимикач опиняється &lt;strong data-end="772" data-start="752"&gt;закритим меблями&lt;/strong&gt;, наприклад холодильником або шафою.&lt;/p&gt; &lt;p data-end="1115" data-start="810"&gt;Ще одна типова ситуація &amp;ndash; потреба в &lt;strong data-end="869" data-start="846"&gt;прохідному вимикачі&lt;/strong&gt;, коли світло потрібно вмикати і вимикати з двох різних точок, але дроти під це не були закладені під час ремонту. Раніше це означало повний перероблення системи освітлення, але тепер є сучасне рішення &amp;mdash; &lt;strong data-end="1114" data-start="1073"&gt;комплект бездротового вимикача Livolo&lt;/strong&gt;.&lt;/p&gt; &lt;p data-end="1399" data-start="1117"&gt;Цей &lt;strong data-end="1149" data-start="1121"&gt;розумний комплект Livolo&lt;/strong&gt; складається з &lt;strong data-end="1200" data-start="1164"&gt;сенсорного бездротового вимикача&lt;/strong&gt; та &lt;strong data-end="1231" data-start="1204"&gt;розумного реле-вимикача&lt;/strong&gt;, що працюють через &lt;strong data-end="1266" data-start="1251"&gt;радіосигнал&lt;/strong&gt;. Це ідеальне рішення для тих, хто хоче оновити або доповнити свою систему освітлення &lt;strong data-end="1398" data-start="1352"&gt;без свердління стін та прокладання кабелів&lt;/strong&gt;.&lt;/p&gt; &lt;p data-end="1724" data-start="1401"&gt;Встановлення максимально просте: &lt;strong data-end="1474" data-start="1434"&gt;бездротовий сенсорний вимикач Livolo&lt;/strong&gt; кріпиться на будь-яку поверхню &amp;ndash; стіну, меблі або навіть скло &amp;ndash; за допомогою двостороннього скотчу. Він готовий до роботи одразу після підключення. Радіус дії становить до &lt;strong data-end="1660" data-start="1647"&gt;30 метрів&lt;/strong&gt;, що дозволяє розміщувати вимикач у найзручніших для вас місцях.&lt;/p&gt; &lt;p data-end="1903" data-start="1726"&gt;Хочете більше точок керування світлом Жодних проблем. Ви легко можете &lt;strong data-end="1837" data-start="1797"&gt;додати ще бездротові вимикачі Livolo&lt;/strong&gt;, створивши &lt;strong data-end="1888" data-start="1849"&gt;гнучку систему розумного освітлення&lt;/strong&gt; у вашому домі.&lt;/p&gt; &lt;p data-end="2093" data-start="1905"&gt;Окрім функціональності, Livolo має ще й стильний вигляд. &lt;strong data-end="1987" data-start="1967"&gt;Загартоване скло&lt;/strong&gt;, &lt;strong data-end="2008" data-start="1989"&gt;сенсорна панель&lt;/strong&gt;, &lt;strong data-end="2036" data-start="2010"&gt;мінімалістичний дизайн&lt;/strong&gt; &amp;ndash; усе це ідеально доповнить будь-який сучасний інтер&amp;rsquo;єр.&lt;/p&gt; &lt;p data-end="2093" data-start="1905"&gt;&amp;nbsp;&lt;/p&gt; &lt;h3 data-end="2131" data-start="2100"&gt;Ключові переваги комплекту:&lt;/h3&gt; &lt;ul data-end="2450" data-start="2132"&gt; &lt;li data-end="2186" data-start="2132"&gt; &lt;p data-end="2186" data-start="2134"&gt; &lt;strong data-end="2186" data-start="2136"&gt;Розумне керування світлом без дротів і ремонту&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="2236" data-start="2187"&gt; &lt;p data-end="2236" data-start="2189"&gt; &lt;strong data-end="2236" data-start="2191"&gt;Прохідний вимикач без прокладання кабелів&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="2292" data-start="2237"&gt; &lt;p data-end="2292" data-start="2239"&gt; &lt;strong data-end="2292" data-start="2241"&gt;Сенсорний вимикач Livolo з радіусом дії до 30 м&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="2341" data-start="2293"&gt; &lt;p data-end="2341" data-start="2295"&gt; &lt;strong data-end="2341" data-start="2297"&gt;Ідеальне рішення для післяремонтних змін&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="2395" data-start="2342"&gt; &lt;p data-end="2395" data-start="2344"&gt; &lt;strong data-end="2395" data-start="2346"&gt;Легкий монтаж: без свердління, без штроблення&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="2450" data-start="2396"&gt; &lt;p data-end="2450" data-start="2398"&gt; &lt;strong data-end="2450" data-start="2400"&gt;Сумісність із іншими пристроями розумного дому&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="2450" data-start="2398"&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;Способи використання бездротового вимикача&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Пряме керування розумним вимикачем.&amp;nbsp;Для цього потрібен бездротовий вимикач та розумний вимикач.&lt;/li&gt; &lt;li&gt;Керувати розумним вимикачем через налаштування автоматизації у &lt;a href="https://livolo.in.ua/kontrolery-dlia-rozumnoho-budynku/"&gt;шлюзі&lt;/a&gt;. Для цього потрібен бездротовий вимикач, шлюз та розумний вимикач.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="395" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" src="https://www.youtube.com/embed/ikdQ0t0M0Bgsi=ArJeSs42Iq3C-s_t" title="YouTube video player" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Як підключити бездротовий вимикач&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;&lt;b&gt;Виконайте наступні дії:&lt;/b&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Доторкніться сенсора &lt;a href="https://livolo.in.ua/rozumnyi-vymykach-ec/"&gt;розумного вимикача&lt;/a&gt; на 10 секунд до другого звукового сигналу. Зачекайте 60 секунд, за цей час вимикач скидається до заводських налаштувань.&lt;/li&gt; &lt;li&gt;Доторкніться сенсора &lt;a href="https://livolo.in.ua/rozumnyi-vymykach-ec/"&gt;розумного вимикача&lt;/a&gt; на 5 секунд до звукового сигналу.&lt;/li&gt; &lt;li&gt;Доторкніться сенсора на бездротовому вимикачі.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;em&gt;Бездротовий вимикач можна встановити в будь-якому місці, але спочатку перевірте, чи є там хороший бездротовий сигнал. Зробіть тест на зв&amp;rsquo;язок перед тим, як приклеїти вимикач. Рекомендується не приклеювати на металеві поверхні, щоб уникнути перешкод у сигналі.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Анулювання програмування.&amp;nbsp;&lt;/strong&gt;Доторкніться до сенсора&amp;nbsp;вимикача та утримуйте палець до другого звукового сигналу (приблизно 10 секунд). Програмування буде скинуто.&lt;/p&gt; &lt;h2&gt;&lt;b&gt;Як налаштувати автоматизацію&lt;/b&gt;&lt;/h2&gt; &lt;p&gt;Переконайтеся, що шлюз, бездротовий вимикач і розумний вимикач додані в застосунок &lt;a href="https://livolo.in.ua/nastroyka-umnogo-doma/"&gt;LIVOLO HOME&lt;/a&gt;. Відкрийте розділ автоматизації та виконайте наступні дії:&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;1. Увімкнути&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Умова:&lt;/strong&gt;&lt;br /&gt; Стан пристрою &gt; Безпровідний вимикач &gt; Кнопка 1 - Одноразове натискання&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Вимкнути&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Виконання:&lt;/strong&gt;&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Увімкнути&lt;br /&gt; Пристрій &gt; Вимикач (Туалет) &gt; Увімкнено&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;2. Вимкнути&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Умова:&lt;/strong&gt;&lt;br /&gt; Стан пристрою &gt; Безпровідний вимикач &gt; Кнопка 1 - Одноразове натискання&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Увімкнути&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Виконання:&lt;/strong&gt;&lt;br /&gt; Пристрій &gt; Розумний сенсорний вимикач (Спальня) &gt; Вимкнути&lt;br /&gt; Пристрій &gt; Вимикач (Туалет) &gt; Вимкнено&lt;/p&gt; &lt;p&gt;Таким чином, навіть якщо члени родини не мають мобільного додатка для керування вимикачем, вони можуть використовувати бездротовий вимикач для управління іншими розумними пристроями через сценарії автоматизації.&lt;/p&gt; &lt;h2&gt;Комплект включає:&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://livolo.in.ua/vl-xr007-w/" target="_blank"&gt;Бездротовий сенсорний вимикач&lt;/a&gt; Livolo&amp;nbsp;(VL-XR007)&lt;/li&gt; &lt;li&gt;&lt;a href="https://livolo.in.ua/vl-m7fc1z2-2wp/" target="_blank"&gt;Розумний сенсорний ЕС вимикач&lt;/a&gt; Livolo&amp;nbsp;(VL-M7FC1Z2-2)&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/1-ukr%281%29.jpg" width="700" /&gt;&lt;/h2&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/2-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/3-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="700" loading="lazy" src="https://livolo.in.ua/content/uploads/images/4-ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Розмір&lt;/h2&gt; &lt;p&gt;Стандартний розмір як у всієї фурнітури LIVOLO&amp;nbsp;80х80 мм.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://images.prom.ua/2365510999_2365510999.jpg2365510999" width="640" /&gt;&lt;/p&gt; &lt;h2&gt;Розкішний дизайн&lt;/h2&gt; &lt;p&gt;Сьогодні вони відповідають практично всім вимогам дизайнерів. Колірна гамма та форми&amp;nbsp;дозволяють їх використовувати в будь-яких інтер&amp;#39;єрах. Використання загартованого скла&amp;nbsp;забезпечує практично бездоганну якість і довговічність. Це робить їх не лише функціональними, але й стильними акцентами у приміщенні.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="513" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h24c10414caf44961a5be64d57d9b350eh_ukr.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Загартоване скло&lt;/h2&gt; &lt;p&gt;Поверхня виготовлена з високоміцного загартованого скла OptiWite.&amp;nbsp;Гладка, з елегантними лініями, приємна на дотик поверхня&amp;nbsp;дарує непередавані тактильні відчуття.&amp;nbsp;Вимикачі з таким дизайном стають майже вічними, зберігаючи свій привабливий зовнішній вигляд протягом тривалого часу.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="808" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h0143b637c63d420c9217f9cea6f4dba1t_ukr.jpg" width="700" /&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-84241619240946_+e465dd6d0b.png</picture>
+        <picture>https://livolo.in.ua/content/images/12/66618247942643_+bbab5ad5dd.png</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-15488583910126_+dce02bc75a.png</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-16631566634868_+d9fe0dfed7.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-18228109189120_+92bd00bdfa.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-22822675962494_+18e81671f5.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-62437952304149_+cfcd5cef68.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-67122593268652_+28b6ddb347.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/12/vl-xr007-m7fc1z2-2wp-84241619240946_+e465dd6d0b.png</picture>
+        <picture>https://www.livolo.in.ua/content/images/12/66618247942643_+bbab5ad5dd.png</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Цвет">Білий</param>
+      </offer>
       <offer id="f10_408100_VL-XR007-M7FC1Z2-2BP" available="true">
         <name>LIVOLO Комплект бездротовий сенсорний вимикач + розумний вимикач (реле) Livolo чорний скло (VL-</name>
         <price>2085.0</price>
