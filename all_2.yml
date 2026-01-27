@@ -1,74 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-01-27 22:44">
+<yml_catalog date="2026-01-27 23:47">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="836">корневая</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12116">Выключатели</category>
-      <category id="150403">Святкове освітлення</category>
       <category id="35702">Обувь для Взрослых</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="12116">Выключатели</category>
+      <category id="836">корневая</category>
+      <category id="3221201">Детская обувь и одежда</category>
       <category id="230620">Клейка універсальна стрічка</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="810305">Тепла підлога</category>
     </categories>
     <offers>
-      <offer id="f10_408093_HRS-200-12" available="true">
-        <name>LIVOLO Димований блок живлення DIM IP20 12V 200W TRIAC 0/1-10V (HRS-200-12)</name>
-        <price>2245.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_408093_HRS-200-12</vendorCode>
-        <description>&lt;p&gt;Блок живлення з можливістю фазного димінгу TRIAC і димінгу за допомогою постійної напруги 0/1-10V&lt;/p&gt; &lt;p&gt;Управління TRIAC здійснюється по мережі 230 В,&amp;nbsp;&amp;nbsp;підходить для регулювання яскравості світильників/світлодіодних стрічок за допомогою &lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;настінного світлорегулятора&lt;/a&gt;. Зручність стандарту в тому, що для нього не потрібні додаткові дроти: достатньо замінити стандартний вимикач на димер.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість використання з &lt;a href="https://livolo.in.ua/products/sensornyj-dimmer-livolo/"&gt;димером&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Плавний запуск;&lt;/li&gt; &lt;li&gt;Захист від короткого замикання;&lt;/li&gt; &lt;li&gt;Захист від перевантажень;&lt;/li&gt; &lt;li&gt;Закрита клемна колодка;&lt;/li&gt; &lt;li&gt;Наявність отворів на корпусі для кріплення трансформатора поверхні;&lt;/li&gt; &lt;li&gt;Мають стабілізовану напругу на виході та не нагріваються під час роботи;&lt;/li&gt; &lt;li&gt;Компактні габаритні розміри дозволяють розмістити трансформатор у стінових, стельових та меблевих нішах при монтажі вбудованого освітлення.&lt;/li&gt; &lt;/ul&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/45/hrs-200-12-42532943550750_+97f6da1b2e.png</picture>
-        <picture>https://livolo.in.ua/content/images/45/hrs-200-12-42532943550750_+97f6da1b2e.png</picture>
-        <picture>https://livolo.in.ua/content/images/45/hrs-200-12-72064356946385_+4773cb449b.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/45/hrs-200-12-72064356946385_+4773cb449b.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Длина">287 мм</param>
-        <param name="Ширина">50 мм</param>
-        <param name="Высота">30 мм</param>
-        <param name="Мощность">200 Вт</param>
-        <param name="Степень защиты">IP20</param>
-        <param name="Рабочее напряжение">110-250 В</param>
-        <param name="Выходное напряжение">12 В</param>
-        <param name="Управление">TRIAC|0/1-10V</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Бренд">LIVOLO</param>
-      </offer>
-      <offer id="f10_408094_HRS-100-24" available="true">
-        <name>LIVOLO Димований блок живлення DIM IP20 24V 100W TRIAC 0/1-10V (HRS-100-24)</name>
-        <price>1711.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_408094_HRS-100-24</vendorCode>
-        <description>&lt;p&gt;Блок живлення з можливістю фазного димінгу TRIAC і димінгу за допомогою постійної напруги 0/1-10V&lt;/p&gt; &lt;p&gt;Управління TRIAC здійснюється по мережі 230 В,&amp;nbsp;&amp;nbsp;підходить для регулювання яскравості світильників/світлодіодних стрічок за допомогою &lt;a href="https://livolo.in.ua/catalog/dimmery/"&gt;настінного світлорегулятора&lt;/a&gt;. Зручність стандарту в тому, що для нього не потрібні додаткові дроти: достатньо замінити стандартний вимикач на димер.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість використання з &lt;a href="https://livolo.in.ua/products/sensornyj-dimmer-livolo/"&gt;димером&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Плавний запуск;&lt;/li&gt; &lt;li&gt;Захист від короткого замикання;&lt;/li&gt; &lt;li&gt;Захист від перевантажень;&lt;/li&gt; &lt;li&gt;Закрита клемна колодка;&lt;/li&gt; &lt;li&gt;Наявність отворів на корпусі для кріплення трансформатора поверхні;&lt;/li&gt; &lt;li&gt;Мають стабілізовану напругу на виході та не нагріваються під час роботи;&lt;/li&gt; &lt;li&gt;Компактні габаритні розміри дозволяють розмістити трансформатор у стінових, стельових та меблевих нішах при монтажі вбудованого освітлення.&lt;/li&gt; &lt;/ul&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/47/hrs-100-24-73205677368358_+25046bb53c.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/47/hrs-100-24-22835817372581_+038853577a.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/47/hrs-100-24-73205677368358_+25046bb53c.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/47/hrs-100-24-22835817372581_+038853577a.jpg</picture>
-        <param name="Гарантия">24 мес.</param>
-        <param name="Длина">230 мм</param>
-        <param name="Ширина">50 мм</param>
-        <param name="Высота">30 мм</param>
-        <param name="Мощность">100 Вт</param>
-        <param name="Степень защиты">IP20</param>
-        <param name="Рабочее напряжение">110-250 В</param>
-        <param name="Выходное напряжение">24 В</param>
-        <param name="Управление">TRIAC|0/1-10V</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">24</param>
-        <param name="Бренд">LIVOLO</param>
-      </offer>
       <offer id="f10_408095_HRS-300-24" available="true">
         <name>LIVOLO Димований блок живлення DIM IP20 24V 300W TRIAC 0/1-10V (HRS-300-24)</name>
         <price>2948.0</price>
