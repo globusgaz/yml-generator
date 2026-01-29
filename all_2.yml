@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-01-29 06:25">
+<yml_catalog date="2026-01-29 07:14">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="810305">Тепла підлога</category>
       <category id="153504">Датчики для розумного будинку</category>
       <category id="410606">Дистанційні вимикачі</category>
-      <category id="35702">Обувь для Взрослых</category>
       <category id="150403">Святкове освітлення</category>
-      <category id="810305">Тепла підлога</category>
       <category id="12116">Выключатели</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
       <category id="836">корневая</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="230620">Клейка універсальна стрічка</category>
     </categories>
     <offers>
       <offer id="f10_408085_VL-FCQ1Z2-2IP" available="true">
@@ -15356,7 +15356,6 @@ premium якість,&lt;br /&gt;
  
  &lt;p&gt;Оранжевий та фіолетовий 18*21&lt;/p&gt;</description>
         <url>https://prom.ua/pA000021</url>
-        <picture>https://images.prom.ua/6951677574_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677577_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677578_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677581_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677579_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677582_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677584_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677583_podarochnyj-zip-paket.jpg, https://images.prom.ua/6951677591_podarochnyj-zip-paket.jpg</picture>
       </offer>
       <offer id="my_A000022" available="true">
         <name>Подарунковий зіп-пакет у формі сумки для солодощів та подарунків, асорті</name>
@@ -15395,6 +15394,24 @@ premium якість,&lt;br /&gt;
  &lt;p&gt;16.5*12&lt;/p&gt;</description>
         <url>https://prom.ua/pA000023</url>
         <picture>https://photos.google.com/photo/AF1QipMMhJyC0lMyQ2O1eRmQNtk_nLJiGJttDPX3XW61</picture>
+      </offer>
+      <offer id="my_A000024" available="true">
+        <name>Подарунковий зіп-пакет у формі каруселі для солодощів та подарунків</name>
+        <price>15.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>100</quantity>
+        <categoryId>2302</categoryId>
+        <vendor>My Store</vendor>
+        <vendorCode>A000024</vendorCode>
+        <description>&lt;p&gt;
+ &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+ &lt;/style&gt;
+ Подарунковий зіп-пакет у формі сумки для солодощів та подарунків&lt;/p&gt;
+ 
+ &lt;p&gt;Розміри&lt;/p&gt;
+ 
+ &lt;p&gt;16.5*12&lt;/p&gt;</description>
+        <url>https://prom.ua/pA000024</url>
       </offer>
     </offers>
   </shop>
