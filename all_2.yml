@@ -1,61 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-04 06:10">
+<yml_catalog date="2026-02-04 07:16">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="836">корневая</category>
-      <category id="12116">Выключатели</category>
       <category id="810305">Тепла підлога</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="153504">Датчики для розумного будинку</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="150403">Святкове освітлення</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="2302">Подарункові коробки і пакети</category>
       <category id="3221201">Детская обувь и одежда</category>
+      <category id="836">корневая</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12116">Выключатели</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="2613">Радіокеровані іграшки</category>
       <category id="12131">Контроллеры, пульты для умного дома</category>
     </categories>
     <offers>
-      <offer id="f10_408042_VL-P700/00/00/E/E-10B" available="true">
-        <name>LIVOLO Рамка 5-постова порожня Х сенсорів 2 розетки (Х-Х-Х-0-0) LIVOLO, загартоване скло, чорна</name>
-        <price>3056.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_f6b37736ceaa2869ed</vendorCode>
-        <description>&lt;p data-end="340" data-start="76"&gt;&lt;strong data-end="173" data-start="76"&gt;Рамка 5-постова порожня Х сенсорів, 2 розетки (Х-Х-Х-0-0) LIVOLO, загартоване скло, 365&amp;times;80 мм&lt;/strong&gt; &amp;mdash; універсальна лицьова панель з міцного загартованого скла, призначена для встановлення сенсорних модулів LIVOLO у будь-якій комбінації, а також розеткових модулів.&lt;/p&gt; &lt;p data-end="366" data-start="342"&gt;Підходить для монтажу:&lt;/p&gt; &lt;ul data-end="666" data-start="367"&gt; &lt;li data-end="459" data-start="367"&gt; &lt;p data-end="459" data-start="369"&gt;&lt;strong data-end="398" data-start="369"&gt;трьох сенсорних вимикачів&lt;/strong&gt; (у будь-якій комбінації &amp;mdash; односенсорні, двосенсорні);&lt;/p&gt; &lt;/li&gt; &lt;li data-end="533" data-start="460"&gt; &lt;p data-end="533" data-start="462"&gt;&lt;strong data-end="490" data-start="462"&gt;двох електричних розеток&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="666" data-start="534"&gt; &lt;p data-end="666" data-start="536"&gt;модулів LIVOLO формату &lt;strong data-end="571" data-start="559"&gt;45&amp;times;45 мм&lt;/strong&gt; (терморегулятори, датчики руху, підсвітка сходів, клавішні вимикачі тощо).&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="772" data-start="668"&gt;Комбінації підбираються індивідуально під замовлення. Орієнтовний термін виготовлення &amp;mdash; &lt;strong data-end="769" data-start="756"&gt;1&amp;ndash;2 тижні&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="440" loading="lazy" src="https://livolo.in.ua/content/uploads/images/livolo-vl-p700-00-00-e-e-10w3.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/32/vl-p7000000ee-10b-80755014005470_+f41ff362a2.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/32/vl-p7000000ee-10b-14254175103204_+854dd731b7.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/32/vl-p7000000ee-10b-43448328851862_+2a6256fdf5.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/32/vl-p7000000ee-10b-80755014005470_+f41ff362a2.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/32/vl-p7000000ee-10b-14254175103204_+854dd731b7.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/32/vl-p7000000ee-10b-43448328851862_+2a6256fdf5.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Чорний</param>
-      </offer>
-      <offer id="f10_408043_VL-P700/00/00/E/E-10A" available="true">
-        <name>LIVOLO Рамка 5-постова порожня Х сенсорів 2 розетки (Х-Х-Х-0-0) LIVOLO, загартоване скло, золот</name>
-        <price>3056.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_f86f27b0624c529f01</vendorCode>
-        <description>&lt;p data-end="340" data-start="76"&gt;&lt;strong data-end="173" data-start="76"&gt;Рамка 5-постова порожня Х сенсорів, 2 розетки (Х-Х-Х-0-0) LIVOLO, загартоване скло, 365&amp;times;80 мм&lt;/strong&gt; &amp;mdash; універсальна лицьова панель з міцного загартованого скла, призначена для встановлення сенсорних модулів LIVOLO у будь-якій комбінації, а також розеткових модулів.&lt;/p&gt; &lt;p data-end="366" data-start="342"&gt;Підходить для монтажу:&lt;/p&gt; &lt;ul data-end="666" data-start="367"&gt; &lt;li data-end="459" data-start="367"&gt; &lt;p data-end="459" data-start="369"&gt;&lt;strong data-end="398" data-start="369"&gt;трьох сенсорних вимикачів&lt;/strong&gt; (у будь-якій комбінації &amp;mdash; односенсорні, двосенсорні);&lt;/p&gt; &lt;/li&gt; &lt;li data-end="533" data-start="460"&gt; &lt;p data-end="533" data-start="462"&gt;&lt;strong data-end="490" data-start="462"&gt;двох електричних розеток&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="666" data-start="534"&gt; &lt;p data-end="666" data-start="536"&gt;модулів LIVOLO формату &lt;strong data-end="571" data-start="559"&gt;45&amp;times;45 мм&lt;/strong&gt; (терморегулятори, датчики руху, підсвітка сходів, клавішні вимикачі тощо).&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="772" data-start="668"&gt;Комбінації підбираються індивідуально під замовлення. Орієнтовний термін виготовлення &amp;mdash; &lt;strong data-end="769" data-start="756"&gt;1&amp;ndash;2 тижні&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="440" loading="lazy" src="https://livolo.in.ua/content/uploads/images/livolo-vl-p700-00-00-e-e-10w3.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/33/vl-p7000000ee-10a-36462004081597_+eaf3eb3917.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/33/vl-p7000000ee-10a-23585663867145_+78176a5d1f.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/33/vl-p7000000ee-10a-36462004081597_+eaf3eb3917.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/33/vl-p7000000ee-10a-48791780185982_+281ae0dd77.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/33/vl-p7000000ee-10a-23585663867145_+78176a5d1f.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/33/vl-p7000000ee-10a-48791780185982_+281ae0dd77.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Золотой</param>
-      </offer>
       <offer id="f10_408044_VL-P700/00/00/E/E-10I" available="true">
         <name>LIVOLO Рамка 5-постова порожня Х сенсорів 2 розетки (Х-Х-Х-0-0) LIVOLO, загартоване скло, сіра,</name>
         <price>3056.0</price>
