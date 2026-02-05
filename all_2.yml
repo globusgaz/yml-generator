@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-04 23:50">
+<yml_catalog date="2026-02-05 02:47">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="153504">Датчики для розумного будинку</category>
       <category id="810305">Тепла підлога</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="836">корневая</category>
-      <category id="12116">Выключатели</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
       <category id="12130">Умные замки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
       <category id="410606">Дистанційні вимикачі</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="836">корневая</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="12116">Выключатели</category>
     </categories>
     <offers>
       <offer id="f10_407956_VL-C7C1EU1TM2-13" available="true">
@@ -9762,47 +9762,6 @@
         <param name="Крепление проводов">Винтами</param>
         <param name="Способ установки">Внутренний</param>
         <param name="Мощность лампы">0.35 Вт</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-        <param name="Бренд">LIVOLO</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Степень защиты">IP20</param>
-      </offer>
-      <offer id="f10_841466_VL-C7FCL-2BS06" available="true">
-        <name>LIVOLO Cвітильник автоматичний для сходів підлоги датчик руху темряви, чорний матовий, 2700K, 2</name>
-        <price>2208.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_841466_VL-C7FCL-2BS06</vendorCode>
-        <description>&lt;h2 class="ck-image-text-left__image-wrapper"&gt;Світильник для сходів з автоматичним включенням: Безпечність та комфорт у нічний час&lt;/h2&gt; &lt;p&gt;Світильник для сходів - це стильне та практичне рішення для забезпечення безпеки та комфорту під час ходіння по сходах. Він оснащений &lt;strong&gt;датчиком руху&lt;/strong&gt;, який&amp;nbsp;дозволяє автоматично вмикатися при проходженні людини, а також &lt;strong&gt;датчиком освітленості&lt;/strong&gt;, який визначає, чи потрібне освітлення в цей час доби.&lt;/p&gt; &lt;h2&gt;Переваги&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Автоматичне включення при русі:&lt;/strong&gt; Світильник активується при вашому проходженні, надаючи необхідне освітлення у нічний час.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Автоматичне виключення:&lt;/strong&gt; Вимикається автоматично через 40 секунд, щоб заощадити електроенергію, коли вас вже немає.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Працює лише в темний час доби:&lt;/strong&gt; Сутінковий датчик реагує на рівень освітленості&amp;nbsp;та активує освітлення при виявленому руху лише в той час доби, коли це дійсно потрібно.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Приємний колір світіння: &lt;/strong&gt;Надає м&amp;#39;яке освітлення без перешкодження сну.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Скляна рамка: &lt;/strong&gt;Забезпечує надійний захист від подряпин, зберігаючи бездоганність його вигляду навіть після тривалого використання.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;У загальному, світильник для сходів з датчиком руху та освітленості є практичним та безпечним варіантом освітлення для різних приміщень. Він забезпечує ефективне та економічне освітлення в нічний час, а також забезпечує безпеку та комфорт при ходінні по сходах, коридорах та підлозі.&lt;/p&gt; &lt;h2&gt;З двома датчиками: рухи та освітленості&lt;/h2&gt; &lt;p&gt;Світильник вмикається автоматично при умові&amp;nbsp;недостатнього освітлення&amp;nbsp;та за наявності руху на відстані до 4 метрів.&lt;/p&gt; &lt;div class="ck-image-text-left__image-wrapper"&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="400" loading="lazy" scrolling="no" src="https://www.youtube.com/embed/pf6YkYELJNo" title="Светильник для лестниц с датчиком движения Livolo" width="700"&gt;&lt;/iframe&gt;&lt;/div&gt; &lt;h2&gt;Поради з встановлення&lt;/h2&gt; &lt;p&gt;Важливо дотримуватися правильних кроків для забезпечення безпеки та ефективності. Ось кілька порад для встановлення світильника:&lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Висота встановлення:&lt;/strong&gt;&amp;nbsp;Перш за все, виміряйте відстань від місця встановлення до сходів, щоб забезпечити належне освітлення. Зазвичай світильник встановлюється на висоті 10-30 см від сходинки.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Місце встановлення:&lt;/strong&gt;&amp;nbsp;Оберіть місце, де світильник буде найбільш ефективним та забезпечить рівномірне освітлення сходів.&amp;nbsp;Зазвичай світильник встановлюється через сходинку.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Монтаж у підрозетник:&lt;/strong&gt;&amp;nbsp;Світильник має бути встановлений у&lt;a href="https://livolo.in.ua/kruglyy-podrozetnik-dlya-montazha-vykluchateley-livolo-eu-60-mw/"&gt;&amp;nbsp;круглу монтажну коробку&lt;/a&gt;.&amp;nbsp;Вставте світильник у підрозетник та закріпіть його за допомогою гвинтів.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Підключення до мережі:&lt;/strong&gt;&amp;nbsp;Під&amp;#39;єднайте&amp;nbsp;світильник&amp;nbsp;до мережі 200 вольтів.&lt;/p&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;img alt="" height="370" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting1.jpg" width="650" /&gt;&lt;/p&gt; &lt;div class="ck-image-text-right ck-image-text-right_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-right__text"&gt; &lt;h2 class="ck-image-text-right__title"&gt;Вишукано і витончено&lt;/h2&gt; &lt;p class="ck-image-text-right__title"&gt;Акцент до кожної деталі&lt;/p&gt; &lt;p class="ck-image-text-right__title"&gt;&lt;img alt="" height="368" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting2.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-right ck-image-text-right_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-right__text"&gt; &lt;div class="ck-image-text-right__title"&gt; &lt;h2&gt;Загартоване скло&lt;/h2&gt; &lt;p&gt;Забезпечує надійний захист від подряпин і сколів, зберігаючи бездоганність його вигляду навіть після тривалого використання.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="369" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting3.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-left ck-image-text-left_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-left__text"&gt; &lt;div class="ck-image-text-left__title"&gt; &lt;h2 class="ck-image-text-right__title"&gt;Не вицвітає і не жовтіє&lt;/h2&gt; &lt;p&gt;Завжди новий вид з плином часу&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="370" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting4.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-right ck-image-text-right_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-right__text"&gt; &lt;div class="ck-image-text-right__title"&gt; &lt;h2 class="ck-image-text-right__title"&gt;Чутливий датчик руху&lt;/h2&gt; &lt;p&gt;Спрацьовує на відстані до 4 метрів, чутливий кут 120 &amp;deg;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="551" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting5.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-right ck-image-text-right_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-right__text"&gt; &lt;div class="ck-image-text-right__title"&gt; &lt;h2 class="ck-image-text-left__title"&gt;Високоякісна світлодіодна мікросхема&lt;/h2&gt; &lt;p&gt;Низьке електроспоживання.&amp;nbsp;Напруга 220 вольтів. Потужність 0,35 Вт.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="326" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting6.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-left ck-image-text-left_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-left__text"&gt; &lt;div class="ck-image-text-left__title"&gt; &lt;h2 class="ck-image-text-right__title"&gt;Інтелектуальний сенсор&lt;/h2&gt; &lt;p&gt;Автоматично вмикається в темну пору доби.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="679" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting7.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-right ck-image-text-right_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-right__text"&gt; &lt;div class="ck-image-text-right__title"&gt; &lt;h2&gt;Модульна система&lt;/h2&gt; &lt;p&gt;Включає не лише&amp;nbsp;&lt;a href="https://livolo.in.ua/mekhanizm-svetilnik-dlya-lestnits-podsvetka-pola-livolo-s-datchikom-dvizheniya-782800511-belyy/"&gt;світильник для сходів&amp;nbsp;Livolo&lt;/a&gt;, але й&amp;nbsp;&lt;a href="https://livolo.in.ua/products/vl-c7-sr-11/"&gt;елегантну рамку&lt;/a&gt;, яка&amp;nbsp;візуально завершує його образ.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="384" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting8.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-left ck-image-text-left_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-left__text"&gt; &lt;div class="ck-image-text-left__title"&gt; &lt;h2&gt;&lt;strong&gt;Розмір&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;З компактними габаритами 80x80 мм, та глибиною 33 мм, встановлення цього шедевру в&amp;nbsp;&lt;a href="https://livolo.in.ua/kruglyy-podrozetnik-dlya-montazha-vykluchateley-livolo-eu-60-mw/"&gt;круглу стандартну монтажну коробку&lt;/a&gt;&amp;nbsp;стає надзвичайно простим.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="386" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7-floor-lighting9.jpg" width="650" /&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-left ck-image-text-left_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-left__text"&gt; &lt;div class="ck-image-text-left__title"&gt; &lt;h2&gt;Підключення&lt;/h2&gt; &lt;p&gt;Надзвичайно проста схема підключення, всього два дроти, фазний та нульовий провід.&amp;nbsp;Це дозволяє встановити світильник без додаткових зусиль або спеціальних знань.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="ck-image-text-left ck-image-text-left_type_lite ck-theme-blue"&gt; &lt;div class="ck-image-text-left__image-wrapper"&gt;&lt;img loading="lazy" src="https://livolo.in.ua/content/uploads/images/c725w-livolo-led-lepcsovilagito-iranyfeny-labazat-vilagito-feher-vl-fcl1-2wp-bekotesi-utmutato-kapcsolasi-rajz-768x384.jpg" /&gt;&lt;/div&gt; &lt;/div&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-c7fcl-2bs06-47794431540150_+a011c66c83.png</picture>
-        <picture>https://livolo.in.ua/content/images/32/svetilnik-dlya-lestnits-podsvetka-pola-livolo-s-datchikom-dvizheniya-722800511-belyy-21718222708684_+df9e867f80.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-c7fcl-2bs06-40873469747900_+25a5843df9.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-c7fcl-2bs06-42020012566265_+9b88fa1531.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-c7fcl-2bs06-47794431540150_+a011c66c83.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-c7fcl-2bs06-98228155699365_+0e0b9b82ff.png</picture>
-        <picture>https://www.livolo.in.ua/content/images/32/svetilnik-dlya-lestnits-podsvetka-pola-livolo-s-datchikom-dvizheniya-722800511-belyy-21718222708684_+df9e867f80.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-c7fcl-2bs06-40873469747900_+25a5843df9.png</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-c7fcl-2bs06-42020012566265_+9b88fa1531.png</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-c7fcl-2bs06-98228155699365_+0e0b9b82ff.png</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Чорний</param>
-        <param name="Длина">80 мм</param>
-        <param name="Ширина">80 мм</param>
-        <param name="Глубина">33 мм</param>
-        <param name="Материал рамки">Закаленное стекло</param>
-        <param name="Цвет свечения">Желтый</param>
-        <param name="Напряжение сети">110-250 В</param>
-        <param name="Крепление проводов">Винтами</param>
-        <param name="Способ установки">Внутренний</param>
-        <param name="Датчик движения">Да</param>
-        <param name="Светочувствительность">Да</param>
-        <param name="Мощность лампы">0.35 Вт</param>
-        <param name="Время задержки">40 секунд</param>
-        <param name="Дальность обнаружения">до 4 м</param>
-        <param name="Угол обзора">120 градусов</param>
         <param name="Страна производитель">Китай</param>
         <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
         <param name="Бренд">LIVOLO</param>
