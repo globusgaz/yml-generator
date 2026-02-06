@@ -1,49 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-06 07:21">
+<yml_catalog date="2026-02-06 09:07">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="12116">Выключатели</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="2302">Подарункові коробки і пакети</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="12130">Умные замки</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="836">корневая</category>
+      <category id="2613">Радіокеровані іграшки</category>
       <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="12130">Умные замки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12116">Выключатели</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="836">корневая</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="153504">Датчики для розумного будинку</category>
     </categories>
     <offers>
-      <offer id="f10_407968_CBB-21" available="true">
-        <name>LIVOLO Конденсатор CBB-22 0,47мкФ – 630 В (CBB-22)</name>
-        <price>84.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_407968_CBB-21</vendorCode>
-        <description>&lt;p&gt;Плівкові конденсатори є оптимальним рішенням для ланцюгів з високочастотним імпульсним струмом.&amp;nbsp;Застосовується для зниження високочастотних імпульсів в електромережі.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Конденсатор застосовується спільно з сенсорними вимикачами Livolo в разі якщо:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;присутнє самовільне включення / вимикання вимикача;&lt;/li&gt; &lt;li&gt;сенсорний димер не реагує на дотик;&amp;nbsp;&lt;/li&gt; &lt;li&gt;до вимикача підключений трансформатор (блок живлення)&amp;nbsp;LED стрічок;&lt;/li&gt; &lt;li&gt;в&amp;nbsp;лампах використовується LED Driver.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Особливості:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Високий опір при частоті 50 Гц;&lt;/li&gt; &lt;li&gt;Опір зменшується при збільшенні частоти.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Технічні характеристики:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Ємність 0,47 мкФ;&lt;/li&gt; &lt;li&gt;Напруга 400 В;&lt;/li&gt; &lt;li&gt;Розмір 10х10х3 мм.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Підключення:&lt;/h3&gt; &lt;p&gt;&lt;img alt="" height="413" loading="lazy" src="https://livolo.in.ua/content/uploads/images/lighting-adapter-scheme-ukr.png" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/17/kondensator-cbb-21-47755633958518_+f652f7614e.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/17/kondensator-cbb-21-13733793500849_+5d9df46745.png</picture>
-        <picture>https://livolo.in.ua/content/images/17/kondensator-cbb-21-47755633958518_+f652f7614e.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/17/kondensator-cbb-21-13733793500849_+5d9df46745.png</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Ширина">10 мм</param>
-        <param name="Длина">10 мм</param>
-        <param name="Глубина">3 мм</param>
-        <param name="Бренд">LIVOLO</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Напряжение сети">110-250 В</param>
-      </offer>
       <offer id="f10_407969_VL-C7FCMKSQ1-4BP" available="true">
         <name>LIVOLO Комбінований вимикач та терморегулятор (термостат) програмований для електричної теплої</name>
         <price>2826.0</price>
