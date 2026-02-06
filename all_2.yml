@@ -1,43 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-06 22:47">
+<yml_catalog date="2026-02-06 23:48">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="836">корневая</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12130">Умные замки</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="12116">Выключатели</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="12130">Умные замки</category>
       <category id="230620">Клейка універсальна стрічка</category>
       <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="836">корневая</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="35702">Обувь для Взрослых</category>
       <category id="810305">Тепла підлога</category>
-      <category id="2613">Радіокеровані іграшки</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="12116">Выключатели</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="150403">Святкове освітлення</category>
     </categories>
     <offers>
-      <offer id="f10_407940_VL-P701/02/02/E-8I" available="true">
-        <name>LIVOLO Рамка 4-постова для одного 1-сенсорного, двох 2-сенсорних вимикачів і розетки (1-2-2-0)</name>
-        <price>2294.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_cb7ae0b371843027f2</vendorCode>
-        <description>&lt;p data-end="327" data-start="65"&gt;&lt;strong data-end="192" data-start="65"&gt;Рамка 4-постова для одного 1-сенсорного, двох 2-сенсорних вимикачів і розетки (1-2-2-0) LIVOLO, загартоване скло, 294&amp;times;80 мм&lt;/strong&gt; &amp;mdash; елегантна та надійна скляна панель, призначена для зручного та стильного розміщення сенсорних вимикачів і розетки в одному модулі.&lt;/p&gt; &lt;p data-end="358" data-start="329"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="500" data-start="359"&gt; &lt;li data-end="398" data-start="359"&gt; &lt;p data-end="398" data-start="361"&gt;&lt;strong data-end="395" data-start="361"&gt;одного односенсорного вимикача&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="435" data-start="399"&gt; &lt;p data-end="435" data-start="401"&gt;&lt;strong data-end="432" data-start="401"&gt;двох двосенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="500" data-start="436"&gt; &lt;p data-end="500" data-start="438"&gt;&lt;strong data-end="461" data-start="438"&gt;електричної розетки&lt;/strong&gt; або &lt;strong data-end="497" data-start="466"&gt;двох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="672" data-start="502"&gt;Рамка виготовлена з &lt;strong data-end="544" data-start="522"&gt;загартованого скла&lt;/strong&gt;, що забезпечує високу міцність, стійкість до подряпин і тривалий термін служби. Ідеально поєднується з сучасними інтер&amp;rsquo;єрами.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7c12c2srw-m-967-800x800.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/28/71109480625498_+f5537c88f5.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/28/71109480625498_+f5537c88f5.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/28/sensornaya-panel-vykluchatelya-5-sensorov-i-rozetku-1-2-2-0-seryy-steklo-livolo-vl-p701-02-02-e-8i-30411329344166_+8e6a5b4aa2.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/28/sensornaya-panel-vykluchatelya-5-sensorov-i-rozetku-1-2-2-0-seryy-steklo-livolo-vl-p701-02-02-e-8i-30411329344166_+8e6a5b4aa2.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-      </offer>
       <offer id="f10_407941_VL-P702/02/02/E-8W" available="true">
         <name>LIVOLO Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване</name>
         <price>2294.0</price>
