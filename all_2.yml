@@ -1,91 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-06 23:48">
+<yml_catalog date="2026-02-07 02:44">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="12130">Умные замки</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="836">корневая</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
       <category id="410606">Дистанційні вимикачі</category>
-      <category id="35702">Обувь для Взрослых</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="12130">Умные замки</category>
+      <category id="12116">Выключатели</category>
+      <category id="2613">Радіокеровані іграшки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
       <category id="810305">Тепла підлога</category>
       <category id="153504">Датчики для розумного будинку</category>
-      <category id="12116">Выключатели</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="836">корневая</category>
       <category id="150403">Святкове освітлення</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
     </categories>
     <offers>
-      <offer id="f10_407941_VL-P702/02/02/E-8W" available="true">
-        <name>LIVOLO Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване</name>
-        <price>2294.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_6dbb3bed8e17cb4160</vendorCode>
-        <description>&lt;p data-end="281" data-start="64"&gt;&lt;strong data-end="171" data-start="64"&gt;Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване скло, 294&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна та міцна скляна панель, що дозволяє зручно поєднати сенсорні вимикачі з розеткою в одному модулі.&lt;/p&gt; &lt;p data-end="312" data-start="283"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="415" data-start="313"&gt; &lt;li data-end="350" data-start="313"&gt; &lt;p data-end="350" data-start="315"&gt;&lt;strong data-end="347" data-start="315"&gt;трьох двосенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="415" data-start="351"&gt; &lt;p data-end="415" data-start="353"&gt;&lt;strong data-end="376" data-start="353"&gt;електричної розетки&lt;/strong&gt; або &lt;strong data-end="412" data-start="381"&gt;двох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="600" data-start="417"&gt;Виготовлена з &lt;strong data-end="453" data-start="431"&gt;загартованого скла&lt;/strong&gt;, ця рамка вирізняється підвищеною стійкістю до подряпин та механічних пошкоджень, а також гармонійно поєднується з інтер&amp;rsquo;єрами будь-якого стилю.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c73c2srw-m-904-800x800.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/29/17923638500256_+9f904a82f2.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/29/17923638500256_+9f904a82f2.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/29/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-belyy-steklo-livolo-vl-p702-02-02-e-8w-33790155166399_+f4dd331082.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/29/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-belyy-steklo-livolo-vl-p702-02-02-e-8w-33790155166399_+f4dd331082.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Білий</param>
-      </offer>
-      <offer id="f10_407942_VL-P702/02/02/E-8B" available="true">
-        <name>LIVOLO Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване</name>
-        <price>2294.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_3e246600a8df517d7f</vendorCode>
-        <description>&lt;p data-end="281" data-start="64"&gt;&lt;strong data-end="171" data-start="64"&gt;Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване скло, 294&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна та міцна скляна панель, що дозволяє зручно поєднати сенсорні вимикачі з розеткою в одному модулі.&lt;/p&gt; &lt;p data-end="312" data-start="283"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="415" data-start="313"&gt; &lt;li data-end="350" data-start="313"&gt; &lt;p data-end="350" data-start="315"&gt;&lt;strong data-end="347" data-start="315"&gt;трьох двосенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="415" data-start="351"&gt; &lt;p data-end="415" data-start="353"&gt;&lt;strong data-end="376" data-start="353"&gt;електричної розетки&lt;/strong&gt; або &lt;strong data-end="412" data-start="381"&gt;двох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="600" data-start="417"&gt;Виготовлена з &lt;strong data-end="453" data-start="431"&gt;загартованого скла&lt;/strong&gt;, ця рамка вирізняється підвищеною стійкістю до подряпин та механічних пошкоджень, а також гармонійно поєднується з інтер&amp;rsquo;єрами будь-якого стилю.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c73c2srw-m-904-800x800.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/30/71820838066285_+8177f8c8b6.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/30/71820838066285_+8177f8c8b6.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/30/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-chernyy-steklo-livolo-vl-p702-02-02-e-8b-12581125642485_+f488c9dd48.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/30/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-chernyy-steklo-livolo-vl-p702-02-02-e-8b-12581125642485_+f488c9dd48.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Чорний</param>
-      </offer>
-      <offer id="f10_407943_VL-P702/02/02/E-8A" available="true">
-        <name>LIVOLO Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване</name>
-        <price>2294.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_a2196d5e66b06d5908</vendorCode>
-        <description>&lt;p data-end="281" data-start="64"&gt;&lt;strong data-end="171" data-start="64"&gt;Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване скло, 294&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна та міцна скляна панель, що дозволяє зручно поєднати сенсорні вимикачі з розеткою в одному модулі.&lt;/p&gt; &lt;p data-end="312" data-start="283"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="415" data-start="313"&gt; &lt;li data-end="350" data-start="313"&gt; &lt;p data-end="350" data-start="315"&gt;&lt;strong data-end="347" data-start="315"&gt;трьох двосенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="415" data-start="351"&gt; &lt;p data-end="415" data-start="353"&gt;&lt;strong data-end="376" data-start="353"&gt;електричної розетки&lt;/strong&gt; або &lt;strong data-end="412" data-start="381"&gt;двох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="600" data-start="417"&gt;Виготовлена з &lt;strong data-end="453" data-start="431"&gt;загартованого скла&lt;/strong&gt;, ця рамка вирізняється підвищеною стійкістю до подряпин та механічних пошкоджень, а також гармонійно поєднується з інтер&amp;rsquo;єрами будь-якого стилю.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c73c2srw-m-904-800x800.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/31/31763873282183_+c95cc2e502.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/31/31763873282183_+c95cc2e502.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/31/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-zoloto-steklo-livolo-vl-p702-02-02-e-8a-36059959899773_+de15ad809d.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/31/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-zoloto-steklo-livolo-vl-p702-02-02-e-8a-36059959899773_+de15ad809d.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Золотой</param>
-      </offer>
-      <offer id="f10_407944_VL-P702/02/02/E-8I" available="true">
-        <name>LIVOLO Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване</name>
-        <price>2294.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_18f1301def72139059</vendorCode>
-        <description>&lt;p data-end="281" data-start="64"&gt;&lt;strong data-end="171" data-start="64"&gt;Рамка 4-постова для трьох 2-сенсорних вимикачів і розетки (2-2-2-0) LIVOLO, загартоване скло, 294&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна та міцна скляна панель, що дозволяє зручно поєднати сенсорні вимикачі з розеткою в одному модулі.&lt;/p&gt; &lt;p data-end="312" data-start="283"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="415" data-start="313"&gt; &lt;li data-end="350" data-start="313"&gt; &lt;p data-end="350" data-start="315"&gt;&lt;strong data-end="347" data-start="315"&gt;трьох двосенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="415" data-start="351"&gt; &lt;p data-end="415" data-start="353"&gt;&lt;strong data-end="376" data-start="353"&gt;електричної розетки&lt;/strong&gt; або &lt;strong data-end="412" data-start="381"&gt;двох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="600" data-start="417"&gt;Виготовлена з &lt;strong data-end="453" data-start="431"&gt;загартованого скла&lt;/strong&gt;, ця рамка вирізняється підвищеною стійкістю до подряпин та механічних пошкоджень, а також гармонійно поєднується з інтер&amp;rsquo;єрами будь-якого стилю.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="640" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c73c2srw-m-904-800x800.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/32/41974794722090_+bc3589e616.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/32/41974794722090_+bc3589e616.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/32/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-seryy-steklo-livolo-vl-p702-02-02-e-8i-31693286364513_+24c3bcebda.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/32/sensornaya-panel-vykluchatelya-6-sensorov-i-rozetku-2-2-2-0-seryy-steklo-livolo-vl-p702-02-02-e-8i-31693286364513_+24c3bcebda.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-      </offer>
       <offer id="f10_407949_VL-C7FC2/FCQ1-4BP" available="true">
         <name>LIVOLO Комбінований терморегулятор (термостат) програмований для електричної теплої підлоги та</name>
         <price>3353.0</price>
@@ -17302,46 +17238,6 @@
         <param name="Тип гарантии">Производитель</param>
         <param name="Гарантийный срок, мес.">60</param>
         <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-      </offer>
-      <offer id="f10_889861_VL-SHJ002B" available="true">
-        <name>LIVOLO Розумний безшумний мотор для карниза з Wi-Fi управлінням Livolo чорний</name>
-        <price>5015.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>836</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_889861_VL-SHJ002B</vendorCode>
-        <description>&lt;h2&gt;Універсальний безшумний мотор для штор&lt;/h2&gt; &lt;p&gt;Мотор має дуже гнучку систему для індивідуального налаштування&amp;nbsp;та використання автоматичного управління шторами.&lt;/p&gt; &lt;h2&gt;Основні переваги в комфорті&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Можливість програмування відкриття і закриття штор по днях тижня;&lt;/li&gt; &lt;li&gt;Різноманітні можливості управління (фазне, PIN&amp;nbsp;або дистанційне);&lt;/li&gt; &lt;li&gt;Безшумний дизайн. Тихий механізм, низький рівень шуму (20dB) і вібрації;&lt;/li&gt; &lt;li&gt;Можливість ручного відкривання/закривання при відсутності електроенергії&lt;/li&gt; &lt;li&gt;Система touch-motion - двигун автоматично включиться якщо просто потягнути за штору;&lt;/li&gt; &lt;li&gt;Підключення до системи &amp;laquo;розумний будинок&amp;raquo;. Працює з Розумним будинком Tuya Smart;&lt;/li&gt; &lt;li&gt;Можливість підключення до&amp;nbsp;&lt;a href="https://livolo.in.ua/vymykachi-dlia-karnyza/"&gt;вимикача&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;Зупинка у випадку перешкоди. Автоматична зупинка двигуна, якщо є перешкода для відкривання/закривання;&lt;/li&gt; &lt;li&gt;Незалежна пам&amp;#39;ять налаштувань при відключенні електрики;&lt;/li&gt; &lt;li&gt;М&amp;#39;який старт і зупинка за кілька мм до кінцевої позиції для запобігання удару;&lt;/li&gt; &lt;li&gt;Підтримка кількох&amp;nbsp;&lt;a href="https://livolo.in.ua/at5810ty/"&gt;моторів&lt;/a&gt;&amp;nbsp;для спільної роботи на одному або кількох карнизах;&lt;/li&gt; &lt;li&gt;Захист від перегріву;&lt;/li&gt; &lt;li&gt;Легка і проста установка, яка не потребує особливої підготовки;&lt;/li&gt; &lt;li&gt;Довжина &amp;ndash; до 12 м. Виготовляється цілісним (до 6 м) або складовим за допомогою&amp;nbsp;спеціального з&amp;#39;єднувача.&amp;nbsp;&lt;em&gt;Якщо необхідний Г-подібний або П-подібний карниз (загнутий під кутом 90 градусів), вибирайте&amp;nbsp;іншу позицію;&lt;/em&gt;&lt;/li&gt; &lt;li&gt;Кількість&amp;nbsp;&lt;a href="https://livolo.in.ua/vl-shq01-runner/"&gt;гачків&lt;/a&gt;&amp;nbsp;штори залежить від довжини карнизу - 1 гачок кожні 8 см;&lt;/li&gt; &lt;li&gt;Повністю укомплектований та готовий для встановлення на стелю.&amp;nbsp;Для встановлення на стіну потрібні додаткові&amp;nbsp;&lt;a href="https://livolo.in.ua/vl-b90/"&gt;кронштейни&lt;/a&gt;.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Додавання двигуна&amp;nbsp;у застосунок Tuya Smart&lt;/h2&gt; &lt;p&gt;Для того, щоб додати мотор електрокарниза у застосунок Tuya Smart, слідувати наступному алгоритму:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Завантажте та встановіть застосунок &lt;a href="https://play.google.com/store/apps/detailsid=com.tuya.smart&amp;amp;hl=en&amp;amp;gl=US" target="_blank"&gt;Tuya Smart&lt;/a&gt;&amp;nbsp;на свій смартфон або планшет.&lt;/li&gt; &lt;li&gt;Увійдіть&amp;nbsp;у свій обліковий запис Tuya Smart або створіть новий, якщо ви ще не зареєстровані.&lt;/li&gt; &lt;li&gt;Натисніть на кнопку &amp;quot;Додати пристрій&amp;quot; або &amp;quot;+&amp;quot; у верхньому правому куті екрану.&lt;/li&gt; &lt;li&gt;Виберіть категорію пристроїв &amp;quot;Карнизи та штори&amp;quot; або подібну, яка відповідає вашому мотору електрокарниза.&lt;/li&gt; &lt;li&gt;За допомогою кнопки &amp;quot;Подробиці&amp;quot; або &amp;quot;Додати&amp;quot; оберіть відповідний тип пристрою (наприклад, &amp;quot;Мотор електрокарниза&amp;quot;).&lt;/li&gt; &lt;li&gt;Уведіть ім&amp;#39;я пристрою та введіть інформацію про вашу точку доступу Wi-Fi, зокрема ім&amp;#39;я мережі та пароль.&lt;/li&gt; &lt;li&gt;Зверніться до інструкції вашого мотора електрокарниза та виконайте наступні кроки: &lt;ul&gt; &lt;li&gt;Натисніть і утримуйте кнопку програмування на моторі електрокарниза протягом 4-5 секунд, доки LED індикатор не загориться синім або зеленим кольором.&lt;/li&gt; &lt;li&gt;Після цього швидко натисніть кнопку програмування ще раз. LED на моторі електрокарниза почне швидко блимати.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;На екрані вашого смартфона або планшета підтвердіть, швидке блимання LED індикатора на моторі.&lt;/li&gt; &lt;li&gt;Додаток Tuya Smart почне пошук доступних пристроїв у вашій мережі Wi-Fi.&lt;/li&gt; &lt;li&gt;Після успішного з&amp;#39;єднання вашого смартфона або планшета з мотором електрокарниза, пристрій буде додано до застосунку Tuya Smart.&lt;/li&gt; &lt;/ol&gt; &lt;h3&gt;Застосунок Tuya Smart надає наступні можливості:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Керування та редагування&lt;/strong&gt;: Ви зможете керувати мотором електрокарнизу безпосередньо зі свого смартфона або планшета. Використовуючи застосунок Tuya Smart. Ви зможете відкривати та закривати карниз, регулювати його положення та виконувати інші дії, пов&amp;#39;язані з рухом мотора електрокарнизу. Крім того, ви зможете редагувати налаштування пристрою, такі як, програмування таймерів та інші параметри, щоб відповідати вашим потребам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Керування голосом:&lt;/strong&gt; Застосунок Tuya Smart підтримує інтеграцію з платформами голосового керування, такими як Amazon Alexa або Google Assistant. Це означає, що ви зможете керувати мотором електрокарнизу голосом, використовуючи свої голосові команди. Наприклад, ви можете сказати &amp;quot;Alexa, відкрий карнизу&amp;quot; або &amp;quot;Hey Google, закрий штори&amp;quot;. Це забезпечить зручний та швидкий спосіб керування мотором електрокарнизу без необхідності використовувати застосунок на пристрої.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Зміна назви:&lt;/strong&gt; У застосунку Tuya Smart ви зможете змінити назву вашого мотора електрокарнизу. Це дозволяє вам персоналізувати та ідентифікувати пристрій у вашому списку пристроїв. Наприклад, ви можете назвати його &amp;quot;Гостьова кімната&amp;quot; або &amp;quot;Спальня&amp;quot;, щоб зрозуміти, до якої карнизи він відноситься. Зміна назви не впливає на роботу мотора електрокарнизу, але робить управління ним більш зручним&amp;nbsp;та легким для розпізнавання.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Застосунок Tuya Smart надає ці функції, які дозволяють зручно та ефективно керувати мотором електрокарнизу, використовуючи свій смартфон або планшет.&lt;/p&gt; &lt;h2&gt;Додавання пульта&lt;/h2&gt; &lt;p&gt;1. Натисніть кнопку на двигуні. Світлодіодний індикатор блимне 1 раз. Продовжуйте тримати кнопку протягом 5-6 секунд, поки світлодіодний індикатор не почне світитися постійно (блакитним або зеленим). Відпустіть кнопку.&lt;/p&gt; &lt;p&gt;2. На пульті оберіть канал і натисніть кнопку програмування на зворотному боці пульта. Світлодіодний індикатор при цьому має згаснути, що означає успішне програмування двигуна.&lt;/p&gt; &lt;h3&gt;Скидання налаштувань двигуна&lt;/h3&gt; &lt;p&gt;1. Натисніть кнопку програмування на двигуні протягом приблизно 5-6 секунд, поки світлодіодний індикатор не почне світитися постійно (блакитним або зеленим). Відпустіть кнопку.&lt;/p&gt; &lt;p&gt;2. Ще раз натисніть кнопку програмування на двигуні протягом 8-10 секунд, поки світлодіодний індикатор не погасне. Це означатиме, що налаштування двигуна були скинуті.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="685" loading="lazy" src="https://livolo.in.ua/content/uploads/images/autorail-at5810-remote.jpg" width="650" /&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-shj002b-48175757541979_+fd5cb7330c.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-11364868418521_+101f598bc6.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-20348094874069_+19d77ced9b.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-23260352423774_+af7a0f6d83.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-48175757541979_+fd5cb7330c.png</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-51137906022230_+0962d3bc54.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/35/vl-shj002b-98309803658187_+cdc09dbd49.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-shj002b-11364868418521_+101f598bc6.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-shj002b-20348094874069_+19d77ced9b.png</picture>
-        <picture>https://www.livolo.in.ua/content/images/35/vl-shj002b-23260352423774_+af7a0f6d83.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Чорний</param>
-        <param name="Дистанционное управление">Tuya Smart</param>
-        <param name="Голосовое управление">Google Home, Amazon Alexa</param>
-        <param name="Вес штор">до 90 кг</param>
-        <param name="Уровень шума">20 дБ</param>
-        <param name="Длина">350 мм</param>
-        <param name="Глубина">65 мм</param>
-        <param name="Ширина">120 мм</param>
-        <param name="Скорость">16 см/сек</param>
-        <param name="Мощность">80 Вт</param>
-        <param name="Крутящий момент">2.5 Нм</param>
-        <param name="Степень защиты">IP40</param>
-        <param name="Питание">220 Вольт</param>
-        <param name="Вес">1,05 кг</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Бренд">LIVOLO</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-        <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
