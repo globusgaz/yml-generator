@@ -1,59 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-13 08:10">
+<yml_catalog date="2026-02-13 09:07">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="810305">Тепла підлога</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="2613">Радіокеровані іграшки</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="150403">Святкове освітлення</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="12116">Выключатели</category>
-      <category id="836">корневая</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="410606">Дистанційні вимикачі</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="836">корневая</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="410606">Дистанційні вимикачі</category>
       <category id="35702">Обувь для Взрослых</category>
+      <category id="12116">Выключатели</category>
+      <category id="2613">Радіокеровані іграшки</category>
     </categories>
     <offers>
-      <offer id="f10_408022_VL-P701/02/02/02/02-10I" available="true">
-        <name>LIVOLO Рамка 5-постова для одного 1-сенсорного та чотирьох 2-сенсорних вимикачів (1-2-2-2-2) LI</name>
-        <price>2515.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_4bb43008d1cf68494d</vendorCode>
-        <description>&lt;p data-end="322" data-start="75"&gt;&lt;strong data-end="200" data-start="75"&gt;Рамка 5-постова для одного 1-сенсорного та чотирьох 2-сенсорних вимикачів (1-2-2-2-2) LIVOLO, загартоване скло, 365&amp;times;80 мм&lt;/strong&gt; &amp;mdash; сучасна рамка з міцного загартованого скла, призначена для поєднання кількох сенсорних вимикачів в єдину конструкцію.&lt;/p&gt; &lt;p data-end="353" data-start="324"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="434" data-start="354"&gt; &lt;li data-end="393" data-start="354"&gt; &lt;p data-end="393" data-start="356"&gt;&lt;strong data-end="390" data-start="356"&gt;одного односенсорного вимикача&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="434" data-start="394"&gt; &lt;p data-end="434" data-start="396"&gt;&lt;strong data-end="431" data-start="396"&gt;чотирьох двосенсорних вимикачів&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="525" data-start="436"&gt;Скляна поверхня стійка до подряпин, зберігає колір і надає інтер&amp;rsquo;єру стильного вигляду.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="403" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c7c14c2w-livolo-otos-sorolokeret-egyes4x-kettes-kapcsolohoz-feher-uvegkeret-vl-p701-02-02-02-02-10w-meret-768x483.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/47/vl-p70102020202-10i-32456195223330_+a9d26e7f55.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/47/vl-p70102020202-10i-17891126332955_+063e8561dc.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/47/vl-p70102020202-10i-32456195223330_+a9d26e7f55.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/47/vl-p70102020202-10i-17891126332955_+063e8561dc.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-      </offer>
-      <offer id="f10_408023_VL-P701/01/01/E/E-10W" available="true">
-        <name>LIVOLO Рамка 5-постова для трьох 1-сенсорних вимикачів і двох розеток (1-1-1-0-0) LIVOLO, загар</name>
-        <price>3056.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_ba503411afa5ed1085</vendorCode>
-        <description>&lt;p data-end="351" data-start="77"&gt;&lt;strong data-end="191" data-start="77"&gt;Рамка 5-постова для трьох 1-сенсорних вимикачів і двох розеток (1-1-1-0-0) LIVOLO, загартоване скло, 365&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна та надійна рамка, виготовлена з високоякісного загартованого скла, призначена для комбінованого встановлення сенсорних вимикачів та розеток LIVOLO.&lt;/p&gt; &lt;p data-end="382" data-start="353"&gt;Підходить для встановлення:&lt;/p&gt; &lt;ul data-end="495" data-start="383"&gt; &lt;li data-end="421" data-start="383"&gt; &lt;p data-end="421" data-start="385"&gt;&lt;strong data-end="418" data-start="385"&gt;трьох односенсорних вимикачів&lt;/strong&gt;;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="495" data-start="422"&gt; &lt;p data-end="495" data-start="424"&gt;&lt;strong data-end="452" data-start="424"&gt;двох електричних розеток&lt;/strong&gt; або &lt;strong data-end="492" data-start="457"&gt;чотирьох мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="594" data-start="497"&gt;Скляна поверхня зберігає свій вигляд з часом, не жовтіє, стійка до подряпин і легко очищується.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="403" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c73c12srw-livolo-otos-sorolokeret-3x-egyes-kapcsolohoz2x-dugaljhoz-feher-uvegkeret-vl-p701-01-01-e-e-10w-meret-768x483.jpg" width="640" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/48/vl-p7010101ee-10w-43895749022095_+0a748bb073.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/48/vl-p7010101ee-10w-43895749022095_+0a748bb073.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/48/vl-p7010101ee-10w-79926895553512_+10b1106ed9.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/48/vl-p7010101ee-10w-91129791136824_+ffe6bf75e9.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/48/vl-p7010101ee-10w-79926895553512_+10b1106ed9.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/48/vl-p7010101ee-10w-91129791136824_+ffe6bf75e9.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Білий</param>
-      </offer>
       <offer id="f10_408024_VL-P701/01/01/E/E-10B" available="true">
         <name>LIVOLO Рамка 5-постова для трьох 1-сенсорних вимикачів і двох розеток (1-1-1-0-0) LIVOLO, загар</name>
         <price>3056.0</price>
