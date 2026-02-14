@@ -1,25 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-13 23:52">
+<yml_catalog date="2026-02-14 02:45">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="810305">Тепла підлога</category>
       <category id="2613">Радіокеровані іграшки</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="230620">Клейка універсальна стрічка</category>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="12116">Выключатели</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="153504">Датчики для розумного будинку</category>
       <category id="836">корневая</category>
+      <category id="12116">Выключатели</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="150403">Святкове освітлення</category>
     </categories>
     <offers>
+      <offer id="f10_407997_VL-C7FCEZ-TC16AZ-2BP" available="true">
+        <name>LIVOLO Комплект дистанційного керування водяною теплою підлогою LIVOLO чорний скло (VL-C7FCEZ-T</name>
+        <price>5525.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>810305</categoryId>
+        <vendor>LIVOLO</vendor>
+        <vendorCode>f10_d17389f0780716c173</vendorCode>
+        <description>&lt;h2&gt;Керування теплою підлогою без прокладання дротів&lt;/h2&gt; &lt;p&gt;Це бездротове рішення дозволяє дистанційно керувати теплою підлогою за допомогою терморегулятора, розумної розетки та сервоприводу.&lt;/p&gt; &lt;p data-end="580" data-start="313"&gt;&lt;strong data-end="330" data-start="313"&gt;Як це працює&lt;/strong&gt;&lt;br data-end="333" data-start="330" /&gt; Терморегулятор вимірює температуру в кімнаті та, відповідно до заданих параметрів, надсилає сигнал на ввімкнення або вимкнення розумної розетки.&lt;br data-end="480" data-start="477" /&gt; До цієї розетки підключений сервопривід, який керує контуром теплої підлоги на колекторі (гребінці).&lt;/p&gt; &lt;p data-end="580" data-start="313"&gt;&lt;strong data-end="330" data-start="313"&gt;Що потрібно зробити для встановлення:&lt;/strong&gt;&lt;/p&gt; &lt;ol data-end="851" data-start="626"&gt; &lt;li data-end="667" data-start="626"&gt; &lt;p data-end="667" data-start="629"&gt;Встановити терморегулятор у кімнаті.&lt;/p&gt; &lt;/li&gt; &lt;li data-end="745" data-start="668"&gt; &lt;p data-end="745" data-start="671"&gt;На колекторі (гребінці) змонтувати сервопривід для відповідного контуру.&lt;/p&gt; &lt;/li&gt; &lt;li data-end="794" data-start="746"&gt; &lt;p data-end="794" data-start="749"&gt;Підключити сервопривід до розумної розетки.&lt;/p&gt; &lt;/li&gt; &lt;li data-end="851" data-start="795"&gt; &lt;p data-end="851" data-start="798"&gt;Налаштувати автоматизацію через мобільний застосунок.&lt;/p&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p data-end="580" data-start="313"&gt;&lt;strong data-end="330" data-start="313"&gt;Комплект включає:&lt;/strong&gt;&lt;/p&gt; &lt;ol data-end="982" data-start="882"&gt; &lt;li data-end="922" data-start="882"&gt; &lt;p data-end="922" data-start="885"&gt;Програмований &lt;a href="https://livolo.in.ua/vl-m7fcq1z2-2wp/" target="_blank"&gt;терморегулятор&lt;/a&gt; LIVOLO&lt;/p&gt; &lt;/li&gt; &lt;li data-end="950" data-start="923"&gt; &lt;p data-end="950" data-start="926"&gt;Розумну &lt;a href="https://livolo.in.ua/vl-m7fctc16az2-2wp/" target="_blank"&gt;розетку&lt;/a&gt; LIVOLO&lt;/p&gt; &lt;/li&gt; &lt;li data-end="982" data-start="951"&gt; &lt;p data-end="982" data-start="954"&gt;Термоелектричний &lt;a href="https://livolo.in.ua/d88h3142/" target="_blank"&gt;сервопривід&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ol&gt; &lt;p data-end="1076" data-start="984"&gt;Це рішення є частиною системи &lt;strong data-end="1039" data-start="1014"&gt;&amp;laquo;Розумний дім LIVOLO&amp;raquo;&lt;/strong&gt; і працює через &lt;a href="https://livolo.in.ua/vl-xg004/" target="_blank"&gt;шлюз&lt;/a&gt;.&lt;/p&gt; &lt;p data-end="1076" data-start="984"&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;Справжній Комфорт: Як створити оптимальний мікроклімат з водяною підлогою та автоматичним керуванням&lt;/h2&gt; &lt;p&gt;Як налаштувати автоматичне керування водяною підлогою&amp;nbsp;відповідно до температури в кімнаті Для цього вам знадобиться таке обладнання:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;&lt;a href="https://livolo.in.ua/rozumni-termostaty/filter/datchikTemperatury=2/"&gt;Програмований термометр&amp;nbsp;Livolo&lt;/a&gt;&lt;/strong&gt; вимірює температуру в кімнаті в режимі реального часу. Отримані дані відображаються на дисплеї термометра та в мобільному&amp;nbsp;&lt;a href="https://livolo.in.ua/nastroyka-umnogo-doma/"&gt;застосунку LIVOLO HOME&lt;/a&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;&lt;a href="https://livolo.in.ua/wifi-rozetki/1128/1128/"&gt;Розумна розетка Livolo&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;встановлюється поруч з системою розподілу підігріву підлоги -&amp;nbsp;гребінки,&amp;nbsp;і використовується для управління термоелектричним сервоприводом. Розетка забезпечує можливість автоматичного управління сервоприводом за налаштованим алгоритмом або ручне управління шляхом торкання сенсора.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;&lt;a href="https://livolo.in.ua/d88h3142/"&gt;Термоелектричний сервопривід&lt;/a&gt;&lt;/strong&gt; з клапаном, який відкриває та закриває водний потік. Сервопривід встановлюється на відповідний водяний контур підлоги в кімнаті, де розташований термометр.&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;&amp;nbsp;&lt;/h2&gt; &lt;h2&gt;Автоматизований процес виглядає наступним чином&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;У мобільному &lt;a href="https://livolo.in.ua/nastroyka-umnogo-doma/"&gt;застосунку LIVOLO HOME&lt;/a&gt;&amp;nbsp;на телефоні створюється алгоритм взаємодії між термометром та розумною розеткою. Цей алгоритм включає перевірку: якщо виміряна температура нижча за встановлене значення, то розетка має бути увімкнена.&lt;/li&gt; &lt;li&gt;Програмований термометр Livolo вимірює температуру в кімнаті.&lt;/li&gt; &lt;li&gt;Якщо виміряна температура нижча за задане значення, спрацьовує алгоритм: розумна розетка вмикається.&lt;/li&gt; &lt;li&gt;Включений термоелектричний сервопривід відкриває клапан, що дозволяє теплоносію циркулювати в системі підігріву підлоги, і це призводить до підвищення температури в кімнаті.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Цей процес забезпечує автоматичне підтримання оптимальної температури в кімнаті.&lt;/p&gt; &lt;p&gt;За допомогою&amp;nbsp;&lt;a href="https://livolo.in.ua/nastroyka-umnogo-doma/"&gt;застосунку LIVOLO HOME&lt;/a&gt;&amp;nbsp;на телефоні, або голосом через асистентів, таких як Google Home або Amazon Alexa, ви зможете налаштовувати різні автоматичні сценарії в залежності від&amp;nbsp;виміряних значень&amp;nbsp;температури&amp;nbsp;та вологості&amp;nbsp;у приміщенні.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Для використання всіх функцій термометра та гігрометра вам знадобиться застосунок LIVOLO HOME та&amp;nbsp;&lt;a href="https://livolo.in.ua/vl-xg004/"&gt;шлюз&lt;/a&gt;.&lt;/p&gt; &lt;h2&gt;&amp;nbsp;&lt;/h2&gt; &lt;h2&gt;Датчик температури.&amp;nbsp;Цифровий термометр&lt;/h2&gt; &lt;p&gt;Моніторинг температури позитивно впливає не лише на якість життя людей (особливо дітей або хворих), але також допомагає запобігти утворенню плісняви. Використовуйте датчик&amp;nbsp;для управління системами тепла - конвектори, котли, обігрівачі.&lt;/p&gt; &lt;h2&gt;Wi-Fi термометр&lt;/h2&gt; &lt;p&gt;Управління температурою та програмування відбувається через мобільний застосунок LIVOLO HOME. При управлінні через застосунок необхідно з&amp;#39;єднання з інтернетом. Такий підхід відкриває безмежні можливості для керування з будь-якого куточка планети.&lt;/p&gt; &lt;h2&gt;Автоматичний&amp;nbsp;клімат-контроль&lt;/h2&gt; &lt;p&gt;Відстежуйте температуру в будь-якій точці вашого будинку в режимі онлайн. Ви зможете також налаштовувати управління розумною розеткою&amp;nbsp;або вимикачем, використовуючи показники температури&amp;nbsp;через додаток LIVOLO HOME.&lt;/p&gt; &lt;h2&gt;Рамка зі скла&lt;/h2&gt; &lt;p&gt;Унікальний смарт термометр та гігрометр встановлюється у&amp;nbsp;&lt;a href="https://livolo.in.ua/catalog/glass-panel/"&gt;рамки від Livolo&lt;/a&gt;. Він перетвориться на справжню прикрасу вашої кімнати.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Встановлення&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Для встановлення термометра використовується&amp;nbsp;&lt;a href="https://livolo.in.ua/kruglyy-podrozetnik-dlya-montazha-vykluchateley-livolo-eu-60-mw/"&gt;кругла монтажна коробка (підрозетник)&lt;/a&gt;&amp;nbsp;з міжцентровою відстанню для кріпильних гвинтів 60 мм. Процес установки дуже простий і не викликає проблем.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="369" loading="lazy" src="https://livolo.in.ua/content/uploads/images/vl-fcez-2wp-sxema%281%29.jpg" width="700" /&gt;&lt;/p&gt;</description>
+        <picture>https://www.livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-34388498676605_+4fdad32835.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/15/vl-c7fcez-tc16az-2wp-46922470932078_+eeb96f69d4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-23329336937867_+d9f73507af.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-29630763434695_+2b964919f4.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-30088505483994_+faf1f31d6d.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-34388498676605_+4fdad32835.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-76444963426379_+5d6b600b64.jpg</picture>
+        <picture>https://livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-93213550687453_+3d5f85cc34.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/15/vl-c7fcez-tc16az-2wp-46922470932078_+eeb96f69d4.jpg</picture>
+        <picture>https://www.livolo.in.ua/content/images/16/vl-c7fcez-tc16az-2bp-23329336937867_+d9f73507af.jpg</picture>
+        <param name="Гарантия">60 мес.</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Тип терморегулятора">Сенсорный</param>
+        <param name="Назначение">Для теплого пола|Для коллектора</param>
+        <param name="Датчик температуры">Встроенный</param>
+        <param name="Дистанционное управление">Livolo Home, Google Home, Amazon Alexa, Homey</param>
+        <param name="Голосовое управление">Google Assistant, Amazon Alexa</param>
+        <param name="Материал рамки">Закаленное стекло</param>
+        <param name="Длина">80 мм</param>
+        <param name="Ширина">80 мм</param>
+        <param name="Глубина">28 мм</param>
+        <param name="Количество постов">1</param>
+        <param name="Min температура">0 °С</param>
+        <param name="Max температура">50 °С</param>
+        <param name="Напряжение сети">110-250 В</param>
+        <param name="Крепление проводов">Винтами</param>
+        <param name="Степень защиты">IP20</param>
+        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Бренд">LIVOLO</param>
+        <param name="Гарантийный срок, мес.">60</param>
+        <param name="Тип гарантии">Производитель</param>
+        <param name="Шаг температуры">1 °C</param>
+        <param name="Максимальная нагрузка">3500 Вт</param>
+        <param name="Максимальный ток">16 А</param>
+      </offer>
       <offer id="f10_407998_VL-C7FCEZ-TC16AZ-2AP" available="true">
         <name>LIVOLO Комплект дистанційного керування водяною теплою підлогою LIVOLO золотий скло (VL-C7FCEZ-</name>
         <price>5525.0</price>
