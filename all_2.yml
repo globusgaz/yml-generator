@@ -1,41 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-16 10:20">
+<yml_catalog date="2026-02-16 11:17">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="810305">Тепла підлога</category>
-      <category id="150403">Святкове освітлення</category>
-      <category id="836">корневая</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="153504">Датчики для розумного будинку</category>
-      <category id="410606">Дистанційні вимикачі</category>
-      <category id="230620">Клейка універсальна стрічка</category>
-      <category id="35702">Обувь для Взрослых</category>
       <category id="12116">Выключатели</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="810305">Тепла підлога</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="2613">Радіокеровані іграшки</category>
+      <category id="836">корневая</category>
+      <category id="230620">Клейка універсальна стрічка</category>
+      <category id="153504">Датчики для розумного будинку</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="150403">Святкове освітлення</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="410606">Дистанційні вимикачі</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
     </categories>
     <offers>
-      <offer id="f10_408050_VL-P700/00/E/E/E-10I" available="true">
-        <name>LIVOLO Рамка 5-постова порожня Х сенсорів 3 розетки (Х-Х-0-0-0) LIVOLO, загартоване скло, сіра,</name>
-        <price>3056.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_4929adc4f01741f54a</vendorCode>
-        <description>&lt;p data-end="298" data-start="72"&gt;&lt;strong data-end="168" data-start="72"&gt;Рамка 5-постова порожня Х сенсорів 3 розетки (Х-Х-0-0-0) LIVOLO, загартоване скло, 365&amp;times;80 мм&lt;/strong&gt; &amp;mdash; стильна лицьова панель із міцного загартованого скла, призначена для монтажу сенсорних модулів Livolo у будь-якій комбінації.&lt;/p&gt; &lt;p data-end="343" data-start="300"&gt;Даний варіант підходить для встановлення:&lt;/p&gt; &lt;ul data-end="490" data-start="344"&gt; &lt;li data-end="418" data-start="344"&gt; &lt;p data-end="418" data-start="346"&gt;&lt;strong data-end="374" data-start="346"&gt;двох сенсорних вимикачів&lt;/strong&gt; для керування кількома зонами освітлення;&lt;/p&gt; &lt;/li&gt; &lt;li data-end="490" data-start="419"&gt; &lt;p data-end="490" data-start="421"&gt;&lt;strong data-end="450" data-start="421"&gt;трьох електричних розеток&lt;/strong&gt; або &lt;strong data-end="487" data-start="455"&gt;шести мультимедійних розеток&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p data-end="618" data-start="492"&gt;Комбінації вимикачів і розеток підбираються індивідуально під замовлення.&lt;br data-end="568" data-start="565" /&gt; Орієнтовний термін виготовлення &amp;mdash; &lt;strong data-end="615" data-start="602"&gt;1&amp;ndash;2 тижні&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="440" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c72c13srw-livolo-otos-sorolokeret-2x-egyes-kapcsolohoz3x-dugaljhoz-feher-uvegkeret-vl-p701-01-e-e-e-10w-meret-768x483.jpg" width="700" /&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/45/vl-p70000eee-10i-49554607254512_+29cec4f4e7.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/vl-p70000eee-10i-49554607254512_+29cec4f4e7.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/45/vl-p70000eee-10i-68525170056138_+26f0caf8e6.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/45/vl-p70000eee-10i-68525170056138_+26f0caf8e6.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-      </offer>
       <offer id="f10_408055_VL-FCQ1Z2-2WPS23" available="true">
         <name>LIVOLO Розумний Wi-Fi терморегулятор (термостат) сенсорний програмований для електричної теплої</name>
         <price>2413.0</price>
