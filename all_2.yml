@@ -1,68 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-02-25 16:24">
+<yml_catalog date="2026-02-25 18:17">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12116">Выключатели</category>
-      <category id="12129">Управление климатом</category>
-      <category id="836">корневая</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
       <category id="12130">Умные замки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="3221201">Детская обувь и одежда</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="2302">Подарункові коробки і пакети</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="12120">Блоки питания для LED ленты</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="836">корневая</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="12129">Управление климатом</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12116">Выключатели</category>
     </categories>
     <offers>
-      <offer id="f10_407009_722000215" available="true">
-        <name>Сенсорний вимикач Sense 2 сенсора Livolo сірий (722000215)</name>
-        <price>1120.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12116</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_407009_722000215</vendorCode>
-        <description>&lt;h2&gt;&lt;strong&gt;Сенсорний вимикач світла Livolo Sense&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Елегантні, звивисті форми Sense, ніби створені самою природою.&amp;nbsp;Гладка поверхня, приємна на дотик, має особливу ямку в сенсорній зоні вимикача, що надає непередавані тактильні відчуття.&lt;/p&gt; &lt;p&gt;Сенсорні вимикачі Livolo поєднують найсучасніші технології та модні тенденції в дизайні. Вони створені з урахуванням неперевершеної ергономіки, де форма, світло і звук поєднуються в одне ціле.&lt;/p&gt; &lt;p&gt;З м&amp;#39;яким світлодіодним підсвічуванням і легким звуком включення вимикачі Livolo забезпечують додатковий комфорт і задоволення користувача. А стильний дизайн сенсорного вимикача Sense пасуватиме як до класичного, так і до сучасного інтер&amp;#39;єру.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Переваги сенсорного вимикача&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Зручне управління&lt;/strong&gt;: Вимикач активується при дотику долонею або пальцем, що робить його зручним у використанні.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Висока безпека&lt;/strong&gt;: Можна включати вимикач навіть мокрими руками, що забезпечує безпеку вологих приміщень, наприклад, ванних кімнат.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Підсвічування&lt;/strong&gt;: Світлодіодна підсвітка дозволяє легко знайти вимикач навіть у темряві, що забезпечує зручність використання.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Простий монтаж&lt;/strong&gt;: Легкість в монтажі дозволяє швидко встановити вимикач всього за кілька хвилин.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Надійність&lt;/strong&gt;: Вимикач має високу надійність і може пройти близько 100 000 циклів використання, що гарантує тривалий термін служби.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Дистанційне керування&lt;/strong&gt;&amp;nbsp;(опція): Існує можливість дистанційного керування вимикачем, що забезпечує зручність управління освітленням з використанням мобільного телефону.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Управління світлом дотиком&lt;/h2&gt; &lt;p&gt;Сенсорний вимикач світла є не тільки красивим, але й практичним рішенням для вашого будинку. Він працює за аналогією з роботою сенсорного екрану мобільного телефону: вам потрібно лише легенько доторкнутися до вимикача, щоб увімкнути або вимкнути освітлення.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="429" loading="lazy" src="https://livolo.in.ua/content/uploads/images/upravlnnja-svtlom-dotikom.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Велика&amp;nbsp;гамма кольорів&lt;/h2&gt; &lt;p&gt;Сенсорні вимикачі доступні в кольорах білого, чорного, сірого та золотого, що ідеально вписуються в інноваційні та мінімалістичні тенденції дизайну. Вони створені з метою принести задоволення користувачам. Головними формами вимикачів є коло і квадрат, дві прості та гармонійні геометричні фігури.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="397" loading="lazy" src="https://livolo.in.ua/content/uploads/images/velika-gamma-kolorv2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Модульна система&lt;/h2&gt; &lt;p&gt;Будь-яка скляна рамка LIVOLO може бути використана з модульним сенсорним вимикачем, що дозволяє вам створити гармонійний дизайн у вашому інтер&amp;#39;єрі.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="397" loading="lazy" src="https://livolo.in.ua/content/uploads/images/modulna-sistema2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Скляна рамка&lt;/h2&gt; &lt;p&gt;Рамка вимикача виготовлена з загартованого скла, зокрема з оптичного скла OptiWhite. Це спеціальний тип скла, який має високу стійкість до зносу і легко піддається догляду. Рамка є міцною і довговічною, вона здатна витримувати різні впливи та механічні навантаження. Крім того, така рамка легко миється і зберігає свій оригінальний вигляд протягом тривалого часу.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="417" loading="lazy" src="https://livolo.in.ua/content/uploads/images/skljana-ramka2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Безпечний&lt;/h2&gt; &lt;p&gt;Виготовлений з вогнестійких матеріалів, що забезпечує високий рівень пожежної безпеки. Має посилений захист від коротких замикань в електричній системі, який запобігає&amp;nbsp;перевантаженню мережі, забезпечуючи безпеку для вас і вашого будинку.&amp;nbsp; У випадку аварійної ситуації, наприклад, замикання або обриву в мережі, або коли елементи освітлення вийшли з ладу, сенсорний вимикач автоматично переходить в режим &amp;quot;Виключено&amp;quot;.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="410" loading="lazy" src="https://livolo.in.ua/content/uploads/images/bezpechniy.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Стійкий до вицвітання&lt;/h2&gt; &lt;p&gt;Завдяки використанню високоякісних матеріалів і технологій, сенсорні вимикачі розроблені таким чином, щоб вони залишалися естетичними та привабливими з плином часу. Навіть після тривалого використання, сенсорні вимикачі зберігають насиченість кольору та яскравість. Таким чином, ви можете насолоджуватися новим виглядом сенсорного вимикача протягом тривалого часу, зберігаючи його естетичну привабливість у вашому інтер&amp;#39;єрі.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="398" loading="lazy" src="https://livolo.in.ua/content/uploads/images/stykiy-do-vicvtannja2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Працює з будь-якими лампами&lt;/h2&gt; &lt;p&gt;Сумісний з різноманітними типами ламп. Він працює з LED лампами (світлодіодними лампами), LED панелями, LED стрічками, лампами розжарювання, енергоощадними, галогенними лампами 220 В та люмінесцентними лампами. Здатен витримати навантаження від 1 до 1000 Вт.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="330" loading="lazy" src="https://livolo.in.ua/content/uploads/images/pracue-z-bud-jakimi-lampami.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Просте підключення&lt;/h2&gt; &lt;p&gt;Потрібно всього три&amp;nbsp;дроти для підключення. Нульовий провід не потрібен.&amp;nbsp;Вимикач оснащений надійним&amp;nbsp;гвинтовим кріпленням для дротів, що забезпечує якісний контакт і довгий термін служби пристрою.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="420" loading="lazy" src="https://livolo.in.ua/content/uploads/images/proste-pdkluchennja2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Габаритні розміри&lt;/h2&gt; &lt;p&gt;Оптимальний розмір 80х80 мм дозволяє легко вписати вимикач у ваш інтер&amp;#39;єр.&amp;nbsp;Цей розмір забезпечує зручне використання вимикача і його гармонійне поєднання з іншими елементами вашої електричної системи.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="415" loading="lazy" src="https://livolo.in.ua/content/uploads/images/gabaritn-rozmri2.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Легкість встановлення&lt;/h2&gt; &lt;p&gt;Вимикач легко встановлюється в круглу монтажну коробку для прихованого монтажу з міжцентровою відстанню для кріпильних гвинтів - 60 мм. Цей спосіб встановлення значно спрощує самостійний монтаж вимикачів, оскільки вам не потрібно свердлити отвори або виконувати інші складні операції.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="250" loading="lazy" src="https://livolo.in.ua/content/images/17/300x300l80tl0/87575728751001.webp" width="250" /&gt;&lt;/p&gt; &lt;h2&gt;Комплект постачання&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Сенсорний вимикач Livolo;&lt;/li&gt; &lt;li&gt;Скляна рамка;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Супорт;&lt;/li&gt; &lt;li&gt;Шурупи для кріплення;&lt;/li&gt; &lt;li&gt;Інструкція;&lt;/li&gt; &lt;li&gt;Коробка;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;img alt="" height="393" loading="lazy" src="https://livolo.in.ua/content/uploads/images/komplekt-postachannja.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Схема підключення&lt;/h2&gt; &lt;p&gt;Підключення до електромережі здійснюється за стандартною схемою, яка вже присутня у&amp;nbsp;вашій електропроводці. Вам не потрібно вносити будь-які зміни в наявну&amp;nbsp;схему електропроводки. Просто відключіть звичайний настінний вимикач, а на його місце встановіть сенсорний вимикач&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="453" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h090636476418448b9f846f33a24beebc4%282%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Інструкція із встановлення&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;1. Вимкніть напругу;&lt;/p&gt; &lt;p&gt;2. Підключайте вимикач згідно зі схемою;&lt;/p&gt; &lt;p&gt;3. Прикрутіть вимикач гвинтами до підрозетника;&lt;/p&gt; &lt;p&gt;4. Встановіть сенсорну панель;&lt;/p&gt; &lt;p&gt;5. Подайте напругу;&lt;/p&gt; &lt;p&gt;6. Вимикач починає працювати через 15 секунд.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="370" loading="lazy" src="https://livolo.in.ua/content/uploads/images/nstrukcja-z-vstanovlennja.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Найчастіші питання&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;1. Вимикач має підсвітку&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Так, всі наші сенсорні перемикачі мають світлодіодні індикатори. Коли вмикається перемикач, загоряється червоний індикатор, а коли вимикається, загоряється синій індикатор.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;2. Чи можу я використовувати вимикач зі світлодіодними лампами&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Так, наші вимикачі можуть працювати з енергозберігаючими лампами та світлодіодними лампами, якщо потужність перевищує 1 Вт.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;3. Які лампи підходять до диммера&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Світлодіодна лампа з регулюванням яскравості.&amp;nbsp;Всі лампочки які працюють з механічним диммером, також будуть працювати з сенсорним димером, тільки потужність повинна бути 5-500 Вт.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;4. Чи може вимикач працювати з системою домашньої автоматизації іншого бренду&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Це залежить від системи. Якщо системі потрібен лише сигнал увімкнено/вимкнено, то це можливо.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;5. Чи є у вас проміжний вимикач&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Так, наш прохідний вимикач також може використовуватися як проміжний перемикач. Ви можете під&amp;#39;єднати три прохідних вимикачі разом.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;6. Який тип включення у вимикача, реле або симистор&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Для вмикання/вимикання сенсорного вимикача використовується&amp;nbsp; реле, для диммера &amp;ndash; симистор.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;7. Чи можна встановити вимикач вертикально&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Звичайно, будь-яке встановлення.&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-20506795815990_+7e4de10ac9.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/21/43051943924857_+92c52cbbeb.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/24/33928506908030_+3c1710740c.jpeg</picture>
-        <picture>https://livolo.in.ua/content/images/24/38877687573518_+6ab1d4b2a8.jpeg</picture>
-        <picture>https://livolo.in.ua/content/images/24/57334566946495_+719731f220.jpeg</picture>
-        <picture>https://livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-13800692077222_+4a547800e2.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-20506795815990_+7e4de10ac9.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-63868258181350_+a47680ce2c.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-76127678858084_+b841279677.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/24/sensornyy-vykluchatel-livolo-sense-2-kanala-722000215-seryy-99613213453168_+9627f04df9.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Сірий</param>
-        <param name="Тип выключателя">Выключатель</param>
-        <param name="Ширина">80 мм</param>
-        <param name="Длина">80 мм</param>
-        <param name="Глубина">33 мм</param>
-        <param name="Количество постов">1</param>
-        <param name="Количество сенсоров">2</param>
-        <param name="Материал рамки">Закаленное стекло</param>
-        <param name="Подсветка">Синий - выключено, Красный - включено</param>
-        <param name="Напряжение сети">110-250 В</param>
-        <param name="Максимальный ток">5 А</param>
-        <param name="Максимальная нагрузка">1000 Вт</param>
-        <param name="Степень защиты">IP20</param>
-        <param name="Место монтажа">Внутренний</param>
-        <param name="Способ коммутации">Механическое реле</param>
-        <param name="Крепление проводов">Винтами</param>
-        <param name="Срок службы">100 000 включений</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-      </offer>
       <offer id="f10_407010_782000317" available="true">
         <name>Сенсорний вимикач LIVOLO Sense, рожевий, прохідний / перехресний, 5А 230В, без нейтралі, модуль без рамки (782000317)</name>
         <price>590.0</price>
