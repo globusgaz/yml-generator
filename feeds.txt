@@ -1,5 +1,5 @@
 https://b2b.valeso.ua/data/9299a8aac7a137898fedac40fb8d0aa8.xml
-https://opt-drop.com/storage/xml/opt-drop-30.xm
+
 https://api.dropshipping.ua/api/feeds/2991.xml
 https://api.dropshipping.ua/api/feeds/2992.xml
 https://api.dropshipping.ua/api/feeds/2993.xml
