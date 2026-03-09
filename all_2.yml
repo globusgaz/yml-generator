@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-09 11:10">
+<yml_catalog date="2026-03-09 11:53">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12129">Управление климатом</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
       <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12116">Выключатели</category>
-      <category id="12120">Блоки питания для LED ленты</category>
       <category id="12119">Светильники встраиваемые</category>
+      <category id="12116">Выключатели</category>
       <category id="12118">LED освещение (светодиодные LED ленты)</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="12123">Датчики звука, света встраиваемые</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="12130">Умные замки</category>
+      <category id="12120">Блоки питания для LED ленты</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="12129">Управление климатом</category>
+      <category id="12123">Датчики звука, света встраиваемые</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="35702">Обувь для Взрослых</category>
     </categories>
     <offers>
       <offer id="f10_406962_VL-C702SZ-15" available="true">
