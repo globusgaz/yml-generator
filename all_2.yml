@@ -1,74 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-09 15:11">
+<yml_catalog date="2026-03-09 16:18">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
       <category id="12120">Блоки питания для LED ленты</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
-      <category id="12130">Умные замки</category>
-      <category id="12129">Управление климатом</category>
-      <category id="12116">Выключатели</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="12119">Светильники встраиваемые</category>
       <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12123">Датчики звука, света встраиваемые</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="35702">Обувь для Взрослых</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12130">Умные замки</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12123">Датчики звука, света встраиваемые</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="12116">Выключатели</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="12129">Управление климатом</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12119">Светильники встраиваемые</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12117">Электрические розетки</category>
     </categories>
     <offers>
-      <offer id="f10_406967_782000112" available="true">
-        <name>Сенсорний вимикач LIVOLO Sense, чорний, 5А 230В, без нейтралі, модуль без рамки (VL-FC1-2BP)</name>
-        <price>1249.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>12132</categoryId>
-        <vendor>LIVOLO</vendor>
-        <vendorCode>f10_406967_782000112</vendorCode>
-        <description>&lt;h2&gt;&lt;strong&gt;Сенсорний вимикач к&lt;/strong&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;олекції&amp;nbsp;SENSE&lt;/font&gt;&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;SENSE&amp;nbsp;&lt;/font&gt;&lt;/font&gt;- це нова колекція, створена з легких та міцних матеріалів. Невимушеної форми, але повна особистості, вона є ідеальним доповненням до сучасних та креативних середовищ.&amp;nbsp;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;Елегантний, звивистий і лінійний, натхненний природними формами, він поєднує вишуканий дизайн з&lt;/font&gt;&lt;/font&gt;&amp;nbsp;елегантними&amp;nbsp;простими лініями.&lt;/p&gt; &lt;p&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;&lt;font style="box-sizing:border-box; vertical-align:inherit"&gt;SENSE -&amp;nbsp;&lt;/font&gt;&lt;/font&gt;форма, світло та звук для непередбачуваного використання. Колекція, створена з матеріалів останнього покоління, які можна переробити та мають антибактеріальні властивості.&lt;/p&gt; &lt;p&gt;SENSE надає максимально&amp;nbsp;можливу індивідуалізацію. Ідеально поєднується з усіма продуктами LIVOLO та може бути з легкістю замінений ними.&lt;/p&gt; &lt;h2&gt;Особливості&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Чутливий сенсор приємний&amp;nbsp;на дотик та невимушеної форми;&lt;/li&gt; &lt;li&gt;Підходить для керування будь-яким джерелом світла від 1 Вт до 1000 Вт;&lt;/li&gt; &lt;li&gt;Підсвічування синім та червоним кольором;&lt;/li&gt; &lt;li&gt;Використовується з рамкою з загартованого скла;&lt;/li&gt; &lt;li&gt;Можливо встановити до 5 штук в одну рамку;&lt;/li&gt; &lt;li&gt;Горизонтальне&amp;nbsp;або вертикальне встановлення;&lt;/li&gt; &lt;li&gt;Можлива установка як в стандартні, так і в глибокі монтажні коробки;&lt;/li&gt; &lt;li&gt;Проста і швидка установка за допомогою гвинтового з&amp;#39;єднання;&lt;/li&gt; &lt;li&gt;Кріпиться до монтажної коробки гвинтами.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Розмір&lt;/h2&gt; &lt;p&gt;Габаритні розміри дозволяють встановити вимикач в круглу&amp;nbsp;монтажну&amp;nbsp;коробку&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="331" loading="lazy" src="https://livolo.in.ua/content/uploads/images/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000111-belyy.jpg" width="600" /&gt;&lt;/p&gt; &lt;h2&gt;Комплект постачання&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Сенсорний вимикач Livolo;&lt;/li&gt; &lt;li&gt;Шурупи для кріплення;&lt;/li&gt; &lt;li&gt;Інструкція;&lt;/li&gt; &lt;li&gt;Коробка.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Схема підключення&lt;/h2&gt; &lt;p&gt;Підключення здійснюється без внесення будь-яких додаткових змін в наявну&amp;nbsp;схему електричної проводки.&lt;/p&gt; &lt;p&gt;&lt;img alt="" height="453" loading="lazy" src="https://livolo.in.ua/content/uploads/images/h090636476418448b9f846f33a24beebc4%281%29.jpg" width="700" /&gt;&lt;/p&gt; &lt;h2&gt;Призначений для встановлення в рамку&lt;/h2&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/glass-panel/" target="_blank"&gt;Рамка&lt;/a&gt;&amp;nbsp;постачається окремо&lt;/p&gt; &lt;p&gt;&lt;a href="https://livolo.in.ua/catalog/glass-panel/" target="_blank"&gt;&lt;img alt="" height="350" loading="lazy" src="https://livolo.in.ua/content/uploads/images/c71srw-front-496-800x800.jpg" width="350" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-        <picture>https://www.livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-91062375627575_+44a554549b.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/6/96370627366220_+40bbe2c50b.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-36389240172271_+5a541002b1.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-44696674119305_+a320903af6.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-50142481292032_+82a4845b9f.jpg</picture>
-        <picture>https://livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-91062375627575_+44a554549b.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/6/96370627366220_+40bbe2c50b.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-36389240172271_+5a541002b1.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-44696674119305_+a320903af6.jpg</picture>
-        <picture>https://www.livolo.in.ua/content/images/7/mekhanizm-sensornyy-vykluchatel-livolo-sense-782000112-chernyy-50142481292032_+82a4845b9f.jpg</picture>
-        <param name="Гарантия">60 мес.</param>
-        <param name="Цвет">Чорний</param>
-        <param name="Тип выключателя">Выключатель</param>
-        <param name="Количество сенсоров">1</param>
-        <param name="Количество постов">1</param>
-        <param name="Подсветка">Синий - выключено, Красный - включено</param>
-        <param name="Ширина">45 мм</param>
-        <param name="Длина">45 мм</param>
-        <param name="Глубина">32 мм</param>
-        <param name="Количество клавиш">1</param>
-        <param name="Напряжение сети">110-250 В</param>
-        <param name="Максимальный ток">5 А</param>
-        <param name="Максимальная нагрузка">1000 Вт</param>
-        <param name="Способ коммутации">Механическое реле</param>
-        <param name="Крепление проводов">Винтами</param>
-        <param name="Место монтажа">Внутренний</param>
-        <param name="Степень защиты">IP20</param>
-        <param name="Срок службы">100 000 включений</param>
-        <param name="Производитель">Wenzhou Livolo Electric Co., Ltd.</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Минимальная нагрузка">1 Вт</param>
-        <param name="Бренд">LIVOLO</param>
-        <param name="Тип гарантии">Производитель</param>
-        <param name="Гарантийный срок, мес.">60</param>
-        <param name="Код производителя товара (MPN)">782000112</param>
-      </offer>
       <offer id="f10_406968_782000115" available="true">
         <name>Сенсорний вимикач LIVOLO Sense, сірий, 5А 230В, без нейтралі, модуль без рамки (VL-FC1-2IP)</name>
         <price>590.0</price>
