@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-10 08:02">
+<yml_catalog date="2026-03-10 09:07">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
+      <category id="12120">Блоки питания для LED ленты</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="12119">Светильники встраиваемые</category>
+      <category id="3221201">Детская обувь и одежда</category>
       <category id="12121">Терморегуляторы встраиваемые</category>
       <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12116">Выключатели</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12123">Датчики звука, света встраиваемые</category>
       <category id="12125">Часы встраиваемые</category>
-      <category id="12119">Светильники встраиваемые</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="12130">Умные замки</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="12120">Блоки питания для LED ленты</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="2302">Подарункові коробки і пакети</category>
       <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12117">Электрические розетки</category>
       <category id="12129">Управление климатом</category>
       <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="12123">Датчики звука, света встраиваемые</category>
+      <category id="12116">Выключатели</category>
+      <category id="12130">Умные замки</category>
     </categories>
     <offers>
       <offer id="f10_406978_782000415" available="true">
@@ -31526,29 +31526,6 @@
 Пишіть або телефонуйте &amp;mdash; відповім на всі запитання!</description>
         <url>https://prom.ua/pA0000023</url>
         <picture>https://images.prom.ua/6773630715_detskie-krossovki-bobdog.jpg, https://images.prom.ua/6773631031_detskie-krossovki-bobdog.jpg</picture>
-      </offer>
-      <offer id="my_A0000024" available="true">
-        <name>Дитячі кросівки BOBDOG Чорніі Літні з сіткою Застібка-диск (BOA) 31</name>
-        <price>650.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <vendor>My Store</vendor>
-        <vendorCode>A0000024</vendorCode>
-        <description>Дитячі кросівки BOBDOG (модель з сіткою)&lt;br /&gt;
-Стильні, легкі та зручні кросівки для активних дітлахів!&lt;br /&gt;
-Розмір 31,&lt;br /&gt;
-Устілка 19,5 см&lt;br /&gt;
-Розмір 30&lt;br /&gt;
-Устілка 18,5 см&lt;br /&gt;
-&lt;br /&gt;
--Матеріал верху: дихаюча сітка &amp;mdash; забезпечує комфорт і вентиляцію навіть у найтепліші дні.&lt;br /&gt;
--Застібка: сучасна система затяжки-диска (тип BOA) &amp;mdash; швидко, надійно та зручно для дітей.&lt;br /&gt;
--Підошва: амортизуюча, зносостійка, ідеальна для активного способу життя.&lt;br /&gt;
--Колір: ніжний сіро-оливковий із плавними градієнтами &amp;mdash; чудово пасує як до спортивного, так і до повсякденного одягу.&lt;br /&gt;
-&lt;br /&gt;
-Пишіть або телефонуйте &amp;mdash; відповім на всі запитання!</description>
-        <url>https://prom.ua/pA0000024</url>
-        <picture>https://images.prom.ua/6773630847_detskie-krossovki-bobdog.jpg</picture>
       </offer>
       <offer id="my_A0000025" available="true">
         <name>Дитячі кросівки BOBDOG Чорніі Літні з сіткою Застібка-диск (BOA) 30</name>
