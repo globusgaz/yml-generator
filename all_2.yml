@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-10 23:48">
+<yml_catalog date="2026-03-11 02:42">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="12129">Управление климатом</category>
-      <category id="12118">LED освещение (светодиодные LED ленты)</category>
-      <category id="12120">Блоки питания для LED ленты</category>
-      <category id="12123">Датчики звука, света встраиваемые</category>
-      <category id="12117">Электрические розетки</category>
-      <category id="12125">Часы встраиваемые</category>
-      <category id="12126">Bluetooth колонки встраиваемые</category>
-      <category id="12121">Терморегуляторы встраиваемые</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="12132">Комплектующие, электрофурнитура</category>
       <category id="12116">Выключатели</category>
-      <category id="12124">Звонки-сирены встраиваемые</category>
-      <category id="12130">Умные замки</category>
+      <category id="12132">Комплектующие, электрофурнитура</category>
+      <category id="12129">Управление климатом</category>
       <category id="12119">Светильники встраиваемые</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12121">Терморегуляторы встраиваемые</category>
+      <category id="12125">Часы встраиваемые</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="12118">LED освещение (светодиодные LED ленты)</category>
+      <category id="12123">Датчики звука, света встраиваемые</category>
       <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12126">Bluetooth колонки встраиваемые</category>
+      <category id="12124">Звонки-сирены встраиваемые</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="12130">Умные замки</category>
+      <category id="12131">Контроллеры, пульты для умного дома</category>
+      <category id="12117">Электрические розетки</category>
+      <category id="12120">Блоки питания для LED ленты</category>
     </categories>
     <offers>
       <offer id="f10_407486_VL-C701SZ/C702SZ-13" available="true">
@@ -13564,7 +13564,7 @@
       </offer>
       <offer id="f10_434708_VL-SHS013-TC-FCCP-T25-6BP-B" available="true">
         <name>Меблева розетка потрійна LIVOLO чорна, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45 і універсальною розеткою 2-в-1, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-FCCP-T25-6BP-B)</name>
-        <price>2314.0</price>
+        <price>2708.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -13607,7 +13607,7 @@
       </offer>
       <offer id="f10_434709_VL-SHS013-TC-FCCP-T25-6AP-A" available="true">
         <name>Меблева розетка потрійна LIVOLO золота, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45 і універсальною розеткою 2-в-1, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-FCCP-T25-6AP-A)</name>
-        <price>2374.0</price>
+        <price>2781.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -13650,7 +13650,7 @@
       </offer>
       <offer id="f10_434710_VL-SHS013-TC-FCCP-T25-6IP-I" available="true">
         <name>Меблева розетка потрійна LIVOLO срібна, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45 і універсальною розеткою 2-в-1, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-FCCP-T25-6IP-I)</name>
-        <price>2424.0</price>
+        <price>2854.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -13693,7 +13693,7 @@
       </offer>
       <offer id="f10_434711_VL-SHS013-TC-FCCP-T25-6WP-W" available="true">
         <name>Меблева розетка потрійна LIVOLO біла, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45 і універсальною розеткою 2-в-1, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-FCCP-T25-6WP-W)</name>
-        <price>2374.0</price>
+        <price>2781.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14538,7 +14538,7 @@
       </offer>
       <offer id="f10_618017_VL-SHS016-FCTC-FCUA-FCCP-B" available="true">
         <name>Розетка підлогова подвійна LIVOLO чорна, вбудована у підлогу, з USB 10Вт, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA-FCCP-B)</name>
-        <price>3109.0</price>
+        <price>3622.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14576,7 +14576,7 @@
       </offer>
       <offer id="f10_618018_VL-SHS016-FCTC-FCUA-FCCP-A" available="true">
         <name>Розетка підлогова подвійна LIVOLO золота, вбудована у підлогу, з USB 10Вт, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA-FCCP-A)</name>
-        <price>3519.0</price>
+        <price>4132.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14614,7 +14614,7 @@
       </offer>
       <offer id="f10_618019_VL-SHS016-FCTC-FCUA-FCCP-W" available="true">
         <name>Розетка підлогова подвійна LIVOLO біла, вбудована у підлогу, з USB 10Вт, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA-FCCP-W)</name>
-        <price>3289.0</price>
+        <price>3841.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14654,7 +14654,7 @@
       </offer>
       <offer id="f10_618020_VL-SHS016-FCTC-FCUA.UC-W" available="true">
         <name>Розетка підлогова подвійна LIVOLO біла, вбудована у підлогу, з USB-A і USB Type-C 36 Вт, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA.UC-W)</name>
-        <price>4515.0</price>
+        <price>5067.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14696,7 +14696,7 @@
       </offer>
       <offer id="f10_618021_VL-SHS016-FCTC-FCUA.UC-B" available="true">
         <name>Розетка підлогова подвійна LIVOLO чорна, вбудована у підлогу, з USB-A і USB Type-C 36 Вт, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA.UC-B)</name>
-        <price>4335.0</price>
+        <price>4848.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14736,7 +14736,7 @@
       </offer>
       <offer id="f10_618022_VL-SHS016-FCTC-FCUA.UC-A" available="true">
         <name>Розетка підлогова подвійна LIVOLO золота, вбудована у підлогу, з USB-A і USB Type-C 36 Вт, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-FCTC-FCUA.UC-A)</name>
-        <price>4745.0</price>
+        <price>5358.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14774,7 +14774,7 @@
       </offer>
       <offer id="f10_618288_VL-SHS013-TCBP-BR" available="true">
         <name>Меблева розетка потрійна LIVOLO бронзова, вбудована у стільницю, для кухні/офісу/конференц-залу, висувна, з заземленням, плавне відкриття, алюміній 265×118×70 мм (VL-SHS013-TCBP-BR)</name>
-        <price>2437.0</price>
+        <price>2918.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14817,7 +14817,7 @@
       </offer>
       <offer id="f10_634633_VL-SHS016-TC-HD-CP-S" available="true">
         <name>Розетка підлогова подвійна LIVOLO срібна, вбудована у підлогу, з HDMI, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-CP-S)</name>
-        <price>2902.0</price>
+        <price>3371.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14855,7 +14855,7 @@
       </offer>
       <offer id="f10_634634_VL-SHS016-TC-HD-CP-B" available="true">
         <name>Розетка підлогова подвійна LIVOLO чорна, вбудована у підлогу, з HDMI, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-CP-B)</name>
-        <price>3052.0</price>
+        <price>3565.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14893,7 +14893,7 @@
       </offer>
       <offer id="f10_634635_VL-SHS016-TC-HD-CP-A" available="true">
         <name>Розетка підлогова подвійна LIVOLO золота, вбудована у підлогу, з HDMI, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-CP-A)</name>
-        <price>3462.0</price>
+        <price>4075.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14931,7 +14931,7 @@
       </offer>
       <offer id="f10_634636_VL-SHS016-TC-HD-CP-W" available="true">
         <name>Розетка підлогова подвійна LIVOLO біла, вбудована у підлогу, з HDMI, інтернет RJ-45, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-CP-W)</name>
-        <price>3232.0</price>
+        <price>3784.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -14971,7 +14971,7 @@
       </offer>
       <offer id="f10_634637_VL-SHS016-TC-HD-UA-S" available="true">
         <name>Розетка підлогова подвійна LIVOLO срібна, вбудована у підлогу, з USB 10Вт, HDMI, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-UA-S)</name>
-        <price>3352.0</price>
+        <price>3821.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15008,7 +15008,7 @@
       </offer>
       <offer id="f10_634638_VL-SHS016-TC-HD-UA-B" available="true">
         <name>Розетка підлогова подвійна LIVOLO чорна, вбудована у підлогу, з USB 10Вт, HDMI, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-UA-B)</name>
-        <price>3502.0</price>
+        <price>4015.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15045,7 +15045,7 @@
       </offer>
       <offer id="f10_634639_VL-SHS016-TC-HD-UA-A" available="true">
         <name>Розетка підлогова подвійна LIVOLO золота, вбудована у підлогу, з USB 10Вт, HDMI, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-UA-A)</name>
-        <price>3912.0</price>
+        <price>4525.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15082,7 +15082,7 @@
       </offer>
       <offer id="f10_634640_VL-SHS016-TC-HD-UA-W" available="true">
         <name>Розетка підлогова подвійна LIVOLO біла, вбудована у підлогу, з USB 10Вт, HDMI, для кухні, офісу чи конференц-залу, з кришкою, висувна, з заземленням, IP44, плавне відкриття, алюміній, розмір 145×145×65 мм (VL-SHS016-TC-HD-UA-W)</name>
-        <price>3682.0</price>
+        <price>4234.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15623,7 +15623,7 @@
       </offer>
       <offer id="f10_678249_VL-SHS013-TC-CP-HD-6BP-B" available="true">
         <name>Меблева розетка потрійна LIVOLO чорна, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45, HDMI, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-CP-HD-6BP-B)</name>
-        <price>2791.0</price>
+        <price>3185.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15666,7 +15666,7 @@
       </offer>
       <offer id="f10_678250_VL-SHS013-TC-CP-HD-6AP-A" available="true">
         <name>Меблева розетка потрійна LIVOLO золота, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45, HDMI, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-CP-HD-6AP-A)</name>
-        <price>2851.0</price>
+        <price>3258.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15709,7 +15709,7 @@
       </offer>
       <offer id="f10_678251_VL-SHS013-TC-CP-HD-6IP-I" available="true">
         <name>Меблева розетка потрійна LIVOLO срібна, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45, HDMI, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-CP-HD-6IP-I)</name>
-        <price>2901.0</price>
+        <price>3331.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15752,7 +15752,7 @@
       </offer>
       <offer id="f10_678252_VL-SHS013-TC-CP-HD-6WP-W" available="true">
         <name>Меблева розетка потрійна LIVOLO біла, вбудована у стільницю для офісу/конференц-залу/кухні, з інтернет RJ-45, HDMI, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS013-TC-CP-HD-6WP-W)</name>
-        <price>2851.0</price>
+        <price>3258.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
@@ -15795,7 +15795,7 @@
       </offer>
       <offer id="f10_691728_VL-SHS012-TC-UA.UCBP-B" available="true">
         <name>Меблева розетка LIVOLO чорна, вбудована у стільницю, з USB-A і USB Type-C 36 Вт, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS012-TC-UA.UCBP-B)</name>
-        <price>3625.0</price>
+        <price>3949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12132</categoryId>
@@ -15836,7 +15836,7 @@
       </offer>
       <offer id="f10_691729_VL-SHS012-TC-UA.UCBP-S" available="true">
         <name>Меблева розетка LIVOLO срібна, вбудована у стільницю, з USB-A і USB Type-C 36 Вт, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS012-TC-UA.UCBP-S)</name>
-        <price>3625.0</price>
+        <price>3949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12132</categoryId>
@@ -15877,7 +15877,7 @@
       </offer>
       <offer id="f10_691730_VL-SHS012-TC-UA.UC-BP-A" available="true">
         <name>Меблева розетка LIVOLO золота, вбудована у стільницю, з USB-A і USB Type-C 36 Вт, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS012-TC-UA.UC-BP-A)</name>
-        <price>3625.0</price>
+        <price>3949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12132</categoryId>
@@ -15918,7 +15918,7 @@
       </offer>
       <offer id="f10_691732_VL-SHS012-TC-UA.UCIP-S" available="true">
         <name>Меблева розетка LIVOLO срібна, вбудована у стільницю, з USB-A і USB Type-C 36 Вт, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS012-TC-UA.UCIP-S)</name>
-        <price>3625.0</price>
+        <price>3949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12132</categoryId>
@@ -15959,7 +15959,7 @@
       </offer>
       <offer id="f10_691733_VL-SHS012-TC-UA.UC-AP-A" available="true">
         <name>Меблева розетка LIVOLO золота, вбудована у стільницю, з USB-A і USB Type-C 36 Вт, висувна, з заземленням, плавне відкриття, алюміній (VL-SHS012-TC-UA.UC-AP-A)</name>
-        <price>3625.0</price>
+        <price>3949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12132</categoryId>
@@ -16176,7 +16176,7 @@
       </offer>
       <offer id="f10_745341_VL-SHS016-G" available="true">
         <name>Розетковий люк підлоговий LIVOLO сірий, вбудований у підлогу, пустий корпус без розеток для наповнення будь-якими модулями, з кришкою, IP44, алюміній, плавне відкриття, розмір 145×145×65 мм (J28 gray)</name>
-        <price>1990.0</price>
+        <price>2503.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>12117</categoryId>
