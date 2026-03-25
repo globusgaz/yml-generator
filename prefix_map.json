@@ -8,5 +8,6 @@
   "https://api.dropshipping.ua/api/feeds/1852.xml": "f7_",
   "https://api.dropshipping.ua/api/feeds/2991.xml": "f8_",
   "https://api.dropshipping.ua/api/feeds/2992.xml": "f9_",
-  "https://api.dropshipping.ua/api/feeds/2993.xml": "f10_"
+  "https://api.dropshipping.ua/api/feeds/2993.xml": "f10_",
+  "https://feed.lugi.com.ua/index.php?route=extension/feed/unixml/ukr_ru": "f11_"
 }
