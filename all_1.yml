@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-25 12:00">
+<yml_catalog date="2026-03-25 13:36">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="75">Утюги</category>
-      <category id="67">Столовые приборы</category>
-      <category id="33">Пепельницы</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="195">Разделочные доски</category>
-      <category id="212">Мебель</category>
-      <category id="62">Ковши</category>
-      <category id="300">Подушки для спины</category>
-      <category id="285">Йогуртницы</category>
-      <category id="17">Воскоплавы</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="283">Подносы</category>
-      <category id="103">Проекторы</category>
-      <category id="89">Миксеры</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="133">Масленки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="34">Подсвечники</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="72">Весы напольные</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="294">Новогодние елки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="122">Аксессуары</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="271">Товары для уборки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="118">Сумки</category>
-      <category id="42">Термосы для детей</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="87">Соковыжималки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="23">Фены</category>
-      <category id="63">Кастрюли</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="59">Все для выпечки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="65">Креманки</category>
-      <category id="298">Брелки</category>
-      <category id="128">Органайзеры</category>
-      <category id="97">Весы кухонные</category>
-      <category id="140">Крышки</category>
-      <category id="14">Стайлеры</category>
-      <category id="13">Триммеры</category>
-      <category id="284">Новогодний декор</category>
-      <category id="111">Портативные колонки</category>
-      <category id="110">Наушники</category>
-      <category id="142">Посуда для детей</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="57">Чашки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="221">Туристические души</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="145">Смарт-часы</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="15">Плойки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="76">Отпариватели</category>
-      <category id="114">Повербанки</category>
-      <category id="194">Менажницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="148">Туристические коврики</category>
-      <category id="132">Конфетницы</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="124">Решетки</category>
-      <category id="6">LED ленты</category>
-      <category id="96">Вакууматоры</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="262">Термосумки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="29">Салфетницы</category>
-      <category id="182">Блюда</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="292">Столовая посуда</category>
-      <category id="125">Мангалы</category>
-      <category id="187">Слайсеры</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="60">Мармиты</category>
-      <category id="61">Сковородки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="261">Терки</category>
-      <category id="149">Палатки</category>
-      <category id="90">Мясорубки</category>
-      <category id="71">Стиральные машинки</category>
       <category id="92">Кофеварки и кофемолки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="279">Зонты</category>
-      <category id="68">Тарелки</category>
+      <category id="57">Чашки</category>
+      <category id="89">Миксеры</category>
+      <category id="97">Весы кухонные</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="54">Стаканы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="284">Новогодний декор</category>
+      <category id="110">Наушники</category>
       <category id="260">Дождевики и пончо туристические</category>
       <category id="31">Часы настенные</category>
-      <category id="21">Электробритвы</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="16">Машинки для стрижки</category>
+      <category id="23">Фены</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="194">Менажницы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="184">Бульонницы</category>
+      <category id="122">Аксессуары</category>
+      <category id="67">Столовые приборы</category>
+      <category id="298">Брелки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="15">Плойки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="34">Подсвечники</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="186">Тостеры</category>
+      <category id="90">Мясорубки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="187">Слайсеры</category>
+      <category id="212">Мебель</category>
+      <category id="13">Триммеры</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="42">Термосы для детей</category>
       <category id="141">Салатницы</category>
-      <category id="91">Кухонные комбайны</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="14">Стайлеры</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="47">Наборы для специй</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="278">Косметички</category>
+      <category id="62">Ковши</category>
+      <category id="126">Ланч боксы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="20">Эпиляторы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="53">Кувшины</category>
+      <category id="29">Салфетницы</category>
+      <category id="118">Сумки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="60">Мармиты</category>
+      <category id="132">Конфетницы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="17">Воскоплавы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="81">Капучинаторы</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="103">Проекторы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="76">Отпариватели</category>
+      <category id="87">Соковыжималки</category>
       <category id="269">Подарочные пакеты</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="6">LED ленты</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="133">Масленки</category>
+      <category id="124">Решетки</category>
+      <category id="21">Электробритвы</category>
+      <category id="144">Вентиляторы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="72">Весы напольные</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="287">Банты на елку</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="224">Гамаки</category>
+      <category id="182">Блюда</category>
+      <category id="55">Рюмки</category>
+      <category id="265">Хозяйственные товары</category>
       <category id="219">Ручные массажеры для тела</category>
-      <category id="98">Блендеры</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="75">Утюги</category>
+      <category id="128">Органайзеры</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="56">Бокалы</category>
+      <category id="114">Повербанки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="68">Тарелки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="77">Пылесосы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="261">Терки</category>
+      <category id="166">Тортовницы</category>
+      <category id="140">Крышки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="125">Мангалы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="65">Креманки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="262">Термосумки</category>
+      <category id="221">Туристические души</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="61">Сковородки</category>
+      <category id="33">Пепельницы</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="285">Йогуртницы</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="111">Портативные колонки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="63">Кастрюли</category>
+      <category id="93">Электрочайники</category>
       <category id="49">Наборы кухонных ножей и лопаток</category>
       <category id="66">Сервизы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="193">Доски для подачи</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="53">Кувшины</category>
-      <category id="93">Электрочайники</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="77">Пылесосы</category>
-      <category id="166">Тортовницы</category>
-      <category id="186">Тостеры</category>
-      <category id="144">Вентиляторы</category>
+      <category id="283">Подносы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="98">Блендеры</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="149">Палатки</category>
       <category id="136">Дуршлаги</category>
-      <category id="287">Банты на елку</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="47">Наборы для специй</category>
-      <category id="224">Гамаки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="184">Бульонницы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="56">Бокалы</category>
-      <category id="55">Рюмки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="278">Косметички</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="54">Стаканы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="279">Зонты</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="300">Подушки для спины</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -41000,6 +41000,76 @@
         <param name="Высота (см)">53</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_HP1032_HP1032" available="true">
+        <name>Настольная мармитница 1.5 литра мармит прямоугольный фарфоровый 35х19х11.5 см для вторых блюд Мрамор HP1032</name>
+        <price>1409.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP1032_HP1032</vendorCode>
+        <description>Настольная мармитница прямоугольная на металлической подставке станет идеальным выбором для любого банкета или праздничного мероприятия. Металлическая подставка обеспечивает надежную поддержку мармита и удобство при подаче блюд. Мармит используется для поддержания температуры блюд, сохраняя их аромат. Основные характеристики мармита: Объем: 1.5 литра; Размер: 35х19х11.5 см; Материал: фарфор; Материал: крышки стекло; Материал: подставки металл. фарфоровый мармит является не только практичным, но и эстетически привлекательным выбором для любого стола, обеспечивая удобство и стиль во время сервировки блюд. Купить мармит фарфоровый можно с доставкой по всей Украине.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4058</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4058/nastolnaya_marmitnitsa_1_5_litra_marmit_pryamougolnyy_keramicheskiy_35h19h11_5_sm_dlya_vtoryh_blyud_mramor_5.png</picture>
+        <param name="Материал">Керамика</param>
+        <param name="Высота">11.5 см</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">2.16 кг</param>
+        <param name="Назначение">Для вторых блюд</param>
+        <param name="Источник питания">Сухое топливо</param>
+        <param name="Материал изготовления подставки">Нержавеющая сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">19 см</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1.5 л</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35 см</param>
+        <param name="Сфера использования">Для дома|Fast-food|Уличная торговля|Торговые магазины|HoReCa</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP1033_HP1033" available="true">
+        <name>Настольная мармитница 2 литра мармит прямоугольный фарфоровый 40х23х11 см для вторых блюд Мрамор HP1033</name>
+        <price>1719.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP1033_HP1033</vendorCode>
+        <description>Настольная мармитница прямоугольная на металлической подставке станет идеальным выбором для любого банкета или праздничного мероприятия. Металлическая подставка обеспечивает надежную поддержку мармита и удобство при подаче блюд. Мармит используется для поддержания температуры блюд, сохраняя их аромат. Основные характеристики мармита: Объем: 2 литра; Размер: 40х23х11 см; Материал: фарфор; Материал: крышки стекло; Материал: подставки металл. фарфоровый мармит является не только практичным, но и эстетически привлекательным выбором для любого стола, обеспечивая удобство и стиль во время сервировки блюд. Купить мармит фарфоровый можно с доставкой по всей Украине.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4060</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4060/nastolnaya_marmitnitsa_2_litra_marmit_pryamougolnyy_keramicheskiy_40h23h11_sm_dlya_vtoryh_blyud_mramor.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4060/nastolnaya_marmitnitsa_2_litra_marmit_pryamougolnyy_keramicheskiy_40h23h11_sm_dlya_vtoryh_blyud_mramor_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4060/nastolnaya_marmitnitsa_2_litra_marmit_pryamougolnyy_keramicheskiy_40h23h11_sm_dlya_vtoryh_blyud_mramor_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4060/nastolnaya_marmitnitsa_2_litra_marmit_pryamougolnyy_keramicheskiy_40h23h11_sm_dlya_vtoryh_blyud_mramor_3.png</picture>
+        <param name="Материал">Керамика</param>
+        <param name="Высота">11 см</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">3.1 кг</param>
+        <param name="Назначение">Для вторых блюд</param>
+        <param name="Источник питания">Сухое топливо</param>
+        <param name="Материал изготовления подставки">Керамика</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">23 см</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2 л</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40 см</param>
+        <param name="Сфера использования">Для дома|Fast-food|Уличная торговля|Торговые магазины|HoReCa</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-10-8_HP-10-8" available="true">
         <name>Ваза для цветов стеклянная 9.5х5х15.8 см прозрачная декоративная ваза 420 мл HP-10-8</name>
         <price>839.0</price>
@@ -50069,29 +50139,6 @@
         <param name="Материал рабочей части">Нержавеющая сталь</param>
         <param name="Цвет">Серый</param>
         <param name="Длина">230</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Материал ручек">Нержавеющая сталь</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-8-66_HP-8-66" available="true">
-        <name>Щипцы кухонные металлические 34×4.5 (см) кулинарные щипцы для мяса, рыбы, гриля поварские щипцы HP-8-66</name>
-        <price>199.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>49</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-8-66_HP-8-66</vendorCode>
-        <description>Универсальные кухонные щипцы &amp;mdash; практичный и многофункциональный аксессуар, который пригодится на любой кухне. Они идеально подходят как для процесса приготовления пищи, так и для аккуратной подачи готовых блюд. Благодаря зубчатым краям на "губках", щипцы обеспечивают надёжный захват продуктов, что особенно удобно при переворачивании мяса, рыбы, овощей, птицы или морепродуктов на сковороде, в духовке или на гриле. Эти щипцы для кухни также отлично подходят для профессионального использования &amp;mdash; в ресторанах, кафе, при кейтеринговом обслуживании и на фуршетах. С их помощью можно элегантно подавать салаты, гарниры, мясные и рыбные закуски, пироги, булочки, горячие и холодные блюда в формате "шведского стола". Основные характеристики кухонных щипцов: Размер: 34&amp;times;4.5 см; Материал: щипцов нержавеющая сталь; Материал ручки: нержавеющая сталь, силикон. Изделие изготовлено из прочной нержавеющей стали, что обеспечивает его долговечность и устойчивость к коррозии. Ручки покрыты силиконовым слоем, который не скользит и защищает от ожогов. Оптимальная длина щипцов позволяет работать с горячими продуктами на безопасном расстоянии, а петля на конце ручки позволяет удобно хранить аксессуар в подвешенном состоянии. Щипцы легко моются, не впитывают запахи и не требуют особого ухода. Этот простой, но эффективный инструмент станет незаменимым помощником как в повседневной кулинарии, так и на праздничном столе.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4541</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_3.jpg</picture>
-        <param name="Назначение">Универсальный</param>
-        <param name="Ширина">45</param>
-        <param name="Материал рабочей части">Нержавеющая сталь</param>
-        <param name="Цвет">Серебристый</param>
-        <param name="Длина">340</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Материал ручек">Нержавеющая сталь</param>
         <param name="Гарантия">14 дней</param>
@@ -75681,6 +75728,30 @@
         <param name="Тип формы">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_WX918-44_WX918-44" available="true">
+        <name>Менажница фарфоровая на 5 секций для закусок тарелка менажница 30×30×13 (см) менажница с ручкой Белый с золотом WX918-44</name>
+        <price>709.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>194</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_WX918-44_WX918-44</vendorCode>
+        <description>Эта изысканная менажница в форме цветка создана для эффектной подачи закусок, фруктов, орешков или сладостей. Белоснежный фарфор с золотым декором и ручка с кристаллом придают ей благородный и праздничный вид. Благодаря разделению на секции, вы сможете красиво разместить разные угощения в одной посуде. Менажница станет украшением любого стола и отличным подарком для ценителей стильной сервировки. Основные характеристики менажницы на 5 секций: Размер: 30&amp;times;30&amp;times;13 см; Количество секций: 5 шт; Объем секции: 100 мл; Материал: фарфор. Преимущества фарфоровой менажницы: Элегантный дизайн с позолотой; Удобное разделение на секции; Подходит для праздничной и повседневной сервировки; Отличный подарок и стильный элемент интерьера. Менажница из фарфора выглядит элегантно и подойдёт как для повседневного стола, так и для праздничных случаев. Прочная, устойчивая к высоким температурам и легко моющаяся &amp;mdash; она станет незаменимым элементом вашей посуды.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5987</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5987/menazhnitsa_farforovaya_na_5_sektsiy_dlya_zakusok_tarelka_menazhnitsa_30_30_13_sm_menazhnitsa_s_ruchkoy_belyy_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5987/menazhnitsa_farforovaya_na_5_sektsiy_dlya_zakusok_tarelka_menazhnitsa_30_30_13_sm_menazhnitsa_s_ruchkoy_belyy_s_zolotom_1.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">130</param>
+        <param name="Количество секций">5</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Ширина">300</param>
+        <param name="Хранение в морозильной камере">Нет</param>
+        <param name="Цвет">Золотистый</param>
+        <param name="Длина">300</param>
+        <param name="Тематика декора, рисунка">Растения, цветы</param>
+        <param name="Форма">Фигурная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_ML6047_ML6047" available="true">
         <name>Фарфоровое блюдо для сервировки стола в форме листа 31×20×3 (см) Серебро ML6047</name>
         <price>479.0</price>
@@ -75734,6 +75805,31 @@
         <param name="Длина">410</param>
         <param name="Многоуровневая">Нет</param>
         <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Фигурная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_WH045_WH045" available="true">
+        <name>Фарфоровое блюдо для сервировки стола в форме листа 35×18.5×5 (см) блюдо для подачи закусок Золото WH045</name>
+        <price>519.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_WH045_WH045</vendorCode>
+        <description>Фарфоровое сервировочное блюдо в форме листа &amp;mdash; это изящное решение для красивой подачи закусок, десертов и основных блюд. Белоснежная поверхность с волнистым краем и золотистой окантовкой придает сервировке утончённость и гармонично вписывается в любой интерьер кухни или праздничного стола. Основные характеристики блюда для сервировки стола: Материал: фарфор; Размер: 35&amp;times;18.5&amp;times;5 см. Особенности фарфорового блюда: Удобное для подачи фруктов, овощей, салатов или сладостей. Форма листа делает сервировку оригинальной и декоративной. Фарфор устойчив к ежедневному использованию, легко моется и сохраняет безупречный вид. Подходит как для повседневного применения, так и для праздничных застолий. Такое сервировочное блюдо станет не только практичным помощником на кухне, но и стильным украшением вашего стола. Он подчеркнет вкус приготовленных угощений и добавит изюминку в атмосферу любого приема пищи &amp;mdash; от семейного ужина до праздничного банкета.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5990</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5990/farforovoe_blyudo_dlya_servirovki_stola_v_forme_lista_35_18_5_5_sm_blyudo_dlya_podachi_zakusok_zoloto_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">50</param>
+        <param name="Ширина">185</param>
+        <param name="Цвет">Золотистый</param>
+        <param name="Длина">350</param>
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -76170,6 +76266,30 @@
         <param name="Чашка чайная">4</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_MD-24-2G_MD-24-2G" available="true">
+        <name>Столовый набор посуды тарелок и чашек 24 предметов на 6 персон Marmor фарфоровый MD-24-2G</name>
+        <price>2759.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>156</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_MD-24-2G_MD-24-2G</vendorCode>
+        <description>Фарфоровый столовый сервиз Marmor и 24 предметов на 6 персон &amp;mdash; удобное и стильное решение как для повседневных обедов, так и для праздничной сервировки. Изготовленный из высококачественного фарфора, он обладает гладкой поверхностью, устойчивой к царапинам и перепадам температур, а мраморный узор придаёт современный и элегантный вид. В комплект входят обеденные, десертные и глубокие тарелки, а также чашки для напитков &amp;mdash; всё необходимое для комфортного обеда или ужина на четверых. Фарфор удерживает тепло, не впитывает запахи и легко моется, что делает использование сервиза удобным и практичным. Основные характеристики столового сервиза из фарфора: Материал: фарфор; Количество предметов: 24; Количество персон: 6; Диаметр тарелок: 27 см, 19 см; Диаметр мисок 14 см; Диаметр чашек: 8.5 см; Объем мисок: 700 мл; Объем чашек: 350 мл; Назначение: для подачи основных блюд, десертов и напитков. Основные преимущества сервиза Универсальность: подходит как для повседневного использования, так и для праздничных застолий. Долговечность: фарфор &amp;ndash; это прочный и износостойкий материал, который прослужит вам долгие годы. Эстетичность: набор станет украшением вашего стола. Безопасность: фарфор не содержит вредных веществ и безопасна для здоровья. Легкость в уходе: набор можно мыть в посудомоечной машине. Этот фарфоровый сервиз станет практичным и элегантным дополнением любого стола, подходящим как для повседневных обедов, так и для праздничных ужинов. Он также отлично подходит в качестве стильного и полезного подарка.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6011</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/Bez-nazvi-1-600x600.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество персон">6</param>
+        <param name="Количество предметов">24</param>
+        <param name="Использование в микроволновке">Да</param>
+        <param name="Тарелка обеденная">6</param>
+        <param name="Тарелка десертная">6</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тарелка суповая">6</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Чашка чайная">6</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_MD-16-3B_MD-16-3B" available="true">
         <name>Столовый набор посуды тарелок и чашек 16 предметов на 4 персоны Marble Clara фарфоровый Синий MD-16-3B</name>
         <price>2089.0</price>
@@ -76227,6 +76347,61 @@
         <param name="Тарелка суповая">6</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Чашка чайная">6</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_C251_C251" available="true">
+        <name>Фруктовница на 2 яруса фуршетная 35×25×26 (см) Белая с золотом C251</name>
+        <price>1349.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_C251_C251</vendorCode>
+        <description>Двухъярусная фруктовница предназначена для сервировки и удобной подачи фруктов, сладостей или закусок. Она состоит из двух фарфоровых тарелок белого цвета, расположенных на разных уровнях. Такая конструкция позволяет разместить большее количество продуктов, экономя место на столе. Металлическая подставка золотистого цвета обеспечивает устойчивость фруктовницы и придает изысканный вид. Между ярусами есть достаточное пространство для удобного размещения фруктов среднего и большого размера. Гладкая поверхность тарелок легко моется и устойчива к царапинам, что делает практичным в повседневной жизни и на праздничном столе. Основные характеристики фруктовницы: Размер: 35&amp;times;25&amp;times;26 см; Материал: фарфор; Материал подставки: металл; Диаметр: 20 см, 25 см; Объем: 1 л. Благодаря продуманному дизайну фруктовница подходит как для домашнего использования, так и для сервировки во время приемов или банкетов. Она сочетает эстетичность и функциональность, обеспечивая эффектную подачу блюд.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6014</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6014/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_35_25_26_sm_konfetnitsa_belaya_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6014/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_35_25_26_sm_konfetnitsa_belaya_s_zolotom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6014/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_35_25_26_sm_konfetnitsa_belaya_s_zolotom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6014/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_35_25_26_sm_konfetnitsa_belaya_s_zolotom_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">26</param>
+        <param name="Крышка">Нет</param>
+        <param name="Ширина">25</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">35</param>
+        <param name="Тематика декора, рисунка">Растения, цветы</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Тип посуды">Фруктовница</param>
+        <param name="Состояние">Новое</param>
+        <param name="Форма">Фигурная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_C252_C252" available="true">
+        <name>Фруктовница на 3 яруса фуршетная 36×22×33 (см) Белая с золотом C252</name>
+        <price>2129.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_C252_C252</vendorCode>
+        <description>Трехъярусная фруктовница предназначена для сервировки и удобной подачи фруктов, сладостей или закусок. Она состоит из трех фарфоровых тарелок белого цвета, расположенных на разных уровнях. Такая конструкция позволяет разместить большее количество продуктов, экономя место на столе. Металлическая подставка золотистого цвета обеспечивает устойчивость фруктовницы и придает изысканный вид. Между ярусами есть достаточное пространство для удобного размещения фруктов среднего и большого размера. Основные характеристики фруктовницы: Размер: 36&amp;times;22&amp;times;33 см; Материал: фарфор; Материал подставки: металл; Диаметр: 20 см; Объем: 500 мл. Благодаря продуманному дизайну фруктовница подходит как для домашнего использования, так и для сервировки во время приемов или банкетов. Она сочетает эстетичность и функциональность, обеспечивая эффектную подачу блюд.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6015</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6015/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_36_22_33_sm_konfetnitsa_belaya_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6015/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_36_22_33_sm_konfetnitsa_belaya_s_zolotom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6015/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_36_22_33_sm_konfetnitsa_belaya_s_zolotom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6015/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_36_22_33_sm_konfetnitsa_belaya_s_zolotom_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6015/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_36_22_33_sm_konfetnitsa_belaya_s_zolotom_4.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">33</param>
+        <param name="Крышка">Нет</param>
+        <param name="Ширина">22</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">36</param>
+        <param name="Тематика декора, рисунка">Растения, цветы</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Тип посуды">Фруктовница</param>
+        <param name="Состояние">Новое</param>
+        <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_XYL216-4A_XYL216-4A" available="true">
@@ -76656,6 +76831,82 @@
         <param name="Длина">33</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Форма">Круглая</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_SPW-16_SPW-16" available="true">
+        <name>Суповой сервиз на 6 персон супница 3 (л) с бульонницами 300 (мл) тарелки для супа SPW-16</name>
+        <price>2449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>156</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SPW-16_SPW-16</vendorCode>
+        <description>Суповой сервиз из высококачественного фарфора станет украшением любого стола и придаст сервировке нотку изысканности. Элегантное сочетание белого цвета с золотым акцентом делает набор особенно праздничным и современным. В комплект входит супница с крышкой и шесть суповых тарелок, на прочной металлической подставке с золотым покрытием. Благодаря удобной форме и продуманному дизайну сервиз не только красив, но и практичен в использовании. Основные характеристики супового сервиза: Материал: фарфор; Объем супницы: 3 литра; Объем тарелок: 300 мл; Диаметр супницы: 24 см; Диаметр тарелок: 11.5 см; Высота супницы: 18 см. Диаметр тарелок: 5 см. Такой набор прекрасно подойдет для семейных обедов, праздничных ужинов или торжественных мероприятий. Он станет отличным подарком на свадьбу, новоселье или юбилей, подчеркивая вкус и внимание к деталям хозяев дома.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6032</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6032/supovoy_serviz_na_6_person_supnitsa_3_l_s_bulonnitsami_300_ml_tarelki_dlya_supa_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Диаметр">24</param>
+        <param name="Использование в микроволновке">Нет</param>
+        <param name="Наличие половника">Нет</param>
+        <param name="Объем">3</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Высота с крышкой">18</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тематика декора, рисунка">Растения, цветы</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Форма">Круглая</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_YZH-009_YZH-009" available="true">
+        <name>Фруктовница на 3 яруса фуршетная стойка для закусок 29×25×20 (см) конфетница Белый с золотом YZH-009</name>
+        <price>2519.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_YZH-009_YZH-009</vendorCode>
+        <description>Элегантная трёхъярусная фруктовница станет стильным акцентом на вашем столе. Каждый ярус предназначен для удобного размещения фруктов, десертов или закусок. Тарелки выполнены из качественного фарфора с волнистыми краями и изящной золотой окантовкой, придающей изделию утончённый вид. Надёжная металлическая подставка с ручкой сверху позволяет легко переносить фруктовницу, а четыре устойчивые ножки гарантируют безопасное размещение на столе. Основные характеристики трехярусной фруктовницы: Размер: 35&amp;times;30&amp;times;45 см; Материал: фарфор; Материал подставки: металл; Диаметр: 30, 26, 21 см. Благодаря продуманному дизайну фруктовница подходит как для домашнего использования, так и для сервировки во время приемов или банкетов. Она сочетает эстетичность и функциональность, обеспечивая эффектную подачу блюд.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6033</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6033/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_29_25_20_sm_konfetnitsa_belyy_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6033/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_29_25_20_sm_konfetnitsa_belyy_s_zolotom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6033/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_29_25_20_sm_konfetnitsa_belyy_s_zolotom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6033/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_29_25_20_sm_konfetnitsa_belyy_s_zolotom_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6033/fruktovnitsa_na_3_yarusa_furshetnaya_stoyka_dlya_zakusok_29_25_20_sm_konfetnitsa_belyy_s_zolotom_4.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">450</param>
+        <param name="Ширина">300</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">350</param>
+        <param name="Форма">Круглая</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_2558-1_2558-1" available="true">
+        <name>Фруктовница на 2 яруса фуршетная стойка для закусок 31×23×25 (см) конфетница Белая с золотом 2558-1</name>
+        <price>1419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_2558-1_2558-1</vendorCode>
+        <description>Двухъярусная фруктовница предназначена для сервировки и удобной подачи фруктов, сладостей или закусок. Она состоит из двух фарфоровых тарелок белого цвета с изящным золотистым ободком, расположенных на разных уровнях. Такая конструкция позволяет разместить большее количество продуктов, экономя место на столе. Металлическая подставка золотистого цвета обеспечивает устойчивость фруктовницы и придает изысканный вид. Между ярусами есть достаточное пространство для удобного размещения фруктов среднего и большого размера. Гладкая поверхность тарелок легко моется и устойчива к царапинам, что делает практичным в повседневной жизни и на праздничном столе. Основные характеристики фруктовницы: Размер: 31&amp;times;23&amp;times;25 см; Материал: фарфор; Материал подставки: металл; Диаметр: 16, 23 см; Висота ножки: 20 см; Объем: 0.5, 1.5 л. Благодаря продуманному дизайну фруктовница подходит как для домашнего использования, так и для сервировки во время приемов или банкетов. Она сочетает эстетичность и функциональность, обеспечивая эффектную подачу блюд.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6034</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6034/fruktovnitsa_na_2_yarusa_furshetnaya_stoyka_dlya_zakusok_31_23_25_sm_konfetnitsa_belaya_s_zolotom_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">250</param>
+        <param name="Ширина">230</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">310</param>
+        <param name="Форма">Квадратная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_2561-1AS_2561-1AS" available="true">
@@ -82096,6 +82347,63 @@
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_MD-16_MD-16" available="true">
+        <name>Столовый набор посуды тарелок и чашек 24 предмета на 6 персон "Изумруд" фарфоровый MD-16</name>
+        <price>3689.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>66</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_MD-16_MD-16</vendorCode>
+        <description>Эталон современной классики на вашем столе! Этот белоснежный сервиз сочетает в себе чистоту цвета, фактурность формы и изысканность деталей. Дизайн и особенности: Посуда выполнена из качественной белой керамики с рельефной внешней поверхностью в полоску, что придает ему объем и стиль. Главное украшение &amp;ndash; контрастный ободок золотисто-черного цвета. Этот деликатный акцент подчеркивает форму посуды и придает сервизу торжественный, но при этом сдержанный вид, который подойдет к любому интерьеру. Идеальная комплектация (24 предмета): набор рассчитан на 6 персон и включает в себя все необходимое для современной сервировки (актуальные глубокие пиалы вместо устаревших суповых тарелок): Обедные тарелки (&amp;Oslash; 27 см): Большие и удобные для подачи основных блюд. Десертные тарелки (&amp;Oslash; 19 см): Универсальные тарелки для закусок, салатов или десертов. Глубокие пиалы/Боулы (&amp;Oslash; 14 см, 700 мл): Современный тренд сервировки. Идеальны для первых блюд, бульонов, утренних каш или салатов. Объем 700 мл позволяет подать полноценную порцию. Чашки (350 мл): удобные кружки для чая или кофе, идеально дополняющие комплект. Основные характеристики столового сервиза из фарфора: Тип: Столовый сервиз Количество персон: 6 Количество предметов: 24 Материал: фарфор Цвет: Белый с золотисто-черным ободком Фактура: Рельефная (полоска) 6 x Тарелка обеденная (&amp;Oslash; 27 см) 6 x Тарелка десертная (&amp;Oslash; 19 см) 6 x Пиала глубокая (&amp;Oslash; 14 см, объем 700 мл) 6 x Чашка (&amp;Oslash; 9 см, объем 350 мл) Вес набора: 11.8 кг Этот набор &amp;ndash; универсальное решение: он достаточно элегантный для праздничного ужина и достаточно практичный для ежедневного использования.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6377</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6377/stolovyy_nabor_posudy_tarelok_i_chashek_24_predmeta_na_6_person_izumrud_farforovyy_obedennyy_stolovyy_serviz_tarelok_i_chashek_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество персон">6</param>
+        <param name="Количество предметов">24</param>
+        <param name="Использование в микроволновке">Да</param>
+        <param name="Тарелка обеденная">6</param>
+        <param name="Тарелка десертная">6</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тарелка суповая">6</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Чашка чайная">6</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_YL-75_YL-75" available="true">
+        <name>Мармит фарфоровый настольный овальный 2 л на подставке YL-75</name>
+        <price>1839.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_YL-75_YL-75</vendorCode>
+        <description>Представляем изысканный мармит, который создан для "вау-эффекта" на вашем праздничном столе. Это идеальное решение для подачи горячих блюд, сочетающее в себе элегантность и практичность. Конструкция состоит из трех частей: Керамическая чаша: Глубокая, овальная чаша из белой керамики, в которой блюдо смотрится особенно аппетитно. Стеклянная крышка: Прозрачная крышка из стекла позволяет гостям видеть содержимое, сохраняя при этом тепло и аромат. Металлическая подставка: Элегантная подставка из металла золотого цвета не только поднимает блюдо над столом, но и, вероятно, имеет место для свечи-таблетки (не входит в комплект), чтобы поддерживать температуру блюда в течение всего вечера. Характеристики мармита: Тип: Мармит (блюдо для подогрева); Материал мармита (чаши): фарфор; Материал крышки: Стекло; Материал подставки: Металл; Габариты чаши (ДхШхВ): 28 x 23.5 x 7 см; Вес: 3 кг; Объем: 2 л. Этот мармит идеально подходит для подачи жульена, рагу, запеканок или любых других горячих закусок, превращая обычный ужин в торжественный банкет.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6379</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6379/marmit_farforovyy_nastolnyy_ovalnyy_2_l_marmit_na_podstavke_marmitnitsa.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6379/marmit_farforovyy_nastolnyy_ovalnyy_2_l_marmit_na_podstavke_marmitnitsa_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6379/marmit_farforovyy_nastolnyy_ovalnyy_2_l_marmit_na_podstavke_marmitnitsa_2.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">3</param>
+        <param name="Материал изготовления подставки">Сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">23.5</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">28</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Овальная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_YY78-3A_YY78-3A" available="true">
         <name>Столовый набор посуды тарелок и чашек 32 предмета на 6 персон "Бордовый Меандр" фарфоровый YY78-3A</name>
         <price>10169.0</price>
@@ -82279,6 +82587,26 @@
         <param name="Назначение формы">Для пасхи/кулича|Для лазаньи|Для круассанов|Для пирога|Для сэндвичей/бутербродов|Для кексов/маффинов|Для бисквита|Для кекса|Для печенья|Для птицы|Для мяса|Для хлеба|Для пиццы|Для рыбы</param>
         <param name="Состояние">Новое</param>
         <param name="Тип формы">Овальная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_LB-1570G_LB-1570G" available="true">
+        <name>Фруктовница фарфоровая на металлической подставке Ø20 (см) круглая Золото LB-1570G</name>
+        <price>849.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_LB-1570G_LB-1570G</vendorCode>
+        <description>Фарфоровая фруктовница на металлической подставке станет стильным украшением стола и удобным решением для подачи фруктов, сладостей или выпечки. Её изысканный дизайн придаст сервировке утончённость и гармонию, идеально вписываясь как в повседневную обстановку, так и в праздничный интерьер. Основные характеристики фруктовницы: Материал: фарфор, металл; Диаметр: 20 см; Высота: 9 см; Высота без подставки: 3 см; Объем: 250 мл. Особенности: не впитывает запахи и устойчива к царапинам; легко очищается и сохраняет блеск даже при регулярном использовании; металлическая подставка обеспечивает устойчивость и добавляет изящества; универсальна &amp;mdash; подходит для подачи фруктов, десертов, кондитерских изделий и закусок; сочетает практичность и декоративность, подчёркивая вкус и стиль Такая фруктовница станет практичным и эстетичным элементом сервировки, подходящим для дома, кафе или ресторана. Она подчеркнёт вкус хозяйки и создаст атмосферу уюта и изящества за столом.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6389</url>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">9</param>
+        <param name="Диаметр">20</param>
+        <param name="Крышка">Нет</param>
+        <param name="Цвет">Золотистый</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-146GOLD_HP-19-146GOLD" available="true">
