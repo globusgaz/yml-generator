@@ -1,174 +1,174 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-31 23:54">
+<yml_catalog date="2026-04-01 03:14">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="77">Пылесосы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="87">Соковыжималки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="60">Мармиты</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="53">Кувшины</category>
-      <category id="23">Фены</category>
-      <category id="126">Ланч боксы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="271">Товары для уборки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="68">Тарелки</category>
-      <category id="55">Рюмки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="124">Решетки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="15">Плойки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="89">Миксеры</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="128">Органайзеры</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="17">Воскоплавы</category>
-      <category id="31">Часы настенные</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="13">Триммеры</category>
-      <category id="47">Наборы для специй</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="300">Подушки для спины</category>
-      <category id="149">Палатки</category>
-      <category id="56">Бокалы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="43">Бутылки для воды</category>
+      <category id="45">Коктейльные наборы для бара</category>
       <category id="12">Косметические зеркала</category>
-      <category id="278">Косметички</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="184">Бульонницы</category>
-      <category id="42">Термосы для детей</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="221">Туристические души</category>
       <category id="141">Салатницы</category>
-      <category id="6">LED ленты</category>
+      <category id="294">Новогодние елки</category>
+      <category id="34">Подсвечники</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="57">Чашки</category>
+      <category id="184">Бульонницы</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="63">Кастрюли</category>
       <category id="144">Вентиляторы</category>
-      <category id="118">Сумки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="261">Терки</category>
-      <category id="287">Банты на елку</category>
-      <category id="73">Наборы для груминга</category>
+      <category id="121">Туристические обогреватели</category>
       <category id="76">Отпариватели</category>
-      <category id="103">Проекторы</category>
-      <category id="33">Пепельницы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="145">Смарт-часы</category>
       <category id="96">Вакууматоры</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="142">Посуда для детей</category>
+      <category id="124">Решетки</category>
+      <category id="261">Терки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="17">Воскоплавы</category>
+      <category id="72">Весы напольные</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="182">Блюда</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="6">LED ленты</category>
+      <category id="93">Электрочайники</category>
+      <category id="126">Ланч боксы</category>
+      <category id="77">Пылесосы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="54">Стаканы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="221">Туристические души</category>
+      <category id="13">Триммеры</category>
+      <category id="298">Брелки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="136">Дуршлаги</category>
+      <category id="23">Фены</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="53">Кувшины</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="122">Аксессуары</category>
+      <category id="75">Утюги</category>
+      <category id="14">Стайлеры</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="88">Мультиварки и скороварки</category>
       <category id="125">Мангалы</category>
+      <category id="31">Часы настенные</category>
+      <category id="65">Креманки</category>
       <category id="5">Комнатные гирлянды</category>
-      <category id="150">Спальные мешки</category>
-      <category id="194">Менажницы</category>
-      <category id="21">Электробритвы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="66">Сервизы</category>
+      <category id="278">Косметички</category>
+      <category id="29">Салфетницы</category>
+      <category id="98">Блендеры</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="316">Туристические плиты</category>
+      <category id="304">Аккумуляторные пылесосы</category>
       <category id="133">Масленки</category>
+      <category id="89">Миксеры</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="300">Подушки для спины</category>
+      <category id="42">Термосы для детей</category>
+      <category id="148">Туристические коврики</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="224">Гамаки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="187">Слайсеры</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="60">Мармиты</category>
+      <category id="103">Проекторы</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="299">Подушки для путишествий</category>
       <category id="80">Духовые шкафы и электропечи</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="128">Органайзеры</category>
+      <category id="118">Сумки</category>
+      <category id="166">Тортовницы</category>
+      <category id="21">Электробритвы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="55">Рюмки</category>
+      <category id="262">Термосумки</category>
+      <category id="149">Палатки</category>
+      <category id="132">Конфетницы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="33">Пепельницы</category>
+      <category id="279">Зонты</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="292">Столовая посуда</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="97">Весы кухонные</category>
+      <category id="150">Спальные мешки</category>
+      <category id="212">Мебель</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="81">Капучинаторы</category>
+      <category id="194">Менажницы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="90">Мясорубки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="287">Банты на елку</category>
+      <category id="56">Бокалы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="114">Повербанки</category>
+      <category id="15">Плойки</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="140">Крышки</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="87">Соковыжималки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="68">Тарелки</category>
+      <category id="193">Доски для подачи</category>
       <category id="61">Сковородки</category>
       <category id="284">Новогодний декор</category>
-      <category id="114">Повербанки</category>
-      <category id="132">Конфетницы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="93">Электрочайники</category>
-      <category id="224">Гамаки</category>
-      <category id="298">Брелки</category>
+      <category id="20">Эпиляторы</category>
       <category id="274">Корзины для белья и игрушек</category>
-      <category id="304">Аккумуляторные пылесосы</category>
       <category id="283">Подносы</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="193">Доски для подачи</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="136">Дуршлаги</category>
-      <category id="187">Слайсеры</category>
-      <category id="316">Туристические плиты</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="14">Стайлеры</category>
-      <category id="262">Термосумки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="166">Тортовницы</category>
-      <category id="34">Подсвечники</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="52">Лимонадницы</category>
-      <category id="98">Блендеры</category>
-      <category id="59">Все для выпечки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="182">Блюда</category>
-      <category id="186">Тостеры</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="90">Мясорубки</category>
-      <category id="29">Салфетницы</category>
-      <category id="196">Сетки и корзины для фри</category>
       <category id="62">Ковши</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="111">Портативные колонки</category>
-      <category id="63">Кастрюли</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="122">Аксессуары</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="145">Смарт-часы</category>
       <category id="110">Наушники</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="54">Стаканы</category>
-      <category id="66">Сервизы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="65">Креманки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="75">Утюги</category>
-      <category id="67">Столовые приборы</category>
-      <category id="57">Чашки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="212">Мебель</category>
-      <category id="279">Зонты</category>
-      <category id="140">Крышки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="72">Весы напольные</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="74">Машинки для удаления катышек</category>
+      <category id="186">Тостеры</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
         <name>Ремешок для смарт часов Apple Watch ремешки для фитнес часов Зеленый UR160GR</name>
-        <price>78.0</price>
+        <price>129.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>145</categoryId>
@@ -190,7 +190,7 @@
       </offer>
       <offer id="f11_1875882218_UR160O" available="true">
         <name>Ремешок для смарт часов Apple Watch ремешки для фитнес часов Оранжевый UR160O</name>
-        <price>78.0</price>
+        <price>129.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>145</categoryId>
@@ -211,7 +211,7 @@
       </offer>
       <offer id="f11_1875882219_UR160W" available="true">
         <name>Ремешок для смарт часов Apple Watch ремешки для фитнес часов Белый UR160W</name>
-        <price>78.0</price>
+        <price>129.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>145</categoryId>
@@ -233,7 +233,7 @@
       </offer>
       <offer id="f11_1876360129_SAP2P" available="true">
         <name>Наушники беспроводные TWS SmartX Pro 2 Premium Bluetooth наушники с микрофоном SAP2P</name>
-        <price>828.0</price>
+        <price>1379.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>110</categoryId>
@@ -267,7 +267,7 @@
       </offer>
       <offer id="f11_1876411682_SAP2L" available="true">
         <name>Беспроводные наушники с микрофоном наушники с шумоподавлением bluetooth гарнитура SAP2L</name>
-        <price>720.0</price>
+        <price>1199.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>110</categoryId>
@@ -301,7 +301,7 @@
       </offer>
       <offer id="f11_1877125331_8893AB" available="true">
         <name>Портативная мини колонка с подсветкой Черный 8893AB</name>
-        <price>558.0</price>
+        <price>929.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>111</categoryId>
@@ -331,7 +331,7 @@
       </offer>
       <offer id="f11_1877125333_8893AW" available="true">
         <name>Портативная мини колонка с подсветкой Белый 8893AW</name>
-        <price>558.0</price>
+        <price>929.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>111</categoryId>
@@ -361,7 +361,7 @@
       </offer>
       <offer id="f11_1877478423_PULSE5W" available="true">
         <name>Портативная колонка 8 Вт с подсветкой и USB Белый PULSE5W</name>
-        <price>906.0</price>
+        <price>1509.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>111</categoryId>
@@ -419,7 +419,7 @@
       </offer>
       <offer id="f11_1888999716_SKYD2130B" available="true">
         <name>Отпариватель ручной Sokany SKYD2130B 1600 Вт</name>
-        <price>1479.0</price>
+        <price>1739.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>76</categoryId>
@@ -508,7 +508,7 @@
       </offer>
       <offer id="f11_1889805947_SK1729BST" available="true">
         <name>Блендер ручной погружной из нержавейки Sokany универсальный металлический 800 Вт смузи мейкер мощный SK1729BST</name>
-        <price>1256.0</price>
+        <price>1569.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>98</categoryId>
@@ -557,7 +557,7 @@
       </offer>
       <offer id="f11_1889943858_SK117GR" available="true">
         <name>Воскоплав SOKANY баночный с терморегулятором 500 мл зеленый SK117GR</name>
-        <price>294.0</price>
+        <price>489.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>17</categoryId>
@@ -581,7 +581,7 @@
       </offer>
       <offer id="f11_1889943859_SK117NB" available="true">
         <name>Воскоплав SOKANY баночный с терморегулятором 500 мл синий SK117NB</name>
-        <price>294.0</price>
+        <price>489.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>17</categoryId>
@@ -605,7 +605,7 @@
       </offer>
       <offer id="f11_1890725887_SK6631W" available="true">
         <name>Миксер ручной Sokany с двумя насадками 400Вт SK6631W</name>
-        <price>824.0</price>
+        <price>969.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>89</categoryId>
@@ -630,7 +630,7 @@
       </offer>
       <offer id="f11_1890865077_SK201AW" available="true">
         <name>Капучинатор для молока Sokany белый SK201AW</name>
-        <price>344.0</price>
+        <price>429.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>81</categoryId>
@@ -657,7 +657,7 @@
       </offer>
       <offer id="f11_1891189974_SK1772B" available="true">
         <name>Капучинатор Sokany аккумуляторный черный SK1772B</name>
-        <price>312.0</price>
+        <price>389.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>81</categoryId>
@@ -816,7 +816,7 @@
       </offer>
       <offer id="f11_1934842529_DW12P" available="true">
         <name>Портативная мини-колонка 5 Вт Розовый DW12P</name>
-        <price>490.0</price>
+        <price>699.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>111</categoryId>
@@ -870,7 +870,7 @@
       </offer>
       <offer id="f11_1935414030_SK1772W" available="true">
         <name>Капучинатор Sokany аккумуляторный Белый SK1772W</name>
-        <price>312.0</price>
+        <price>389.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>81</categoryId>
@@ -896,7 +896,7 @@
       </offer>
       <offer id="f11_SKDD1722O_SKDD1722O" available="true">
         <name>Ручной блендер Sokany погружной 300 Вт Оранжевый SKDD1722O</name>
-        <price>697.0</price>
+        <price>819.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>98</categoryId>
@@ -957,7 +957,7 @@
       </offer>
       <offer id="f11_1936690094_HJT008SBST" available="true">
         <name>Тостер Sokany HJT008SBST с двумя отделениями 800 Вт</name>
-        <price>1304.0</price>
+        <price>1629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>186</categoryId>
@@ -2038,7 +2038,7 @@
       </offer>
       <offer id="f11_2017989785_SKLF9970" available="true">
         <name>Машинка для стрижки волос Sokany аккумуляторная с 8 насадками Желтый SKLF9970</name>
-        <price>1464.0</price>
+        <price>1829.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>16</categoryId>
@@ -2252,7 +2252,7 @@
       </offer>
       <offer id="f11_2019248684_JE204" available="true">
         <name>Фен стайлер для волос 2 в 1 Sokany JE204 1000 Вт</name>
-        <price>1026.0</price>
+        <price>1139.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>14</categoryId>
@@ -2693,7 +2693,7 @@
       </offer>
       <offer id="f11_2026508216_HP7881S" available="true">
         <name>Набор столовых приборов на 6 персон 24 шт с подставкой 29 х 19.5 см серебро HP7881S</name>
-        <price>1302.0</price>
+        <price>2169.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>67</categoryId>
@@ -2721,7 +2721,7 @@
       </offer>
       <offer id="f11_2030884086_HPGM80120500PE" available="true">
         <name>Термос с поилкой из нержавейки 350 мл Пудровый HPGM80120500PE</name>
-        <price>441.0</price>
+        <price>629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>41</categoryId>
@@ -2877,7 +2877,7 @@
       </offer>
       <offer id="f11_2033067180_HPLN1" available="true">
         <name>Мусорное ведро складное с сенсорной крышкой от 8 л до 17.5 л серый HPLN1</name>
-        <price>729.0</price>
+        <price>809.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>26</categoryId>
@@ -2902,7 +2902,7 @@
       </offer>
       <offer id="f11_2033122300_HPLN2" available="true">
         <name>Мусорное ведро складное с сенсорной крышкой от 8 л до 17.5 л Розовый HPLN2</name>
-        <price>729.0</price>
+        <price>809.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>26</categoryId>
@@ -2925,7 +2925,7 @@
       </offer>
       <offer id="f11_2033122301_HPLN3" available="true">
         <name>Мусорное ведро складное с сенсорной крышкой от 8 л до 17.5 л Синий HPLN3</name>
-        <price>729.0</price>
+        <price>809.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>26</categoryId>
@@ -2949,7 +2949,7 @@
       </offer>
       <offer id="f11_2033320863_HP641" available="true">
         <name>Тарелка глубокая круглая из фарфора 11.5 см синий HP641</name>
-        <price>204.0</price>
+        <price>339.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -2971,7 +2971,7 @@
       </offer>
       <offer id="f11_2033772367_HP637" available="true">
         <name>Тарелка глубокая круглая из фарфора 11.5 см белый HP637</name>
-        <price>144.0</price>
+        <price>239.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3016,7 +3016,7 @@
       </offer>
       <offer id="f11_2034885688_HP604" available="true">
         <name>Тарелка глубокая квадратная из фарфора 13.5*13.5 см HP604</name>
-        <price>154.0</price>
+        <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3037,7 +3037,7 @@
       </offer>
       <offer id="f11_2034894268_HP605" available="true">
         <name>Тарелка глубокая квадратная из фарфора 16.5*16.5 см HP605</name>
-        <price>168.0</price>
+        <price>239.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3058,7 +3058,7 @@
       </offer>
       <offer id="f11_2034920908_HP600" available="true">
         <name>Тарелка глубокая квадратная из фарфора 15х15 см 500 мл HP600</name>
-        <price>154.0</price>
+        <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3082,7 +3082,7 @@
       </offer>
       <offer id="f11_2034947840_HP602" available="true">
         <name>Тарелка обеденная квадратная из фарфора 20х20 см белая HP602</name>
-        <price>154.0</price>
+        <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3104,7 +3104,7 @@
       </offer>
       <offer id="f11_2040499937_HP640" available="true">
         <name>Тарелка глубокая круглая из фарфора 15 см HP640</name>
-        <price>238.0</price>
+        <price>339.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -3255,7 +3255,7 @@
       </offer>
       <offer id="f11_HP531T1026HJ_HP531T1026HJ" available="true">
         <name>Набор для специй карусель на подставке 12 баночек по 120 мл HP531T1026HJ</name>
-        <price>2269.0</price>
+        <price>2669.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -3299,7 +3299,7 @@
       </offer>
       <offer id="f11_2050941608_HP82" available="true">
         <name>Бокалы для шампанского с золотой каймой 6 штук по 300 мл HP82</name>
-        <price>1449.0</price>
+        <price>1609.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -3323,7 +3323,7 @@
       </offer>
       <offer id="f11_2050959129_HP98" available="true">
         <name>Набор стаканов ребристых 6 штук по 450 мл прозрачный HP98</name>
-        <price>1188.0</price>
+        <price>1319.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -3346,7 +3346,7 @@
       </offer>
       <offer id="f11_HP531T1005J_HP531T1005J" available="true">
         <name>Набор для специй на подставке 2 баночки для соли и перца по 120 мл HP531T1005J</name>
-        <price>510.0</price>
+        <price>599.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -3372,7 +3372,7 @@
       </offer>
       <offer id="f11_HP531T1025J_HP531T1025J" available="true">
         <name>Набор для специй на подставке 6 предметов по 120 мл HP531T1025J</name>
-        <price>1072.0</price>
+        <price>1339.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -3391,7 +3391,7 @@
       </offer>
       <offer id="f11_2052165763_HP531B6612Z" available="true">
         <name>Набор для специй на деревянной подставке 12 предметов по 100 мл HP531B6612Z</name>
-        <price>1139.0</price>
+        <price>1339.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -3416,7 +3416,7 @@
       </offer>
       <offer id="f11_HP531FS1030Y_HP531FS1030Y" available="true">
         <name>Банки для сыпучих продуктов набор из 3 шт на металической подставке HP531FS1030Y</name>
-        <price>900.0</price>
+        <price>999.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -3439,7 +3439,7 @@
       </offer>
       <offer id="f11_HP531FS1034Y_HP531FS1034Y" available="true">
         <name>Банки для сыпучих продуктов набор из 8 шт стеклянные емкости для хранения с крышкой и ложкой HP531FS1034Y</name>
-        <price>2259.0</price>
+        <price>2509.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -3465,7 +3465,7 @@
       </offer>
       <offer id="f11_HP531FS1030J_HP531FS1030J" available="true">
         <name>Банки для сыпучих продуктов набор из 3 шт на металической подставке, золото HP531FS1030J</name>
-        <price>909.0</price>
+        <price>1009.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -3522,7 +3522,7 @@
       </offer>
       <offer id="f11_2058339380_YRUR3" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары YRUR3</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3542,7 +3542,7 @@
       </offer>
       <offer id="f11_2058370167_YRUR6" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Мрамор YRUR6</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3562,7 +3562,7 @@
       </offer>
       <offer id="f11_2058411238_YRUR9" available="true">
         <name>Набор кухонных принадлежностей на подставке 12 штук с деревянной ручкой YRUR9</name>
-        <price>1240.0</price>
+        <price>1549.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3705,7 +3705,7 @@
       </offer>
       <offer id="f11_2066267495_SKLF9976GL" available="true">
         <name>Машинка для стрижки Sokany аккумуляторная с 4 насадками и USB золото SK-LF-9976</name>
-        <price>1944.0</price>
+        <price>2159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>16</categoryId>
@@ -3758,7 +3758,7 @@
       </offer>
       <offer id="f11_2072860505_YRUR4" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Бежевый с черной ручкой YRUR4</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3780,7 +3780,7 @@
       </offer>
       <offer id="f11_2072860506_YRUR5" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Черный под мрамор YRUR5</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3801,7 +3801,7 @@
       </offer>
       <offer id="f11_2072862672_YRUR7" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Гранит YRUR7</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -3822,7 +3822,7 @@
       </offer>
       <offer id="f11_2072862673_YRUR8" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Дерево YRUR8</name>
-        <price>864.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -6390,7 +6390,7 @@
       </offer>
       <offer id="f11_2148787597_HP51A" available="true">
         <name>Бокалы для шампанского на высокой ножке 6 штук HP51A</name>
-        <price>1026.0</price>
+        <price>1139.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6435,7 +6435,7 @@
       </offer>
       <offer id="f11_2148787600_HP517" available="true">
         <name>Набор стаканов 6 штук 450 мл стеклянные прозрачный HP517</name>
-        <price>630.0</price>
+        <price>699.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6458,7 +6458,7 @@
       </offer>
       <offer id="f11_2148787601_HP518" available="true">
         <name>Набор стаканов стеклянных 6 штук по 315 мл прозрачный HP518</name>
-        <price>522.0</price>
+        <price>579.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6531,7 +6531,7 @@
       </offer>
       <offer id="f11_2148787608_HP525" available="true">
         <name>Набор стаканов 6 штук по 380 мл стеклянный коричневый HP525</name>
-        <price>621.0</price>
+        <price>689.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6580,7 +6580,7 @@
       </offer>
       <offer id="f11_2148787626_HP544" available="true">
         <name>Бокалы для коктейлей 2 штуки по 290 мл желтый HP544</name>
-        <price>567.0</price>
+        <price>629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6605,7 +6605,7 @@
       </offer>
       <offer id="f11_2148787627_HP545" available="true">
         <name>Набор бокалов для коктейлей 2 штуки по 290 мл, синие HP545</name>
-        <price>567.0</price>
+        <price>629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6627,7 +6627,7 @@
       </offer>
       <offer id="f11_2148787628_HP546" available="true">
         <name>Набор бокалов для коктейлей 2 штуки по 290 мл, розовые HP546</name>
-        <price>567.0</price>
+        <price>629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6648,7 +6648,7 @@
       </offer>
       <offer id="f11_2148787630_HP548" available="true">
         <name>Бокалы для вина с золотой каймой 6 шт по 250 мл Розовый HP548</name>
-        <price>1647.0</price>
+        <price>1829.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6670,7 +6670,7 @@
       </offer>
       <offer id="f11_2148787631_HP549" available="true">
         <name>Набор бокалов для шампанского 6 шт по 250 мл с золотой каймой HP549</name>
-        <price>1647.0</price>
+        <price>1829.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6692,7 +6692,7 @@
       </offer>
       <offer id="f11_2148787632_HP550" available="true">
         <name>Бокалы из толстого стекла набор для вина из 6 штук по 157 мл HP550</name>
-        <price>990.0</price>
+        <price>1099.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6715,7 +6715,7 @@
       </offer>
       <offer id="f11_2148787633_HP551" available="true">
         <name>Набор бокалов для шампанского 6 шт по 175 мл из толстого стекла HP551</name>
-        <price>837.0</price>
+        <price>929.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6737,7 +6737,7 @@
       </offer>
       <offer id="f11_2148787634_HP552" available="true">
         <name>Набор стаканов из 6 штук по 380 мл прозрачный с золотым ободком HP552</name>
-        <price>1044.0</price>
+        <price>1159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6761,7 +6761,7 @@
       </offer>
       <offer id="f11_2148787635_HP553" available="true">
         <name>Набор стаканов стеклянных 6 штук по 315 мл прозрачный с золотым ободком HP553</name>
-        <price>1044.0</price>
+        <price>1159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6780,7 +6780,7 @@
       </offer>
       <offer id="f11_2148787636_HP554" available="true">
         <name>Набор стаканов из 6 штук по 300 мл стеклянный прозрачный HP554</name>
-        <price>1287.0</price>
+        <price>1429.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6803,7 +6803,7 @@
       </offer>
       <offer id="f11_2148787637_HP555" available="true">
         <name>Стакаы набор из 6 штук по 250 мл с толстым дном прозрачный HP555</name>
-        <price>819.0</price>
+        <price>909.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6826,7 +6826,7 @@
       </offer>
       <offer id="f11_2148787638_HP556" available="true">
         <name>Набор стаканов стеклянный 6 шт по 250 мл прозрачный HP556</name>
-        <price>819.0</price>
+        <price>909.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6846,7 +6846,7 @@
       </offer>
       <offer id="f11_2148787639_HP557" available="true">
         <name>Набор стаканов 6 штук по 360 мл прозрачный HP557</name>
-        <price>648.0</price>
+        <price>719.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6868,7 +6868,7 @@
       </offer>
       <offer id="f11_2148787640_HP558" available="true">
         <name>Набор стаканов 6 штук по 390 мл стеклянный прозрачный HP558</name>
-        <price>648.0</price>
+        <price>719.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6892,7 +6892,7 @@
       </offer>
       <offer id="f11_2148787641_HP559" available="true">
         <name>Набор стаканов 6 штук по 350 мл стеклянный прозрачный HP559</name>
-        <price>648.0</price>
+        <price>719.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6916,7 +6916,7 @@
       </offer>
       <offer id="f11_2148787645_HP563" available="true">
         <name>Набор бокалов на высокой ножке 6 штук по 190 мл 6 штук для мартини HP563</name>
-        <price>1098.0</price>
+        <price>1219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6940,7 +6940,7 @@
       </offer>
       <offer id="f11_2148787646_HP564" available="true">
         <name>Бокалы для шампанского на высокой ножке 6 шт HP564</name>
-        <price>1098.0</price>
+        <price>1219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -6962,7 +6962,7 @@
       </offer>
       <offer id="f11_2148787647_HP566" available="true">
         <name>Набор высоких стаканов 6 штук по 250 мл розовый HP566</name>
-        <price>1530.0</price>
+        <price>1699.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -6979,7 +6979,7 @@
       </offer>
       <offer id="f11_2148787648_HP567" available="true">
         <name>Стеклянные стаканы набор из 6 штук по 250 мл синий HP567</name>
-        <price>1530.0</price>
+        <price>1699.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -7027,7 +7027,7 @@
       </offer>
       <offer id="f11_2148787654_HP573" available="true">
         <name>Кувшин для напитков фигурный 300 мл прозрачный HP573</name>
-        <price>160.0</price>
+        <price>199.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>53</categoryId>
@@ -7047,7 +7047,7 @@
       </offer>
       <offer id="f11_2148787655_HP574" available="true">
         <name>Кувшин для напитков графин для сока 600 мл HP574</name>
-        <price>224.0</price>
+        <price>279.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>53</categoryId>
@@ -7067,7 +7067,7 @@
       </offer>
       <offer id="f11_2148787656_HP575" available="true">
         <name>Стеклянный кувшин для напитков 1,2 л прозрачный HP575</name>
-        <price>352.0</price>
+        <price>439.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>53</categoryId>
@@ -7179,7 +7179,7 @@
       </offer>
       <offer id="f11_2148787738_HP16294" available="true">
         <name>Бутылка дозатор для масла и уксуса 600 мл с носиком бежевая HP16294</name>
-        <price>324.0</price>
+        <price>359.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>134</categoryId>
@@ -7507,7 +7507,7 @@
       </offer>
       <offer id="f11_2183918409_HP6178" available="true">
         <name>Набор для специй фарфоровый на подставке с ложками 3 шт по 300 мл HP6178</name>
-        <price>858.0</price>
+        <price>1009.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -8185,7 +8185,7 @@
       </offer>
       <offer id="f11_2183918570_HP23377" available="true">
         <name>Тарелка сервировочная круглая фарфоровая 27.5 см бежевая HP23377</name>
-        <price>329.0</price>
+        <price>469.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -8207,7 +8207,7 @@
       </offer>
       <offer id="f11_2183918571_HP23378" available="true">
         <name>Тарелка сервировочная круглая фарфоровая 22.5 см бежевая HP23378</name>
-        <price>224.0</price>
+        <price>319.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -8386,7 +8386,7 @@
       </offer>
       <offer id="f11_2183918608_HP27473K" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 шт бежевый HP27473K</name>
-        <price>792.0</price>
+        <price>989.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -8410,7 +8410,7 @@
       </offer>
       <offer id="f11_2183918609_HP27473B" available="true">
         <name>Набор кухонных принадлежностей на подставке 6 шт серый HP27473B</name>
-        <price>792.0</price>
+        <price>989.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -8433,7 +8433,7 @@
       </offer>
       <offer id="f11_2183918610_HP27474" available="true">
         <name>Набор кухонных принадлежностей 6 штук с подставкой HP27474</name>
-        <price>1064.0</price>
+        <price>1329.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -8457,7 +8457,7 @@
       </offer>
       <offer id="f11_2183918611_HP27475" available="true">
         <name>Набор кухонных принадлежностей с подставкой 11 шт поварской набор 32 см • 28 см • 24 см HP27475</name>
-        <price>856.0</price>
+        <price>1069.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -8531,7 +8531,7 @@
       </offer>
       <offer id="f11_2183918988_HP12271BR" available="true">
         <name>Детский ланч бокс на две секции 950 мл пластиковый с вилкой и ложкой "Пирожное" Коричневый HP12271BR</name>
-        <price>154.0</price>
+        <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>126</categoryId>
@@ -8954,7 +8954,7 @@
       </offer>
       <offer id="f11_2183919001_HP27476" available="true">
         <name>Набор кухонных ножей 5 штук с ножницами и овощечисткой 33/23.5/24.5/19.5 см Черный HP27476</name>
-        <price>776.0</price>
+        <price>969.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>49</categoryId>
@@ -8988,7 +8988,7 @@
       </offer>
       <offer id="f11_2183919021_HP48629S" available="true">
         <name>Конфетница пластиковая на 4 отделения круглая 26 см Серая HP48629S</name>
-        <price>891.0</price>
+        <price>989.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>132</categoryId>
@@ -9037,7 +9037,7 @@
       </offer>
       <offer id="f11_2183918598_HP23414" available="true">
         <name>Столовый сервиз на 6 персон фарфоровый розовый HP23414</name>
-        <price>8080.0</price>
+        <price>10099.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>156</categoryId>
@@ -9119,7 +9119,7 @@
       </offer>
       <offer id="f11_2203469074_HP23387" available="true">
         <name>Тарелка сервировочная 26 см плоская фарфоровая HP23387</name>
-        <price>455.0</price>
+        <price>649.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -9141,7 +9141,7 @@
       </offer>
       <offer id="f11_2203469075_HP23390" available="true">
         <name>Тарелка десертная круглая 20.5 см плоская фарфоровая HP23390</name>
-        <price>245.0</price>
+        <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>68</categoryId>
@@ -9442,7 +9442,7 @@
       </offer>
       <offer id="f11_HP1231_HP1231" available="true">
         <name>Банки для сыпучих продуктов 7 штук по 200 мл и 500 мл на бамбуковой подставке HP1231</name>
-        <price>2439.0</price>
+        <price>2709.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -9587,7 +9587,7 @@
       </offer>
       <offer id="f11_HP1244_HP1244" available="true">
         <name>Набор для сыпучих продуктов фарфоровый 3 шт по 500 мл HP1244</name>
-        <price>1746.0</price>
+        <price>1939.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -9648,7 +9648,7 @@
       </offer>
       <offer id="f11_HP1610_HP1610" available="true">
         <name>Набор стаканов 6 шт по 350 мл универсальный HP1610</name>
-        <price>1044.0</price>
+        <price>1159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -9708,7 +9708,7 @@
       </offer>
       <offer id="f11_HP1605_HP1605" available="true">
         <name>Набор стаканов универсальных 6шт по 400 мл HP1605</name>
-        <price>927.0</price>
+        <price>1029.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -9821,7 +9821,7 @@
       </offer>
       <offer id="f11_HP1601_HP1601" available="true">
         <name>Стакан для виски Dof 300 мл Jiga Rotating Rocks glass с бамбуковой подставкой HP1601</name>
-        <price>315.0</price>
+        <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -9844,7 +9844,7 @@
       </offer>
       <offer id="f11_HP1608_HP1608" available="true">
         <name>Стаканы для виски Rocks, набор из 6 штук 300 (мл), Old Fashion HP1608</name>
-        <price>666.0</price>
+        <price>739.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -9901,7 +9901,7 @@
       </offer>
       <offer id="f11_HP1232_HP1232" available="true">
         <name>Набор для сыпучих продуктов 5 банок по 120 на бамбуковой подставке HP1232</name>
-        <price>2070.0</price>
+        <price>2299.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -9929,7 +9929,7 @@
       </offer>
       <offer id="f11_HP176094_HP176094" available="true">
         <name>Проектор портативный для дома с встроенным динамиком HP176094</name>
-        <price>1152.0</price>
+        <price>1919.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>103</categoryId>
@@ -10038,7 +10038,7 @@
       </offer>
       <offer id="f11_HP1602_HP1602" available="true">
         <name>Стакан для виски 300 мл с бамбуковой подставкой HP1602</name>
-        <price>315.0</price>
+        <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -10061,7 +10061,7 @@
       </offer>
       <offer id="f11_HP1201_HP1201" available="true">
         <name>Набор банок для сыпучих продуктов 3 шт по 200 мл, на бамбуковой подставке HP1201</name>
-        <price>1008.0</price>
+        <price>1119.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10088,7 +10088,7 @@
       </offer>
       <offer id="f11_HP1606_HP1606" available="true">
         <name>Набор стаканов для виски 6 штук по 300 мл HP1606</name>
-        <price>837.0</price>
+        <price>929.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -10115,7 +10115,7 @@
       </offer>
       <offer id="f11_HP1210_HP1210" available="true">
         <name>Набор для сыпучих продуктов 4 штуки по 300 мл на бамбуковой подставке HP1210</name>
-        <price>1152.0</price>
+        <price>1279.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10209,7 +10209,7 @@
       </offer>
       <offer id="f11_HP1043_HP1043" available="true">
         <name>фарфоровый мармит на 3 секции по 1,5 литра, золотой HP1043</name>
-        <price>4080.0</price>
+        <price>5099.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>60</categoryId>
@@ -10233,7 +10233,7 @@
       </offer>
       <offer id="f11_HP1253_HP1253" available="true">
         <name>Набор банок для сыпучих продуктов из 5 штук по 250 мл фарфоровый HP1253 HP1253</name>
-        <price>1746.0</price>
+        <price>1939.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10345,7 +10345,7 @@
       </offer>
       <offer id="f11_HP1219_HP1219" available="true">
         <name>Набор для специй 4 предмета на бамбуковой подставке HP1219</name>
-        <price>986.0</price>
+        <price>1159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10434,7 +10434,7 @@
       </offer>
       <offer id="f11_HP1607_HP1607" available="true">
         <name>Набор стаканов 6 шт по 400 мл прозрачные HP1607</name>
-        <price>1044.0</price>
+        <price>1159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -10492,7 +10492,7 @@
       </offer>
       <offer id="f11_HP1225_HP1225" available="true">
         <name>Набор для сыпучих продуктов 5 банок по 120 на бамбуковой подставке белый HP1225</name>
-        <price>2070.0</price>
+        <price>2299.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10551,7 +10551,7 @@
       </offer>
       <offer id="f11_HP1247_HP1247" available="true">
         <name>Тарелка для пиццы 28 см фарфоровая с бамбуковой вращающейся подставкой, секционная черная HP1247</name>
-        <price>1043.0</price>
+        <price>1489.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>182</categoryId>
@@ -10650,7 +10650,7 @@
       </offer>
       <offer id="f11_HP1600_HP1600" available="true">
         <name>Вращающийся стакан для виски 300 мл с бамбуковой подставкой HP1600</name>
-        <price>315.0</price>
+        <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -10699,7 +10699,7 @@
       </offer>
       <offer id="f11_HP33531B_HP33531B" available="true">
         <name>Набор для приготовления с антипригарным покрытием 4 предмета, черный HP33531B</name>
-        <price>6232.0</price>
+        <price>7789.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -10833,7 +10833,7 @@
       </offer>
       <offer id="f11_HP1321_HP1321" available="true">
         <name>Набор для специй на подставке 12 баночек по 120 мл, хром с золотом HP1321</name>
-        <price>2082.0</price>
+        <price>2449.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10857,7 +10857,7 @@
       </offer>
       <offer id="f11_HP1356_HP1356" available="true">
         <name>Набор для специй на подставке 12 баночек по 120 мл, черный мармур HP1356</name>
-        <price>2635.0</price>
+        <price>3099.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10953,7 +10953,7 @@
       </offer>
       <offer id="f11_HP1354_HP1354" available="true">
         <name>Набор для специй на подставке 4 баночки по 120 мл для приправ HP1354</name>
-        <price>901.0</price>
+        <price>1059.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -10980,7 +10980,7 @@
       </offer>
       <offer id="f11_HP176095_HP176095" available="true">
         <name>Микрофон петличный беспроводной J11 профессиональный HP176095</name>
-        <price>588.0</price>
+        <price>839.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>102</categoryId>
@@ -11046,7 +11046,7 @@
       </offer>
       <offer id="f11_HP1324_HP1324" available="true">
         <name>Набор для специй 4 емкости по 120 мл на подставке HP1324</name>
-        <price>705.0</price>
+        <price>829.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -11149,7 +11149,7 @@
       </offer>
       <offer id="f11_HP1326_HP1326" available="true">
         <name>Набор емкостей для специй на подставке 6 баночек по 120 мл HP1326</name>
-        <price>1147.0</price>
+        <price>1349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -11461,7 +11461,7 @@
       </offer>
       <offer id="f11_HP1355_HP1355" available="true">
         <name>Набор баночек для специй 6 шт по 120 мл HP1355</name>
-        <price>1411.0</price>
+        <price>1659.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -11629,7 +11629,7 @@
       </offer>
       <offer id="f11_HP176096_HP176096" available="true">
         <name>Петличка для телефона беспроводная набор 2 шт блютуз микрофон петличный с шумоподавлением HP176096</name>
-        <price>735.0</price>
+        <price>1049.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>102</categoryId>
@@ -11729,7 +11729,7 @@
       </offer>
       <offer id="f11_HP39581B_HP39581B" available="true">
         <name>Сковорода гриль круглая Ø 26.5 см низкая с гранитным покрытием рифленая черная HP39581B</name>
-        <price>608.0</price>
+        <price>759.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -11793,7 +11793,7 @@
       </offer>
       <offer id="f11_HP1327_HP1327" available="true">
         <name>Набор баночек для специй 12 шт по 120 мл на подставке Карусель HP1327</name>
-        <price>2125.0</price>
+        <price>2499.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -12892,7 +12892,7 @@
       </offer>
       <offer id="f11_2350684484_HP-1700" available="true">
         <name>Стеклянная ваза, декоративная, 21,5 см HP-1700</name>
-        <price>684.0</price>
+        <price>759.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -12915,7 +12915,7 @@
       </offer>
       <offer id="f11_2350684485_HP-1701" available="true">
         <name>Стеклянная ваза, декоративная фигурка 24,5 см, прозрачная HP-1701</name>
-        <price>783.0</price>
+        <price>869.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -12938,7 +12938,7 @@
       </offer>
       <offer id="f11_2350684488_HP-1704" available="true">
         <name>Декоративная ваза для цветов из серого стекла с золотым ободком 25 см HP-1704</name>
-        <price>783.0</price>
+        <price>869.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -12962,7 +12962,7 @@
       </offer>
       <offer id="f11_2350684491_HP-1707" available="true">
         <name>Декоративная ваза для цветов из прозрачного стекла с золотой окантовкой 25 см HP-1707</name>
-        <price>612.0</price>
+        <price>679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -12986,7 +12986,7 @@
       </offer>
       <offer id="f11_2350684492_HP-1708" available="true">
         <name>Декоративная стеклянная ваза для цветов с золотой окантовкой 29,5 см HP-1708</name>
-        <price>648.0</price>
+        <price>719.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13010,7 +13010,7 @@
       </offer>
       <offer id="f11_2350684493_HP-1709" available="true">
         <name>Стеклянная ваза для цветов, декоративный треугольник с золотой каймой, 16 см HP-1709</name>
-        <price>594.0</price>
+        <price>659.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13033,7 +13033,7 @@
       </offer>
       <offer id="f11_2350684494_HP-1710-1" available="true">
         <name>Декоративная треугольная стеклянная ваза с золотым ободком, 13 x 11,5 x 15,5 см HP-1710-1</name>
-        <price>612.0</price>
+        <price>679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13056,7 +13056,7 @@
       </offer>
       <offer id="f11_2350684495_HP-1711" available="true">
         <name>Стеклянная ваза для цветов, декоративная, треугольная, 15,5 см, серая с золотой окантовкой HP-1711</name>
-        <price>612.0</price>
+        <price>679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13079,7 +13079,7 @@
       </offer>
       <offer id="f11_2350684502_HP-1718" available="true">
         <name>Стеклянная ваза 30 см, серая HP-1718</name>
-        <price>1422.0</price>
+        <price>1579.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13102,7 +13102,7 @@
       </offer>
       <offer id="f11_2350684503_HP-1719" available="true">
         <name>Стеклянная ваза для цветов, декоративная фигурная, серая, 27,5 см HP-1719</name>
-        <price>1026.0</price>
+        <price>1139.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13125,7 +13125,7 @@
       </offer>
       <offer id="f11_2350684504_HP-1721" available="true">
         <name>Прямоугольная декоративная ваза для цветов из стекла, 17 см HP-1721</name>
-        <price>414.0</price>
+        <price>459.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13146,7 +13146,7 @@
       </offer>
       <offer id="f11_2350684510_HP-1727" available="true">
         <name>Стеклянная ваза 24,5 см HP-1727</name>
-        <price>720.0</price>
+        <price>799.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -13193,7 +13193,7 @@
       </offer>
       <offer id="f11_2350684515_HP-16-1" available="true">
         <name>Набор бокалов с тонкой ножкой 6 штук по 600 мл HP-16-1</name>
-        <price>2169.0</price>
+        <price>2409.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13216,7 +13216,7 @@
       </offer>
       <offer id="f11_2350684516_HP-16-2" available="true">
         <name>Набор из 6 стаканов, 600 мл, для лимонада, воды, сока и коктейлей HP-16-2</name>
-        <price>1566.0</price>
+        <price>1739.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13239,7 +13239,7 @@
       </offer>
       <offer id="f11_2350684517_HP-16-3" available="true">
         <name>Набор фактурных бокалов, 600 мл с тонкой ножкой, комплект из 6, для вина HP-16-3</name>
-        <price>2295.0</price>
+        <price>2549.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13262,7 +13262,7 @@
       </offer>
       <offer id="f11_2350684518_HP-16-4" available="true">
         <name>Бокалы для шампанского 250 мл, высокая ножка, набор из 6 штук HP-16-4</name>
-        <price>1503.0</price>
+        <price>1669.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13284,7 +13284,7 @@
       </offer>
       <offer id="f11_2350684519_HP-16-5" available="true">
         <name>Набор из шести стаканов объемом 300 мл для лимонада, сока и коктейлей HP-16-5</name>
-        <price>1512.0</price>
+        <price>1679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13309,7 +13309,7 @@
       </offer>
       <offer id="f11_2350684520_HP-16-6" available="true">
         <name>Набор из шести бокалов для мартини объемом 300 мл (высокая ножка) HP-16-6</name>
-        <price>2412.0</price>
+        <price>2679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13332,7 +13332,7 @@
       </offer>
       <offer id="f11_2350684521_HP-16-7" available="true">
         <name>Набор из 6 бокалов с высокими тонкими ножками, 300 мл, для вина HP-16-7</name>
-        <price>1953.0</price>
+        <price>2169.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13356,7 +13356,7 @@
       </offer>
       <offer id="f11_2350684523_HP-16-9" available="true">
         <name>Набор из 6 стаканов, 400 мл, для лимонада, воды, сока и коктейлей HP-16-9</name>
-        <price>1575.0</price>
+        <price>1749.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13381,7 +13381,7 @@
       </offer>
       <offer id="f11_2350684525_HP-16-11" available="true">
         <name>Набор из 6 стаканов, 450 мл, для лимонада, воды, сока и коктейлей HP-16-11</name>
-        <price>1485.0</price>
+        <price>1649.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13404,7 +13404,7 @@
       </offer>
       <offer id="f11_2350684526_HP-16-12" available="true">
         <name>Набор из 6 стаканов, 400 мл, для лимонада, воды, сока и коктейлей HP-16-12</name>
-        <price>1665.0</price>
+        <price>1849.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13428,7 +13428,7 @@
       </offer>
       <offer id="f11_2350684527_HP-16-13" available="true">
         <name>Набор из 6 высоких бокалов с тонкой ножкой, 450 мл, для вина HP-16-13</name>
-        <price>1935.0</price>
+        <price>2149.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13451,7 +13451,7 @@
       </offer>
       <offer id="f11_2350684528_HP-16-14" available="true">
         <name>Бокалы для шампанского, 300 мл, набор из 6 штук HP-16-14</name>
-        <price>1818.0</price>
+        <price>2019.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13473,7 +13473,7 @@
       </offer>
       <offer id="f11_2350684529_HP-16-15" available="true">
         <name>Набор из шести стаканов объемом 300 мл для лимонада, сока и коктейлей HP-16-15</name>
-        <price>1080.0</price>
+        <price>1199.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13494,7 +13494,7 @@
       </offer>
       <offer id="f11_2350684530_HP-16-16" available="true">
         <name>Набор из шести стаканов объемом 300 мл для лимонада, сока и коктейлей HP-16-16</name>
-        <price>1305.0</price>
+        <price>1449.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13517,7 +13517,7 @@
       </offer>
       <offer id="f11_2350684531_HP-16-17" available="true">
         <name>Набор из 6 высоких стаканов, 500 мл, для лимонада, воды, сока и коктейлей HP-16-17</name>
-        <price>1179.0</price>
+        <price>1309.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13541,7 +13541,7 @@
       </offer>
       <offer id="f11_2350684532_HP-16-18" available="true">
         <name>Набор стаканов 6 шт по 450 мл с золотым ободком HP-16-18</name>
-        <price>1404.0</price>
+        <price>1559.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13565,7 +13565,7 @@
       </offer>
       <offer id="f11_2350684533_HP-16-19" available="true">
         <name>Набор стаканов высоких 6 штук по 600 мл с золотым ободком HP-16-19</name>
-        <price>972.0</price>
+        <price>1079.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13589,7 +13589,7 @@
       </offer>
       <offer id="f11_2350684534_HP-16-20" available="true">
         <name>Набор из 6 стаканов 400 мл с изогнутыми стенками и вертикальным рифлением HP-16-20</name>
-        <price>855.0</price>
+        <price>949.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13613,7 +13613,7 @@
       </offer>
       <offer id="f11_2350684535_HP-16-21" available="true">
         <name>Набор из 6 стаканов для виски, 450 мл, толстое дно HP-16-21</name>
-        <price>1242.0</price>
+        <price>1379.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13636,7 +13636,7 @@
       </offer>
       <offer id="f11_2350684536_HP-16-22" available="true">
         <name>Набор из 6 бокалов 350 мл, для вина с золотым ободком HP-16-22</name>
-        <price>1854.0</price>
+        <price>2059.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13658,7 +13658,7 @@
       </offer>
       <offer id="f11_2350684538_HP-16-24" available="true">
         <name>Набор из шести бокалов для мартини объемом 200 мл HP-16-24</name>
-        <price>2214.0</price>
+        <price>2459.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>56</categoryId>
@@ -13681,7 +13681,7 @@
       </offer>
       <offer id="f11_2350684539_HP-16-25" available="true">
         <name>Набор из 6 стаканов, 450 мл, для лимонада, воды, сока и коктейлей HP-16-25</name>
-        <price>1431.0</price>
+        <price>1589.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -13704,7 +13704,7 @@
       </offer>
       <offer id="f11_2350684540_HP-16-26" available="true">
         <name>Набор из 6 стаканов, 400 мл, для лимонада, воды, сока и коктейлей HP-16-26</name>
-        <price>1476.0</price>
+        <price>1639.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>54</categoryId>
@@ -14167,7 +14167,7 @@
       </offer>
       <offer id="f11_2350684560_HP-15-22" available="true">
         <name>Чайный набор на 6 персон с бамбуковой подставкой серый HP-15-22</name>
-        <price>3544.0</price>
+        <price>4429.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>156</categoryId>
@@ -14390,7 +14390,7 @@
       </offer>
       <offer id="f11_2350684567_HP-15-29" available="true">
         <name>Чайный сервиз на 6 персон с фарфоровой подставкой, шоколад HP-15-29</name>
-        <price>5688.0</price>
+        <price>7109.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>156</categoryId>
@@ -14424,7 +14424,7 @@
       </offer>
       <offer id="f11_2350684569_HP-15-31" available="true">
         <name>Набор банок с подставкой для сыпучих продуктов, 400 мл, зеленые HP-15-31</name>
-        <price>1317.0</price>
+        <price>1549.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -14456,7 +14456,7 @@
       </offer>
       <offer id="f11_2350684570_HP-15-32" available="true">
         <name>Набор банок с подставкой для сыпучих продуктов, 400 мл, синие HP-15-32</name>
-        <price>1317.0</price>
+        <price>1549.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -15253,7 +15253,7 @@
       </offer>
       <offer id="f11_2350684618_HP-1200" available="true">
         <name>Набор для специй 4 шт по 200 мл с крышками и ложками HP-1200</name>
-        <price>1054.0</price>
+        <price>1239.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -15275,7 +15275,7 @@
       </offer>
       <offer id="f11_2350684621_HP-1214" available="true">
         <name>Набор банок для чая и кофе объемом 500 мл HP-1214</name>
-        <price>1764.0</price>
+        <price>1959.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -15370,7 +15370,7 @@
       </offer>
       <offer id="f11_2350684625_HP-1221" available="true">
         <name>Набор для специй фарфоровый 4 предмета на бамбуковой подставке HP-1221</name>
-        <price>891.0</price>
+        <price>989.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>47</categoryId>
@@ -16133,7 +16133,7 @@
       </offer>
       <offer id="f11_2358506249_HP-4-405" available="true">
         <name>Набор алюминиевой посуды MGC с антипригарным покрытием 11 предметов белый HP-4-405</name>
-        <price>12232.0</price>
+        <price>15289.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -16244,7 +16244,7 @@
       </offer>
       <offer id="f11_2358506252_HP-4-402" available="true">
         <name>Набор из трех кастрюль и сковородок с крышками 24, 28, 32 см, толстое алюминиевое дно MGC HP-4-402</name>
-        <price>8096.0</price>
+        <price>10119.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -16437,7 +16437,7 @@
       </offer>
       <offer id="f11_2358506258_HP-4-448" available="true">
         <name>Алюминиевая сковорода 5,5 л, мраморное антипригарное покрытие, Ø 30 см, с лопаткой для приготовления MGC HP-4-448</name>
-        <price>3624.0</price>
+        <price>4529.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -16588,7 +16588,7 @@
       </offer>
       <offer id="f11_2358506266_HP-4-404B" available="true">
         <name>Набор посуды, комплект из 4 кастрюль и сковородок, MGC, черный HP-4-404B</name>
-        <price>10352.0</price>
+        <price>12939.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -16661,7 +16661,7 @@
       </offer>
       <offer id="f11_2358506268_HP-4-406CO" available="true">
         <name>Набор посуды алюминий с толстым дном MGC с лопаткой, половником и кисточкой кофейный HP-4-406CO</name>
-        <price>8384.0</price>
+        <price>10479.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -16838,7 +16838,7 @@
       </offer>
       <offer id="f11_2358506275_HP-4-410CO" available="true">
         <name>Набор сковородок из 3 предметов с толстым дном из алюминия MGC кофейный HP-4-410CO</name>
-        <price>3296.0</price>
+        <price>4119.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -16875,7 +16875,7 @@
       </offer>
       <offer id="f11_2358506279_HP-4-412BL" available="true">
         <name>Набор посуды MGC 2 кастрюли, 2 сковороды, сотейник, пароварка, половник, лопатка, фартук HP-4-412BL</name>
-        <price>11104.0</price>
+        <price>13879.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -17326,7 +17326,7 @@
       </offer>
       <offer id="f11_2358506291_HP-4-418CO" available="true">
         <name>Алюминиевая сковорода 1,8 л, мраморное антипригарное покрытие, Ø 24 см, толстое дно, кофейный MGC HP-4-418CO</name>
-        <price>1008.0</price>
+        <price>1259.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -17730,7 +17730,7 @@
       </offer>
       <offer id="f11_2358506304_HP-4-423G" available="true">
         <name>Алюминиевая сковорода 1,8 л с мраморным антипригарным покрытием Ø 24 см серая MGC HP-4-423G</name>
-        <price>1392.0</price>
+        <price>1739.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -18146,7 +18146,7 @@
       </offer>
       <offer id="f11_2358506332_HP-4-430CO" available="true">
         <name>Алюминиевая блинная сковорода с мраморным антипригарным покрытием Ø 28 см, толстое дно MGC кофейного цвета HP-4-430CO</name>
-        <price>1264.0</price>
+        <price>1579.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -18502,7 +18502,7 @@
       </offer>
       <offer id="f11_2358506341_HP-4-433CO" available="true">
         <name>Алюминиевая кастрюля объемом 5 литров с крышкой Ø 24 см, мраморное антипригарное покрытие, кофейный MGC HP-4-433CO</name>
-        <price>2520.0</price>
+        <price>3149.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -18542,7 +18542,7 @@
       </offer>
       <offer id="f11_2358506342_HP-4-434G" available="true">
         <name>Большая алюминиевая кастрюля с крышкой, диаметр 28 см, с антипригарным покрытием, 8 литров HP-4-434G</name>
-        <price>2904.0</price>
+        <price>3629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -18742,7 +18742,7 @@
       </offer>
       <offer id="f11_2358506347_HP-4-435CO" available="true">
         <name>Большая алюминиевая кастрюля объемом 11 литров с антипригарным покрытием Ø32 см HP-4-435CO</name>
-        <price>4304.0</price>
+        <price>5379.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -18780,7 +18780,7 @@
       </offer>
       <offer id="f11_2358506348_HP-4-436G" available="true">
         <name>Алюминиевый сотейник 2,7 л с мраморным антипригарным покрытием Ø 24 см сотейник с толстым дном MGC серый HP-4-436G</name>
-        <price>1672.0</price>
+        <price>2089.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -19130,7 +19130,7 @@
       </offer>
       <offer id="f11_2358506357_HP-4-443R" available="true">
         <name>Сковорода-гриль алюминиевая, квадратная, 2,5 л, с антипригарным покрытием, 24 см MGC Red HP-4-443R</name>
-        <price>1616.0</price>
+        <price>2019.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -19373,7 +19373,7 @@
       </offer>
       <offer id="f11_2358506363_HP-4-446R" available="true">
         <name>Алюминиевая кастрюля объемом 5,3 л с крышкой Ø 24 см с антипригарным покрытием MGC HP-4-446R</name>
-        <price>2488.0</price>
+        <price>3109.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>63</categoryId>
@@ -19830,7 +19830,7 @@
       </offer>
       <offer id="f11_2358506387_HP-4-462G" available="true">
         <name>Алюминиевая сковорода-гриль 28 см со стеклянной крышкой Квадрат серый MGC HP-4-462G</name>
-        <price>1632.0</price>
+        <price>2039.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>61</categoryId>
@@ -22394,7 +22394,7 @@
       </offer>
       <offer id="f11_2394098828_HP-14-5M" available="true">
         <name>Термос Sport из нержавеющей стали 600 мл мятный HP-14-5M</name>
-        <price>594.0</price>
+        <price>659.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>41</categoryId>
@@ -23608,7 +23608,7 @@
       </offer>
       <offer id="f11_2394098895_HP-14-31M" available="true">
         <name>Бутылка для воды 1 л бутылочка с мундштуком мятная HP-14-31M</name>
-        <price>396.0</price>
+        <price>439.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>43</categoryId>
@@ -23862,7 +23862,7 @@
       </offer>
       <offer id="f11_2394098910_HP-14-43GR" available="true">
         <name>Бутылка для воды Gucgres детская 650 мл на ремешке зеленая HP-14-43GR</name>
-        <price>297.0</price>
+        <price>329.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>43</categoryId>
@@ -27866,7 +27866,7 @@
       </offer>
       <offer id="f11_HP-19-11-R_HP-19-11-R" available="true">
         <name>Корзина сервировочная 21×11.5×5.5 см для подачи картофеля фри и снеков с ручкой Розовая HP-19-11-R</name>
-        <price>442.0</price>
+        <price>519.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>196</categoryId>
@@ -27896,7 +27896,7 @@
       </offer>
       <offer id="f11_HP-19-11-G_HP-19-11-G" available="true">
         <name>Корзина сервировочная 21×11.5×5.5 см для подачи картофеля фри и снеков с ручкой Золотая HP-19-11-G</name>
-        <price>442.0</price>
+        <price>519.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>196</categoryId>
@@ -33096,7 +33096,7 @@
       </offer>
       <offer id="f11_HP-1302_HP-1302" available="true">
         <name>Банки для сыпучих продуктов набор из 4 шт пластиковые с бамбуковыми крышками HP-1302</name>
-        <price>1638.0</price>
+        <price>1819.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -36143,7 +36143,7 @@
       </offer>
       <offer id="f11_HP-10-35_HP-10-35" available="true">
         <name>Ваза цилиндр для цветов 25.5 см Т-образная стеклянная ваза 800 мл Черная HP-10-35</name>
-        <price>810.0</price>
+        <price>899.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -38533,7 +38533,7 @@
       </offer>
       <offer id="f11_HP-14-46V_HP-14-46V" available="true">
         <name>Бутылка для воды детская с трубочкой 680 мл с ручкой и ремешком Фиолетовая HP-14-46V</name>
-        <price>297.0</price>
+        <price>329.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>43</categoryId>
@@ -38560,7 +38560,7 @@
       </offer>
       <offer id="f11_HP-14-46B_HP-14-46B" available="true">
         <name>Бутылка для воды детская с трубочкой 680 мл с ручкой и ремешком Черная HP-14-46B</name>
-        <price>297.0</price>
+        <price>329.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>43</categoryId>
@@ -40323,7 +40323,7 @@
       </offer>
       <offer id="f11_HP-9-8_HP-9-8" available="true">
         <name>Ваза для цветов 22 см декоративная ваза для букета 200 мл Фиолетовая HP-9-8</name>
-        <price>1413.0</price>
+        <price>1569.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
@@ -43653,7 +43653,7 @@
       </offer>
       <offer id="f11_HP-27-7_HP-27-7" available="true">
         <name>Контейнер для еды пластиковый 32.5х17.5х6 см пищевой контейнер с индикатором даты 1 л Белый HP-27-7</name>
-        <price>408.0</price>
+        <price>509.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
@@ -67913,7 +67913,7 @@
       </offer>
       <offer id="f11_HP-9-1_HP-9-1" available="true">
         <name>Декоративная стеклянная ваза для цветов 29 см фигурная Зеленая HP-9-1</name>
-        <price>1701.0</price>
+        <price>1889.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>35</categoryId>
