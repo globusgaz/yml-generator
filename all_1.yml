@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-01 09:28">
+<yml_catalog date="2026-04-01 11:18">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="52">Лимонадницы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="125">Мангалы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="287">Банты на елку</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="15">Плойки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="184">Бульонницы</category>
-      <category id="140">Крышки</category>
-      <category id="75">Утюги</category>
-      <category id="316">Туристические плиты</category>
-      <category id="114">Повербанки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="72">Весы напольные</category>
-      <category id="61">Сковородки</category>
-      <category id="186">Тостеры</category>
-      <category id="279">Зонты</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="31">Часы настенные</category>
-      <category id="283">Подносы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="29">Салфетницы</category>
-      <category id="77">Пылесосы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="149">Палатки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="103">Проекторы</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="56">Бокалы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="271">Товары для уборки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="118">Сумки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="300">Подушки для спины</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="126">Ланч боксы</category>
-      <category id="292">Столовая посуда</category>
-      <category id="17">Воскоплавы</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="65">Креманки</category>
-      <category id="166">Тортовницы</category>
-      <category id="298">Брелки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="221">Туристические души</category>
-      <category id="34">Подсвечники</category>
-      <category id="47">Наборы для специй</category>
-      <category id="122">Аксессуары</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="55">Рюмки</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="14">Стайлеры</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="145">Смарт-часы</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="142">Посуда для детей</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="21">Электробритвы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="212">Мебель</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="66">Сервизы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="294">Новогодние елки</category>
-      <category id="53">Кувшины</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="133">Масленки</category>
-      <category id="111">Портативные колонки</category>
-      <category id="33">Пепельницы</category>
-      <category id="182">Блюда</category>
-      <category id="96">Вакууматоры</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="54">Стаканы</category>
-      <category id="194">Менажницы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="136">Дуршлаги</category>
-      <category id="278">Косметички</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="98">Блендеры</category>
       <category id="89">Миксеры</category>
-      <category id="59">Все для выпечки</category>
-      <category id="187">Слайсеры</category>
-      <category id="132">Конфетницы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="13">Триммеры</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="261">Терки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="87">Соковыжималки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="90">Мясорубки</category>
-      <category id="60">Мармиты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="76">Отпариватели</category>
-      <category id="62">Ковши</category>
-      <category id="23">Фены</category>
-      <category id="144">Вентиляторы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="264">Мягкие игрушки</category>
+      <category id="186">Тостеры</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="75">Утюги</category>
+      <category id="97">Весы кухонные</category>
+      <category id="56">Бокалы</category>
+      <category id="300">Подушки для спины</category>
       <category id="74">Машинки для удаления катышек</category>
-      <category id="68">Тарелки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="124">Решетки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="128">Органайзеры</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="141">Салатницы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="6">LED ленты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="224">Гамаки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="93">Электрочайники</category>
-      <category id="57">Чашки</category>
+      <category id="91">Кухонные комбайны</category>
       <category id="156">Столовые сервизы</category>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="81">Капучинаторы</category>
-      <category id="110">Наушники</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="275">Салфетки сервировочные</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="14">Стайлеры</category>
+      <category id="114">Повербанки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="21">Электробритвы</category>
+      <category id="298">Брелки</category>
+      <category id="118">Сумки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="17">Воскоплавы</category>
+      <category id="182">Блюда</category>
+      <category id="68">Тарелки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="61">Сковородки</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="90">Мясорубки</category>
+      <category id="72">Весы напольные</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="148">Туристические коврики</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="31">Часы настенные</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="195">Разделочные доски</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="287">Банты на елку</category>
+      <category id="66">Сервизы</category>
       <category id="63">Кастрюли</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="142">Посуда для детей</category>
       <category id="262">Термосумки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="279">Зонты</category>
+      <category id="62">Ковши</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="128">Органайзеры</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="47">Наборы для специй</category>
+      <category id="261">Терки</category>
+      <category id="13">Триммеры</category>
+      <category id="52">Лимонадницы</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="166">Тортовницы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="65">Креманки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="6">LED ленты</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="57">Чашки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="77">Пылесосы</category>
+      <category id="145">Смарт-часы</category>
       <category id="42">Термосы для детей</category>
-      <category id="91">Кухонные комбайны</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="59">Все для выпечки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="144">Вентиляторы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="141">Салатницы</category>
+      <category id="53">Кувшины</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="124">Решетки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="278">Косметички</category>
+      <category id="110">Наушники</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="212">Мебель</category>
+      <category id="34">Подсвечники</category>
+      <category id="15">Плойки</category>
+      <category id="23">Фены</category>
+      <category id="224">Гамаки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="184">Бульонницы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="76">Отпариватели</category>
+      <category id="122">Аксессуары</category>
+      <category id="20">Эпиляторы</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="125">Мангалы</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="294">Новогодние елки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="140">Крышки</category>
+      <category id="60">Мармиты</category>
+      <category id="81">Капучинаторы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="149">Палатки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="29">Салфетницы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="126">Ланч боксы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="98">Блендеры</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="111">Портативные колонки</category>
+      <category id="283">Подносы</category>
       <category id="2302">Подарункові коробки і пакети</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="103">Проекторы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="150">Спальные мешки</category>
+      <category id="133">Масленки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="54">Стаканы</category>
+      <category id="33">Пепельницы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="187">Слайсеры</category>
+      <category id="93">Электрочайники</category>
+      <category id="136">Дуршлаги</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="221">Туристические души</category>
+      <category id="284">Новогодний декор</category>
+      <category id="194">Менажницы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="55">Рюмки</category>
+      <category id="132">Конфетницы</category>
+      <category id="292">Столовая посуда</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -34805,6 +34805,44 @@
         <param name="Упаковка">Чехол</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_SJ-0014GR_SJ-0014GR" available="true">
+        <name>Кресло раскладное туристическое 50х80х80 см для отдыха, пикника, рыбалки с подстаканником Зеленое SJ-0014GR</name>
+        <price>689.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Lugi</vendor>
+        <vendorCode>f11_SJ-0014GR_SJ-0014GR</vendorCode>
+        <description>Складное кемпинговое кресло имеет металлический каркас, который обеспечивает прочность и устойчивость. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии:50х80х80 см; Размер в сложенном состоянии: 83х15х15 см; Ширина сиденья: 41 см; Рекомендуемая нагрузка: 100 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Этот материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в частности во время кемпинга или на пикниках. Легкость в использовании и складывании делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3750</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3750/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_zelenoe_9.jpg</picture>
+        <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
+        <param name="Вес">1.7</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал спинки">Ткань</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Подстаканник">1</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Регулируемые опоры">Нет</param>
+        <param name="Ширина стула">800</param>
+        <param name="Максимально допустимая нагрузка">100</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Высота стула с учетом спинки">800</param>
+        <param name="Состояние">Новое</param>
+        <param name="Глубина стула">500</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
       <offer id="f11_SJ-0028-1GR_SJ-0028-1GR" available="true">
         <name>Матрас в палатку надувной 175х60х2 см матрас походный туристический с подголовником Зеленый SJ-0028-1GR</name>
         <price>979.0</price>
@@ -43282,6 +43320,53 @@
         <param name="Пол">Унисекс</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_16788-1_16788-1" available="true">
+        <name>Шприц для колбасы ручной 8×25 см горизонтальный колбасный шприц 1.5 л для фарша 3 насадки 16788-1</name>
+        <price>1349.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>223</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_16788-1_16788-1</vendorCode>
+        <description>Если вы любите готовить натуральные и вкусные продукты своими руками, этот горизонтальный колбасный шприц станет отличным помощником на вашей кухне. Он позволит легко и быстро приготовить домашние колбасы, сардели и другие мясные изделия без лишних добавок и консервантов. Компактный, удобный и надёжный &amp;mdash; идеальное решение для домашнего использования. Основные характеристики: Тип: ручной, горизонтальный; Размер: 8 &amp;times; 25 см; Объём цилиндра: 1.5 л; Количество насадок: 3; Диаметр насадок: 15 мм, 19 мм, 22 мм; Материал корпуса: нержавеющая сталь; Материал ручки: нержавеющая сталь + пластик; Материал насадок: прочный пластик; Крепление: фиксируется к столу для удобной и безопасной работы. Преимущества: Прочный металлический корпус устойчив к коррозии и механическим повреждениям; Нескользящее основание для надёжной фиксации на рабочей поверхности; Три сменные насадки позволяют готовить колбасы разных диаметров; Удобная ручка обеспечивает плавный и комфортный ход; Легко разбирается и очищается после использования. С шприцем для колбас вы легко превратите процесс приготовления в настоящее удовольствие. Он экономит время, упрощает работу с фаршем и позволяет добиться аккуратного, равномерного наполнения оболочки. Незаменимый инструмент для тех, кто ценит домашнее качество, натуральность и контроль над каждым ингредиентом.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4202</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_10.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-1/16788-1_2.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество насадок">3</param>
+        <param name="Объем">1.5</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_16788-2_16788-2" available="true">
+        <name>Шприц для колбасы ручной 11×30 см горизонтальный колбасный шприц 2 л для фарша 3 насадки 16788-2</name>
+        <price>1529.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>223</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_16788-2_16788-2</vendorCode>
+        <description>Если вы любите готовить натуральные и вкусные продукты своими руками, этот горизонтальный колбасный шприц станет отличным помощником на вашей кухне. Он позволит легко и быстро приготовить домашние колбасы, сардели и другие мясные изделия без лишних добавок и консервантов. Компактный, удобный и надёжный &amp;mdash; идеальное решение для домашнего использования. Основные характеристики: Тип: ручной, горизонтальный; Размер: 11 &amp;times; 30 см; Объём цилиндра: 2 л; Количество насадок: 3; Диаметр насадок: 15 мм, 19 мм, 22 мм; Материал корпуса: нержавеющая сталь; Материал ручки: нержавеющая сталь + пластик; Материал насадок: прочный пластик; Крепление: фиксируется к столу для удобной и безопасной работы. Преимущества: Прочный металлический корпус устойчив к коррозии и механическим повреждениям; Нескользящее основание для надёжной фиксации на рабочей поверхности; Три сменные насадки позволяют готовить колбасы разных диаметров; Удобная ручка обеспечивает плавный и комфортный ход; Легко разбирается и очищается после использования. С шприцем для колбас вы легко превратите процесс приготовления в настоящее удовольствие. Он экономит время, упрощает работу с фаршем и позволяет добиться аккуратного, равномерного наполнения оболочки. Незаменимый инструмент для тех, кто ценит домашнее качество, натуральность и контроль над каждым ингредиентом.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4203</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/000/16788-2/16788-2_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4203/shprits_dlya_kolbasy_ruchnoy_11_30_sm_gorizontalnyy_kolbasnyy_shprits_2_l_dlya_farsha_3_nasadki_8.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество насадок">3</param>
+        <param name="Объем">2</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_16788-3_16788-3" available="true">
         <name>Шприц для колбасы ручной 2 л горизонтальный колбасный шприц для фарша 4 насадки 16788-3</name>
         <price>2669.0</price>
@@ -43378,6 +43463,45 @@
         <param name="Количество насадок">4</param>
         <param name="Объем">2.5</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_16788-8_16788-8" available="true">
+        <name>Слайсер ручной для нарезки нож 18 см из нержавеющей стали 16788-8</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>187</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_16788-8_16788-8</vendorCode>
+        <description>Ручной слайсер — это высококачественный инструмент для нарезки мясных, колбасных и сырных изделий, выполненный из нержавеющей стали. Слайсер станет незаменимым помощником на кухне, предоставляя удобство и точность при нарезке продуктов. Идеально подходит как для домашнего использования, так и для небольших предприятий, где важна скорость и качество работы. Основные характеристики: Размеры: 46 x 17 x 7 см; Длина ножа: 18 см; Материал ножа: нержавеющая сталь; Материал корпуса: нержавеющая сталь. Основные преимущества: Простота использования: Слайсер имеет удобную конструкцию, что позволяет легко управлять устройством и быстро настраивать толщину нарезки. Универсальность: Он подходит для нарезки не только мяса и колбас, но и сыра, рыбы, овощей и других продуктов. Это делает его многофункциональным инструментом на кухне. Долговечность и надежность: Корпус и нож выполнены из нержавеющей стали, что обеспечивает слайсеру долгий срок службы и легкость в уходе. Сталь не поддается коррозии и сохраняет свою остроту длительное время. Легкость в обслуживании: После использования слайсер легко моется, что позволяет поддерживать его в идеальной чистоте и соблюдать все гигиенические нормы. Простота разборки устройства делает уход еще удобнее. Ручной слайсер — это надежный и эффективный инструмент для тех, кто ценит качество и удобство. Его прочная конструкция из нержавеющей стали, удобство в использовании и универсальность делают его отличным выбором для домашней кухни или небольшого бизнеса. С этим слайсером процесс нарезки станет легким и быстрым, а продукты всегда будут нарезаны точно и аккуратно.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4208</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_10.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_11.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_14.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-8/167888_4.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Высота">70</param>
+        <param name="Вес">1.7</param>
+        <param name="Глубина">460</param>
+        <param name="Затачивающее устройство">Нет</param>
+        <param name="Ширина">170</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Материал направляющей пластины">металл</param>
+        <param name="Нож волнообразной формы">Нет</param>
+        <param name="Сфера использования">HoReCa|Fast-food|Уличная торговля|Торговые магазины</param>
+        <param name="Нож прямой формы">Да</param>
+        <param name="Защитная крышка для ножа">Да</param>
+        <param name="Цвет корпуса">Серебристый</param>
+        <param name="Наклон рабочего стола">Нет</param>
+        <param name="Возможность компактного хранения">Да</param>
+        <param name="Материал ножей">Нержавеющая сталь</param>
+        <param name="Отверстия для крепления к столу">Нет</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Прорезиненные ножки">Нет</param>
+        <param name="Длина ножа (см)">18</param>
       </offer>
       <offer id="f11_16788-9_16788-9" available="true">
         <name>Слайсер ручной для нарезки нож 15 см ломтерезка для дома из нержавеющей стали 16788-9</name>
@@ -45040,37 +45164,6 @@
         <param name="Цвет корпуса">Черный</param>
         <param name="Мощность нагрузки">2500 Вт</param>
       </offer>
-      <offer id="f11_HP-5-29_HP-5-29" available="true">
-        <name>Сетевой фильтр удлинитель на 8 розеток с 3 USB 1 Type-C и кнопкой отключения F20U 4.7 м Черный HP-5-29</name>
-        <price>619.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>230</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-5-29_HP-5-29</vendorCode>
-        <description>Функциональный и стильный сетевой удлинитель F20U с 8 розетками, 4 портами USB и Type-C &amp;mdash; это оптимальное решение для подключения всей необходимой техники в доме или офисе. Черный корпус, компактное расположение розеток и круглая кнопка питания с LED-индикацией делают его удобным, безопасным и эстетичным выбором для повседневного использования. Характеристики сетевого удлинителя F20U тип: сетевой фильтр удлинитель с USB и Type-C; количество розеток: 8 шт с заземлением; количество портов: 3 шт USB, 1 шт Type-C; длина кабеля: 4.7 метров; размер сетевого фильтра: 27&amp;times;11&amp;times;4 см; переключатель питания: кнопка включения/выключения на корпусе; материал: термостойкий ABS-пластик; универсальный разъём: подходит для бытовых и офисных приборов. Преимущества фильтра F20U с USB Подключение до 12 устройств одновременно &amp;mdash; 8 розеток + 4 USB-порта. Зарядка гаджетов без адаптеров &amp;mdash; 3 USB + 1 Type-C. Надёжная защита от скачков напряжения и коротких замыканий. Эстетичный дизайн &amp;mdash; впишется в любой интерьер, от дома до офиса. Кнопка полного отключения &amp;mdash; управление питанием одним нажатием. Незаменим в условиях перебоев с электроэнергией: фильтр F20U позволяет безопасно отключить всё оборудование от сети и продолжать зарядку мобильных устройств даже при нестабильной подаче тока. Купить сетевой удлинитель с USB можно с доставкой по всей Украине. Быстрая отправка и надёжная упаковка. Закажите сетевой фильтр F20U уже сейчас &amp;mdash; обеспечьте комфорт и порядок в электропитании ваших устройств, дома или на работе.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4328</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_3.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_4.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_5.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_6.png</picture>
-        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-        <param name="Длина шнура">4.7 м</param>
-        <param name="Количество выходных розеток">8</param>
-        <param name="Выключатель">Да</param>
-        <param name="Входная вилка">ЕURO</param>
-        <param name="Заземление">Да</param>
-        <param name="Выходная розетка">Евро</param>
-        <param name="Защитная крышка">Нет</param>
-        <param name="Защита от короткого замыкания">Да</param>
-        <param name="Длина провода">4.7 м</param>
-        <param name="Состояние">Новое</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Мощность нагрузки">2500 Вт</param>
-      </offer>
       <offer id="f11_HP-5-30_HP-5-30" available="true">
         <name>Сетевой фильтр удлинитель на 8 розеток с 3 USB 1 Type-C и кнопкой отключения F20U 4.8 м Белый HP-5-30</name>
         <price>719.0</price>
@@ -45101,6 +45194,68 @@
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Белый</param>
         <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
+      <offer id="f11_HP-5-31_HP-5-31" available="true">
+        <name>Аварийная лампочка на аккумуляторах E27 со съёмной крышкой — электролампочка с аккумулятором HP-5-31</name>
+        <price>219.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>217</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-31_HP-5-31</vendorCode>
+        <description>Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным. Характеристики лампочки тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец. Преимущества электролампочки Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения. Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт. Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4330</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
+        <param name="Мощность">20</param>
+        <param name="Диаметр">70</param>
+        <param name="Напряжение">220</param>
+        <param name="Количество в упаковке">1</param>
+        <param name="Минимальное рабочее напряжение">85</param>
+        <param name="Длина">160</param>
+        <param name="Максимальное рабочее напряжение">265</param>
+        <param name="Минимальная цветовая температура">8000</param>
+        <param name="Максимальная цветовая температура">8500</param>
+        <param name="Срок службы ламп">50000</param>
+        <param name="Цоколь">E27</param>
+        <param name="Рабочее напряжение (В)">175-265|170-260|85-265</param>
+        <param name="Тип цоколя">Резьба</param>
+        <param name="Световой поток">1400</param>
+        <param name="Угол свечения">180</param>
+        <param name="Рабочее положение">Вертикальное</param>
+        <param name="Тип лампы">Светодиодная</param>
+      </offer>
+      <offer id="f11_HP-5-32_HP-5-32" available="true">
+        <name>Лампочка на аккумуляторах для патрона с крючком E27 - аварийная электролампочка HP-5-32</name>
+        <price>339.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>217</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-32_HP-5-32</vendorCode>
+        <description>Лампочка на аккумуляторах &amp;mdash; идеальное решение для дома, дачи, кемпинга и любых ситуаций, когда важен стабильный свет даже при отключении электроэнергии. Удобная форма, крючок для подвешивания и встроенный аккумулятор делают её универсальной и эстетически привлекательной в любом интерьере. Характеристики лампочки E27 тип: аварийная лампочка со встроенным аккумулятором; разъём зарядки: micro USB (INPUT); высота лампочки 17 см; диаметр 7 см; тип цоколя E27 с подвесным крюком; мощность 15/20 Вт; напряжение 90-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; индикация зарядки: LED-индикатор; материал корпуса: ABS-пластик; цвет корпуса: белый. Преимущества электро лампочки Автономная работа &amp;mdash; светит даже при полном отключении электричества. Лёгкая установка &amp;mdash; подходит к стандартному патрону и подвешивается на крюк. Перезаряжаемый аккумулятор &amp;mdash; долгий срок службы и экономия на батарейках. Компактный размер &amp;mdash; удобно брать в дорогу, на дачу или в поход. Яркое освещение &amp;mdash; комфорт для глаз в любое время суток. Идеальный выбор в условиях перебоев с электроэнергией &amp;mdash; эта электролампочка с аккумулятором обеспечит стабильное освещение при любой непредвиденной ситуации. Будьте уверены: свет будет всегда под рукой. Закажите лампочку со встроенным аккумулятором с доставкой по всей Украине. Отправка в день заказа, надёжная упаковка, варианты оплаты на выбор. Будьте готовы к любой ситуации &amp;mdash; добавьте в корзину аварийную лампочку на аккумуляторах и обеспечьте надёжное освещение дома, в офисе или на выезде.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4331</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_5.jpg</picture>
+        <param name="Мощность">20</param>
+        <param name="Диаметр">70</param>
+        <param name="Напряжение">220</param>
+        <param name="Количество в упаковке">1</param>
+        <param name="Минимальное рабочее напряжение">90</param>
+        <param name="Длина">170</param>
+        <param name="Максимальное рабочее напряжение">265</param>
+        <param name="Минимальная цветовая температура">8000</param>
+        <param name="Максимальная цветовая температура">8500</param>
+        <param name="Срок службы ламп">50000</param>
+        <param name="Цоколь">E27</param>
+        <param name="Световой поток">1400</param>
+        <param name="Угол свечения">180</param>
       </offer>
       <offer id="f11_SK3391R_SK3391R" available="true">
         <name>Пылесос аккумуляторный ручной Sokany вертикальный беспроводной для сухой уборки 2 скорости 2000 Вт SK3391R</name>
@@ -49224,6 +49379,33 @@
         <param name="Принцип работы">Механический</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_HP-8-40_HP-8-40" available="true">
+        <name>Ложка сервировочная из нержавеющей стали 29×5.5 (см) HP-8-40</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-8-40_HP-8-40</vendorCode>
+        <description>Сервировочная ложка из нержавеющей стали &amp;mdash; стильный и практичный аксессуар, который станет отличным дополнением к любой кухне или праздничному столу. Она предназначена для удобной порционной подачи вторых блюд, гарниров, салатов, а также для аккуратной заправки готовых блюд соусами. Благодаря продуманной форме и прочной конструкции, ложка обеспечивает комфортное использование и презентабельную подачу пищи. Изделие выполнено из цельнолитой пищевой нержавеющей стали, что гарантирует его прочность, долговечность и устойчивость к коррозии. Особое внимание заслуживает рельефная молотковая текстура поверхности &amp;mdash; она не только придаёт ложке стильный внешний вид, но и обеспечивает надёжное сцепление с рукой, даже если она мокрая или жирная. Основные характеристики ложка сервировочной Размер: 29&amp;times;5.5 см; Материал: нержавеющая сталь. Ложка подходит как для домашнего использования, так и для ресторанов, кафе, кейтерингового обслуживания, банкетов и фуршетов. Она уместна на столе в формате &amp;laquo;шведский стол&amp;raquo; и во время семейных застолий.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4516</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4516/lozhka_servirovochnaya_iz_nerzhaveyushchey_stali_29_5_5_sm_bolshaya_lozhka_dlya_podachi_blyud.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4516/lozhka_servirovochnaya_iz_nerzhaveyushchey_stali_29_5_5_sm_bolshaya_lozhka_dlya_podachi_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4516/lozhka_servirovochnaya_iz_nerzhaveyushchey_stali_29_5_5_sm_bolshaya_lozhka_dlya_podachi_blyud_2.jpg</picture>
+        <param name="Тип">Ложка</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Вес">100 г</param>
+        <param name="Ширина">5.5 см</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип ложки">Сервировочная</param>
+        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">29 см</param>
+        <param name="Поверхность">Глянцевая</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-8-41_HP-8-41" available="true">
         <name>Шумовка для снятия пены из нержавеющей стали 39 (см) HP-8-41</name>
         <price>469.0</price>
@@ -49317,6 +49499,30 @@
         <param name="Подходит для посуды с тефлоновым покрытием">Нет</param>
         <param name="Цвет">Коричневый</param>
         <param name="Длина">38 см</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-8-45_HP-8-45" available="true">
+        <name>Половник металлический кухонный 27 (см) из нержавейки с деревянной ручкой HP-8-45</name>
+        <price>429.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>49</categoryId>
+        <vendor>Ding Lanfang</vendor>
+        <vendorCode>f11_HP-8-45_HP-8-45</vendorCode>
+        <description>Половник кухонный &amp;ndash; незаменимый инструмент для сервировки супов, борщей, бульонов и других жидких блюд. Благодаря глубокой чаше и удлинённой ручке он позволяет легко и аккуратно наливать жидкости без риска проливания и ожогов. Материал рабочей части &amp;ndash; пищевая нержавеющая сталь. Она устойчива к коррозии, не впитывает запахи и легко моется даже после интенсивного использования. Ручка изготовлена из натурального дерева, придающего эргономику и эстетику, не нагревается во время использования и приятна на ощупь. Благодаря отверстию на конце ручки половник удобно хранить в подвешенном виде. Основные характеристики половника: Длина: 27 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево. Половник станет незаменимым помощником на вашей кухне &amp;mdash; будь то повседневная готовка или подача первых блюд на праздничный стол. Его прочность, удобство и эстетичный внешний вид делают его удачным выбором как для домашнего, так и для профессионального использования.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4521</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_4.jpg</picture>
+        <param name="Тип">Половник</param>
+        <param name="Материал основной части">Нержавеющая сталь</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Материал ручки">дерево</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Длина">27 см</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -49600,6 +49806,27 @@
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_HP-8-59_HP-8-59" available="true">
+        <name>Картофелемялка для пюре 26 (см) толкушка для картошки из нержавейки с деревянной ручкой HP-8-59</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>49</categoryId>
+        <vendor>Ding Lanfang</vendor>
+        <vendorCode>f11_HP-8-59_HP-8-59</vendorCode>
+        <description>Картофелемялка для пюре &amp;mdash; незаменимый кухонный инструмент для быстрого и удобного приготовления пюре из картофеля, моркови, кабачков, гарбузов и других овощей. Рабочая часть аксессуара изготовлена из прочной пищевой нержавеющей стали, устойчивой к деформации, коррозии и высоким температурам. Она эффективно разминает овощи, не повреждая посуду и обеспечивая однородную консистенцию пюре. Удобная деревянная ручка приятно лежит в руке, не скользит и не нагревается при использовании, что делает работу более комфортной и безопасной. Основные характеристики толкушки для пюре: Длина: 26 см; Диаметр решетки: 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево. Толкушка для картофеля с деревянной ручкой &amp;mdash; это практичный и долговечный аксессуар, который упростит процесс приготовления любимых блюд и станет полезным помощником на любой кухне.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4534</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_2.jpg</picture>
+        <param name="Ширина">9</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Материал ручки">дерево</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Длина">26</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-8-60_HP-8-60" available="true">
         <name>Набор кухонных тёрок 3 (шт) терки ручные для овощей универсальные из нержавейки HP-8-60</name>
         <price>179.0</price>
@@ -49648,6 +49875,30 @@
         <param name="Материал ручек">Нержавеющая сталь</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_HP-8-62_HP-8-62" available="true">
+        <name>Щипцы кухонные металлические 21.5×5 (см) кулинарные щипцы для мяса, рыбы, гриля поварские щипцы Золотистый HP-8-62</name>
+        <price>189.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>49</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-8-62_HP-8-62</vendorCode>
+        <description>Универсальные кухонные щипцы — практичный и многофункциональный аксессуар, который пригодится на любой кухне. Они идеально подходят как для процесса приготовления пищи, так и для аккуратной подачи готовых блюд. Щипцы обеспечивают надёжный захват продуктов, что особенно удобно при переворачивании мяса, рыбы, овощей, птицы или морепродуктов на сковороде, в духовке или на гриле. Эти щипцы для кухни также отлично подходят для профессионального использования — в ресторанах, кафе, при кейтеринговом обслуживании и на фуршетах. С их помощью можно элегантно подавать салаты, гарниры, мясные и рыбные закуски, пироги, булочки, горячие и холодные блюда в формате "шведского стола". Основные характеристики кухонных щипцов: Размер: 21.5×5 см; Материал: щипцов нержавеющая сталь. Изделие изготовлено из прочной нержавеющей стали, что обеспечивает его долговечность и устойчивость к коррозии. Ручки покрыты силиконовым слоем, который не скользит и защищает от ожогов. Оптимальная длина щипцов позволяет работать с горячими продуктами на безопасном расстоянии, а петля на конце ручки позволяет удобно хранить аксессуар в подвешенном состоянии. Щипцы легко моются, не впитывают запахи и не требуют особого ухода. Этот простой, но эффективный инструмент станет незаменимым помощником как в повседневной кулинарии, так и на праздничном столе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4537</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4537/shchiptsy_kuhonnye_metallicheskie_21_5_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_zolotistyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4537/shchiptsy_kuhonnye_metallicheskie_21_5_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_zolotistyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4537/shchiptsy_kuhonnye_metallicheskie_21_5_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_zolotistyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4537/shchiptsy_kuhonnye_metallicheskie_21_5_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_zolotistyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4537/shchiptsy_kuhonnye_metallicheskie_21_5_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_zolotistyy_4.jpg</picture>
+        <param name="Назначение">Универсальный</param>
+        <param name="Ширина">50</param>
+        <param name="Материал рабочей части">Нержавеющая сталь</param>
+        <param name="Цвет">Золотистый</param>
+        <param name="Длина">215</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Материал ручек">Нержавеющая сталь</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-8-64_HP-8-64" available="true">
         <name>Щипцы кухонные металлические 25×5 (см) кулинарные щипцы для мяса, рыбы, гриля поварские щипцы Золотистый HP-8-64</name>
         <price>199.0</price>
@@ -49691,6 +49942,29 @@
         <param name="Материал рабочей части">Нержавеющая сталь</param>
         <param name="Цвет">Серый</param>
         <param name="Длина">230</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Материал ручек">Нержавеющая сталь</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-8-66_HP-8-66" available="true">
+        <name>Щипцы кухонные металлические 34×4.5 (см) кулинарные щипцы для мяса, рыбы, гриля поварские щипцы HP-8-66</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>49</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-8-66_HP-8-66</vendorCode>
+        <description>Универсальные кухонные щипцы &amp;mdash; практичный и многофункциональный аксессуар, который пригодится на любой кухне. Они идеально подходят как для процесса приготовления пищи, так и для аккуратной подачи готовых блюд. Благодаря зубчатым краям на "губках", щипцы обеспечивают надёжный захват продуктов, что особенно удобно при переворачивании мяса, рыбы, овощей, птицы или морепродуктов на сковороде, в духовке или на гриле. Эти щипцы для кухни также отлично подходят для профессионального использования &amp;mdash; в ресторанах, кафе, при кейтеринговом обслуживании и на фуршетах. С их помощью можно элегантно подавать салаты, гарниры, мясные и рыбные закуски, пироги, булочки, горячие и холодные блюда в формате "шведского стола". Основные характеристики кухонных щипцов: Размер: 34&amp;times;4.5 см; Материал: щипцов нержавеющая сталь; Материал ручки: нержавеющая сталь, силикон. Изделие изготовлено из прочной нержавеющей стали, что обеспечивает его долговечность и устойчивость к коррозии. Ручки покрыты силиконовым слоем, который не скользит и защищает от ожогов. Оптимальная длина щипцов позволяет работать с горячими продуктами на безопасном расстоянии, а петля на конце ручки позволяет удобно хранить аксессуар в подвешенном состоянии. Щипцы легко моются, не впитывают запахи и не требуют особого ухода. Этот простой, но эффективный инструмент станет незаменимым помощником как в повседневной кулинарии, так и на праздничном столе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4541</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4541/shchiptsy_kuhonnye_metallicheskie_34_4_5_sm_kulinarnye_shchiptsy_dlya_myasa_ryby_grilya_povarskie_shchiptsy_dlya_perevorachi_3.jpg</picture>
+        <param name="Назначение">Универсальный</param>
+        <param name="Ширина">45</param>
+        <param name="Материал рабочей части">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">340</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Материал ручек">Нержавеющая сталь</param>
         <param name="Гарантия">14 дней</param>
@@ -49821,6 +50095,37 @@
         <param name="Назначение">Для вишни, черешни</param>
         <param name="Ширина">40</param>
         <param name="Цвет">Красный</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-8-74_HP-8-74" available="true">
+        <name>Многофункциональная овощерезка 39×14×13 см HP-8-74</name>
+        <price>1809.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>261</categoryId>
+        <vendor>API-Prom.ua</vendor>
+        <vendorCode>f11_HP-8-74_HP-8-74</vendorCode>
+        <description>Универсальная овощерезка, которая станет незаменимым помощником на вашей кухне. С ней нарезка, шинковка и натирание продуктов займут минимум времени и усилий. Модель оснащена прочными лезвиями из нержавеющей стали, которые не требуют замены. Благодаря удобному поворотному механизму вы легко регулируете толщину нарезки и выбираете нужный режим. Платформа устойчива и приподнята &amp;mdash; готовые нарезанные продукты удобно собирать в контейнер или тарелку. Противоскользящие накладки обеспечивают стабильность во время использования. Овощерезку легко мыть &amp;mdash; под струей воды или в посудомоечной машине. При этом не рекомендуется использовать губки или полотенца для очистки и сушки. Характеристики многофункциональной овощерезки: Материалы: Нержавеющая сталь, пластик; Размер в разложенном виде: 39&amp;times;14&amp;times;13 см; Комплектация: Овощерезка Упаковка Преимущества универсальной овощерезки для овощей: Быстрая и ровная нарезка без усилий; Идеально для чипсов, салатов, фри, декора; Компактное хранение и простая очистка; Прочный и безопасный корпус. Мультифункциональная овощерезка &amp;mdash; это идеальное сочетание функциональности, удобства и безопасности. Она значительно упростит приготовление домашних блюд, сэкономит ваше время и обеспечит безупречный результат при каждой нарезке. Благодаря продуманной конструкции и широкому выбору режимов, вы легко справитесь с любыми кулинарными задачами &amp;mdash; от повседневных салатов до праздничных украшений.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4549</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_7.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4549/mnogofunktsionalnaya_ovoshcherezka_39_14_13_sm_ruchnaya_terka_dlya_ovoshchey_shinkovka_dlya_kapusty_morkovi_9.jpg</picture>
+        <param name="Материал">Пластик</param>
+        <param name="Высота">130</param>
+        <param name="Вес">900</param>
+        <param name="Основное назначение">Для капусты|Для моркови по-корейски|Многофункциональная|Для овощей</param>
+        <param name="Ширина">140</param>
+        <param name="Материал ручки">Пластик</param>
+        <param name="Материал корпуса">Нержавеющая сталь|Пластик</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">350</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-14-1_HP-14-1" available="true">
@@ -67779,6 +68084,42 @@
         <param name="Возрастная группа">Для детей и взрослых</param>
         <param name="Материал каркаса">натуральное дерево</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_SJ-0014B_SJ-0014B" available="true">
+        <name>Кресло раскладное туристическое 50х80х80 см с подстаканником Черное SJ-0014B</name>
+        <price>629.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Lugi</vendor>
+        <vendorCode>f11_SJ-0014B_SJ-0014B</vendorCode>
+        <description>Складное кемпинговое кресло имеет металлический каркас, который обеспечивает прочность и устойчивость. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии:50х80х80 см; Размер в сложенном состоянии: 83х15х15 см; Ширина сиденья: 41 см; Рекомендуемая нагрузка: 100 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Этот материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в частности во время кемпинга или на пикниках. Легкость в использовании и складывании делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5583</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_9.jpg</picture>
+        <param name="Вес">1.7 кг</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал спинки">Ткань</param>
+        <param name="Подстаканник">1</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Регулируемые опоры">Нет</param>
+        <param name="Ширина стула">80 см</param>
+        <param name="Максимально допустимая нагрузка">100 кг</param>
+        <param name="Цвет">Чёрный</param>
+        <param name="Высота стула с учетом спинки">80 см</param>
+        <param name="Состояние">Новое</param>
+        <param name="Глубина стула">50 см</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
       <offer id="f11_SJ-0056-1_SJ-0056-1" available="true">
         <name>Кресло раскладное туристическое 47х58х70 см с карманом Черное SJ-0056-1</name>
@@ -89636,27 +89977,6 @@
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Лимонадница</param>
         <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-19-303_HP-19-303" available="true">
-        <name>Лимонадница Crystal Trinity 5 литров с краном для мохито малока сока напитков HP-19-303</name>
-        <price>1789.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>52</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-19-303_HP-19-303</vendorCode>
-        <description>Вместительная лимонадница из толстого стекла для подачи холодных напитков подходит для больших компаний, праздников на свежем воздухе или использования в кафе. Благодаря объему в 5 литров, напитка хватит на всех, а кран позволит гостям наливать его самостоятельно. Особенности Объем 5 литров: Идеальный размер для вечеринок, свадеб или семейных посиделок &amp;mdash; не придется постоянно доливать напиток. Легко заправлять: Через широкое горлышко удобно засыпать лед, добавлять целые дольки фруктов или ягоды. Устойчивость: Массивное квадратное основание гарантирует, что диспенсер не опрокинется. Материал: Прочное стекло, кран из пищевого пластика с металлизированным покрытием. Назначение: Для лимонада, морса, сока, воды с лимоном или холодного чая. Крышка: Достаточно тяжелая стеклянная крышка защищает напиток от пыли и насекомых. Характеристики: Материал: стекло Объем: 5 л Диаметр: 19см Высота: 52 см Материал краника: пластик Вес: 5,1 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6787</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_3.png</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Функциональное назначение">Для пива|Для кваса|Для газированных напитков|Для сока/фреша|Для молока</param>
-        <param name="Тип оборудования по мобильности">Передвижной</param>
-        <param name="Количество кранов">1</param>
-        <param name="Сфера использования">HoReCa|Уличная торговля</param>
-        <param name="Тип установки оборудования">Настольный</param>
       </offer>
       <offer id="f11_HP-19-304_HP-19-304" available="true">
         <name>Лимонадница Fractal с краном для сока мохито молока напитков 1,8 литра HP-19-304</name>
