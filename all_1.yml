@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-02 12:07">
+<yml_catalog date="2026-04-02 13:43">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="47">Наборы для специй</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="21">Электробритвы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="144">Вентиляторы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="53">Кувшины</category>
-      <category id="193">Доски для подачи</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="141">Салатницы</category>
-      <category id="283">Подносы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="52">Лимонадницы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="279">Зонты</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="150">Спальные мешки</category>
-      <category id="125">Мангалы</category>
-      <category id="17">Воскоплавы</category>
-      <category id="224">Гамаки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="278">Косметички</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="20">Эпиляторы</category>
-      <category id="63">Кастрюли</category>
-      <category id="15">Плойки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="122">Аксессуары</category>
-      <category id="56">Бокалы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="6">LED ленты</category>
-      <category id="284">Новогодний декор</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="93">Электрочайники</category>
-      <category id="145">Смарт-часы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="287">Банты на елку</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="133">Масленки</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="75">Утюги</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="87">Соковыжималки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="124">Решетки</category>
-      <category id="261">Терки</category>
-      <category id="90">Мясорубки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="271">Товары для уборки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="285">Йогуртницы</category>
-      <category id="103">Проекторы</category>
-      <category id="23">Фены</category>
-      <category id="186">Тостеры</category>
-      <category id="76">Отпариватели</category>
-      <category id="140">Крышки</category>
-      <category id="13">Триммеры</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="128">Органайзеры</category>
-      <category id="60">Мармиты</category>
-      <category id="114">Повербанки</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="67">Столовые приборы</category>
-      <category id="31">Часы настенные</category>
-      <category id="29">Салфетницы</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="34">Подсвечники</category>
-      <category id="89">Миксеры</category>
-      <category id="132">Конфетницы</category>
-      <category id="61">Сковородки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="72">Весы напольные</category>
-      <category id="292">Столовая посуда</category>
-      <category id="66">Сервизы</category>
-      <category id="65">Креманки</category>
-      <category id="221">Туристические души</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="54">Стаканы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="182">Блюда</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="298">Брелки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="187">Слайсеры</category>
-      <category id="148">Туристические коврики</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="68">Тарелки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="55">Рюмки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="62">Ковши</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="262">Термосумки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="195">Разделочные доски</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="33">Пепельницы</category>
-      <category id="136">Дуршлаги</category>
-      <category id="14">Стайлеры</category>
-      <category id="126">Ланч боксы</category>
-      <category id="110">Наушники</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="212">Мебель</category>
-      <category id="59">Все для выпечки</category>
-      <category id="166">Тортовницы</category>
-      <category id="111">Портативные колонки</category>
       <category id="82">Другая мелкая техника</category>
-      <category id="118">Сумки</category>
-      <category id="149">Палатки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="98">Блендеры</category>
-      <category id="300">Подушки для спины</category>
-      <category id="77">Пылесосы</category>
-      <category id="92">Кофеварки и кофемолки</category>
       <category id="260">Дождевики и пончо туристические</category>
-      <category id="42">Термосы для детей</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="316">Туристические плиты</category>
-      <category id="184">Бульонницы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="194">Менажницы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="96">Вакууматоры</category>
+      <category id="150">Спальные мешки</category>
+      <category id="33">Пепельницы</category>
+      <category id="187">Слайсеры</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="89">Миксеры</category>
+      <category id="28">Держатели для бумажных полотенец</category>
       <category id="147">Наборы для пикника</category>
+      <category id="195">Разделочные доски</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="126">Ланч боксы</category>
+      <category id="145">Смарт-часы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="193">Доски для подачи</category>
+      <category id="136">Дуршлаги</category>
+      <category id="54">Стаканы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="6">LED ленты</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="53">Кувшины</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="294">Новогодние елки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="111">Портативные колонки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="133">Масленки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="42">Термосы для детей</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="182">Блюда</category>
+      <category id="55">Рюмки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="87">Соковыжималки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="75">Утюги</category>
+      <category id="287">Банты на елку</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="184">Бульонницы</category>
+      <category id="29">Салфетницы</category>
+      <category id="166">Тортовницы</category>
+      <category id="31">Часы настенные</category>
+      <category id="63">Кастрюли</category>
+      <category id="279">Зонты</category>
+      <category id="62">Ковши</category>
+      <category id="284">Новогодний декор</category>
+      <category id="278">Косметички</category>
+      <category id="114">Повербанки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="66">Сервизы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="194">Менажницы</category>
+      <category id="262">Термосумки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="13">Триммеры</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="65">Креманки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="17">Воскоплавы</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="292">Столовая посуда</category>
+      <category id="124">Решетки</category>
+      <category id="60">Мармиты</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="20">Эпиляторы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="141">Салатницы</category>
+      <category id="118">Сумки</category>
+      <category id="298">Брелки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="149">Палатки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="103">Проекторы</category>
+      <category id="56">Бокалы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="224">Гамаки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="122">Аксессуары</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="140">Крышки</category>
+      <category id="221">Туристические души</category>
       <category id="57">Чашки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="283">Подносы</category>
+      <category id="128">Органайзеры</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="81">Капучинаторы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="316">Туристические плиты</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="34">Подсвечники</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="72">Весы напольные</category>
+      <category id="125">Мангалы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="61">Сковородки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="132">Конфетницы</category>
+      <category id="90">Мясорубки</category>
+      <category id="110">Наушники</category>
+      <category id="47">Наборы для специй</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="271">Товары для уборки</category>
+      <category id="67">Столовые приборы</category>
       <category id="264">Мягкие игрушки</category>
+      <category id="93">Электрочайники</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="68">Тарелки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="23">Фены</category>
+      <category id="148">Туристические коврики</category>
+      <category id="77">Пылесосы</category>
+      <category id="15">Плойки</category>
+      <category id="98">Блендеры</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="212">Мебель</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="261">Терки</category>
+      <category id="144">Вентиляторы</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="186">Тостеры</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="14">Стайлеры</category>
+      <category id="21">Электробритвы</category>
+      <category id="76">Отпариватели</category>
+      <category id="88">Мультиварки и скороварки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -90920,6 +90920,666 @@
         <param name="Форм-фактор">Переносной</param>
         <param name="Форма">Прямоугольная</param>
       </offer>
+      <offer id="f11_ML-77A-11_ML-77A-11" available="true">
+        <name>Мармитница фарфоровая 1 л на подставке с подогревом 31х16х11 см ML-77A-11</name>
+        <price>1539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-77A-11_ML-77A-11</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы предназначена для подачи горячих блюд с поддержкой температуры во время сервировки. Конструкция с металлической подставкой и подогревом от двух свечей-таблеток позволяет сохранять тепло без использования электроэнергии, что удобно для дома или мероприятий. Формат подходит для размещения на обеденном или праздничном столе. Емкость объемом 1 л оптимальна для гарниров, вторых блюд или закусок. Фарфоровая чаша равномерно удерживает тепло, а металлическая подставка золотистого цвета обеспечивает устойчивость и предусматривает место для двух свечей, что способствует более равномерному подогреву. Прямоугольная форма позволяет эффективно использовать пространство на столе. Мармитница имеет удобные габариты и достаточный вес для стабильного использования. Конструкция легко разбирается, что упрощает очистку и хранение. Подходит для ежедневного использования или подачи блюд во время приема гостей. Характеристики: Форма: прямоугольная Материал емкости: фарфор Материал подставки: металл Цвет подставки: золотистый Объем: 1 л Источник подогрева: 2 свечи-таблетки Высота: 11 см Длина: 16 см Ширина: 31 см Вес: 1.7 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6907</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6907/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_podstavke_s_podogrevom_31h16h11_sm_marmit_na_podstavke_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6907/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_podstavke_s_podogrevom_31h16h11_sm_marmit_na_podstavke_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6907/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_podstavke_s_podogrevom_31h16h11_sm_marmit_na_podstavke_dlya_pervyh_blyud_3.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-77A-13_ML-77A-13" available="true">
+        <name>Мармитница прямоугольная на подставке с подогревом 35.5х19х15.5 см ML-77A-13</name>
+        <price>1769.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-77A-13_ML-77A-13</vendorCode>
+        <description>Мармитница имеет прямоугольную форму из белого фарфора. По верхнему краю расположена золотая отделка, которая подчеркивает контур и добавляет завершенности. Конструкция установлена на металлической подставке золотого цвета, что обеспечивает устойчивость и позволяет использовать свечи или горелки для подогрева. Основной материал &amp;ndash; гладкий белый фарфор с мраморным узором, дополнен золотым ободком по краю. Дизайн сдержанный и симметричный, без избыточного декора, что делает изделие универсальным для различных стилей сервировки. Стеклянная крышка прозрачная, с металлической ручкой золотого цвета, которая гармонично сочетается с подставкой и отделкой. Мармитница предназначена для подачи горячих блюд с поддержкой их температуры. Металлическая подставка позволяет разместить подогревательные элементы, а стеклянная крышка сохраняет тепло и аромат, при этом позволяя видеть содержимое. Фарфор устойчив к высоким температурам и легко очищается после использования, что делает изделие практичным в ежедневном применении и во время праздничных событий.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6908</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
+        <param name="Материал">Керамика</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-77A-15_ML-77A-15" available="true">
+        <name>Мармитница фарфоровая 2 л прямоугольная на подставке с подогревом 40х22.5х15.5 см ML-77A-15</name>
+        <price>2159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-77A-15_ML-77A-15</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы предназначена для подачи горячих блюд с поддержкой температуры во время сервировки. Конструкция с металлической подставкой и подогревом от двух свечей-таблеток позволяет сохранять тепло без использования электроэнергии, что удобно для дома или мероприятий. Формат подходит для размещения на обеденном или праздничном столе. Емкость объемом 2 л оптимальна для гарниров, вторых блюд или закусок. Фарфоровая чаша равномерно удерживает тепло, а металлическая подставка золотистого цвета обеспечивает устойчивость и предусматривает место для двух свечей, что способствует более равномерному подогреву. Прямоугольная форма позволяет эффективно использовать пространство на столе. Мармитница имеет удобные габариты и достаточный вес для стабильного использования. Конструкция легко разбирается, что упрощает очистку и хранение. Подходит для ежедневного использования или подачи блюд во время приема гостей. Характеристики: Форма: прямоугольная Материал емкости: фарфор Материал подставки: металл Цвет подставки: золотистый Объем: 2 л Источник подогрева: 2 свечи-таблетки Высота: 15,5 см Длина: 22,5 см Ширина: 40 см Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6909</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6909/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_na_podstavke_dlya_pervyh_blyud.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6909/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_na_podstavke_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6909/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_na_podstavke_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6909/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_na_podstavke_dlya_pervyh_blyud_3.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML789-11_ML789-11" available="true">
+        <name>Мармитница фарфоровая 1 л прямоугольная на металлической подставке 31х16х11 см ML789-11</name>
+        <price>1539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML789-11_ML789-11</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы используется для подачи горячих блюд с поддержкой температуры во время сервировки. Конструкция с металлической подставкой и подогревом от двух свечей-таблеток позволяет сохранять тепло без подключения к электросети. Стеклянная крышка дает возможность контролировать содержимое без открывания. Емкость объемом 1 л подходит для гарниров, вторых блюд или закусок. Фарфоровая чаша удерживает тепло, а металлическая подставка золотистого цвета обеспечивает устойчивость и равномерный подогрев за счет двух источников тепла. Прямоугольная форма способствует удобному размещению на столе и эффективному использованию пространства. Модель имеет разборную конструкцию, что упрощает уход и хранение. Благодаря сбалансированным размерам и весу мармитница подходит для ежедневного использования или сервировки во время приема гостей. Характеристики: Форма: прямоугольная Материал емкости: фарфор Материал крышки: стекло Материал подставки: металл Цвет подставки: золотистый Объем: 1 л Источник подогрева: 2 свечи-таблетки Высота: 11 см Ширина: 16 см Длина: 31 см Вес: 1,7 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6910</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6910/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_31h16h11_sm_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6910/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_31h16h11_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6910/marmitnitsa_farforovaya_1_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_31h16h11_sm_marmit_dlya_pervyh_blyud_3.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML789-13_ML789-13" available="true">
+        <name>Мармит настольный прямоугольный с подогревом 35.5х19х15.5 см ML789-13</name>
+        <price>1769.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML789-13_ML789-13</vendorCode>
+        <description>Мармитница имеет прямоугольную форму из белого фарфора. По верхнему краю расположена тонкая золотая отделка, которая подчеркивает контур и добавляет завершенности. Конструкция установлена на металлической подставке золотого цвета, что обеспечивает устойчивость и позволяет использовать свечи для подогрева. Основной материал &amp;ndash; гладкий белый фарфор, украшенный золотым орнаментом по краю. Узор сдержанный, симметричный, без избыточного декора, что делает изделие универсальным для различных стилей сервировки. Стеклянная крышка прозрачная, с металлической ручкой золотого цвета, гармонично сочетающейся с подставкой и отделкой. Мармитница предназначена для подачи горячих блюд с поддержкой их температуры. Металлическая подставка позволяет разместить подогревательные элементы, а стеклянная крышка сохраняет тепло и аромат, при этом позволяя видеть содержимое. Фарфор устойчив к высоким температурам и легко очищается после использования, что делает изделие практичным в ежедневном применении и во время праздничных событий. Характеристики Тип: мармитница фарфоровая Материал: фарфор Подставка: металлическая, золотого цвета Крышка: стеклянная с металлической ручкой</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6911</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6911/marmit_nastolnyy_pryamougolnyy_s_podogrevom_35_5h19h15_5_sm_keramicheskiy_na_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6911/marmit_nastolnyy_pryamougolnyy_s_podogrevom_35_5h19h15_5_sm_keramicheskiy_na_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6911/marmit_nastolnyy_pryamougolnyy_s_podogrevom_35_5h19h15_5_sm_keramicheskiy_na_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6911/marmit_nastolnyy_pryamougolnyy_s_podogrevom_35_5h19h15_5_sm_keramicheskiy_na_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6911/marmit_nastolnyy_pryamougolnyy_s_podogrevom_35_5h19h15_5_sm_keramicheskiy_na_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Материал изготовления подставки">Сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML789-15_ML789-15" available="true">
+        <name>Мармитница фарфоровая 2 л на металлической подставке 40×22,5×15,5 см ML789-15</name>
+        <price>2159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML789-15_ML789-15</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы используется для подачи горячих блюд с поддержкой температуры во время сервировки. Конструкция с металлической подставкой и подогревом от двух свечей-таблеток позволяет сохранять тепло без подключения к электросети. Стеклянная крышка дает возможность контролировать содержимое без открывания. Емкость объемом 2 л подходит для гарниров, вторых блюд или закусок. Фарфоровая чаша удерживает тепло, а металлическая подставка золотистого цвета обеспечивает устойчивость и равномерный подогрев за счет двух источников тепла. Прямоугольная форма способствует удобному размещению на столе и эффективному использованию пространства. Модель имеет разборную конструкцию, что упрощает уход и хранение. Благодаря сбалансированным размерам и весу мармитница подходит для ежедневного использования или сервировки во время приема гостей. Характеристики: Форма: прямоугольная Материал емкости: фарфор Материал крышки: стекло Материал подставки: металл Цвет подставки: золотистый Объем: 2 л Источник подогрева: 2 свечи-таблетки Высота: 15,5 см Ширина: 22,5 см Длина: 40 см Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6912</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6912/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_40_22_5_15_5_sm_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6912/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_40_22_5_15_5_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6912/marmitnitsa_farforovaya_2_l_pryamougolnaya_na_metallicheskoy_podstavke_so_steklyannoy_kryshkoy_40_22_5_15_5_sm_marmit_dlya_pervyh_blyud_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_HNG-112-11_HNG-112-11" available="true">
+        <name>Мармитница фарфоровая 1 л на подставке с подогревом 31х16х11 см HNG-112-11</name>
+        <price>1449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HNG-112-11_HNG-112-11</vendorCode>
+        <description>Мармит фарфоровый на металлической подставке с подогревом &amp;ndash; практичное решение для подачи горячих блюд дома или во время мероприятий. Благодаря конструкции с подставкой и местом для свечей-таблеток блюдо дольше остается теплым без подключения к электричеству. Стеклянная крышка позволяет контролировать содержимое без необходимости открывать емкость. Фарфоровая чаша объемом 1 л подходит для супов, гарниров, соусов или вторых блюд. Металлическая подставка золотистого цвета обеспечивает стойкость и выдерживает вес изделия вместе с содержимым. Компактные размеры позволяют удобно разместить мармит на столе, не занимая лишнего пространства. Модель рассчитана на использование с двумя свечами-таблетками, что обеспечивает равномерную поддержку температуры. Конструкция легко разбирается для мытья и хранения. Подходит для ежедневного использования или сервировки во время праздников. Характеристики: Материал чаши: фарфор Материал крышки: стекло Материал подставки: металл Цвет подставки: золотистый Объем: 1 л Высота: 11 см Ширина: 16 см Длина: 31 см Вес: 1.7 кг Источник подогрева: 2 свечи-таблетки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6913</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6913/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6913/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_marmit_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6913/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_marmit_dlya_pervyh_blyud_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_HNG-112-13_HNG-112-13" available="true">
+        <name>Мармитница фарфоровая 1.5 л на подставке с подогревом 35.5х19х15.5 см HNG-112-13</name>
+        <price>1699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HNG-112-13_HNG-112-13</vendorCode>
+        <description>Мармит фарфоровый на металлической подставке с подогревом &amp;ndash; практичное решение для подачи горячих блюд дома или во время мероприятий. Благодаря конструкции с подставкой и местом для свечей-таблеток блюдо дольше остается теплым без подключения к электричеству. Стеклянная крышка позволяет контролировать содержимое без необходимости открывать емкость. Фарфоровая чаша объемом 1,5 л подходит для супов, гарниров, соусов или вторых блюд. Металлическая подставка золотистого цвета обеспечивает стойкость и выдерживает вес изделия вместе с содержимым. Компактные размеры позволяют удобно разместить мармит на столе, не занимая лишнего пространства. Модель рассчитана на использование с двумя свечами-таблетками, что обеспечивает равномерную поддержку температуры. Конструкция легко разбирается для мытья и хранения. Подходит для ежедневного использования или сервировки во время праздников. Характеристики: Материал чаши: фарфор Материал крышки: стекло Материал подставки: металл Цвет подставки: золотистый Объем: 1,5 л Высота: 15,5 см Ширина: 19 см Длина: 35,5 см Вес: 2,16 кг Источник подогрева: 2 свечи-таблетки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6914</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6914/marmitnitsa_farforovaya_1_5_l_na_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6914/marmitnitsa_farforovaya_1_5_l_na_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6914/marmitnitsa_farforovaya_1_5_l_na_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6914/marmitnitsa_farforovaya_1_5_l_na_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_dlya_pervyh_blyud_5.jpg</picture>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Источник питания">Электричество</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_HNG-112-15_HNG-112-15" available="true">
+        <name>Мармитница фарфоровая 2 л на подставке с подогревом 40х22.5х15.5 см HNG-112-15</name>
+        <price>2089.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HNG-112-15_HNG-112-15</vendorCode>
+        <description>Мармит фарфоровый на металлической подставке с подогревом – практичное решение для подачи горячих блюд дома или во время мероприятий. Благодаря конструкции с подставкой и местом для свечей-таблеток блюдо дольше остается теплым без подключения к электричеству. Стеклянная крышка позволяет контролировать содержимое без необходимости открывать емкость. Фарфоровая чаша объемом 2 л подходит для супов, гарниров, соусов или вторых блюд. Металлическая подставка золотистого цвета обеспечивает стойкость и выдерживает вес изделия вместе с содержимым. Компактные размеры позволяют удобно разместить мармит на столе, не занимая лишнего пространства. Модель рассчитана на использование с двумя свечами-таблетками, что обеспечивает равномерную поддержку температуры. Конструкция легко разбирается для мытья и хранения. Подходит для ежедневного использования или сервировки во время праздников. Характеристики: Материал чаши: фарфор Материал крышки: стекло Материал подставки: металл Цвет подставки: золотистый Объем: 2 л Высота: 15,5 см Ширина: 22,5 см Длина: 40 см Вес: 3.1 кг Источник подогрева: 2 свечи-таблетки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6915</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6915/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6915/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6915/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6915/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6915/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_KS-624_KS-624" available="true">
+        <name>Форма для выпечки фарфоровая с ручками 29.5х23.5х6.5 см черный KS-624</name>
+        <price>729.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>59</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_KS-624_KS-624</vendorCode>
+        <description>Фарфоровая форма для выпечки квадратной формы предназначена для приготовления и подачи разнообразных блюд в духовке. Благодаря универсальному дизайну она подходит для запеканок, мяса, овощей, десертов и выпечки. Квадратная форма обеспечивает равномерное распределение блюда и удобное порционирование. Форма изготовлена из фарфора, которая хорошо выдерживает высокие температуры и способствует равномерному прогреву продуктов. Гладкая поверхность облегчает очищение после использования и не впитывает запахи. Материал подходит для ежедневного использования в домашних условиях. Удобные ручки по бокам позволяют безопасно доставать форму из духовки и переносить ее на стол для подачи. Изделие можно использовать как для приготовления, так и для сервировки готовых блюд, что делает его практичным элементом кухонной посуды. Характеристики: Тип изделия: форма для выпечки Материал: фарфор Форма: квадратная Наличие ручек: да</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6916</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6916/forma_dlya_vypechki_farforovaya_s_ruchkami_29_5h23_5h6_5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6916/forma_dlya_vypechki_farforovaya_s_ruchkami_29_5h23_5h6_5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6916/forma_dlya_vypechki_farforovaya_s_ruchkami_29_5h23_5h6_5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6916/forma_dlya_vypechki_farforovaya_s_ruchkami_29_5h23_5h6_5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_3.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота стенок">6.5</param>
+        <param name="Ширина">23.5</param>
+        <param name="Конструкция формы">Цельная</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">29.5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип духовки">Газовая или электрическая</param>
+        <param name="Тип формы">Прямоугольная</param>
+      </offer>
+      <offer id="f11_KP-171-1_KP-171-1" available="true">
+        <name>Форма для выпечки фарфоровая с ручками 36х25х7 см белый KP-171-1</name>
+        <price>799.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>59</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_KP-171-1_KP-171-1</vendorCode>
+        <description>Фарфоровая форма для выпечки квадратной формы предназначена для приготовления и подачи разнообразных блюд в духовке. Благодаря универсальному дизайну она подходит для запеканок, мяса, овощей, десертов и выпечки. Квадратная форма обеспечивает равномерное распределение блюда и удобное порционирование. Форма изготовлена из фарфора, которая хорошо выдерживает высокие температуры и способствует равномерному прогреву продуктов. Гладкая поверхность облегчает очищение после использования и не впитывает запахи. Материал подходит для ежедневного использования в домашних условиях. Удобные ручки по бокам позволяют безопасно доставать форму из духовки и переносить ее на стол для подачи. Изделие можно использовать как для приготовления, так и для сервировки готовых блюд, что делает его практичным элементом кухонной посуды. Характеристики: Тип изделия: форма для выпечки Материал: фарфор Форма: квадратная Наличие ручек: да</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6917</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6917/forma_dlya_vypechki_farforovaya_s_ruchkami_36h25h7_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_belyy.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота стенок">7</param>
+        <param name="Ширина">25</param>
+        <param name="Конструкция формы">Цельная</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">36</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип духовки">Газовая или электрическая</param>
+        <param name="Тип формы">Прямоугольная</param>
+      </offer>
+      <offer id="f11_KS-644_KS-644" available="true">
+        <name>Форма для выпечки фарфоровая с ручками прямоугольная 23х17х5 см черный KS-644</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>59</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_KS-644_KS-644</vendorCode>
+        <description>Фарфоровая форма для выпечки квадратной формы предназначена для приготовления и подачи разнообразных блюд в духовке. Благодаря универсальному дизайну она подходит для запеканок, мяса, овощей, десертов и выпечки. Квадратная форма обеспечивает равномерное распределение блюда и удобное порционирование. Форма изготовлена из фарфора, которая хорошо выдерживает высокие температуры и способствует равномерному прогреву продуктов. Гладкая поверхность облегчает очищение после использования и не впитывает запахи. Материал подходит для ежедневного использования в домашних условиях. Удобные ручки по бокам позволяют безопасно доставать форму из духовки и переносить ее на стол для подачи. Изделие можно использовать как для приготовления, так и для сервировки готовых блюд, что делает его практичным элементом кухонной посуды. Характеристики: Тип изделия: форма для выпечки Материал: фарфор Форма: квадратная Наличие ручек: да</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6918</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_2.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота стенок">5</param>
+        <param name="Ширина">17</param>
+        <param name="Количество ячеек">1</param>
+        <param name="Конструкция формы">Цельная</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">23</param>
+        <param name="Общий объем формы">1.2</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип формы">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-874-11_ML-874-11" available="true">
+        <name>Мармитница прямоугольная на подставке с подогревом 31х16х11 см ML-874-11</name>
+        <price>1539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-874-11_ML-874-11</vendorCode>
+        <description>Мармитница имеет прямоугольную форму и изготовлена из фарфора черного цвета с декоративным золотистым вкраплением по поверхности. Такой дизайн подходит для сервировки горячих блюд во время банкетов, фуршетов или семейных событий. Фарфор обеспечивает сохранение температуры и подходит для подачи различных видов блюд. Изделие укомплектовано прозрачной стеклянной крышкой с металлической ручкой, позволяющей контролировать содержимое без открывания. Крышка плотно прилегает, помогая минимизировать потери тепла и поддерживать опрятный вид подачи в течение всего времени использования. Мармитница установлена на металлической подставке золотистого цвета с подогревом от свечей-таблеток. Такой тип нагрева не требует электропитания и обеспечивает равномерное поддержание температуры. Конструкция подставки устойчива и рассчитана на многократное использование.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6919</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6919/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_31h16h11_sm_marmit_nastolnyy_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6919/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_31h16h11_sm_marmit_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6919/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_31h16h11_sm_marmit_nastolnyy_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6919/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_31h16h11_sm_marmit_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-874-13_ML-874-13" available="true">
+        <name>Мармитница прямоугольная на подставке с подогревом 35.5х19х15.5 см ML-874-13</name>
+        <price>1769.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-874-13_ML-874-13</vendorCode>
+        <description>Мармитница имеет прямоугольную форму и изготовлена из фарфора черного цвета с декоративным золотистым вкраплением по поверхности. Такой дизайн подходит для сервировки горячих блюд во время банкетов, фуршетов или семейных событий. Фарфор обеспечивает сохранение температуры и подходит для подачи различных видов блюд. Изделие укомплектовано прозрачной стеклянной крышкой с металлической ручкой, позволяющей контролировать содержимое без открывания. Крышка плотно прилегает, помогая минимизировать потери тепла и поддерживать опрятный вид подачи в течение всего времени использования. Мармитница установлена на металлической подставке золотистого цвета с подогревом от свечей-таблеток. Такой тип нагрева не требует электропитания и обеспечивает равномерное поддержание температуры. Конструкция подставки устойчива и рассчитана на многократное использование.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6920</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6920/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6920/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6920/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6920/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-874-15_ML-874-15" available="true">
+        <name>Мармитница прямоугольная 2 л на подставке с подогревом 40х22.5х15.5 см ML-874-15</name>
+        <price>2159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-874-15_ML-874-15</vendorCode>
+        <description>Мармитница фарфоровая черного цвета объемом 2 л обеспечивает удобную подачу горячих блюд и соусов на стол. Прямоугольная форма сочетается со стеклянной крышкой, что позволяет контролировать состояние блюда во время подачи. Золотистая металлическая подставка добавляет стабильности и оснащена подогревом от одной свечи-таблетки, что помогает поддерживать оптимальную температуру блюда. Высота мармитницы составляет 15.5 см, ширина – 22,5 см, а длина – 40 см, что делает ее компактной и удобной для сервировки даже на небольшом столе. Вес изделия 3.1 кг обеспечивает надежное удержание без риска переворачивания. Черный цвет фарфора придает изделию сдержанный и современный вид, который легко вписывается в любой интерьер. Простой механизм подогрева от свечи-таблетки позволяет быстро подготовить мармитницу к работе и поддерживать температуру блюда без использования электричества. Это изделие удобно для будничного использования и подходит для подачи различных горячих блюд, закусок и соусов, делая сервировку более организованной и аккуратной. Характеристики: Объем: 2 л Материал: фарфор, металлическая подставка Подогрев: от 1 свечи-таблетки Высота: 15.5 см Ширина: 22,5 см Длина: 40 см Вес: 3.1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6921</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6921/marmitnitsa_pryamougolnaya_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6921/marmitnitsa_pryamougolnaya_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6921/marmitnitsa_pryamougolnaya_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6921/marmitnitsa_pryamougolnaya_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_dlya_pervyh_blyud_5.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-860-11_ML-860-11" available="true">
+        <name>Мармитница прямоугольная на подставке с подогревом 31х16х11 см ML-860-11</name>
+        <price>1449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-860-11_ML-860-11</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы выполнена в белом цвете с аккуратной золотой отделкой по краям. Такой дизайн подходит для сервировки горячих блюд в домашних условиях, на праздничных событиях или в заведениях общественного питания. Прямоугольная форма позволяет удобно разместить изделие на столе и эффективно использовать пространство. Мармитница изготовлена из фарфора, что способствует равномерному сохранению тепла. Прозрачная стеклянная крышка обеспечивает визуальный контроль блюда без необходимости открывания, что помогает поддерживать температуру и опрятный вид подачи. Крышка легко снимается и удобна для ежедневного использования. Мармитница установлена на золотистой металлической подставке с подогревом от свечей-таблеток. Такой способ нагрева не требует подключения к электросети и подходит для фуршетов, банкетов и выездных мероприятий. Конструкция устойчива и рассчитана на многократное использование. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет: белый Отделка: золотое Крышка: стеклянная, прозрачная Материал подставки: металл Цвет подставки: золотистый Тип подогрева: от свечей-таблеток</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6922</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6922/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_nastolnyy_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6922/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6922/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_nastolnyy_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6922/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_31h16h11_sm_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-860-13_ML-860-13" available="true">
+        <name>Мармитница фарфоровая 1.5 л на золотистой подставке с подогревом 35.5х19х15.5 см ML-860-13</name>
+        <price>1699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-860-13_ML-860-13</vendorCode>
+        <description>Фарфоровая мармитница объемом 1.5 л предназначена для подачи горячих блюд с поддержкой температуры при сервировке стола. Компактный размер подходит для небольших порций гарниров, соусов или запеканок. Прямоугольная форма обеспечивает удобное размещение на столе, а крышка помогает сохранять тепло и аккуратный вид блюда. Конструкция дополнена металлической подставкой с местом для одной свечи-таблетки, которая обеспечивает равномерный мягкий подогрев. Такой вариант подходит для домашнего использования или подачи во время праздничных событий, когда важно поддерживать температуру блюд без дополнительного подогрева. Благодаря компактным габаритам изделие не занимает много места на столе. Фарфоровая емкость в сочетании с металлической подставкой создает практичное решение для ежедневного использования. Мармитница легко очищается после использования и подходит для многократного применения. Формат подачи позволяет удобно организовать стол и дольше сохранять блюда теплыми. Характеристики: Объем: 1.5 л Форма: прямоугольная Материал емкости: фарфор Подставка: металлическая Тип подогрева: от одной свечи-таблетки Высота: 15,5 см Ширина: 19 см Длина: 35,5 см Вес: 2,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6923</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6923/marmitnitsa_farforovaya_1_5_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_s_podderzhaniem_temperatury_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6923/marmitnitsa_farforovaya_1_5_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_s_podderzhaniem_temperatury_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6923/marmitnitsa_farforovaya_1_5_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_s_podderzhaniem_temperatury_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6923/marmitnitsa_farforovaya_1_5_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_35_5h19h15_5_sm_s_podderzhaniem_temperatury_5.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1.5</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML-860-15_ML-860-15" available="true">
+        <name>Мармитница фарфоровая 2 л на золотистой подставке с подогревом 40х22.5х15.5 см ML-860-15</name>
+        <price>2089.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML-860-15_ML-860-15</vendorCode>
+        <description>Фарфоровая мармитница объемом 2 л предназначена для подачи горячих блюд с поддержкой температуры при сервировке стола. Компактный размер подходит для небольших порций гарниров, соусов или запеканок. Прямоугольная форма обеспечивает удобное размещение на столе, а крышка помогает сохранять тепло и аккуратный вид блюда. Конструкция дополнена металлической подставкой с местом для одной свечи-таблетки, которая обеспечивает равномерный мягкий подогрев. Такой вариант подходит для домашнего использования или подачи во время праздничных событий, когда важно поддерживать температуру блюд без дополнительного подогрева. Благодаря компактным габаритам изделие не занимает много места на столе. Фарфоровая емкость в сочетании с металлической подставкой создает практичное решение для ежедневного использования. Мармитница легко очищается после использования и подходит для многократного применения. Формат подачи позволяет удобно организовать стол и дольше сохранять блюда теплыми. Характеристики: Объем: 2 л Форма: прямоугольная Материал емкости: фарфор Подставка: металлическая Тип подогрева: от одной свечи-таблетки Высота: 15,5 см Ширина: 22,5 см Длина: 40 см Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6924</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6924/marmitnitsa_farforovaya_2_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6924/marmitnitsa_farforovaya_2_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6924/marmitnitsa_farforovaya_2_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6924/marmitnitsa_farforovaya_2_l_na_zolotistoy_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_marmit_dlya_pervyh_blyud_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML850-11_ML850-11" available="true">
+        <name>Мармитница фарфоровая 1 л на подставке с подогревом 31*16*11 см белый ML850-11</name>
+        <price>1449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML850-11_ML850-11</vendorCode>
+        <description>Фарфоровая мармитница объемом 1 л предназначена для подачи горячих блюд с поддержкой температуры при сервировке стола. Прямоугольная форма удобна для размещения основных блюд, гарниров или запеканок. Стеклянная крышка позволяет контролировать содержимое без открывания, что помогает сохранять тепло и внешний вид подачи. Конструкция предусматривает металлическую подставку с местом для одной свечи-таблетки, которая обеспечивает мягкий подогрев. Такой формат подходит для использования дома или во время праздничных событий, когда важно дольше сохранять температуру блюд без повторного разогрева. Компактные габариты позволяют удобно разместить мармитницу на столе без лишней нагрузки пространства. Сочетание фарфоровой емкости, стеклянной крышки и металлической подставки формирует практичный вариант для подачи. Изделие легко очищается после использования и подходит для регулярного применения. Такой формат подачи помогает организовать стол более упорядоченно и поддерживать температуру блюд на протяжении всего приема пищи. Характеристики: Объем: 1 л Форма: прямоугольная Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Тип подогрева: от одной свечи-таблетки Высота: 11 см Ширина: 16 см Длина: 31 см Вес: 1,7 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6925</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6925/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31_16_11_sm_belyy_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6925/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31_16_11_sm_belyy_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6925/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31_16_11_sm_belyy_marmit_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6925/marmitnitsa_farforovaya_1_l_na_metallicheskoy_podstavke_s_podogrevom_31_16_11_sm_belyy_marmit_dlya_pervyh_blyud_5.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML850-13_ML850-13" available="true">
+        <name>Мармит настольный прямоугольный с подогревом ML850-13</name>
+        <price>1699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML850-13_ML850-13</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы выполнена в нейтральном белом цвете, который легко сочетается с разными стилями сервировки. Изделие предназначено для подачи и поддержания температуры горячих блюд во время семейных обедов, праздничных событий или профессионального использования. Прямоугольная форма позволяет удобно размещать мармитницу на столе и эффективно использовать пространство. Мармитница хорошо сохраняет тепло и подходит для различных видов горячих блюд. Прозрачная стеклянная крышка позволяет видеть содержимое без открывания, что помогает уменьшить потерю температуры и сохранить внешний вид блюда. Крышка легко снимается и удобна в уходе. Мармитница установлена на металлической подставке с золотистым покрытием, которая оснащена подогревом от свечей-таблеток. Такой способ нагрева не требует электричества и подходит для выездных мероприятий, фуршетов и банкетов. Конструкция обеспечивает стабильность и рассчитана на регулярное использование. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет чаши: белый Крышка: стеклянная, прозрачная Материал подставки: металл Цвет подставки: золотистый Тип подогрева: от свечей-таблеток</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6926</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6926/marmit_nastolnyy_pryamougolnyy_s_podogrevom_ml850_13_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6926/marmit_nastolnyy_pryamougolnyy_s_podogrevom_ml850_13_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6926/marmit_nastolnyy_pryamougolnyy_s_podogrevom_ml850_13_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6926/marmit_nastolnyy_pryamougolnyy_s_podogrevom_ml850_13_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6926/marmit_nastolnyy_pryamougolnyy_s_podogrevom_ml850_13_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_marmitnitsa_dlya_pervyh_blyud_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML850-15_ML850-15" available="true">
+        <name>Мармитница фарфоровая на подставке 2л с подогревом белый 40х22.5х15.5 см ML850-15</name>
+        <price>2089.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML850-15_ML850-15</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы выполнена в нейтральном белом цвете, который легко сочетается с разными стилями сервировки. Изделие предназначено для подачи и поддержания температуры горячих блюд во время семейных обедов, праздничных событий или профессионального использования. Прямоугольная форма позволяет удобно размещать мармитницу на столе и эффективно использовать пространство. Мармитница хорошо сохраняет тепло и подходит для различных видов горячих блюд. Прозрачная стеклянная крышка позволяет видеть содержимое без открывания, что помогает уменьшить потерю температуры и сохранить внешний вид блюда. Крышка легко снимается и удобна в уходе. Мармитница установлена на металлической подставке с золотистым покрытием, которая оснащена подогревом от свечей-таблеток. Такой способ нагрева не требует электричества и подходит для выездных мероприятий, фуршетов и банкетов. Конструкция обеспечивает стабильность и рассчитана на регулярное использование. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет чаши: белый Крышка: стеклянная, прозрачная Материал подставки: металл Цвет подставки: золотистый Тип подогрева: от свечей-таблеток</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6927</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML1106-11_ML1106-11" available="true">
+        <name>Мармит настольный прямоугольный с подогревом 31х16х11 см ML1106-11</name>
+        <price>1539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML1106-11_ML1106-11</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы предназначена для подачи и поддержания температуры готовых блюд во время сервировки. Лаконичное сочетание черного цвета с золотистой отделкой по краям делает изделие уместным как для домашнего использования, так и для банкетов, кейтеринга или ресторанного формата. Прямоугольная форма удобна для размещения на столе и рационального использования пространства. Мармитница изготовлена из фарфора, что хорошо удерживает тепло и подходит для подачи горячих блюд. Прозрачная стеклянная крышка позволяет контролировать содержимое без необходимости открывания, уменьшая потерю тепла. Крышка плотно прилегает, что помогает сохранять температуру и внешний вид блюда на протяжении всего времени подачи. Металлическая подставка оснащена местами для свечей-таблеток, которые обеспечивают равномерный подогрев без подключения к электросети. Такой формат удобен для выездных мероприятий и фуршетов. Конструкция устойчива, проста в уходе и рассчитана на многократное использование в условиях интенсивной эксплуатации. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет чаши: черный Отделка: золотистая по краям Крышка: стеклянная, прозрачная Подставка: металлическая Тип подогрева: от свечей-таблеток</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6928</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6928/marmit_nastolnyy_pryamougolnyy_s_podogrevom_31h16h11_sm_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6928/marmit_nastolnyy_pryamougolnyy_s_podogrevom_31h16h11_sm_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6928/marmit_nastolnyy_pryamougolnyy_s_podogrevom_31h16h11_sm_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6928/marmit_nastolnyy_pryamougolnyy_s_podogrevom_31h16h11_sm_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6928/marmit_nastolnyy_pryamougolnyy_s_podogrevom_31h16h11_sm_keramicheskiy_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Материал изготовления подставки">Сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Ширина">16</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">31</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML1106-13_ML1106-13" available="true">
+        <name>Мармит настольный прямоугольный с подогревом фарфоровый 35.5х19х15.5 см ML1106-13</name>
+        <price>1769.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML1106-13_ML1106-13</vendorCode>
+        <description>Мармитница фарфоровая прямоугольной формы предназначена для подачи и поддержания температуры готовых блюд во время сервировки. Лаконичное сочетание черного цвета с золотистой отделкой по краям делает изделие уместным как для домашнего использования, так и для банкетов, кейтеринга или ресторанного формата. Прямоугольная форма удобна для размещения на столе и рационального использования пространства. Мармитница изготовлена из фарфора, что хорошо удерживает тепло и подходит для подачи горячих блюд. Прозрачная стеклянная крышка позволяет контролировать содержимое без необходимости открывания, уменьшая потерю тепла. Крышка плотно прилегает, что помогает сохранять температуру и внешний вид блюда на протяжении всего времени подачи. Металлическая подставка оснащена местами для свечей-таблеток, которые обеспечивают равномерный подогрев без подключения к электросети. Такой формат удобен для выездных мероприятий и фуршетов. Конструкция устойчива, проста в уходе и рассчитана на многократное использование в условиях интенсивной эксплуатации. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет чаши: черный Отделка: золотистая по краям Крышка: стеклянная, прозрачная Подставка: металлическая Тип подогрева: от свечей-таблеток</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6929</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6929/marmit_nastolnyy_pryamougolnyy_s_podogrevom_keramicheskiy_35_5h19h15_5_sm_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6929/marmit_nastolnyy_pryamougolnyy_s_podogrevom_keramicheskiy_35_5h19h15_5_sm_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6929/marmit_nastolnyy_pryamougolnyy_s_podogrevom_keramicheskiy_35_5h19h15_5_sm_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6929/marmit_nastolnyy_pryamougolnyy_s_podogrevom_keramicheskiy_35_5h19h15_5_sm_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6929/marmit_nastolnyy_pryamougolnyy_s_podogrevom_keramicheskiy_35_5h19h15_5_sm_na_metallicheskoy_podstavke_s_kryshkoy_dlya_pervyh_blyud_6.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Фарфор</param>
+        <param name="Ширина">19</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">35.5</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML1106-15_ML1106-15" available="true">
+        <name>Мармитница фарфоровая 2 л на подставке с подогревом 40х22.5х15.5 см черный ML1106-15</name>
+        <price>2159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML1106-15_ML1106-15</vendorCode>
+        <description>Фарфоровая мармитница объемом 2 литра позволяет подавать блюда прямо на стол с элегантностью и удобством. Прямоугольная форма обеспечивает равномерное размещение пищи, а стеклянная крышка позволяет контролировать температуру и вид блюд без необходимости открывать мармитницу. Металлическая подставка с подогревом от одной свечи-таблетки поддерживает оптимальную температуру блюд во время сервировки. Золотистые ручки в виде жемчужин добавляют изделию декоративный акцент и обеспечивают удобную переноску мармитницы даже при горячем содержимом. Черный цвет создает контраст и подчеркивает форму фарфоровой емкости. Компактные габариты изделия позволяют разместить его на столе без лишней тесноты и удобно сочетать с другими предметами сервировки. Мармитница подходит для различных видов блюд - от горячих закусок до десертов. Благодаря продуманной конструкции и материалам она легко очищается после использования и сохраняет свой внешний вид даже при частом применении. Подогрев от свечи обеспечивает длительную поддержку тепла без необходимости в электрическом подключении, что делает ее удобной для праздничных и повседневных мероприятий. Характеристики: Объем: 2 л Форма: прямоугольная Крышка: стеклянная Подставка: металлическая, золотистая Подогрев: от 1 свечи-таблетки Высота: 15,5 см Ширина: 22,5 см Длина: 40 см Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6930</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6930/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_chernyy_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6930/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_chernyy_marmit_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6930/marmitnitsa_farforovaya_2_l_na_metallicheskoy_podstavke_s_podogrevom_40h22_5h15_5_sm_chernyy_marmit_dlya_pervyh_blyud_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">15.5</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">22.5</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">40</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2026_ML2026" available="true">
+        <name>Фарфоровое блюдо Tiffany 30х20.5 см овальное сервировочное ML2026</name>
+        <price>479.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2026_ML2026</vendorCode>
+        <description>Сервировочное фарфоровое блюдо Fiora Savoiardi имеет круглую форму и предназначено для подачи различных блюд на общий стол. Оно подходит для сервировки закусок, мясных и рыбных блюд, выпечки или десертов. Классическая форма делает блюдо универсальным для ежедневного использования и праздничных событий Волнистый край блюда по форме напоминает лепестки цветка, что придает изделию выразительный, но сдержанный вид. По краю расположена тонкая золотая окантовка в виде бусин, которая подчеркивает контур и дополняет общий дизайн. Фарфоровая поверхность гладкая и удобная в уходе. Блюдо Fiora Savoiardi может использоваться как отдельный элемент сервировки или в сочетании с другой посудой коллекции. Оно подходит для дома, праздничного стола или в качестве практичного подарка. Сбалансированное сочетание формы, декора и функциональности делает блюдо удобным в повседневном пользовании. Характеристики: Материал: фарфор Форма: кругла Край: волнистый</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6931</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6931/farforovoe_blyudo_fiora_savoiardi_30h20_5_sm_ovalnoe_servirovochnoe_dlya_zakusok_fruktov_desertov.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">20.5</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Круглая</param>
+      </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
         <price>650.0</price>
@@ -91358,7 +92018,7 @@ premium якість,&lt;br /&gt;
         <name>Подарунковий зіп-пакет у формі рюкзака для солодощів та подарунків, асорті</name>
         <price>14.0</price>
         <currencyId>UAH</currencyId>
-        <quantity>100</quantity>
+        <quantity>20</quantity>
         <categoryId>2302</categoryId>
         <vendor>My Store</vendor>
         <vendorCode>A000021</vendorCode>
