@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-03 07:32">
+<yml_catalog date="2026-04-03 09:16">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="133">Масленки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="53">Кувшины</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="142">Посуда для детей</category>
-      <category id="262">Термосумки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="150">Спальные мешки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="20">Эпиляторы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="271">Товары для уборки</category>
-      <category id="93">Электрочайники</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="6">LED ленты</category>
-      <category id="13">Триммеры</category>
-      <category id="61">Сковородки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="132">Конфетницы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="212">Мебель</category>
-      <category id="90">Мясорубки</category>
-      <category id="128">Органайзеры</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="77">Пылесосы</category>
-      <category id="149">Палатки</category>
-      <category id="221">Туристические души</category>
-      <category id="52">Лимонадницы</category>
-      <category id="187">Слайсеры</category>
-      <category id="261">Терки</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="54">Стаканы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="118">Сумки</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="284">Новогодний декор</category>
-      <category id="65">Креманки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="124">Решетки</category>
-      <category id="62">Ковши</category>
-      <category id="111">Портативные колонки</category>
-      <category id="66">Сервизы</category>
-      <category id="114">Повербанки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="287">Банты на елку</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="292">Столовая посуда</category>
-      <category id="97">Весы кухонные</category>
-      <category id="56">Бокалы</category>
-      <category id="194">Менажницы</category>
-      <category id="144">Вентиляторы</category>
-      <category id="31">Часы настенные</category>
-      <category id="68">Тарелки</category>
-      <category id="125">Мангалы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="57">Чашки</category>
-      <category id="110">Наушники</category>
-      <category id="47">Наборы для специй</category>
-      <category id="285">Йогуртницы</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="279">Зонты</category>
-      <category id="96">Вакууматоры</category>
-      <category id="14">Стайлеры</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="55">Рюмки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="103">Проекторы</category>
-      <category id="182">Блюда</category>
-      <category id="15">Плойки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="76">Отпариватели</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="141">Салатницы</category>
-      <category id="33">Пепельницы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="75">Утюги</category>
-      <category id="195">Разделочные доски</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="140">Крышки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="283">Подносы</category>
-      <category id="89">Миксеры</category>
-      <category id="136">Дуршлаги</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="298">Брелки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="34">Подсвечники</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="316">Туристические плиты</category>
-      <category id="294">Новогодние елки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="81">Капучинаторы</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="278">Косметички</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="126">Ланч боксы</category>
-      <category id="23">Фены</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="186">Тостеры</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="122">Аксессуары</category>
-      <category id="29">Салфетницы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="145">Смарт-часы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="98">Блендеры</category>
-      <category id="224">Гамаки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="21">Электробритвы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="184">Бульонницы</category>
-      <category id="42">Термосы для детей</category>
-      <category id="72">Весы напольные</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="87">Соковыжималки</category>
-      <category id="166">Тортовницы</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="60">Мармиты</category>
       <category id="299">Подушки для путишествий</category>
+      <category id="42">Термосы для детей</category>
+      <category id="316">Туристические плиты</category>
+      <category id="90">Мясорубки</category>
+      <category id="13">Триммеры</category>
+      <category id="149">Палатки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="195">Разделочные доски</category>
+      <category id="66">Сервизы</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="23">Фены</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="17">Воскоплавы</category>
+      <category id="77">Пылесосы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="67">Столовые приборы</category>
+      <category id="75">Утюги</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="298">Брелки</category>
+      <category id="61">Сковородки</category>
+      <category id="60">Мармиты</category>
+      <category id="65">Креманки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="72">Весы напольные</category>
+      <category id="262">Термосумки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="182">Блюда</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="283">Подносы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="97">Весы кухонные</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="33">Пепельницы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="300">Подушки для спины</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="285">Йогуртницы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="31">Часы настенные</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="145">Смарт-часы</category>
+      <category id="76">Отпариватели</category>
+      <category id="89">Миксеры</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="122">Аксессуары</category>
+      <category id="287">Банты на елку</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="132">Конфетницы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="212">Мебель</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="54">Стаканы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="279">Зонты</category>
+      <category id="271">Товары для уборки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="87">Соковыжималки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="21">Электробритвы</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="128">Органайзеры</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="110">Наушники</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="14">Стайлеры</category>
+      <category id="34">Подсвечники</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="68">Тарелки</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="103">Проекторы</category>
+      <category id="221">Туристические души</category>
+      <category id="194">Менажницы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="144">Вентиляторы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="52">Лимонадницы</category>
+      <category id="260">Дождевики и пончо туристические</category>
       <category id="63">Кастрюли</category>
+      <category id="133">Масленки</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="98">Блендеры</category>
+      <category id="124">Решетки</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="126">Ланч боксы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="57">Чашки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="15">Плойки</category>
+      <category id="224">Гамаки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="140">Крышки</category>
+      <category id="55">Рюмки</category>
+      <category id="114">Повербанки</category>
+      <category id="186">Тостеры</category>
+      <category id="6">LED ленты</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="62">Ковши</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="20">Эпиляторы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="53">Кувшины</category>
+      <category id="56">Бокалы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="193">Доски для подачи</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="111">Портативные колонки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="184">Бульонницы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="278">Косметички</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="118">Сумки</category>
+      <category id="125">Мангалы</category>
+      <category id="141">Салатницы</category>
+      <category id="187">Слайсеры</category>
+      <category id="166">Тортовницы</category>
+      <category id="261">Терки</category>
+      <category id="29">Салфетницы</category>
+      <category id="93">Электрочайники</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -45023,6 +45023,102 @@
         <param name="Цвет корпуса">Черный</param>
         <param name="Мощность нагрузки">2500 Вт</param>
       </offer>
+      <offer id="f11_HP-5-16_HP-5-16" available="true">
+        <name>Сетевой фильтр удлинитель 5 м на 6 розеток 4 USB 2 Type-C и кнопкой выключения HP-5-16</name>
+        <price>689.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-16_HP-5-16</vendorCode>
+        <description>Современный сетевой удлинитель F33U &amp;mdash; это стильное и надёжное решение для подключения до шести электроприборов одновременно, с возможностью параллельной зарядки гаджетов через USB и Type-C. Он сочетает в себе безопасность, удобство и минималистичный дизайн, идеально подходящий для дома и офиса. Характеристики удлинителя 5м тип: сетевой фильтр удлинитель с USB-портами и Type-C; количество розеток: 6 шт с заземлением (EU стандарт); количество портов: 4 шт USB (стандарт 5V), 2 шт Type-C; размер сетевого фильтра: 23.5&amp;times;10&amp;times;4 см; длина кабеля: 5 метров; переключатель: кнопка с подсветкой; материал корпуса: термостойкий ABS-пластик; напряжение: 220&amp;ndash;250 В, защита от перегрузок. Преимущества сетевого фильтра F33U Одновременное подключение до 6 устройств + зарядка смартфонов и планшетов через USB и Type-C. Универсальный дизайн &amp;mdash; подходит под любой интерьер и рабочее место. USB и Type-C &amp;mdash; больше свободы без лишних адаптеров. Надёжная защита от перепадов напряжения и короткого замыкания. Кнопка питания &amp;mdash; полное отключение устройств одним нажатием. Незаменим при частых перебоях с электричеством: с этим сетевым удлинителем легко управлять подключённой техникой и заряжать устройства даже в экстренных ситуациях. Купить удлинитель 5 м с USB можно с доставкой по всей Украине. Быстрая отправка, надёжная упаковка и удобная оплата &amp;mdash; всё для вашего комфорта. Подходит для дома, офиса, мастерских и заведений HoReCa. Закажите сетевой фильтр удлинитель с USB и обеспечьте себе стабильную, безопасную и удобную работу с техникой в любом пространстве.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4315</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4315/setevoy_filtr_udlinitel_5_m_na_6_rozetok_4_usb_2_type_c_i_knopkoy_vyklyucheniya_f33u_6.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр</param>
+        <param name="Длина шнура">5 м</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Заземление">Да</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Защита от короткого замыкания">Да</param>
+        <param name="Длина провода">5 м</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
+      <offer id="f11_HP-5-23_HP-5-23" available="true">
+        <name>Сетевой фильтр удлинитель F06U на 6 розеток 4 USB 1 Type-C и кнопкой отключения 3 м Белый HP-5-23</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-23_HP-5-23</vendorCode>
+        <description>Функциональный сетевой удлинитель F06U/3M &amp;mdash; это надёжное решение для подключения сразу шести устройств и одновременной зарядки гаджетов через 4 порта (USB и Type-C). Белый корпус, продуманная компоновка и круглая кнопка питания с LED-индикатором делают его идеальным выбором для дома, офиса или мастерской. Характеристики сетевого удлинителя F06U тип: сетевой фильтр удлинитель с USB-портами и Type-C; количество розеток: 6 шт с заземлением (EU стандарт); количество USB-портов: 4 шт (стандарт 5V), 1 Type-C; размер сетевого фильтра: 22.5&amp;times;10&amp;times;4 см; длина кабеля: 3 метра; переключатель: круглая кнопка с подсветкой; материал корпуса: термостойкий ABS-пластик; напряжение: 220&amp;ndash;250 В, защита от перегрузок. Преимущества фильтра F06U с USB Удобное размещение &amp;mdash; 6 розеток расположены вертикально, не мешают друг другу. Зарядка гаджетов &amp;mdash; 4 USB-порта позволяют одновременно заряжать смартфоны, планшеты и другие устройства. Надёжность и защита &amp;mdash; фильтр устойчив к скачкам напряжения и перегреву. Компактность и эстетика &amp;mdash; белый цвет легко впишется в любой интерьер. Быстрое отключение &amp;mdash; кнопка питания полностью обесточивает подключённые устройства одним нажатием. Особенно полезен при перебоях с электричеством: позволяет безопасно отключать оборудование и продолжать зарядку USB-гаджетов без использования адаптеров. Ваши устройства всегда под контролем. Купить сетевой удлинитель 3м с USB можно с доставкой по всей Украине. Быстрая отправка, надёжная упаковка, оплата при получении. Закажите сетевой фильтр F06U и получите универсальное, мощное и эстетичное решение для вашей техники и зарядных устройств.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4322</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_7.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4322/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_belyy_8.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр</param>
+        <param name="Длина шнура">3 м</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Заземление">Да</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Защита от короткого замыкания">Да</param>
+        <param name="Длина провода">3 м</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
+      <offer id="f11_HP-5-24_HP-5-24" available="true">
+        <name>Сетевой фильтр удлинитель F06U на 6 розеток 4 USB 1 Type-C и кнопкой отключения Черный 3 м HP-5-24</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-24_HP-5-24</vendorCode>
+        <description>Функциональный сетевой удлинитель F06U/3M &amp;mdash; это надёжное решение для подключения сразу шести устройств и одновременной зарядки гаджетов через 5 портов (USB и Type-C). Черный корпус, продуманная компоновка и круглая кнопка питания с LED-индикатором делают его идеальным выбором для дома, офиса или мастерской. Характеристики сетевого удлинителя F06U тип: сетевой фильтр удлинитель с USB-портами и Type-C; количество розеток: 6 шт с заземлением (EU стандарт); количество USB-портов: 4 шт (стандарт 5V), 1 Type-C; размер сетевого фильтра: 23&amp;times;10&amp;times;5 см; длина кабеля: 3 метра; переключатель: круглая кнопка с подсветкой; материал корпуса: термостойкий ABS-пластик; напряжение: 220&amp;ndash;250 В, защита от перегрузок. Преимущества фильтра F06U с USB Удобное размещение &amp;mdash; 6 розеток расположены вертикально, не мешают друг другу. Зарядка гаджетов &amp;mdash; 4 USB-порта позволяют одновременно заряжать смартфоны, планшеты и другие устройства. Надёжность и защита &amp;mdash; фильтр устойчив к скачкам напряжения и перегреву. Компактность и эстетика &amp;mdash; черный цвет легко впишется в любой интерьер. Быстрое отключение &amp;mdash; кнопка питания полностью обесточивает подключённые устройства одним нажатием. Особенно полезен при перебоях с электричеством: позволяет безопасно отключать оборудование и продолжать зарядку USB-гаджетов без использования адаптеров. Ваши устройства всегда под контролем. Купить сетевой удлинитель 3м с USB можно с доставкой по всей Украине. Быстрая отправка, надёжная упаковка, оплата при получении. Закажите сетевой фильтр F06U и получите универсальное, мощное и эстетичное решение для вашей техники и зарядных устройств.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4323</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4323/setevoy_filtr_3_m_udlinitel_f06u_na_6_rozetok_4_usb_1_type_c_i_knopkoy_otklyucheniya_chernyy_7.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр</param>
+        <param name="Длина шнура">3 м</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Заземление">Да</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Защита от короткого замыкания">Да</param>
+        <param name="Длина провода">3 м</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
       <offer id="f11_HP-5-25_HP-5-25" available="true">
         <name>Сетевой фильтр удлинитель F06U на 6 розеток 4 USB 1 Type-C и кнопкой отключения 5 м Белый HP-5-25</name>
         <price>619.0</price>
@@ -45081,6 +45177,68 @@
         <param name="Защитная крышка">Нет</param>
         <param name="Защита от короткого замыкания">Да</param>
         <param name="Длина провода">5 м</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
+      <offer id="f11_HP-5-27_HP-5-27" available="true">
+        <name>Сетевой фильтр удлинитель на 8 розеток с 3 USB 1 Type-C и кнопкой отключения F20U 2.8 м Белый HP-5-27</name>
+        <price>559.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-27_HP-5-27</vendorCode>
+        <description>Сетевой удлинитель F20U &amp;mdash; это практичное и эстетичное решение для подключения техники и зарядки гаджетов в одном устройстве. Восемь розеток с заземлением и четыре порта USB и Type-C обеспечивают максимальное удобство, а кабель длиной 2.8 метров позволяет устанавливать удлинитель в любом уголке комнаты. Характеристики удлинителя тип: сетевой фильтр удлинитель с USB и Type-C; количество розеток: 8 шт с заземлением; количество портов: 3 шт USB, 1 шт Type-C; длина кабеля: 2.8 метров; размер сетевого фильтра: 27&amp;times;11&amp;times;4 см; переключатель питания: кнопка включения/выключения на корпусе; материал: термостойкий ABS-пластик; универсальный разъём: подходит для бытовых и офисных приборов. Преимущества сетевого фильтра с USB Универсальность &amp;mdash; подключение электроприборов и зарядка гаджетов без адаптеров. Длина кабеля 2.8 м &amp;mdash; легко размещать в любой части помещения. Защита от перегрузки &amp;mdash; встроенный предохранитель и качественные материалы. Быстрый доступ к питанию &amp;mdash; кнопка отключения позволяет полностью обесточить удлинитель. Компактный и стильный &amp;mdash; впишется в современный интерьер дома или офиса. Незаменим в ситуациях с перебоями электроэнергии: можно быстро отключить оборудование, избежать скачков напряжения и оставить зарядку включенной для мобильных устройств. Купить сетевой удлинитель с USB с доставкой по всей Украине. Закажите сетевой фильтр удлинитель с USB и обеспечьте стабильную и безопасную работу всей вашей техники &amp;mdash; дома и на работе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4326</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4326/setevoy_filtr_2_8_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_belyy_6.jpg</picture>
+        <param name="Тип удлинителя">Сетевой фильтр</param>
+        <param name="Длина шнура">2.8 м</param>
+        <param name="Количество выходных розеток">8</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Заземление">Да</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Защита от короткого замыкания">Да</param>
+        <param name="Длина провода">2.8 м</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500 Вт</param>
+      </offer>
+      <offer id="f11_HP-5-29_HP-5-29" available="true">
+        <name>Сетевой фильтр удлинитель на 8 розеток с 3 USB 1 Type-C и кнопкой отключения F20U 4.7 м Черный HP-5-29</name>
+        <price>619.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-29_HP-5-29</vendorCode>
+        <description>Функциональный и стильный сетевой удлинитель F20U с 8 розетками, 4 портами USB и Type-C &amp;mdash; это оптимальное решение для подключения всей необходимой техники в доме или офисе. Черный корпус, компактное расположение розеток и круглая кнопка питания с LED-индикацией делают его удобным, безопасным и эстетичным выбором для повседневного использования. Характеристики сетевого удлинителя F20U тип: сетевой фильтр удлинитель с USB и Type-C; количество розеток: 8 шт с заземлением; количество портов: 3 шт USB, 1 шт Type-C; длина кабеля: 4.7 метров; размер сетевого фильтра: 27&amp;times;11&amp;times;4 см; переключатель питания: кнопка включения/выключения на корпусе; материал: термостойкий ABS-пластик; универсальный разъём: подходит для бытовых и офисных приборов. Преимущества фильтра F20U с USB Подключение до 12 устройств одновременно &amp;mdash; 8 розеток + 4 USB-порта. Зарядка гаджетов без адаптеров &amp;mdash; 3 USB + 1 Type-C. Надёжная защита от скачков напряжения и коротких замыканий. Эстетичный дизайн &amp;mdash; впишется в любой интерьер, от дома до офиса. Кнопка полного отключения &amp;mdash; управление питанием одним нажатием. Незаменим в условиях перебоев с электроэнергией: фильтр F20U позволяет безопасно отключить всё оборудование от сети и продолжать зарядку мобильных устройств даже при нестабильной подаче тока. Купить сетевой удлинитель с USB можно с доставкой по всей Украине. Быстрая отправка и надёжная упаковка. Закажите сетевой фильтр F20U уже сейчас &amp;mdash; обеспечьте комфорт и порядок в электропитании ваших устройств, дома или на работе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4328</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4328/setevoy_filtr_4_7_m_udlinitel_na_8_rozetok_s_3_usb_1_type_c_i_knopkoy_otklyucheniya_f20u_chernyy_6.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">4.7 м</param>
+        <param name="Количество выходных розеток">8</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Заземление">Да</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Защита от короткого замыкания">Да</param>
+        <param name="Длина провода">4.7 м</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Черный</param>
         <param name="Мощность нагрузки">2500 Вт</param>
@@ -91652,6 +91810,628 @@
         <param name="Цвет">Белый</param>
         <param name="Тарелка суповая">6</param>
         <param name="Чашка чайная">6</param>
+      </offer>
+      <offer id="f11_ML2044_ML2044" available="true">
+        <name>Тортовница фарфоровая на ножке 25х25х10.5 см квадратная ML2044</name>
+        <price>889.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2044_ML2044</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6939</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6939/tortovnitsa_farforovaya_na_nozhke_25h25h10_5_sm_kvadratnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">10.5</param>
+        <param name="Ширина">25</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2045_ML2045" available="true">
+        <name>Тортовница фарфоровая на ножке 30х30х12 см квадратная ML2045</name>
+        <price>1119.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2045_ML2045</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6940</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6940/tortovnitsa_farforovaya_na_nozhke_30h30h12_sm_kvadratnaya_podstavka_dlya_torta_kapkeykov_pirozhnyh_desertov_prazdnichnaya_posuda.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">12</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2049_ML2049" available="true">
+        <name>Тортовница фарфоровая на ножке 25х16.5х10 см прямоугольная ML2049</name>
+        <price>669.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2049_ML2049</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: прямоугольная, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6941</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6941/tortovnitsa_farforovaya_na_nozhke_25h16_5h10_sm_pryamougolnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_dlya_desertov_prazdnichnaya_posuda.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">10</param>
+        <param name="Ширина">16.5</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2050_ML2050" available="true">
+        <name>Тортовница фарфоровая на ножке 30.5х20х11 см прямоугольная ML2050</name>
+        <price>839.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2050_ML2050</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: прямоугольная, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6942</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6942/tortovnitsa_farforovaya_na_nozhke_30_5h20h11_sm_pryamougolnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_dlya_desertov_prazdnichnaya_posuda.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">11</param>
+        <param name="Ширина">20.5</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2051_ML2051" available="true">
+        <name>Тортовница фарфоровая на ножке 36х24х13.5 см прямоугольная ML2051</name>
+        <price>1079.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2051_ML2051</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: прямоугольная, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6943</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6943/tortovnitsa_farforovaya_na_nozhke_36h24h13_5_sm_pryamougolnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_dlya_desertov_prazdnichnaya_posuda.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">13.5</param>
+        <param name="Ширина">24</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">36</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2046_ML2046" available="true">
+        <name>Тортовница фарфоровая на ножке 20х10 см круглая ML2046</name>
+        <price>669.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2046_ML2046</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6944</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6944/tortovnitsa_farforovaya_na_nozhke_20h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6944/tortovnitsa_farforovaya_na_nozhke_20h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">10</param>
+        <param name="Диаметр">20</param>
+        <param name="Ширина">20</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">20</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_ML2047_ML2047" available="true">
+        <name>Тортовница фарфоровая на ножке 25х25х10 см круглая ML2047</name>
+        <price>889.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2047_ML2047</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6945</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6945/tortovnitsa_farforovaya_na_nozhke_25h25h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6945/tortovnitsa_farforovaya_na_nozhke_25h25h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">10</param>
+        <param name="Диаметр">25</param>
+        <param name="Ширина">25</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_ML2048_ML2048" available="true">
+        <name>Тортовница фарфоровая на ножке 30х30х12 см круглая ML2048</name>
+        <price>1119.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>166</categoryId>
+        <vendor>Fiora</vendor>
+        <vendorCode>f11_ML2048_ML2048</vendorCode>
+        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6946</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6946/tortovnitsa_farforovaya_na_nozhke_30h30h12_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6946/tortovnitsa_farforovaya_na_nozhke_30h30h12_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">12</param>
+        <param name="Диаметр">30</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_ML2007_ML2007" available="true">
+        <name>Тарелка глубокая фарфоровая Tiffany квадратная 15х15х7 см ML2007</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2007_ML2007</vendorCode>
+        <description>Глубокая квадратная тарелка Tiffany из фарфора привлекает внимание четкой геометрией и компактным форматом. Размер 15&amp;times;15 см и высота 7 см делают ее удобной для порционной подачи блюд, где важна не только функциональность, но и аккуратный вид на столе. Тарелка подходит для ежедневного использования: в ней удобно подавать супы, салаты, гарниры или десерты. Благодаря глубине 7 см содержимое хорошо удерживается внутри, а квадратная форма помогает эффективно использовать пространство на столе или сервировке. Вес 400 г обеспечивает баланс между легкостью и стойкостью при использовании. Край тарелки оформлен рельефным узором в виде переплетенного каната по всему периметру. Контрастное сочетание светлой основы с золотистыми акцентами подчеркивает форму изделия и придает четкость контуру. Такой декор выглядит выразительно, но не перегружает общий вид, поэтому тарелка легко сочетается с разной посудой в сервировке. Характеристики: Материал: фарфор Форма: квадратная Размеры: 15 &amp;times; 15 см Объем 400 мл Высота: 7 см Вес: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6947</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6947/tarelka_glubokaya_farforovaya_tiffany_kvadratnaya_15h15h7_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6947/tarelka_glubokaya_farforovaya_tiffany_kvadratnaya_15h15h7_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_2.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Ширина">15</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Объем">40</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">15</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2009_ML2009" available="true">
+        <name>Тарелка глубокая фарфоровая Tiffany квадратная 26х26х8 см ML2009</name>
+        <price>699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2009_ML2009</vendorCode>
+        <description>Глубокая квадратная тарелка Tiffany из фарфора привлекает внимание четкой геометрией и компактным форматом. Размер 26&amp;times;26 см и высота 8 см делают ее удобной для порционной подачи блюд, где важна не только функциональность, но и аккуратный вид на столе. Тарелка подходит для ежедневного использования: в ней удобно подавать супы, салаты, гарниры или десерты. Благодаря глубине 8 см содержимое хорошо удерживается внутри, а квадратная форма помогает эффективно использовать пространство на столе или в сервировке. Вес 1.2 кг обеспечивает баланс между легкостью и стойкостью при использовании. Край тарелки оформлен рельефным узором в виде переплетенного каната по всему периметру. Контрастное сочетание светлой основы с золотистыми акцентами подчеркивает форму изделия и придает четкость контуру. Такой декор выглядит выразительно, но не перегружает общий вид, поэтому тарелка легко сочетается с разной посудой в сервировке. Характеристики: Материал: фарфор Форма: квадратная Размеры: 26 &amp;times; 26 см Объем: 1.5 л Высота: 8 см Вес: 1.2 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6949</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6949/tarelka_glubokaya_farforovaya_tiffany_kvadratnaya_26h26h8_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6949/tarelka_glubokaya_farforovaya_tiffany_kvadratnaya_26h26h8_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_2.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8</param>
+        <param name="Ширина">26</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Объем">1.5</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">26</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2005_ML2005" available="true">
+        <name>Тарелка глубокая Tiffany фарфоровая 20 см сервировочная ML2005</name>
+        <price>469.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2005_ML2005</vendorCode>
+        <description>Глубокая фарфоровая тарелка Tiffany с диаметром 20 см подходит для подачи первых блюд, салатов и горячих блюд. Высота 7 см и объем 600 мл обеспечивают достаточную емкость для порционного использования, а классическая круглая форма удобна для ежедневной сервировки. Тарелка практична в использовании: оптимальный вес 500 г позволяет комфортно держать ее в руках, а глубина помогает избегать разлива жидких блюд. Фарфоровая основа хорошо подходит для регулярного использования дома или в заведениях питания. Край изделия украшен выразительным ажурным узором с прорезными элементами по кругу. Рельефный декор сочетает волнистые формы с аккуратной золотой окантовкой, которая проходит как по внешнему краю, так и по внутреннему ободку. Такой дизайн создает четкий акцент на форме тарелки и добавляет ей заметности в сервировке без чрезмерной декоративности. Характеристики: Материал: фарфор Форма: кругла Диаметр: 20 см Высота: 7 см Объем: 600 мл Вес: 500 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6950</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6950/tarelka_glubokaya_tiffany_farforovaya_20_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6950/tarelka_glubokaya_tiffany_farforovaya_20_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_2.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Ширина">20</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Объем">0.6</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">20</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_ML2006_ML2006" available="true">
+        <name>Тарелка глубокая Tiffany фарфоровая 25.5 см сервировочная ML2006</name>
+        <price>709.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2006_ML2006</vendorCode>
+        <description>Глубокая фарфоровая тарелка Tiffany с диаметром 25.5 см подходит для подачи первых блюд, салатов и горячих блюд. Высота 8 см и объем 1.4 л обеспечивают достаточную емкость для порционного использования, а классическая круглая форма удобна для ежедневной сервировки. Тарелка практична в использовании: оптимальный вес 1 кг позволяет комфортно держать ее в руках, а глубина помогает избегать разлива жидких блюд. Фарфоровая основа хорошо подходит для регулярного использования дома или в заведениях питания. Край изделия украшен выразительным ажурным узором с прорезными элементами по кругу. Рельефный декор сочетает волнистые формы с аккуратной золотой окантовкой, которая проходит как по внешнему краю, так и по внутреннему ободку. Такой дизайн создает четкий акцент на форме тарелки и добавляет ей заметности в сервировке без чрезмерной декоративности. Характеристики: Материал: фарфор Форма: кругла Диаметр: 25.5 см Высота: 8 см Объем: 1.4 л Вес: 1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6951</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6951/tarelka_glubokaya_tiffany_farforovaya_25_5_sm_servirovochnaya_dlya_podachi_pervyh_blyud_salatov_1.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8</param>
+        <param name="Диаметр">25.5</param>
+        <param name="Ширина">25.5</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Объем">1.4</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25.5</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_SG-428-11_SG-428-11" available="true">
+        <name>Мармитница фарфоровая Tiffany 1 л на металлической подставке с подогревом 28х23х7 см SG-428-11</name>
+        <price>1629.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SG-428-11_SG-428-11</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 1 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 1 л Высота: 7 см Ширина: 23 см Длина: 28 см Вес: 1.8 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6952</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6952/marmitnitsa_farforovaya_tiffany_1_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_28h23h7_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6952/marmitnitsa_farforovaya_tiffany_1_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_28h23h7_sm_marmit_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6952/marmitnitsa_farforovaya_tiffany_1_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_28h23h7_sm_marmit_dlya_pervyh_blyud_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6952/marmitnitsa_farforovaya_tiffany_1_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_28h23h7_sm_marmit_dlya_pervyh_blyud_5.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Материал изготовления подставки">Сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">23</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">28</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_SG-428-13_SG-428-13" available="true">
+        <name>Мармитница фарфоровая Tiffany 1.5 л на подставке с подогревом 34х26х7 см SG-428-13</name>
+        <price>1749.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SG-428-13_SG-428-13</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 1.5 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 1.5 л Высота: 7 см Ширина: 26 см Длина: 34 см Вес: 2.5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6953</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Материал изготовления подставки">Сталь</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">26</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1.5</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">34</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_SG-428-15_SG-428-15" available="true">
+        <name>Мармитница фарфоровая Tiffany 2 л на металлической подставке с подогревом 38х30х7 см SG-428-15</name>
+        <price>1999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SG-428-15_SG-428-15</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 2 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 2 л Высота: 7 см Ширина: 30 см Длина: 38 см Вес: 3.5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6954</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_3.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">30</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">38</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2017_ML2017" available="true">
+        <name>Фарфоровое блюдо 25х25 см квадратное сервировочное ML2017</name>
+        <price>479.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2017_ML2017</vendorCode>
+        <description>Фарфоровый квадратный блюдо с золотой отделкой предназначен для подачи закусок, десертов или основных блюд. Благодаря своей форме оно удобно размещает пищу и смотрится гармонично на столе. Классический белый фон в сочетании с декоративными элементами создает сдержанный, но выразительный вид. Материал - фарфор высокого качества, обеспечивающий прочность и долговечность изделия. Поверхность гладкая, легко очищается и не впитывает запахи. Золотистая отделка выполнена аккуратно по краям, добавляет изделию элегантности и подчеркивает его декоративную ценность без излишеств. Блюдо станет практичным элементом сервировки как в повседневном использовании, так и во время праздничных событий. Оно помогает организовать подачу блюд, экономит место на столе и создает завершенный вид сервировки. Характеристики Тип: блюдо Форма: квадратная Материал: фарфор Отделка: золотистая</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6956</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6956/farforovoe_blyudo_25h25_sm_kvadratnoe_servirovochnoe_dlya_zakusok_fruktov_desertov_s_zolotoy_otdelkoy.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">25</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2018_ML2018" available="true">
+        <name>Фарфоровое блюдо 30х30 см квадратное сервировочное ML2018</name>
+        <price>749.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2018_ML2018</vendorCode>
+        <description>Фарфоровый квадратный блюдо с золотой отделкой предназначен для подачи закусок, десертов или основных блюд. Благодаря своей форме оно удобно размещает пищу и смотрится гармонично на столе. Классический белый фон в сочетании с декоративными элементами создает сдержанный, но выразительный вид. Материал - фарфор высокого качества, обеспечивающий прочность и долговечность изделия. Поверхность гладкая, легко очищается и не впитывает запахи. Золотистая отделка выполнена аккуратно по краям, добавляет изделию элегантности и подчеркивает его декоративную ценность без излишеств. Блюдо станет практичным элементом сервировки как в повседневном использовании, так и во время праздничных событий. Оно помогает организовать подачу блюд, экономит место на столе и создает завершенный вид сервировки. Характеристики Тип: блюдо Форма: квадратная Материал: фарфор Отделка: золотистая</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6957</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6957/farforovoe_blyudo_30h30_sm_kvadratnoe_servirovochnoe_dlya_zakusok_fruktov_desertov_s_zolotoy_otdelkoy.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_ML2023_ML2023" available="true">
+        <name>Фарфоровое блюдо 25х16.5 см прямоугольное сервировочное ML2023</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2023_ML2023</vendorCode>
+        <description>Фарфоровое прямоугольное блюдо с золотой отделкой предназначено для сервировки основных блюд, закусок или десертов. Его форма позволяет рационально разместить еду и удобно подавать ее на стол. Классический дизайн в сочетании с декоративными элементами делает изделие уместным как в повседневном использовании, так и во время праздничных событий. Материал - высококачественный фарфор, отличающийся прочностью и устойчивостью к царапинам. Поверхность гладкая, легко очищается и не впитывает запахи. Золотистая отделка выполнена аккуратно, добавляет изделию элегантности и подчеркивает его декоративную ценность без излишеств. Блюдо станет практичным элементом кухонной посуды, который помогает организовать подачу блюд и создает гармоничный вид стола. Оно сочетает функциональность с эстетикой, обеспечивая удобство в использовании и привлекательный вид при сервировке. Характеристики Тип: блюдо Форма: прямоугольная Материал: фарфор Отделка: золотистая</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6958</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6958/farforovoe_blyudo_25h16_5_sm_pryamougolnoe_servirovochnoe_dlya_zakusok_fruktov_desertov_s_zolotoy_otdelkoy.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">16.5</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_ML2025_ML2025" available="true">
+        <name>Фарфоровое блюдо 35х23 см прямоугольное сервировочное ML2025</name>
+        <price>709.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ML2025_ML2025</vendorCode>
+        <description>Фарфоровое прямоугольное блюдо с золотой отделкой предназначено для сервировки основных блюд, закусок или десертов. Его форма позволяет рационально разместить еду и удобно подавать ее на стол. Классический дизайн в сочетании с декоративными элементами делает изделие уместным как в повседневном использовании, так и во время праздничных событий. Материал - высококачественный фарфор, отличающийся прочностью и устойчивостью к царапинам. Поверхность гладкая, легко очищается и не впитывает запахи. Золотистая отделка выполнена аккуратно, добавляет изделию элегантности и подчеркивает его декоративную ценность без излишеств. Блюдо станет практичным элементом кухонной посуды, который помогает организовать подачу блюд и создает гармоничный вид стола. Оно сочетает функциональность с эстетикой, обеспечивая удобство в использовании и привлекательный вид при сервировке. Характеристики Тип: блюдо Форма: прямоугольная Материал: фарфор Отделка: золотистая</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6960</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6960/farforovoe_blyudo_35h23_sm_pryamougolnoe_servirovochnoe_dlya_zakusok_fruktov_desertov_s_zolotoy_otdelkoy.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">23</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">35</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Наличие крышки">Нет</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_SX35-3_SX35-3" available="true">
+        <name>Менажница фарфоровая на 4 секций для закусок 26х26 см SX35-3</name>
+        <price>669.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX35-3_SX35-3</vendorCode>
+        <description>Менажница фарфоровая круглая на 4 секции с золотой отделкой предназначена для удобной сервировки различных закусок, фруктов или сладостей. Изделие имеет четко разделенные секции, что позволяет подавать несколько видов блюд одновременно, сохраняя их вкус и вид отдельно. Классическая круглая форма делает посуду универсальной для любого стола. Материал изготовления &amp;ndash; высококачественный фарфор, который отличается прочностью и устойчивостью к ежедневному использованию. Поверхность гладкая, легко моется и не впитывает запахи. Золотистая отделка придает изделию аккуратный и элегантный вид, но при этом не перегружает дизайн. Менажница станет практичным решением для домашнего использования или праздничных мероприятий. Она помогает организовать подачу блюд, экономит место на столе и создает порядок в сервировке. Благодаря своим характеристикам изделие сочетает функциональность и эстетику, что делает его полезным элементом кухонной посуды. Характеристики: Тип: менажница Форма: кругла Материал: фарфор Количество секций: 4</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6961</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6961/menazhnitsa_farforovaya_na_4_sektsiy_dlya_zakusok_26h26_sm_tarelka_kruglaya_dlya_servirovki_belaya_s_zolotom.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество секций">4</param>
+        <param name="Диаметр">26</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Крышка">Нет</param>
+        <param name="Ширина">26</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">26</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_SX35-4_SX35-4" available="true">
+        <name>Менажница фарфоровая на 4 секций для закусок 30х30 см SX35-4</name>
+        <price>879.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX35-4_SX35-4</vendorCode>
+        <description>Менажница фарфоровая круглая на 4 секции с золотой отделкой предназначена для удобной сервировки различных закусок, фруктов или сладостей. Изделие имеет четко разделенные секции, что позволяет подавать несколько видов блюд одновременно, сохраняя их вкус и вид отдельно. Классическая круглая форма делает посуду универсальной для любого стола. Материал изготовления &amp;ndash; высококачественный фарфор, который отличается прочностью и устойчивостью к ежедневному использованию. Поверхность гладкая, легко моется и не впитывает запахи. Золотистая отделка придает изделию аккуратный и элегантный вид, но при этом не перегружает дизайн. Менажница станет практичным решением для домашнего использования или праздничных мероприятий. Она помогает организовать подачу блюд, экономит место на столе и создает порядок в сервировке. Благодаря своим характеристикам изделие сочетает функциональность и эстетику, что делает его полезным элементом кухонной посуды. Характеристики: Тип: менажница Форма: кругла Материал: фарфор Количество секций: 4</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6962</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6962/menazhnitsa_farforovaya_na_4_sektsiy_dlya_zakusok_30h30_sm_tarelka_kruglaya_dlya_servirovki_belaya_s_zolotom.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">10</param>
+        <param name="Количество секций">4</param>
+        <param name="Диаметр">30</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Крышка">Нет</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_SX36-1_SX36-1" available="true">
+        <name>Менажница фарфоровая на 5 секций для закусок 25х25х3.5 см SX36-1</name>
+        <price>709.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX36-1_SX36-1</vendorCode>
+        <description>Фарфоровая менажница с золотым ободком предназначена для аккуратной подачи различных закусок или гарниров. Она имеет пять отдельных секций, что позволяет разделить продукты и удобно сервировать стол. Белый фарфоровый материал в сочетании с тонкой золотой отделкой создает сдержанный и опрятный вид. Каждая секция имеет четкие границы, что предотвращает смешивание блюд. Фарфор отличается устойчивостью к высоким температурам и легко очищается после использования. Золотой ободок добавляет завершенности и подчеркивает форму изделия, не перегружая дизайн. Менажница удобна для ежедневного использования и праздничных событий. Пять секций обеспечивают практичность в подачи разнообразных продуктов, а компактная форма позволяет легко разместить ее на столе. Это функциональная посуда, которая помогает организовать сервировку без лишних усилий. Характеристики: Тип: менажница фарфоровая Количество секций: 5 Материал: фарфор Декор: золотой ободок</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6963</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6963/menazhnitsa_farforovaya_na_5_sektsiy_dlya_zakusok_25h25h3_5_sm_tarelka_kvadratnaya_dlya_servirovki_belaya_s_zolotom.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">3.5</param>
+        <param name="Количество секций">5</param>
+        <param name="Диаметр">25</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Крышка">Нет</param>
+        <param name="Ширина">25</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">25</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_SX36-2_SX36-2" available="true">
+        <name>Менажница фарфоровая на 5 секций для закусок 30х30х4 см SX36-2</name>
+        <price>919.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX36-2_SX36-2</vendorCode>
+        <description>Фарфоровая менажница с золотым ободком предназначена для аккуратной подачи различных закусок или гарниров. Она имеет пять отдельных секций, что позволяет разделить продукты и удобно сервировать стол. Белый фарфоровый материал в сочетании с тонкой золотой отделкой создает сдержанный и опрятный вид. Каждая секция имеет четкие границы, что предотвращает смешивание блюд. Фарфор отличается устойчивостью к высоким температурам и легко очищается после использования. Золотой ободок добавляет завершенности и подчеркивает форму изделия, не перегружая дизайн. Менажница удобна для ежедневного использования и праздничных событий. Пять секций обеспечивают практичность в подачи разнообразных продуктов, а компактная форма позволяет легко разместить ее на столе. Это функциональная посуда, которая помогает организовать сервировку без лишних усилий. Характеристики Тип: менажница фарфоровая Количество секций: 5 Материал: фарфор Декор: золотой ободок</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6964</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6964/menazhnitsa_farforovaya_na_5_sektsiy_dlya_zakusok_30h30h4_sm_tarelka_kvadratnaya_dlya_servirovki_belaya_s_zolotom.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">4</param>
+        <param name="Количество секций">5</param>
+        <param name="Диаметр">30</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Крышка">Нет</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">30</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_SX61_SX61" available="true">
+        <name>Набор чашек с блюдцами Tiffany 250 мл 6 шт SX61</name>
+        <price>2499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>66</categoryId>
+        <vendor>TS Kitchen</vendor>
+        <vendorCode>f11_SX61_SX61</vendorCode>
+        <description>Набор чашек с блюдцами Tiffany на 6 персон подходит для подачи горячих напитков в ежедневном использовании или во время приема гостей. Объем каждой чашки 250 мл обеспечивает удобную порцию для чая или кофе, а квадратные блюдца размером 15&amp;times;15 см добавляют практичности в сервировке. Чашки имеют диаметр 9 см и высоту 7,5 см, что делает их удобными для держания и использования. Комплект включает 6 чашек и 6 блюдец, что позволяет сразу сервировать стол для небольшой компании. Общий вес набора 2.8 кг обеспечивает устойчивость и ощущение полноценного фарфорового изделия. Край чашек и блюдец оформлен рельефным узором в виде переплетенного каната по периметру. Декор дополнен тонкой золотой окантовкой, которая подчеркивает форму каждого элемента. Сочетание квадратных блюдец с округлыми чашками создает выразительный, но сбалансированный вид в сервировке. Характеристики: Материал: фарфор Количество предметов: 12 (6 чашек + 6 блюдец) Объем чашки: 250 мл Диаметр чашки: 9 см Высота чашки: 7,5 см Размер блюдца: 15 &amp;times; 15 см Форма блюдца: квадратная Вес набора: 2,8 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6965</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6965/nabor_chashek_s_blyudtsami_tiffany_250_ml_chashechka_farforovaya_6_sht_dlya_chaya_i_kofe_keramicheskie_chashki_blyudtsa_praktichnaya_stilnaya_posuda_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6965/nabor_chashek_s_blyudtsami_tiffany_250_ml_chashechka_farforovaya_6_sht_dlya_chaya_i_kofe_keramicheskie_chashki_blyudtsa_praktichnaya_stilnaya_posuda_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6965/nabor_chashek_s_blyudtsami_tiffany_250_ml_chashechka_farforovaya_6_sht_dlya_chaya_i_kofe_keramicheskie_chashki_blyudtsa_praktichnaya_stilnaya_posuda_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6965/nabor_chashek_s_blyudtsami_tiffany_250_ml_chashechka_farforovaya_6_sht_dlya_chaya_i_kofe_keramicheskie_chashki_blyudtsa_praktichnaya_stilnaya_posuda_4.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Тип сервиза">Чайно-кофейный</param>
+        <param name="Количество персон">6</param>
+        <param name="Декоративное оформление">Роспись</param>
+        <param name="Количество предметов">12</param>
+        <param name="Объем чашки чайной">0.25</param>
+        <param name="Блюдце чайное">6</param>
+        <param name="Тематика декора, рисунка">Абстракция</param>
+        <param name="Чашка чайная">6</param>
+      </offer>
+      <offer id="f11_SX42-1_SX42-1" available="true">
+        <name>Мармитница фарфоровая Tiffany 1 л квадратная на металлической подставке 28х23х7 см SX42-1</name>
+        <price>1699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX42-1_SX42-1</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 1 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 1 л Высота: 7 см Ширина: 23 см Длина: 28 см Вес: 1.8 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6966</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6966/marmitnitsa_farforovaya_tiffany_1_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_28h23h7_sm_dlya_pervyh_blyud_7.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">1.8</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">23</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">28</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_SX42-2_SX42-2" available="true">
+        <name>Мармитница фарфоровая Tiffany 1.5 л квадратная подставке с подогревом 34х26х7 см SX42-2</name>
+        <price>1939.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX42-2_SX42-2</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 1.5 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 1.5 л Высота: 7 см Ширина: 26 см Длина: 34 см Вес: 2.5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6967</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6967/marmitnitsa_farforovaya_tiffany_1_5_l_kvadratnaya_na_metallicheskoy_podstavke_s_podogrevom_34h26h7_sm_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6967/marmitnitsa_farforovaya_tiffany_1_5_l_kvadratnaya_na_metallicheskoy_podstavke_s_podogrevom_34h26h7_sm_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6967/marmitnitsa_farforovaya_tiffany_1_5_l_kvadratnaya_na_metallicheskoy_podstavke_s_podogrevom_34h26h7_sm_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6967/marmitnitsa_farforovaya_tiffany_1_5_l_kvadratnaya_na_metallicheskoy_podstavke_s_podogrevom_34h26h7_sm_dlya_pervyh_blyud_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6967/marmitnitsa_farforovaya_tiffany_1_5_l_kvadratnaya_na_metallicheskoy_podstavke_s_podogrevom_34h26h7_sm_dlya_pervyh_blyud_5.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">2.5 кг</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">26</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">1.5</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">34</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_SX42-3_SX42-3" available="true">
+        <name>Мармитница фарфоровая Tiffany 2 л квадратная на металлической подставке 38х30х7 см SX42-3</name>
+        <price>2279.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>60</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SX42-3_SX42-3</vendorCode>
+        <description>Мармитница фарфоровая Tiffany объемом 2 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 2 л Высота: 7 см Ширина: 30 см Длина: 38 см Вес: 3.5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6968</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6968/marmitnitsa_farforovaya_tiffany_2_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_38h30h7_sm_dlya_pervyh_blyud_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6968/marmitnitsa_farforovaya_tiffany_2_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_38h30h7_sm_dlya_pervyh_blyud_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6968/marmitnitsa_farforovaya_tiffany_2_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_38h30h7_sm_dlya_pervyh_blyud_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6968/marmitnitsa_farforovaya_tiffany_2_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_38h30h7_sm_dlya_pervyh_blyud_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6968/marmitnitsa_farforovaya_tiffany_2_l_kvadratnaya_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_38h30h7_sm_dlya_pervyh_blyud_6.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
+        <param name="Вид оборудования">Мармит</param>
+        <param name="Вес">3.5</param>
+        <param name="Назначение">Для первых блюд</param>
+        <param name="Количество емкостей">1</param>
+        <param name="Материал крышки">Стекло</param>
+        <param name="Ширина">30</param>
+        <param name="Расположение">Настольное</param>
+        <param name="Объем">2</param>
+        <param name="Тип крышки">Съемная</param>
+        <param name="Длина">38</param>
+        <param name="Форм-фактор">Переносной</param>
+        <param name="Форма">Прямоугольная</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
