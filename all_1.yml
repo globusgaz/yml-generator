@@ -1,169 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-06 13:36">
+<yml_catalog date="2026-04-06 15:09">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="19">Лампы для маникюра</category>
-      <category id="33">Пепельницы</category>
-      <category id="23">Фены</category>
-      <category id="132">Конфетницы</category>
-      <category id="60">Мармиты</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="61">Сковородки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="294">Новогодние елки</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="53">Кувшины</category>
-      <category id="81">Капучинаторы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="122">Аксессуары</category>
-      <category id="136">Дуршлаги</category>
-      <category id="72">Весы напольные</category>
-      <category id="31">Часы настенные</category>
-      <category id="114">Повербанки</category>
-      <category id="261">Терки</category>
-      <category id="262">Термосумки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="57">Чашки</category>
-      <category id="212">Мебель</category>
-      <category id="187">Слайсеры</category>
-      <category id="63">Кастрюли</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="75">Утюги</category>
-      <category id="224">Гамаки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="133">Масленки</category>
-      <category id="110">Наушники</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="76">Отпариватели</category>
-      <category id="6">LED ленты</category>
-      <category id="89">Миксеры</category>
-      <category id="15">Плойки</category>
-      <category id="194">Менажницы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="149">Палатки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="128">Органайзеры</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="111">Портативные колонки</category>
-      <category id="184">Бульонницы</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="126">Ланч боксы</category>
-      <category id="77">Пылесосы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="29">Салфетницы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="59">Все для выпечки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="221">Туристические души</category>
-      <category id="93">Электрочайники</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="278">Косметички</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="179">Мебель для кемпинга</category>
       <category id="98">Блендеры</category>
-      <category id="68">Тарелки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="65">Креманки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="298">Брелки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="54">Стаканы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="67">Столовые приборы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="133">Масленки</category>
+      <category id="34">Подсвечники</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="33">Пепельницы</category>
+      <category id="287">Банты на елку</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="111">Портативные колонки</category>
+      <category id="186">Тостеры</category>
+      <category id="104">Ручки для чистки наушников</category>
       <category id="83">Чопперы и измельчители</category>
+      <category id="279">Зонты</category>
+      <category id="145">Смарт-часы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="103">Проекторы</category>
+      <category id="126">Ланч боксы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="6">LED ленты</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="193">Доски для подачи</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="14">Стайлеры</category>
+      <category id="72">Весы напольные</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="316">Туристические плиты</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="283">Подносы</category>
+      <category id="57">Чашки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="292">Столовая посуда</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="224">Гамаки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="300">Подушки для спины</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="128">Органайзеры</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="63">Кастрюли</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="60">Мармиты</category>
+      <category id="122">Аксессуары</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="52">Лимонадницы</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="53">Кувшины</category>
+      <category id="97">Весы кухонные</category>
+      <category id="93">Электрочайники</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="182">Блюда</category>
+      <category id="212">Мебель</category>
+      <category id="77">Пылесосы</category>
+      <category id="149">Палатки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="144">Вентиляторы</category>
+      <category id="261">Терки</category>
+      <category id="65">Креманки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="271">Товары для уборки</category>
+      <category id="166">Тортовницы</category>
+      <category id="125">Мангалы</category>
+      <category id="13">Триммеры</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="54">Стаканы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="195">Разделочные доски</category>
+      <category id="66">Сервизы</category>
+      <category id="56">Бокалы</category>
+      <category id="90">Мясорубки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="55">Рюмки</category>
+      <category id="132">Конфетницы</category>
       <category id="2">Уличные гирлянды</category>
       <category id="284">Новогодний декор</category>
-      <category id="196">Сетки и корзины для фри</category>
       <category id="96">Вакууматоры</category>
-      <category id="47">Наборы для специй</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="55">Рюмки</category>
-      <category id="34">Подсвечники</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="56">Бокалы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="140">Крышки</category>
-      <category id="103">Проекторы</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="14">Стайлеры</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="166">Тортовницы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="66">Сервизы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="62">Ковши</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="144">Вентиляторы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="141">Салатницы</category>
-      <category id="118">Сумки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="283">Подносы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="182">Блюда</category>
-      <category id="42">Термосы для детей</category>
+      <category id="15">Плойки</category>
       <category id="21">Электробритвы</category>
-      <category id="125">Мангалы</category>
+      <category id="141">Салатницы</category>
+      <category id="43">Бутылки для воды</category>
       <category id="281">Коврики для йоги</category>
-      <category id="279">Зонты</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="90">Мясорубки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="13">Триммеры</category>
-      <category id="186">Тостеры</category>
-      <category id="193">Доски для подачи</category>
-      <category id="292">Столовая посуда</category>
-      <category id="124">Решетки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="82">Другая мелкая техника</category>
+      <category id="68">Тарелки</category>
+      <category id="61">Сковородки</category>
+      <category id="88">Мультиварки и скороварки</category>
       <category id="304">Аккумуляторные пылесосы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="287">Банты на елку</category>
+      <category id="262">Термосумки</category>
+      <category id="17">Воскоплавы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="76">Отпариватели</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="140">Крышки</category>
+      <category id="187">Слайсеры</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="29">Салфетницы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="298">Брелки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="124">Решетки</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="221">Туристические души</category>
+      <category id="31">Часы настенные</category>
+      <category id="81">Капучинаторы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="23">Фены</category>
+      <category id="114">Повербанки</category>
+      <category id="89">Миксеры</category>
+      <category id="184">Бульонницы</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="110">Наушники</category>
+      <category id="179">Мебель для кемпинга</category>
       <category id="148">Туристические коврики</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="194">Менажницы</category>
+      <category id="62">Ковши</category>
+      <category id="67">Столовые приборы</category>
+      <category id="278">Косметички</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="118">Сумки</category>
+      <category id="75">Утюги</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="297">Детские сумки и кошельки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -7089,27 +7088,6 @@
         <param name="Тип емкости">Кувшин</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_2148787657_HP576" available="true">
-        <name>Набор пивных кружек 2 штуки по 500 мл стеклянная прозрачные HP576</name>
-        <price>329.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>54</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_2148787657_HP576</vendorCode>
-        <description>Набор пивных кружек (2 штуки по 500 мл) - это замечательный подарок для любого любителя пива. Кружки изготовлены из качественного толстого стекла, что обеспечивает их прочность и долговечность. Удобная форма и эргономичная ручка позволяют комфортно наслаждаться пивом на протяжении длительного времени. Вместимость 500 мл дает возможность вдоволь насладиться напитком без необходимости постоянно доливать. Прозрачное стекло позволяет видеть насыщенный цвет пива, а толстые стенки прекрасно сохраняют его температуру. Набор пивных кружек станет ярким акцентом на любом застолье, подходя как для ежедневного использования, так и для торжественных случаев. Это также отличный подарок для друзей, близких или коллег, которые ценят качество и практичность. Характеристики: Материал: стекло Объем: 500 мл Количество: 2 шт. Цвет: прозрачный Преимущества: Прочное и долговечное толстое стекло Удобная форма и эргономичная ручка Прозрачное стекло для оценки цвета пива и толстые стенки для сохранения температуры Уход: Мыть вручную или в посудомоечной машине, используя мягкие губки и неагрессивные моющие средства</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=1692</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0110/HP576/1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/images/Photo/Photo/HP576.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0110/HP576/2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0110/HP576/3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Назначение">Для пива</param>
-        <param name="Объем">500 мл</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип емкости">Кружка</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_2148787691_HP7213BL" available="true">
         <name>Чашка стеклянная 500 мл с ложкой и крышкой Голубой HP7213BL</name>
         <price>309.0</price>
@@ -9683,31 +9661,6 @@
         <param name="Цвет">Белый</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Круглая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP1022_HP1022" available="true">
-        <name>Мармит фарфоровый на 1 л овальный с подогревом 31×19×13 см HP1022</name>
-        <price>1179.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP1022_HP1022</vendorCode>
-        <description>фарфоровая овальная мармитница объемом 1 литр – элегантный и функциональный аксессуар для вашей кухни. Изготовлена ​​из высококачественного фарфора белого цвета с серебристым покрытием по краям, она выглядит изящно и стильно. Стеклянная крышка обеспечивает сохранение тепла и аромата блюд, позволяя наслаждаться идеально приготовленной едой. Характеристики: Размеры: 31×19×13 см Объем: 1 литр Материал: фарфор, стекло, нержавеющая сталь Достоинства: Хромированная металлическая подставка с подогревом поддерживает блюда теплыми в течение всего времени подачи. Эстетический дизайн придает изяществу и стилю сервировку стола. Уход: Рекомендуется использовать моющие средства Ручная мойка для сохранения вида фарфора и стекла</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=2357</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000001/HP1022/marmitnitsa_keramicheskaya_ovalnaya_1_l_so_steklyannoy_kryshkoy_hrom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000001/HP1022/1022_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000001/HP1022/1022_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000001/HP1022/1022_1.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">13 см</param>
-        <param name="Вес">1.78 кг</param>
-        <param name="Материал подставки">Металл</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">19 см</param>
-        <param name="Объем">1 л</param>
-        <param name="Длина">31 см</param>
-        <param name="Форма">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP1228_HP1228" available="true">
@@ -32293,37 +32246,6 @@
         <param name="Форма">Прямоугольная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-YH-46_HP-YH-46" available="true">
-        <name>Масленка для сливочного масла 17х10.5х8 см с крышкой из стекла HP-YH-46</name>
-        <price>189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>133</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-YH-46_HP-YH-46</vendorCode>
-        <description>Масленка из толстого стекла с крышкой &amp;ndash; это практичная и элегантная посуда для хранения и подачи масла. Ее классический дизайн гармонично сочетается с любым стилем сервировки стола. Благодаря прозрачному толстому стеклу, вы всегда сможете видеть остатки продукта, а также хранить масло в опрятном виде. Основные характеристики: Материал: стекло; Размеры: 17х10.5х8 см; Высота масленки составляет 8 см, что делает ее компактной и удобной для хранения в холодильнике или на столе. Крышка обеспечивает защиту масла от посторонних запахов, пыли и высыхания, а крепкое стекло гарантирует долговечность и стойкость к повреждениям. Эта масленка идеально подходит как для повседневного использования, так и для праздничных мероприятий. Ее легко чистить как вручную, так и в посудомоечной машине, что придает удобство в уходе. Это также отличный вариант подарка для тех, кто ценит функциональность и стиль.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3616</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_5.jpg</picture>
-        <param name="Высота">80</param>
-        <param name="Вилочка">Нет</param>
-        <param name="Материал масленки">Стекло</param>
-        <param name="Крышка">есть</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">105</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Хранение в морозильной камере">Нет</param>
-        <param name="Длина">170</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Ножик">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Форма">Прямоугольная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-YH-53_HP-YH-53" available="true">
         <name>Блюдо для закусок стеклянное 24,5*20,5*2 см прямоугольное HP-YH-53</name>
         <price>429.0</price>
@@ -39276,7 +39198,7 @@
         <categoryId>63</categoryId>
         <vendor>Yongkang Jiaqi</vendor>
         <vendorCode>f11_HP-1-4_HP-1-4</vendorCode>
-        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 5 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16,5 см; Высота кастрюли без крышки: 9,5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 5 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
+        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 4 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16,5 см; Высота кастрюли без крышки: 9,5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 4 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3997</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_7.jpg</picture>
@@ -39314,7 +39236,7 @@
         <categoryId>63</categoryId>
         <vendor>Yongkang Jiaqi</vendor>
         <vendorCode>f11_HP-1-7_HP-1-7</vendorCode>
-        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 5 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16,5 см; Высота кастрюли без крышки: 9,5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 5 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
+        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 4 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16,5 см; Высота кастрюли без крышки: 9,5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 4 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4000</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-7/HP17_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-7/HP17_7.jpg</picture>
@@ -39351,7 +39273,7 @@
         <categoryId>63</categoryId>
         <vendor>Yongkang Jiaqi</vendor>
         <vendorCode>f11_HP-1-8_HP-1-8</vendorCode>
-        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 5 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16.5 см; Высота кастрюли без крышки: 9.5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 5 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
+        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 4 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16.5 см; Высота кастрюли без крышки: 9.5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 4 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4001</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-8/HP-1-8_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-8/HP-1-8_10.jpg</picture>
@@ -57134,30 +57056,6 @@
         <param name="Гарантия">14 дней</param>
         <param name="Тип крепления">Универсальное</param>
       </offer>
-      <offer id="f11_HB-40-11_HB-40-11" available="true">
-        <name>Подставка для тарелок и крышек деревянная на кухню 16×12.5×10 (см) HB-40-11</name>
-        <price>79.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>280</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HB-40-11_HB-40-11</vendorCode>
-        <description>Сушилка для тарелок из бамбука поможет поддерживать порядок на кухне, удобно размещая посуду в вертикальном положении. Она подходит не только для тарелок, но и для крышек, что делает её универсальным решением для хранения. Благодаря компактным размерам сушилку можно поставить на рабочую поверхность или разместить в сушильном шкафу. Конструкция из бамбука сочетает прочность, лёгкость и устойчивость, обеспечивая надёжное хранение посуды. Материал хорошо переносит влажность и легко очищается, что делает изделие практичным для ежедневного использования. Основные характеристики деревянной подставка для тарелок и крышек: Размер: 16&amp;times;12.5&amp;times;10 см; Материал: бамбук. Особенности подставки для тарелок на кухню: Подходит для хранения тарелок и крышек Компактная и удобная в использовании Можно разместить на рабочей поверхности или в сушильном шкафу Изготовлена из прочного и лёгкого бамбука Устойчивая конструкция, удобная для ежедневного применения Бамбуковая подставка-сушилка станет практичным помощником на кухне, обеспечивая порядок и экономию пространства. Она универсальна, долговечна и гармонично впишется в любой интерьер.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4864</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva_2.jpg</picture>
-        <param name="Тип">Подставка</param>
-        <param name="Материал">Дерево</param>
-        <param name="Высота">10 см</param>
-        <param name="Количество отделов">3</param>
-        <param name="Особенности">Складная конструкция</param>
-        <param name="Ширина">12.5 см</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Длина">16 см</param>
-        <param name="Размещение">Горизонтальное</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-41-1_HP-41-1" available="true">
         <name>Корзина для белья 40×33×36 (см) мягкая 47 (л) Коричневый HP-41-1</name>
         <price>389.0</price>
@@ -70443,29 +70341,6 @@
         <param name="Глубина вазы">225</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-19-160-4_HP-19-160-4" available="true">
-        <name>Ваза для цветов квадратная стеклянная 10×10×30 (см) декоративна HP-19-160-4</name>
-        <price>1049.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>35</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_5a26cd8582acbe1e72</vendorCode>
-        <description>Элегантная ваза из дерева и стекла станет стильным акцентом в современном интерьере. Прозрачное дымчатое стекло в сочетании с текстурой дерева создаёт гармонию уюта и изысканности. Такой аксессуар подчеркнёт красоту минималистичных, скандинавских или рустикальных пространств, придавая їм характер і завершённость. Эта ваза &amp;mdash; не просто сосуд, а полноценный декоративный элемент, который оживит гостиную, прихожую или рабочее пространство. Она также станет удачным выбором для подарка или стильной фотосъёмки интерьера. Основные характеристики вазы для цветов: Материал: стекло, дерево; Размер: 10&amp;times;10&amp;times;30 см; Глубина: 28 см; Объем: 2 л. Основные преимущества декоративной вазы: Ваза подходит для разных типов цветов, а также для сухоцветов; Ваза выполнена из высококачественного стекла, что гарантирует её прочность и долговечность; Универсальность дизайна позволяет вазе гармонично вписаться в любой интерьер. Такая ваза подходит для живых или искусственных цветов, а также для декоративного украшения пространства. Ее легко интегрировать в современный или классический интерьер. Проста в уходе - достаточно мыть вручную или в посудомоечной машине.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5708</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5708/vaza_dlya_tsvetov_kvadratnaya_steklyannaya_10_10_30_sm_dekorativna_vaza_2_l_iz_tolstogo_stekla.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5708/vaza_dlya_tsvetov_kvadratnaya_steklyannaya_10_10_30_sm_dekorativna_vaza_2_l_iz_tolstogo_stekla_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5708/vaza_dlya_tsvetov_kvadratnaya_steklyannaya_10_10_30_sm_dekorativna_vaza_2_l_iz_tolstogo_stekla_2.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота вазы">30</param>
-        <param name="Применение">Внутри помещения</param>
-        <param name="Форма вазы">Квадратная</param>
-        <param name="Ширина вазы">10</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Глубина вазы">28</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-19-161-1_HP-19-161-1" available="true">
         <name>Ваза для цветов круглая стеклянная 29 (см) декоративна ваза 2 (л) из толстого стекла HP-19-161-1</name>
         <price>979.0</price>
@@ -73350,28 +73225,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-32-7_HP-32-7" available="true">
-        <name>Стеклянная декоративная ваза квадратная, стильная ваза стекло с деревом для цветов прозрачная HP-32-7</name>
-        <price>789.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>35</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-32-7_HP-32-7</vendorCode>
-        <description>Эта декоративная ваза объединяет прозрачное стекло и натуральное дерево, создавая элегантный акцент в интерьере. Чёткие геометрические линии и минималистичный дизайн делают её универсальным элементом декора: подходит для современных интерьеров в стиле минимализм и скандинавский уют, а также для контрастных акцентов в классических помещениях. Преимущества декоративной вазы: Материалы: верхняя часть из толстостенного прозрачного стекла высокого качества; основание из массива дерева с выраженной текстурой; Дизайн: ровные линии, квадратная форма; сочетание холодного стекла и тёплой древесины создаёт стильный визуальный контраст; Использование: подходит для срезанных и сухих цветов, веток, а также как самостоятельный декоративный элемент; устойчивая деревянная подставка обеспечивает надёжное размещение; Уход: стеклянную часть мыть мягкой губкой с тёплой водой; деревянную подставку протирать сухой или слегка влажной тканью, избегая длительного воздействия воды и агрессивных средств; Эстетика: роскошный, сдержанный внешний вид &amp;mdash; украшение столика, полки или комода; Универсальность: подходит для любого пространства &amp;mdash; прихожей, гостиной, офиса. Рекомендации по стилю: Скандинавский стиль: сочетать с мебелью светлых оттенков и текстилем нейтральной гаммы; Лофт или индустриальный интерьер: добавить металлизированные аксессуары для контраста; Классический интерьер: поставить на комод или консоль, дополнив винтажными предметами декора. Характеристики вазы: Материал: стекло, дерево; Форма: квадратная; Объём: 1700 мл; Размеры: 9.5&amp;times;9&amp;times;30 см; Глубина: 26 см; Вес: 1.2 кг.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5855</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5855/steklyannaya_dekorativnaya_vaza_kvadratnaya_stilnaya_vaza_steklo_s_derevom_dlya_tsvetov_prozrachnaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5855/steklyannaya_dekorativnaya_vaza_kvadratnaya_stilnaya_vaza_steklo_s_derevom_dlya_tsvetov_prozrachnaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5855/steklyannaya_dekorativnaya_vaza_kvadratnaya_stilnaya_vaza_steklo_s_derevom_dlya_tsvetov_prozrachnaya_2.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота вазы">300</param>
-        <param name="Объем">1.7 л</param>
-        <param name="Ширина вазы">90</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Глубина вазы">260</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-32-8_HP-32-8" available="true">
         <name>Стеклянная декоративная ваза квадратная, стильная ваза стекло с деревом для цветов прозрачная HP-32-8</name>
         <price>859.0</price>
@@ -74184,41 +74037,6 @@
         <param name="Цвет">Белый</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-56-1BE_HP-56-1BE" available="true">
-        <name>Подушка для шеи Cookie Bear U-образная, бежевый HP-56-1BE</name>
-        <price>509.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-1BE_HP-56-1BE</vendorCode>
-        <description>Данная привлекательная ортопедическая подушка для шеи в форме рогалика объединяет развлекательный игрушечный дизайн с функциональностью анатомической поддержки. Изделие становится идеальным компаньоном для детей и взрослых во время путешествий и отдыха. Преимущества ортопедической подушки-рогалика: &amp;bull; Наполнение Memory Foam: содержит специальную пену с памятью формы, которая точно адаптируется к анатомическим особенностям шеи и головы, создавая правильную ортопедическую поддержку и устраняя мышечное напряжение; &amp;bull; Плюшево-велюровое покрытие: верхний слой изготовлен из деликатного, тактильно приятного текстиля, исключающего кожные раздражения и гарантирующего превосходный комфорт при продолжительной эксплуатации. Оптимальное применение подушки для путешествий: &amp;bull; Комфортный сон во время поездок на автомобиле, авиатранспорте или железнодорожном транспорте; &amp;bull; Релаксация шейных мышц при чтении литературы или просмотре видеоконтента; &amp;bull; Обустройство комфортной атмосферы в детском помещении. Технические параметры подушки Memory Foam: &amp;bull; Материал изготовления: плюшевый велюр; &amp;bull; Внутреннее наполнение: пена memory foam; &amp;bull; Габаритные размеры: 30*25*10 см; &amp;bull; Масса изделия: 300 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5908</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5908/podushka_dlya_shei_cookie_bear_u_obraznaya_bezhevyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5908/podushka_dlya_shei_cookie_bear_u_obraznaya_bezhevyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5908/podushka_dlya_shei_cookie_bear_u_obraznaya_bezhevyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5908/podushka_dlya_shei_cookie_bear_u_obraznaya_bezhevyy_3.jpg</picture>
-        <param name="Цвет">Бежевый</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-56-1BR_HP-56-1BR" available="true">
-        <name>Подушка для шеи Cookie Bear U-образная, коричневый HP-56-1BR</name>
-        <price>509.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-1BR_HP-56-1BR</vendorCode>
-        <description>Данная привлекательная ортопедическая подушка для шеи в форме рогалика объединяет развлекательный игрушечный дизайн с функциональностью анатомической поддержки. Изделие становится идеальным компаньоном для детей и взрослых во время путешествий и отдыха. Преимущества ортопедической подушки-рогалика: &amp;bull; Наполнение Memory Foam: содержит специальную пену с памятью формы, которая точно адаптируется к анатомическим особенностям шеи и головы, создавая правильную ортопедическую поддержку и устраняя мышечное напряжение; &amp;bull; Плюшево-велюровое покрытие: верхний слой изготовлен из деликатного, тактильно приятного текстиля, исключающего кожные раздражения и гарантирующего превосходный комфорт при продолжительной эксплуатации. Оптимальное применение подушки для путешествий: &amp;bull; Комфортный сон во время поездок на автомобиле, авиатранспорте или железнодорожном транспорте; &amp;bull; Релаксация шейных мышц при чтении литературы или просмотре видеоконтента; &amp;bull; Обустройство комфортной атмосферы в детском помещении. Технические параметры подушки Memory Foam: &amp;bull; Материал изготовления: плюшевый велюр; &amp;bull; Внутреннее наполнение: пена memory foam; &amp;bull; Габаритные размеры: 30*25*10 см; &amp;bull; Масса изделия: 300 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5909</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5909/podushka_dlya_shei_cookie_bear_u_obraznaya_korichnevyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5909/podushka_dlya_shei_cookie_bear_u_obraznaya_korichnevyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5909/podushka_dlya_shei_cookie_bear_u_obraznaya_korichnevyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5909/podushka_dlya_shei_cookie_bear_u_obraznaya_korichnevyy_3.jpg</picture>
-        <param name="Материал">Велюр</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-56-2BE_HP-56-2BE" available="true">
         <name>Подушка-подголовник Cookie Bear для путешествий, бежевый HP-56-2BE</name>
         <price>439.0</price>
@@ -74341,23 +74159,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5916/podushka_dlya_shei_duck_u_obraznaya_goluboy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5916/podushka_dlya_shei_duck_u_obraznaya_goluboy_3.jpg</picture>
         <param name="Цвет">Голубой</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-56-5_HP-56-5" available="true">
-        <name>Подушка для шеи Frog U-образная HP-56-5</name>
-        <price>499.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-5_HP-56-5</vendorCode>
-        <description>Уникальная подушка-рогалик лягушка с выразительными глазами и забавным язычком представляет собой превосходный аксессуар для комфортного отдыха в дороге. Инновационное сочетание мягкого плюш-велюра и ортопедической пены с памятью формы обеспечивает анатомически корректную поддержку шейного отдела, делая любое путешествие приятным и расслабляющим. Преимущества ортопедической подушки для путешествий: &amp;bull; Наполнитель Memory Foam: высококачественная пена с эффектом памяти адаптируется под индивидуальные контуры шеи и головы, обеспечивая превосходную поддержку позвоночника и устраняя мышечное напряжение; &amp;bull; Плюш-велюровое покрытие: деликатная текстура внешнего материала гарантирует приятные тактильные ощущения и предотвращает раздражение кожи при продолжительном контакте. Применение подушки-рогалика для шеи: &amp;bull; Комфортный отдых в транспорте: автомобиль, авиаперелеты, железнодорожные поездки; &amp;bull; Релаксация шейной зоны при чтении книг или просмотре видеоконтента; &amp;bull; Создание атмосферы уюта в детском пространстве. Технические параметры подушки Memory Foam: &amp;bull; Материал изделия: плюш-велюр; &amp;bull; Внутренний наполнитель: memory foam; &amp;bull; Габариты: 30*30*10 см; &amp;bull; Масса: 300 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5917</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5917/podushka_dlya_shei_frog_u_obraznaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5917/podushka_dlya_shei_frog_u_obraznaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5917/podushka_dlya_shei_frog_u_obraznaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5917/podushka_dlya_shei_frog_u_obraznaya_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5917/podushka_dlya_shei_frog_u_obraznaya_4.jpg</picture>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-56-8_HP-56-8" available="true">
@@ -74545,60 +74346,6 @@
         <param name="Цвет">Серый</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-56-15GR_HP-56-15GR" available="true">
-        <name>Подушка для шеи Camelback U-образная зелёный HP-56-15GR</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-15GR_HP-56-15GR</vendorCode>
-        <description>Данная подушка создана для достижения максимального удобства и анатомически корректной поддержки шейного отдела, объединяя ортопедический наполнитель с многофункциональным технологичным чехлом. Преимущества ортопедической подушки для шеи: &amp;bull; Наполнитель Memory Foam: Внутренняя часть содержит пену с памятью формы, которая превосходно адаптируется под анатомические особенности шеи, обеспечивая идеальную ортопедическую поддержку и уменьшая напряжение мышц во время продолжительного сидения; &amp;bull; Дышащая зона (инновационный трикотаж): Внутренняя сторона изготовлена из воздухопроницаемого сетчатого трикотажа (3D Mesh). Данный материал эффективно выводит влагу и обеспечивает непрерывную вентиляцию, исключая перегревание и потоотделение в области шеи; &amp;bull; Комфортная зона (брашированный велюр): Наружный слой выполнен из приятного на ощупь бархатистого материала (брашированный велюр), обеспечивающего исключительную мягкость и удобство при контакте; &amp;bull; Система надежной фиксации: Подушка комплектуется шнуром-регулятором с фастексом, позволяющим настроить степень плотности прилегания; &amp;bull; Многофункциональное применение: Превосходно подходит для авиапутешествий, продолжительных автомобильных и железнодорожных поездок, а также для релаксации в рабочих условиях. Технические параметры подушки: &amp;bull; Материал изделия: брашированный велюр + 3D Mesh; &amp;bull; Наполнитель: memory foam; &amp;bull; Габариты: 25*25*14 см; &amp;bull; Масса: 400 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5931</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5931/podushka_dlya_shei_camelback_u_obraznaya_olivkovyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5931/podushka_dlya_shei_camelback_u_obraznaya_olivkovyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5931/podushka_dlya_shei_camelback_u_obraznaya_olivkovyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5931/podushka_dlya_shei_camelback_u_obraznaya_olivkovyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5931/podushka_dlya_shei_camelback_u_obraznaya_olivkovyy_4.jpg</picture>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-56-15B_HP-56-15B" available="true">
-        <name>Подушка для шеи Camelback U-образная серый HP-56-15B</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-15B_HP-56-15B</vendorCode>
-        <description>Данная подушка создана для обеспечения превосходного комфорта и анатомически корректной поддержки шеи, объединяя ортопедический наполнитель и многофункциональный инновационный чехол. Преимущества ортопедической подушки для шеи: &amp;bull; Наполнитель Memory Foam: Внутренняя часть содержит пену с памятью формы, которая точно повторяет контуры шеи, обеспечивая правильную анатомическую поддержку и уменьшая мышечное напряжение во время продолжительного сидения; &amp;bull; Зона свежести из технологичного трикотажа: Внутренняя сторона изготовлена из воздухопроницаемого сетчатого трикотажа (3D Mesh). Данный материал эффективно отводит влагу и обеспечивает непрерывную вентиляцию, исключая перегрев и потоотделение в области шеи; &amp;bull; Зона комфорта из брашированного велюра: Наружный слой выполнен из мягкого бархатистого материала (брашированный велюр), который обеспечивает максимальную мягкость и приятные тактильные ощущения; &amp;bull; Надежная система фиксации: Подушка комплектуется шнуром-фиксатором с фастексом, позволяющим настроить оптимальную плотность прилегания; &amp;bull; Универсальное применение: Превосходно подходит для авиаперелетов, продолжительных поездок в автомобиле или поезде, а также для отдыха в рабочем офисе. Технические параметры подушки для путешествий: &amp;bull; Материал чехла: брашированный велюр + 3D Mesh; &amp;bull; Наполнитель: memory foam; &amp;bull; Габариты: 25*25*14 см; &amp;bull; Масса: 400 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5932</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5932/podushka_dlya_shei_camelback_u_obraznaya_seryy_5.jpg</picture>
-        <param name="Цвет">Серый</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-56-15G_HP-56-15G" available="true">
-        <name>Подушка для шеи Camelback U-образная голубой HP-56-15G</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-15G_HP-56-15G</vendorCode>
-        <description>Данная ортопедическая подушка создана для максимального удобства и анатомически корректной поддержки шейного отдела, объединяя инновационный наполнитель с эффектом памяти и многофункциональный чехол с передовыми технологиями. Преимущества ортопедической подушки для шеи: &amp;bull; Инновационный наполнитель Memory Foam: высококачественная пена с памятью формы точно адаптируется под анатомические особенности шеи, обеспечивая идеальную ортопедическую поддержку и устраняя мышечные зажимы во время продолжительного использования; &amp;bull; Дышащая зона комфорта (высокотехнологичный трикотаж): внутренняя поверхность изготовлена из воздухопроницаемого сетчатого материала (3D Mesh), который эффективно выводит влагу и обеспечивает непрерывную вентиляцию, исключая перегревание и дискомфорт; &amp;bull; Тактильная зона комфорта (брашированный велюр): наружное покрытие выполнено из приятного на ощупь бархатистого материала, обеспечивающего максимальную мягкость и приятные тактильные ощущения; &amp;bull; Система надежного крепления: подушка комплектуется регулируемым шнуром с фастексом для настройки оптимальной степени фиксации; &amp;bull; Многофункциональное применение: превосходно подходит для авиапутешествий, длительных автомобильных и железнодорожных поездок, а также для релаксации в рабочей обстановке. Технические параметры подушки: &amp;bull; Материал изделия: брашированный велюр + 3D Mesh; &amp;bull; Тип наполнителя: memory foam; &amp;bull; Габариты: 25*25*14 см; &amp;bull; Масса: 400 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5933</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5933/podushka_dlya_shei_camelback_u_obraznaya_goluboy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5933/podushka_dlya_shei_camelback_u_obraznaya_goluboy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5933/podushka_dlya_shei_camelback_u_obraznaya_goluboy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5933/podushka_dlya_shei_camelback_u_obraznaya_goluboy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5933/podushka_dlya_shei_camelback_u_obraznaya_goluboy_4.jpg</picture>
-        <param name="Цвет">Голубой</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-56-16_HP-56-16" available="true">
         <name>Подушка для шеи надувная гибридная U-образная HP-56-16</name>
         <price>969.0</price>
@@ -74779,22 +74526,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5943/podushka_dlya_shei_carrot_u_obraznaya_3.jpg</picture>
         <param name="Тип">Декоративная</param>
         <param name="Цвет">Зелёный</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-56-22P_HP-56-22P" available="true">
-        <name>Подушка для шеи Strawberry U-образная HP-56-22P</name>
-        <price>329.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-22P_HP-56-22P</vendorCode>
-        <description>Ортопедическая подушка-рогалик для шеи в форме клубники с декоративными семечками представляет собой идеальное решение для комфортного отдыха в путешествиях. Мягкий плюш-велюровый чехол в сочетании с качественным наполнителем из полипропиленового хлопка гарантирует надежную поддержку шейного отдела и создает ощущение уюта. Данный аксессуар станет незаменимым спутником в поездках и добавит позитивного настроения в повседневный отдых. Преимущества дорожной подушки для путешествий: &amp;bull; Наполнитель из ПП-хлопка обеспечивает оптимальную мягкость и эргономичную поддержку для области шеи и головы, эффективно снижая напряжение и усталость во время длительных поездок; &amp;bull; Велюровое покрытие из плюшевого материала создает деликатное прикосновение к коже, исключает появление раздражений и гарантирует максимальный комфорт при продолжительном использовании; &amp;bull; Анатомическая форма рогалика обеспечивает правильное положение шейных позвонков и способствует полноценному расслаблению в сидячей позе. Сферы применения ортопедической подушки для отдыха: &amp;bull; Комфортный сон во время поездок в автомобиле, авиаперелетов или железнодорожных путешествий; &amp;bull; Поддержка шеи при чтении книг или просмотре видеоконтента в домашних условиях; &amp;bull; Декоративное дополнение интерьера детской спальни для создания уютной атмосферы. Технические характеристики подушки-рогалика: &amp;bull; Материал внешнего покрытия: высококачественный плюш-велюр; &amp;bull; Внутренний наполнитель: полипропиленовый хлопок; &amp;bull; Габаритные размеры изделия: 22x22x7 сантиметров; &amp;bull; Общий вес подушки: 300 грамм.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5945</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5945/podushka_dlya_shei_strawberry_u_obraznaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5945/podushka_dlya_shei_strawberry_u_obraznaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5945/podushka_dlya_shei_strawberry_u_obraznaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5945/podushka_dlya_shei_strawberry_u_obraznaya_3.jpg</picture>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-56-23P_HP-56-23P" available="true">
@@ -77108,36 +76839,6 @@
         <param name="Цвет">Красный</param>
         <param name="Длина">230</param>
         <param name="Общий объем формы">700</param>
-        <param name="Назначение формы">Для пирога|Для лазаньи|Для птицы|Для мяса|Для рыбы</param>
-        <param name="Тип духовки">Газовая или электрическая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HM05-10_HM05-10" available="true">
-        <name>Форма для запекания Vintage 28×17×5 (см) прямоугольная форма для выпекания в духовке с ручками Зеленая HM05-10</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>59</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HM05-10_HM05-10</vendorCode>
-        <description>Фарфоровая форма для запекания создана для тех, кто ценит удобство и красоту на кухне. Ее стильное оформление с нежным растительным орнаментом делает подачу блюд особенно эффектной. Основные характеристики формы для запекания: Материал: фарфор; Размер: 28&amp;times;17&amp;times;5 см; Объем: 1.3 л. Особенности формы для выпечки: равномерно распределяет тепло и сохраняет его длительное время; подходит для запекания мяса, рыбы, овощей и десертов; оснащена удобными ручками для безопасного переноса; можно использовать в духовке и микроволновке. Такая форма станет незаменимой помощницей на вашей кухне &amp;mdash; в ней удобно готовить как повседневные, так и праздничные блюда. Благодаря стильному дизайну, она идеально подходит для сервировки: готовое блюдо можно подавать прямо на стол, не перекладывая в другую посуду.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6070</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_9.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота стенок">50</param>
-        <param name="Ширина">170</param>
-        <param name="Цвет">Зелёный</param>
-        <param name="Длина">280</param>
-        <param name="Общий объем формы">1300</param>
         <param name="Назначение формы">Для пирога|Для лазаньи|Для птицы|Для мяса|Для рыбы</param>
         <param name="Тип духовки">Газовая или электрическая</param>
         <param name="Гарантия">14 дней</param>
@@ -81937,40 +81638,6 @@
         <param name="Длина">28</param>
         <param name="Цвет корпуса">Белый</param>
         <param name="Форма">Овальная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_YY78-3A_YY78-3A" available="true">
-        <name>Столовый набор посуды тарелок и чашек 32 предмета на 6 персон "Бордовый Меандр" фарфоровый YY78-3A</name>
-        <price>10169.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>66</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_YY78-3A_YY78-3A</vendorCode>
-        <description>Совместите современную форму и классическую элегантность на вашем столе! Этот большой столовый сервиз из 32 предметов &amp;ndash; готовое решение для роскошной сервировки обеда или ужина на 6 человек. Сервиз изготовлен из качественного белого фарфора. Края посуды украшены изысканным геометрическим орнаментом (грецкий узор) благородного бордового цвета, что добавляет набору торжественности и теплоты. Подробная комплектация набора: Тарелка обеденная (большая): 6 шт. &amp;mdash; &amp;Oslash; 26 см; Тарелка суповая (глубокая): 6 шт. - &amp;Oslash; 21 см (Объем ~500 мл); Тарелка десертная: 6 шт. &amp;mdash; &amp;Oslash; 17 см; Чашка чайна: 6 шт. &amp;ndash; &amp;Oslash; 10 см (Объем 300 мл); Блюдце: 6 шт. &amp;mdash; &amp;Oslash; 14.5 см; Большое сервировочное блюдо: 2 шт. - 36 х 20 см; Материал: Фарфор; Вес набора: 14.5 кг. Идеальная комплектация (32 предмета): Набор продуман до мелочей. Помимо персональных тарелок и чашек для каждого гостя, он включает в себя два больших овальных блюда, что позволяет подать основное блюдо (мясо, птицу) и закуски в едином стиле. Это отличный выбор для большой семьи, а также презентабельный и ценный подарок на свадьбу или новоселье.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6381</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_8.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Количество персон">6</param>
-        <param name="Количество предметов">32</param>
-        <param name="Использование в микроволновке">Да</param>
-        <param name="Тарелка обеденная">6</param>
-        <param name="Блюдо">2</param>
-        <param name="Тарелка десертная">6</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Блюдце чайное">6</param>
-        <param name="Цвет">Белый</param>
-        <param name="Тарелка суповая">6</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Чашка чайная">6</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_YY78-4A_YY78-4A" available="true">
@@ -90649,32 +90316,6 @@
         <param name="Длина">40</param>
         <param name="Форм-фактор">Переносной</param>
         <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_MH739-S_MH739-S" available="true">
-        <name>Мармитница фарфоровая 1 л на подставке с подогревом 31х19х13 см MH739-S</name>
-        <price>1449.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_MH739-S_MH739-S</vendorCode>
-        <description>Мармитница фарфоровая овальной формы предназначена для подачи горячих блюд с поддержкой температуры. Благодаря металлической подставке с подогревом ее можно использовать без подключения к электричеству, что удобно для сервировки дома или во время мероприятий. Конструкция обеспечивает равномерное сохранение тепла блюда на протяжении подачи. Емкость объемом 1 л подходит для гарниров, мясных блюд, соусов или закусок. Серебристая металлическая подставка обеспечивает устойчивость и предусматривает место для источника подогрева. Овальная форма позволяет удобно размещать мармитницу на столе и оптимально использовать пространство. Модель имеет сбалансированные размеры и вес, что делает ее подходящей для ежедневного использования. Конструкция легко разбирается для очистки и хранения. Подходит для домашнего использования или сервировки во время приема гостей. Характеристики: Форма: овальная Материал емкости: фарфор Материал подставки: металл Цвет подставки: серебристый Объем: 1 л Длина: 31 см Ширина: 19 см Высота: 13 см Вес: 1.7 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6901</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6901/marmitnitsa_farforovaya_1_l_na_podstavke_s_podogrevom_31h19h13_sm_marmit_na_podstavke_dlya_pervyh_blyud_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6901/marmitnitsa_farforovaya_1_l_na_podstavke_s_podogrevom_31h19h13_sm_marmit_na_podstavke_dlya_pervyh_blyud_3.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">13</param>
-        <param name="Вид оборудования">Мармит</param>
-        <param name="Назначение">Для первых блюд</param>
-        <param name="Источник питания">Электричество</param>
-        <param name="Количество емкостей">1</param>
-        <param name="Ширина">19</param>
-        <param name="Расположение">Настольное</param>
-        <param name="Объем">1</param>
-        <param name="Тип крышки">Съемная</param>
-        <param name="Длина">31</param>
-        <param name="Форм-фактор">Переносной</param>
-        <param name="Форма">Круглая</param>
       </offer>
       <offer id="f11_MH739-L_MH739-L" available="true">
         <name>Мармитница фарфоровая 2 л на подставке с подогревом 41х25х15 см MH739-L</name>
