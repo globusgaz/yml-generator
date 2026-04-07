@@ -1,168 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-07 15:30">
+<yml_catalog date="2026-04-07 17:22">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="91">Кухонные комбайны</category>
-      <category id="283">Подносы</category>
-      <category id="186">Тостеры</category>
-      <category id="6">LED ленты</category>
-      <category id="150">Спальные мешки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="54">Стаканы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="122">Аксессуары</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="34">Подсвечники</category>
-      <category id="144">Вентиляторы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="93">Электрочайники</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="56">Бокалы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="90">Мясорубки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="287">Банты на елку</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="194">Менажницы</category>
-      <category id="149">Палатки</category>
-      <category id="57">Чашки</category>
-      <category id="31">Часы настенные</category>
-      <category id="53">Кувшины</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="128">Органайзеры</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="89">Миксеры</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="75">Утюги</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="52">Лимонадницы</category>
       <category id="217">Кемпинговые фонари</category>
-      <category id="81">Капучинаторы</category>
-      <category id="96">Вакууматоры</category>
-      <category id="125">Мангалы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="42">Термосы для детей</category>
-      <category id="142">Посуда для детей</category>
-      <category id="193">Доски для подачи</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="72">Весы напольные</category>
-      <category id="148">Туристические коврики</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="103">Проекторы</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="68">Тарелки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="224">Гамаки</category>
       <category id="47">Наборы для специй</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="283">Подносы</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="299">Подушки для путишествий</category>
       <category id="26">Мусорные ведра</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="15">Плойки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="285">Йогуртницы</category>
-      <category id="184">Бульонницы</category>
-      <category id="279">Зонты</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="221">Туристические души</category>
+      <category id="90">Мясорубки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="54">Стаканы</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="110">Наушники</category>
+      <category id="72">Весы напольные</category>
+      <category id="195">Разделочные доски</category>
+      <category id="96">Вакууматоры</category>
+      <category id="61">Сковородки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="194">Менажницы</category>
       <category id="71">Стиральные машинки</category>
-      <category id="268">Кухонные подставки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="33">Пепельницы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="111">Портативные колонки</category>
       <category id="60">Мармиты</category>
+      <category id="34">Подсвечники</category>
+      <category id="87">Соковыжималки</category>
+      <category id="128">Органайзеры</category>
+      <category id="136">Дуршлаги</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="76">Отпариватели</category>
+      <category id="140">Крышки</category>
+      <category id="89">Миксеры</category>
+      <category id="23">Фены</category>
+      <category id="148">Туристические коврики</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="122">Аксессуары</category>
+      <category id="166">Тортовницы</category>
+      <category id="182">Блюда</category>
+      <category id="294">Новогодние елки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="56">Бокалы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="93">Электрочайники</category>
+      <category id="186">Тостеры</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="124">Решетки</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="68">Тарелки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="262">Термосумки</category>
+      <category id="75">Утюги</category>
+      <category id="14">Стайлеры</category>
+      <category id="144">Вентиляторы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="142">Посуда для детей</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="29">Салфетницы</category>
+      <category id="184">Бульонницы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="62">Ковши</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="66">Сервизы</category>
+      <category id="298">Брелки</category>
       <category id="261">Терки</category>
       <category id="300">Подушки для спины</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="65">Креманки</category>
-      <category id="298">Брелки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="182">Блюда</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="61">Сковородки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="118">Сумки</category>
-      <category id="66">Сервизы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="141">Салатницы</category>
-      <category id="98">Блендеры</category>
-      <category id="316">Туристические плиты</category>
-      <category id="224">Гамаки</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="67">Столовые приборы</category>
-      <category id="23">Фены</category>
-      <category id="77">Пылесосы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="187">Слайсеры</category>
-      <category id="76">Отпариватели</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="111">Портативные колонки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="110">Наушники</category>
-      <category id="132">Конфетницы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="284">Новогодний декор</category>
-      <category id="29">Салфетницы</category>
-      <category id="140">Крышки</category>
+      <category id="103">Проекторы</category>
       <category id="55">Рюмки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="63">Кастрюли</category>
-      <category id="126">Ланч боксы</category>
+      <category id="31">Часы настенные</category>
+      <category id="287">Банты на елку</category>
+      <category id="2302">Подарункові коробки і пакети</category>
       <category id="133">Масленки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="281">Коврики для йоги</category>
+      <category id="149">Палатки</category>
+      <category id="6">LED ленты</category>
       <category id="13">Триммеры</category>
-      <category id="14">Стайлеры</category>
-      <category id="262">Термосумки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="124">Решетки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="278">Косметички</category>
-      <category id="195">Разделочные доски</category>
-      <category id="20">Эпиляторы</category>
-      <category id="212">Мебель</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="35">Вазы для цветов</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="59">Все для выпечки</category>
+      <category id="15">Плойки</category>
+      <category id="118">Сумки</category>
       <category id="114">Повербанки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="33">Пепельницы</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="21">Электробритвы</category>
-      <category id="166">Тортовницы</category>
+      <category id="63">Кастрюли</category>
+      <category id="53">Кувшины</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="57">Чашки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="132">Конфетницы</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="52">Лимонадницы</category>
       <category id="199">Карематы и туристические коврики</category>
-      <category id="62">Ковши</category>
-      <category id="255">Сита и дуршлаги</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="65">Креманки</category>
+      <category id="77">Пылесосы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="221">Туристические души</category>
+      <category id="187">Слайсеры</category>
+      <category id="125">Мангалы</category>
+      <category id="212">Мебель</category>
+      <category id="193">Доски для подачи</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="98">Блендеры</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="279">Зонты</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="278">Косметички</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="21">Электробритвы</category>
+      <category id="126">Ланч боксы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="284">Новогодний декор</category>
+      <category id="141">Салатницы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="296">Полки, этажерки, шкафы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -76995,6 +76995,52 @@
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_LB-1573G_LB-1573G" available="true">
+        <name>Фруктовница фарфоровая на металлической подставке Ø25 (см) круглая ваза конфетница для фруктов Золото LB-1573G</name>
+        <price>1099.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>132</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_LB-1573G_LB-1573G</vendorCode>
+        <description>Фарфоровая фруктовница на металлической подставке станет стильным украшением стола и удобным решением для подачи фруктов, сладостей или выпечки. Её изысканный дизайн придаст сервировке утончённость и гармонию, идеально вписываясь как в повседневную обстановку, так и в праздничный интерьер. Основные характеристики фруктовницы: Материал: фарфор, металл; Диаметр: 25 см; Высота: 10 см; Высота без подставки: 3 см; Объем: 500 мл. Особенности: не впитывает запахи и устойчива к царапинам; легко очищается и сохраняет блеск даже при регулярном использовании; металлическая подставка обеспечивает устойчивость и добавляет изящества; универсальна &amp;mdash; подходит для подачи фруктов, десертов, кондитерских изделий и закусок; сочетает практичность и декоративность, подчёркивая вкус и стиль Такая фруктовница станет практичным и эстетичным элементом сервировки, подходящим для дома, кафе или ресторана. Она подчеркнёт вкус хозяйки и создаст атмосферу уюта и изящества за столом.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6083</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto_2.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">100</param>
+        <param name="Диаметр">250</param>
+        <param name="Декоративное оформление">Гравировка</param>
+        <param name="Крышка">Нет</param>
+        <param name="Цвет">Золотистый</param>
+        <param name="Тематика декора, рисунка">Без декора</param>
+        <param name="Тип посуды">Фруктовница</param>
+        <param name="Форма">Круглая</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_LB-1566G_LB-1566G" available="true">
+        <name>Фарфоровое блюдо для сервировки на металлической подставке 37×18×5 (см) блюдо для подачи закусок LB-1566G</name>
+        <price>829.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>182</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_LB-1566G_LB-1566G</vendorCode>
+        <description>Сервировочное блюдо на металлической подставке &amp;mdash; это стильное и удобное решение для подачи фруктов, десертов или закусок как на праздничном, так и на повседневном столе. Комбинация фарфора и металла создаёт гармоничный дуэт практичности и элегантности, подчёркивая изысканность сервировки. Универсальный дизайн блюда позволяет ему органично вписаться в интерьер любой кухни или столовой &amp;mdash; от классики до современности. Основные характеристики блюда на подставке для сервировки стола: Материал: фарфор; Размер: 25&amp;times;10.5&amp;times;9 см; Высота без подставки 2.5 см; Объем: 200 мл. Такое сервировочное блюдо станет не только практичным помощником на кухне, но и стильным украшением вашего стола. Он подчеркнет вкус приготовленных угощений и добавит изюминку в атмосферу любого приема пищи &amp;mdash; от семейного ужина до праздничного банкета.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6084</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6084/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6084/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6084/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6084/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">90</param>
+        <param name="Ширина">105</param>
+        <param name="Длина">250</param>
+        <param name="Тематика декора, рисунка">Без декора</param>
+        <param name="Многоуровневая">Нет</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_LB-1566S_LB-1566S" available="true">
         <name>Фарфоровое блюдо для сервировки на металлической подставке 37×18×5 (см) блюдо для подачи закусок Белый с серебром LB-1566S</name>
         <price>719.0</price>
@@ -90200,6 +90246,134 @@
         <param name="Цвет корпуса">Прозрачный</param>
         <param name="Тип установки оборудования">Настольный</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-16978-01_HP-16978-01" available="true">
+        <name>Набор столовых ложек 6 штук из нержавеющей стали ложки столовые посуда нержавейка питания HP-16978-01</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_fdca9f3457bfe307ff</vendorCode>
+        <description>Классические столовые приборы с зеркальной полировкой. Дизайн сочетает в себе строгие линии и эргономичную форму, что делает приборы универсальным дополнением к любому кухонной сервизе. Преимущества: Качественный материал: Изготовлены из пищевой нержавеющей стали. Материал устойчив к коррозии, окислению и механическим повреждениям. Не вступает в реакцию с продуктами и не влияет на вкусовые качества блюд. Зеркальная полировка: тщательная обработка поверхности обеспечивает безупречный блеск и гладкость. Покрытие сохраняет эстетичный вид после длительного использования. Оптимальный размер: Полноразмерные ложки длиной 21 см удобны для первых блюд и гарниров. Практичность ухода: Приборы подходят для мытья в посудомоечной машине. Гладкая поверхность препятствует нагременению бактерий и легко очищается. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6863</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-01/_T5B0125.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6863/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_lozhki_stolovye_posuda_nerzhaveyka_pitaniya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-01/_T5B0224.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6863/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_lozhki_stolovye_posuda_nerzhaveyka_pitaniya_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6863/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_lozhki_stolovye_posuda_nerzhaveyka_pitaniya_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Столовая</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-02_HP-16978-02" available="true">
+        <name>Набор столовых вилок 6 штук из нержавеющей стали 20.5 см вилки кухонные столовые приборы сервировки HP-16978-02</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_b19c8f4590bf3f76a4</vendorCode>
+        <description>Столовые приборы с зеркальной полировкой, выполнены в классическом стиле. Предназначены для повседневной и праздничной сервировки стола. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии и механическому воздействию, не изменяет вкус и аромат блюд. Полировка: Зеркальная отделка поверхности обеспечивает гладкость и блеск изделий. Эргономика: Длина убора составляет 20,5 см. Геометрия зубцов и вес изделия рассчитаны на комфортное использование с другими блюдами и закусками. Уход: Приборы подходят для очистки в посудомоечной машине. Поверхность устойчива к стандартным моющим средствам. Характеристики: Материал: нержавеющая сталь Длина: 20,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6864</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-02/_T5B0131.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-02/_T5B0192.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6864/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_20_5_sm_vilki_kuhonnye_stolovye_pribory_servirovki_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6864/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_20_5_sm_vilki_kuhonnye_stolovye_pribory_servirovki_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6864/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_20_5_sm_vilki_kuhonnye_stolovye_pribory_servirovki_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Тип вилки">Столовая</param>
+        <param name="Длина">205</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-03_HP-16978-03" available="true">
+        <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см ложки чайные посуда нержавейка десерт кофе</name>
+        <price>369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_8d4207980e17b8f710</vendorCode>
+        <description>Набор чайных ложек с зеркальной полировкой подойдет для повседневного использования и сервировки десертов на праздничном столе. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии, не влияет вкус напитков и десертов, сохраняет форму во время использования. Зеркальный финиш: Глянцевая поверхность придает уборам праздничный вид и облегчает очистку после использования. Компактный размер: Длина 14,5 см оптимальная для чайных и кофейных пар, а также для подачи десертов, йогуртов и закусок в небольших пиалах. Уход: Приборы подходят для регулярного мытья посудомоечной машины. Характеристики: Материал: нержавеющая сталь Длина: 14,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6865</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-03/_T5B0033.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-03/_T5B0196.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6865/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6865/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Тип ложки">Чайная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">146</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-04_HP-16978-04" available="true">
+        <name>Набор столовых ножей 6 штук из нержавеющей стали 23 см ножи столовые приборы сервировка HP-16978-04</name>
+        <price>539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_d2aa20f749f0951a15</vendorCode>
+        <description>Столовые ножи с комбинированной полировкой и фактурным дизайном рукояти. Относится к категории полноразмерных столовых приборов, предназначенных для сервировки основных блюд. Особенности: Материал: Нержавеющая сталь высокой плотности. Сплав устойчив к затуплению, коррозии и воздействию пищевых кислот. Лезвие: Ножи имеют классическую форму с плавно закругленным кончиком и мелкозубчатой заточкой (серрейтором) на кромке для легкого нарезания мясных блюд и овощей. Размер: Длина прибора составляет 23 см, что обеспечивает удобный рычаг для нарезки плотных продуктов. Характеристики: Материал: нержавеющая сталь Длина: 23 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6866</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-04/_T5B0088.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-04/_T5B0205.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6866/nabor_stolovyh_nozhey_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_nozhi_stolovye_pribory_servirovka_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6866/nabor_stolovyh_nozhey_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_nozhi_stolovye_pribory_servirovka_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6866/nabor_stolovyh_nozhey_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_nozhi_stolovye_pribory_servirovka_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Длина">230</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-05_HP-16978-05" available="true">
+        <name>Набор столовых ложек 6 штук из нержавеющей стали 21 см ложки столовые приборы классический дизайн сервировки HP-16978-05</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_9663d10a18d8f27e67</vendorCode>
+        <description>Полноразмерные столовые приборы, отличающиеся выразительным дизайном. Отлично подходят для повседневной и торжественной сервировки Особенности: Материал: Нержавеющая сталь. Сплав характеризуется высокой коррозионной стойкостью, механической прочностью и химической инертностью к продуктам питания. Черпак: Классической овальной формы с гладкой зеркальной полировкой, что обеспечивает комфортное использование и легкую очистку. Фактурная рукоята: Выполнена с применением технологии объемного тиснения, которая создает сложный рельефный узор, имитирующий естественную текстуру. Размер: Длина ложки составляет 21 см, что соответствует стандарту для подачи первых блюд, каш и гарниров. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6867</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-05/_T5B0040.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6867/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_stolovye_pribory_klassicheskiy_dizayn_servirovki_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-05/_T5B0213.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6867/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_stolovye_pribory_klassicheskiy_dizayn_servirovki_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6867/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_stolovye_pribory_klassicheskiy_dizayn_servirovki_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Столовая</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-06_HP-16978-06" available="true">
+        <name>Набор столовых вилок 6 штук из нержавеющей стали 21 см вилки кухонные столовые приборы классический стиль HP-16978-06</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_49ae62710b92bcbcf5</vendorCode>
+        <description>Полноразмерные столовые вилки подходят для повседневного использования и торжественной сервировки. Отличаются выразительной текстурой рукоятей и контрастными декоративными элементами. Особенности: Материал: Нержавеющая сталь. Материал устойчив к коррозии, деформации и воздействию органических кислот, содержащихся в продуктах. Рабочая часть: Классическая четырехзубная форма с зеркальной полировкой. Поверхность тщательно обработана для обеспечения гладкости и гигиеничности. Фактурная рукоятка: Имеет сложный рельефный узор, нанесенный методом объемного тиснения. Размер: Длина изделия составляет 21 см, что обеспечивает комфортный баланс и удобство при употреблении основных блюд и гарниров. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6868</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-06/_T5B0138.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-06/_T5B0190.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6868/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6868/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6868/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип вилки">Столовая</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
       </offer>
       <offer id="f11_LB-1566BH_LB-1566BH" available="true">
         <name>Блюдо сервировочное фарфоровое 25х10 см для закусок фруктов десертов LB-1566BH</name>
