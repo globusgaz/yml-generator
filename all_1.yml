@@ -1,168 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-08 11:17">
+<yml_catalog date="2026-04-08 13:45">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="299">Подушки для путишествий</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="72">Весы напольные</category>
-      <category id="17">Воскоплавы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="90">Мясорубки</category>
-      <category id="224">Гамаки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="29">Салфетницы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="98">Блендеры</category>
-      <category id="77">Пылесосы</category>
-      <category id="140">Крышки</category>
-      <category id="187">Слайсеры</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="33">Пепельницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="262">Термосумки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="150">Спальные мешки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="126">Ланч боксы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="166">Тортовницы</category>
-      <category id="212">Мебель</category>
-      <category id="68">Тарелки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="125">Мангалы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="144">Вентиляторы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="13">Триммеры</category>
-      <category id="122">Аксессуары</category>
-      <category id="136">Дуршлаги</category>
-      <category id="298">Брелки</category>
+      <category id="110">Наушники</category>
       <category id="16">Машинки для стрижки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="20">Эпиляторы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="124">Решетки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="89">Миксеры</category>
-      <category id="132">Конфетницы</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="76">Отпариватели</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="96">Вакууматоры</category>
       <category id="156">Столовые сервизы</category>
-      <category id="279">Зонты</category>
-      <category id="63">Кастрюли</category>
-      <category id="6">LED ленты</category>
-      <category id="61">Сковородки</category>
-      <category id="194">Менажницы</category>
-      <category id="287">Банты на елку</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="294">Новогодние елки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="179">Мебель для кемпинга</category>
+      <category id="125">Мангалы</category>
       <category id="281">Коврики для йоги</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="45">Коктейльные наборы для бара</category>
+      <category id="75">Утюги</category>
+      <category id="97">Весы кухонные</category>
+      <category id="90">Мясорубки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="262">Термосумки</category>
+      <category id="144">Вентиляторы</category>
+      <category id="31">Часы настенные</category>
       <category id="56">Бокалы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="54">Стаканы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="300">Подушки для спины</category>
+      <category id="142">Посуда для детей</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="62">Ковши</category>
+      <category id="261">Терки</category>
+      <category id="53">Кувшины</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="29">Салфетницы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="284">Новогодний декор</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="149">Палатки</category>
+      <category id="33">Пепельницы</category>
+      <category id="141">Салатницы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="77">Пылесосы</category>
+      <category id="65">Креманки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="199">Карематы и туристические коврики</category>
       <category id="268">Кухонные подставки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="198">Гофре и выпрямители для волос</category>
       <category id="184">Бульонницы</category>
+      <category id="114">Повербанки</category>
+      <category id="68">Тарелки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="278">Косметички</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="300">Подушки для спины</category>
+      <category id="145">Смарт-часы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="14">Стайлеры</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="66">Сервизы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="118">Сумки</category>
+      <category id="6">LED ленты</category>
+      <category id="52">Лимонадницы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="224">Гамаки</category>
+      <category id="212">Мебель</category>
       <category id="55">Рюмки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="47">Наборы для специй</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="57">Чашки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="103">Проекторы</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="63">Кастрюли</category>
+      <category id="133">Масленки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="283">Подносы</category>
+      <category id="72">Весы напольные</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="124">Решетки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="61">Сковородки</category>
+      <category id="128">Органайзеры</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="292">Столовая посуда</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="67">Столовые приборы</category>
       <category id="83">Чопперы и измельчители</category>
+      <category id="194">Менажницы</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="111">Портативные колонки</category>
+      <category id="93">Электрочайники</category>
+      <category id="89">Миксеры</category>
+      <category id="140">Крышки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="122">Аксессуары</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="60">Мармиты</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="34">Подсвечники</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="87">Соковыжималки</category>
+      <category id="21">Электробритвы</category>
+      <category id="15">Плойки</category>
+      <category id="166">Тортовницы</category>
+      <category id="76">Отпариватели</category>
+      <category id="182">Блюда</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="150">Спальные мешки</category>
+      <category id="298">Брелки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="186">Тостеры</category>
+      <category id="23">Фены</category>
+      <category id="20">Эпиляторы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="54">Стаканы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="81">Капучинаторы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="221">Туристические души</category>
+      <category id="59">Все для выпечки</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="294">Новогодние елки</category>
+      <category id="132">Конфетницы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="13">Триммеры</category>
+      <category id="17">Воскоплавы</category>
+      <category id="287">Банты на елку</category>
+      <category id="187">Слайсеры</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="279">Зонты</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="271">Товары для уборки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="98">Блендеры</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="121">Туристические обогреватели</category>
       <category id="255">Сита и дуршлаги</category>
       <category id="73">Наборы для груминга</category>
-      <category id="66">Сервизы</category>
-      <category id="278">Косметички</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="67">Столовые приборы</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="114">Повербанки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="133">Масленки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="149">Палатки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="53">Кувшины</category>
-      <category id="57">Чашки</category>
-      <category id="141">Салатницы</category>
-      <category id="182">Блюда</category>
-      <category id="23">Фены</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="75">Утюги</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="193">Доски для подачи</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="103">Проекторы</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="97">Весы кухонные</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="62">Ковши</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="186">Тостеры</category>
-      <category id="81">Капучинаторы</category>
-      <category id="31">Часы настенные</category>
-      <category id="93">Электрочайники</category>
-      <category id="128">Органайзеры</category>
-      <category id="118">Сумки</category>
-      <category id="15">Плойки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="283">Подносы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="111">Портативные колонки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="34">Подсвечники</category>
-      <category id="21">Электробритвы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="65">Креманки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="60">Мармиты</category>
-      <category id="292">Столовая посуда</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="14">Стайлеры</category>
-      <category id="42">Термосы для детей</category>
-      <category id="261">Терки</category>
-      <category id="110">Наушники</category>
-      <category id="221">Туристические души</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="59">Все для выпечки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -709,45 +709,6 @@
         <param name="Гарантия">6 мес</param>
         <param name="Тип управления">Механическое</param>
         <param name="Тип прибора">Универсальный измельчитель</param>
-      </offer>
-      <offer id="f11_1896503921_SK1031SS" available="true">
-        <name>Электрочайник Sokany SK1031SS с термометром 1.7 л</name>
-        <price>2339.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>93</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_1896503921_SK1031SS</vendorCode>
-        <description>Электрочайник Sokany - это удобный и надежный кухонный прибор, который обеспечивает быстрое и комфортное кипячение воды для приготовления чая, кофе или других горячих напитков. Изготовлен из прочной нержавеющей стали, он выглядит стильно и прослужит долгое время. Благодаря высокой мощности, чайник быстро приводит воду в кипение, что экономит ваше время и позволяет быстро наслаждаться горячими напитками. Объем чайника составляет 1,7 литра, что позволяет приготовить достаточно большое количество горячей воды для всей семьи или гостей. Основные характеристики чайника Номинальная мощность 2200 Вт. Вместительность 1.7 литра. Встроенный термометр. Защита от ожогов. Автоматическое отключение. Электрочайник оснащен удобным термометром, который позволяет контролировать температуру воды и добиваться оптимальной для различных напитков. Ручка чайника имеет защиту от ожогов, что обеспечивает безопасную и комфортную эксплуатацию устройства. Чайник автоматически отключается после закипания воды или при вынимании с подставки, что обеспечивает дополнительную безопасность и экономию энергии. Электрочайник Sokany станет незаменимым помощником на вашей кухне, предоставляя быстрый и удобный способ получить горячую воду для приготовления различных напитков.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=209</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/SK1031SS/bezimeni-1-1200x1200.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/209/elektrochaynik_nerzhaveyka_s_termometrom_1_7_litra_sokany_chaynik_diskovyy_bytovoy_elektronnyy_2200_vt_9.jpg</picture>
-        <param name="Тип">Электрочайник</param>
-        <param name="Автоотключение при отсутствии воды">Да</param>
-        <param name="Длина сетевого шнура">0.7 м</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Индикатор уровня воды">Да</param>
-        <param name="Объем">1.7 л</param>
-        <param name="Наличие фильтра">Да</param>
-        <param name="Цвет">Сталь</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Поворот на 360 градусов">Да</param>
-        <param name="Покрытие нагревательного элемента">покрытие из нержавеющей стали</param>
-        <param name="Состояние">Новое</param>
-        <param name="Цвет корпуса">Нержавеющая сталь</param>
-        <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-        <param name="Терморегулятор">Да</param>
-        <param name="Функция автоотключения">Да</param>
-        <param name="Гарантия">6 мес</param>
-        <param name="Потребляємая мощность">2200 Вт</param>
       </offer>
       <offer id="f11_1896639305_SK1027CST" available="true">
         <name>Электрочайник Sokany SK1027CST 2.2 литра стеклянный 2000 Вт с подсветкой</name>
@@ -9878,34 +9839,6 @@
         <param name="Объем">300 мл</param>
         <param name="Цвет">Белый</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP1237_HP1237" available="true">
-        <name>Фруктовница фарфоровая 32 x 18,5 x 18 см с бамбуковой подставкой HP1237</name>
-        <price>1949.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>132</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP1237_HP1237</vendorCode>
-        <description>Фруктовница черная фарфоровая станет стильным акцентом вашего интерьера, сочетая в себе современный дизайн и функциональность. Чаша изготовлена из фарфора и напоминает морскую раковину, что придает ей утонченность и уникальность. Черная чаша гармонично сочетается с деревянной подставкой, добавляя природную красоту к общему дизайну. Основные характеристики вазы для фруктов: Размер фруктовницы: 32×18.5×18 см Материал чаши: фарфор Материал подставки: бамбук Оригинальная форма чаши позволяет удобно размещать фрукты, а высокие деревянные ручки с декоративными шариками не только служат для переноски, но и придают эстетичность. Ваза для фруктов станет отличным выбором для тех, кто ценит эстетику и оригинальный дизайн в бытовых предметах. Она подойдет как для ежедневного использования, так и для праздничных столов, привлекая гостей своим изысканным дизайном. Где купить фарфоровую фруктовницу? Вы можете купить фарфоровую фруктовницу с доставкой по всей Украине в нашем интернет-магазине.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=2398</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000000000/fruktovnitsa_keramicheskaya_na_bambukovoy_podstavke_chernyy_mramor.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2398/fruktovnitsa_chernaya_keramicheskaya_32_18_5_18_sm_vaza_dlya_fruktov_na_derevyannoy_podstavke_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2398/fruktovnitsa_chernaya_keramicheskaya_32_18_5_18_sm_vaza_dlya_fruktov_na_derevyannoy_podstavke_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2398/fruktovnitsa_chernaya_keramicheskaya_32_18_5_18_sm_vaza_dlya_fruktov_na_derevyannoy_podstavke_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2398/fruktovnitsa_chernaya_keramicheskaya_32_18_5_18_sm_vaza_dlya_fruktov_na_derevyannoy_podstavke_5.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">180 мм</param>
-        <param name="Декоративное оформление">Роспись</param>
-        <param name="Крышка">нет</param>
-        <param name="Ширина">185 мм</param>
-        <param name="Длина">320 мм</param>
-        <param name="Цвет">Черный</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Тип посуды">Фруктовница</param>
-        <param name="Состояние">Новое</param>
-        <param name="Форма">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP33548_HP33548" available="true">
@@ -67730,31 +67663,6 @@
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
-      <offer id="f11_SJ-0015-2_SJ-0015-2" available="true">
-        <name>Стол для пикника складной 95*55*50 см Черный SJ-0015-2</name>
-        <price>1129.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>179</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_SJ-0015-2_SJ-0015-2</vendorCode>
-        <description>Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении Характеристики стола Размеры в разложенном виде: 95*55*50 см Размеры в сложенном виде: 55*20*15 см Металлический каркас и столешница Максимальная нагрузка: 40 кг В разложенном виде стол имеет размеры 95*55*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 55*20*15 см, что значительно облегчает транспортировку и хранение. Максимальная нагрузка стола составляет 40 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5585</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/2919900d5d85c4c0aee1129f426136d6-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/59441567fb1c9506d9afc8f1538f1fc4-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_9.jpg</picture>
-        <param name="Размер в разложенном виде">95*55*50 см</param>
-        <param name="Размер в сложенном виде">55*20*15 см</param>
-        <param name="Цвет">Черный</param>
-        <param name="Материал каркаса">Металл</param>
-        <param name="Вес стола">3.5 кг</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_SJ-0065O_SJ-0065O" available="true">
         <name>Кресло туристическое для ребенка 34х58х65 см с подстаканником Оранжевый SJ-0065O</name>
         <price>959.0</price>
@@ -85703,39 +85611,6 @@
         <param name="Разъемы">USB Type-A|USB Type-C</param>
         <param name="Функции зарядки">Power Delivery</param>
       </offer>
-      <offer id="f11_HP-N57_HP-N57" available="true">
-        <name>Повербанк с быстрой зарядкой с 3 шнурами 50000 mAh портативное зарядное устройство powerbank зарядка для телефона HP-N57</name>
-        <price>2899.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>114</categoryId>
-        <vendor>API-Prom.ua</vendor>
-        <vendorCode>f11_HP-N57_HP-N57</vendorCode>
-        <description>Повербанк HP-N57 &amp;mdash; мощный внешний аккумулятор ёмкостью 50 000 мАч, предназначенный для длительных поездок, работы вне дома и повседневного использования. Устройство поддерживает быструю зарядку до 22,5 Вт, благодаря чему смартфоны и другие гаджеты заряжаются значительно быстрее. Корпус выполнен из прочного пластика, устойчивого к механическим повреждениям. Встроенные системы защиты предотвращают перегрев и перезарядку, обеспечивая безопасную эксплуатацию. Светодиодный индикатор показывает уровень заряда, позволяя контролировать оставшуюся энергию. Повербанк оснащён встроенными кабелями, поэтому можно заряжать устройства без дополнительных проводов. Компактные размеры позволяют удобно брать его с собой в дорогу, на работу или в путешествия. Основные характеристики повербанка Ёмкость аккумулятора: 50 000 мАч Мощность: до 22.5 Вт Материал корпуса: пластик Габариты устройства: 7&amp;times;6&amp;times;14.5 см Защита: от перегрева и перезарядки Поддержка быстрой зарядки: есть Кабели: встроенные, в комплекте Type-C, Micro-USB и Lightning Разъёмы и интерфейсы: Пиковая мощность: До 22,5 Вт для сверхбыстрой зарядки совместимых устройств. Выход Type-C1 (Orange): 5V/2A, 5V/3A, 9V/2.2A, 12V/1.67A. Выход USB-1: 5V/2A, 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A. Вход Type-C (Black): 5V/2A, 9V/2A, 12V/1.5A. Вход Type-C (Orange): 5V/2.5A, 9V/2A, 12V/1.5A. HP-N57 &amp;mdash; практичное решение для поездок, активного отдыха и непредвиденных ситуаций. Он обеспечивает стабильный запас энергии и выручает там, где нет доступа к электросети.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6631</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6631/poverbank_s_bystroy_zaryadkoy_s_3_shnurami_50000_mah_portativnoe_zaryadnoe_ustroystvo_powerbank_zaryadka_dlya_telefona_7.jpg</picture>
-        <param name="Высота">145</param>
-        <param name="Гарантийный срок">3</param>
-        <param name="Вес">1000</param>
-        <param name="Емкость аккумулятора">50000</param>
-        <param name="Назначение">Для электроники</param>
-        <param name="Зарядка батареи">От сети|От USB</param>
-        <param name="Набор переходников">Да</param>
-        <param name="Особенности">Встроенный кабель|Быстрая зарядка</param>
-        <param name="Ширина">60</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Цвет">Черный</param>
-        <param name="Длина">70</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Разъемы">USB Type-A|USB Type-C</param>
-      </offer>
       <offer id="f11_HW01P_HW01P" available="true">
         <name>Бутылка с подогревом для детского питания 300 мл с аккумулятором Розовый HW01P</name>
         <price>2899.0</price>
@@ -90360,33 +90235,6 @@
         <param name="Длина">40</param>
         <param name="Форм-фактор">Переносной</param>
         <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_MH739-L_MH739-L" available="true">
-        <name>Мармитница фарфоровая 2 л на подставке с подогревом 41х25х15 см MH739-L</name>
-        <price>2089.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_MH739-L_MH739-L</vendorCode>
-        <description>Мармитница фарфоровая овальной формы предназначена для подачи горячих блюд с поддержкой температуры. Благодаря металлической подставке с подогревом ее можно использовать без подключения к электричеству, что удобно для сервировки дома или во время мероприятий. Конструкция обеспечивает равномерное сохранение тепла блюда на протяжении подачи. Емкость объемом 2 л подходит для гарниров, мясных блюд, соусов или закусок. Серебристая металлическая подставка обеспечивает устойчивость и предусматривает место для источника подогрева. Овальная форма позволяет удобно размещать мармитницу на столе и оптимально использовать пространство. Модель имеет сбалансированные размеры и вес, что делает ее подходящей для ежедневного использования. Конструкция легко разбирается для очистки и хранения. Подходит для домашнего использования или сервировки во время приема гостей. Характеристики: Форма: овальная Материал емкости: фарфор Материал подставки: металл Цвет подставки: серебристый Объем: 2 л Длина: 41 см Ширина: 25 см Высота: 15 см Вес: 2,7 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6903</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6903/marmitnitsa_farforovaya_2_l_na_podstavke_s_podogrevom_41h25h15_sm_marmit_na_podstavke_dlya_pervyh_blyud_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6903/marmitnitsa_farforovaya_2_l_na_podstavke_s_podogrevom_41h25h15_sm_marmit_na_podstavke_dlya_pervyh_blyud_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6903/marmitnitsa_farforovaya_2_l_na_podstavke_s_podogrevom_41h25h15_sm_marmit_na_podstavke_dlya_pervyh_blyud_4.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">15</param>
-        <param name="Вид оборудования">Мармит</param>
-        <param name="Назначение">Для первых блюд</param>
-        <param name="Источник питания">Электричество</param>
-        <param name="Количество емкостей">1</param>
-        <param name="Ширина">25</param>
-        <param name="Расположение">Настольное</param>
-        <param name="Объем">2</param>
-        <param name="Тип крышки">Съемная</param>
-        <param name="Длина">41</param>
-        <param name="Форм-фактор">Переносной</param>
-        <param name="Форма">Овальная</param>
       </offer>
       <offer id="f11_ML525-11_ML525-11" available="true">
         <name>Мармитница фарфоровая 1 л прямоугольная со стеклянной крышкой 31х16х11 см ML525-11</name>
