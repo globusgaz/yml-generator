@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-08 22:03">
+<yml_catalog date="2026-04-08 23:01">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
       <category id="35702">Обувь для Взрослых</category>
-      <category id="3221201">Детская обувь и одежда</category>
       <category id="2302">Подарункові коробки і пакети</category>
+      <category id="3221201">Детская обувь и одежда</category>
     </categories>
     <offers>
       <offer id="my_A000002" available="true">
