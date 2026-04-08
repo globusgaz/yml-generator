@@ -1,168 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-08 09:24">
+<yml_catalog date="2026-04-08 11:17">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="21">Электробритвы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="132">Конфетницы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="33">Пепельницы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="118">Сумки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="292">Столовая посуда</category>
-      <category id="140">Крышки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="124">Решетки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="57">Чашки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="72">Весы напольные</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="193">Доски для подачи</category>
-      <category id="284">Новогодний декор</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="221">Туристические души</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="294">Новогодние елки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="76">Отпариватели</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="279">Зонты</category>
-      <category id="285">Йогуртницы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="110">Наушники</category>
-      <category id="42">Термосы для детей</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="20">Эпиляторы</category>
-      <category id="77">Пылесосы</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="54">Стаканы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="187">Слайсеры</category>
-      <category id="125">Мангалы</category>
-      <category id="90">Мясорубки</category>
-      <category id="31">Часы настенные</category>
-      <category id="87">Соковыжималки</category>
-      <category id="13">Триммеры</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="65">Креманки</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="14">Стайлеры</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="75">Утюги</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="145">Смарт-часы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="186">Тостеры</category>
-      <category id="67">Столовые приборы</category>
-      <category id="59">Все для выпечки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="283">Подносы</category>
-      <category id="133">Масленки</category>
-      <category id="166">Тортовницы</category>
-      <category id="55">Рюмки</category>
-      <category id="184">Бульонницы</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="6">LED ленты</category>
-      <category id="98">Блендеры</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="300">Подушки для спины</category>
-      <category id="262">Термосумки</category>
-      <category id="56">Бокалы</category>
-      <category id="63">Кастрюли</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="128">Органайзеры</category>
-      <category id="141">Салатницы</category>
-      <category id="278">Косметички</category>
-      <category id="93">Электрочайники</category>
-      <category id="23">Фены</category>
-      <category id="60">Мармиты</category>
-      <category id="114">Повербанки</category>
-      <category id="182">Блюда</category>
-      <category id="81">Капучинаторы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="111">Портативные колонки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="195">Разделочные доски</category>
-      <category id="287">Банты на елку</category>
-      <category id="103">Проекторы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="53">Кувшины</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="29">Салфетницы</category>
-      <category id="149">Палатки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="261">Терки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
       <category id="299">Подушки для путишествий</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="45">Коктейльные наборы для бара</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="72">Весы напольные</category>
       <category id="17">Воскоплавы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="62">Ковши</category>
-      <category id="126">Ланч боксы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="144">Вентиляторы</category>
-      <category id="298">Брелки</category>
-      <category id="51">Заварочные чайники</category>
+      <category id="271">Товары для уборки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="90">Мясорубки</category>
       <category id="224">Гамаки</category>
-      <category id="96">Вакууматоры</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="66">Сервизы</category>
-      <category id="68">Тарелки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="122">Аксессуары</category>
-      <category id="212">Мебель</category>
-      <category id="89">Миксеры</category>
-      <category id="34">Подсвечники</category>
-      <category id="268">Кухонные подставки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="29">Салфетницы</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="98">Блендеры</category>
+      <category id="77">Пылесосы</category>
+      <category id="140">Крышки</category>
+      <category id="187">Слайсеры</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="33">Пепельницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="262">Термосумки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="150">Спальные мешки</category>
       <category id="91">Кухонные комбайны</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="148">Туристические коврики</category>
+      <category id="126">Ланч боксы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="166">Тортовницы</category>
+      <category id="212">Мебель</category>
+      <category id="68">Тарелки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="125">Мангалы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="144">Вентиляторы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="13">Триммеры</category>
+      <category id="122">Аксессуары</category>
+      <category id="136">Дуршлаги</category>
+      <category id="298">Брелки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="20">Эпиляторы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="124">Решетки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="89">Миксеры</category>
+      <category id="132">Конфетницы</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="76">Отпариватели</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="96">Вакууматоры</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="279">Зонты</category>
+      <category id="63">Кастрюли</category>
+      <category id="6">LED ленты</category>
       <category id="61">Сковородки</category>
       <category id="194">Менажницы</category>
-      <category id="15">Плойки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="269">Подарочные пакеты</category>
+      <category id="287">Банты на елку</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="294">Новогодние елки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="56">Бокалы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="54">Стаканы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="300">Подушки для спины</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="184">Бульонницы</category>
+      <category id="55">Рюмки</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="66">Сервизы</category>
+      <category id="278">Косметички</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="67">Столовые приборы</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="114">Повербанки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="133">Масленки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="149">Палатки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="53">Кувшины</category>
+      <category id="57">Чашки</category>
+      <category id="141">Салатницы</category>
+      <category id="182">Блюда</category>
+      <category id="23">Фены</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="75">Утюги</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="193">Доски для подачи</category>
       <category id="227">Туристические инструменты и наборы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="103">Проекторы</category>
       <category id="2302">Подарункові коробки і пакети</category>
+      <category id="97">Весы кухонные</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="62">Ковши</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="186">Тостеры</category>
+      <category id="81">Капучинаторы</category>
+      <category id="31">Часы настенные</category>
+      <category id="93">Электрочайники</category>
+      <category id="128">Органайзеры</category>
+      <category id="118">Сумки</category>
+      <category id="15">Плойки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="283">Подносы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="111">Портативные колонки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="34">Подсвечники</category>
+      <category id="21">Электробритвы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="65">Креманки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="60">Мармиты</category>
+      <category id="292">Столовая посуда</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="14">Стайлеры</category>
+      <category id="42">Термосы для детей</category>
+      <category id="261">Терки</category>
+      <category id="110">Наушники</category>
+      <category id="221">Туристические души</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="59">Все для выпечки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -3557,29 +3557,6 @@
         <param name="Количество предметов в наборе">6</param>
         <param name="Материал рабочей части">Силикон</param>
         <param name="Цвет">Черный</param>
-        <param name="Тип держателя">Настольный</param>
-      </offer>
-      <offer id="f11_2058411238_YRUR9" available="true">
-        <name>Набор кухонных принадлежностей на подставке 12 штук с деревянной ручкой YRUR9</name>
-        <price>1549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>49</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_2058411238_YRUR9</vendorCode>
-        <description>Набор кухонных принадлежностей на подставке включает 12 высококачественных аксессуаров деревянными ручками. Этот комплексный набор предоставляет все необходимые инструменты для приготовления блюд, сочетая функциональность с эстетикой. Включает ложки, лопатки, венчик, шумовку и другие важные аксессуары. Подставка обеспечивает организованное хранение и легкий доступ к инструментам, делая вашу кухню стильной и функциональной. Характеристики: Материал: силикон, дерево Количество предметов: 12 Длина приборов: 32 см Преимущества: Функциональность: включает все необходимые инструменты для приготовления пищи. Организация: удобная подставка для эффективного хранения и доступа к принадлежностям. Уход: Не мойте в посудомоечной машине. Храните принадлежности в сухом месте.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=1163</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/YRUR9/nabor_kuhonnyh_prinadlezhnostey_na_podstavke_12_shtuk_s_derevyanoy_ruchkoy_belyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/YRUR9/yrur9_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/YRUR9/yrur9_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/YRUR9/yrur9_4.jpg</picture>
-        <param name="Длина приборов">32 см</param>
-        <param name="Количество предметов в наборе">12</param>
-        <param name="Материал рабочей части">Пищевой пластик с силиконовым покрытием</param>
-        <param name="Материал ручки">дерево</param>
-        <param name="Цвет">Белый</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Гарантия">14 дней</param>
         <param name="Тип держателя">Настольный</param>
       </offer>
       <offer id="f11_2062792397_HPGM80120500BE" available="true">
@@ -7849,37 +7826,6 @@
         <param name="Ложечка">нет</param>
         <param name="Объем">300 мл</param>
         <param name="Ситечко">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип емкости">Кружка</param>
-        <param name="Подарочная упаковка">Нет</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="f11_2183918489_HP7209TU" available="true">
-        <name>Чашка с блюдцем фарфоровая 300 мл Мятная HP7209TU</name>
-        <price>229.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>57</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_2183918489_HP7209TU</vendorCode>
-        <description>Чашка с блюдцем фарфоровая 300 мл. Эта красивая фарфоровая чашка однозначно станет прекрасным подарком на любой праздник! Она неприхотлива в эксплуатации, отлично сохраняет тепло и подойдет для горячих и холодных напитков. Основные характеристики чашки Объем чашки 300 мл; Высота чашки 7.0 см; Диаметр чашки 7.3 см. Основные преимущества чашки Сохранение тепла: фарфор прекрасно сохраняет тепло напитка, позволяя вам наслаждаться чаем или кофе дольше. Экологичность: фарфор – это натуральный и безопасный материал, не выделяющий вредных веществ. Универсальность: фарфоровые чашки подходят для горячих и холодных напитков. Практичность: фарфоровые чашки легко моются и не впитывают запахи. Долговечность: фарфоровые чашки при правильном уходе прослужат вам долгие годы.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=1983</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/HP-7209/kruzhka_s_blyudtsem_v_nordicheskom_stile_keramicheskaya_300_ml_myatnyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/HP-7209/7209_12.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/HP-7209/7209_9.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">70 мм</param>
-        <param name="Блюдце">есть</param>
-        <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">73 мм</param>
-        <param name="Декоративное оформление">Без декора</param>
-        <param name="Использование в микроволновке">Да</param>
-        <param name="Крышка">нет</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Ложечка">нет</param>
-        <param name="Объем">300 мл</param>
-        <param name="Ситечко">Нет</param>
-        <param name="Цвет">Зелёный</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Кружка</param>
         <param name="Подарочная упаковка">Нет</param>
@@ -61839,54 +61785,6 @@
         <param name="Форма сечения">Круглая</param>
         <param name="Цветовая гамма">RGB</param>
       </offer>
-      <offer id="f11_KOS-PRNCSS15_KOS-PRNCSS15" available="true">
-        <name>Искусственная елка Принцесса 1.5 м с заснеженными кончиками Премиум KOS-PRNCSS15</name>
-        <price>1499.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>294</categoryId>
-        <vendor>Lugi</vendor>
-        <vendorCode>f11_1cfc1f56d0a046419d</vendorCode>
-        <description>Искусственная елка &amp;laquo;Принцесса&amp;raquo; высотой 1,5 метра - это элегантное решение для создания уютной и праздничной атмосферы в доме. Изготовленная из комбинации ПВХ пленки и прочного моноволокна, елка имеет густую и насыщенную структуру, что делает ее очень похожей на настоящее дерево. Кончики веток обработаны прессом и покрыты белым инеем, создавая эффект легкого снежного покрова. Благодаря этому инею елка выглядит будто только что из леса. Конструкция елки включает 13 ярусов, благодаря чему ветви равномерно распределены по всей высоте. Это позволяет елке быть центральным элементом праздничного декора в просторных комнатах и обеспечивает достаточно пространства для больших игрушек, гирлянд и различных украшений. Благодаря широкой форме елка выглядит впечатляюще и натурально. Материалы, из которых изготовлена елка, обеспечивают ее прочность и долговечность. Веточки хорошо держат форму, не деформируются под весом украшений и позволяют легко фиксировать на себе различные элементы декора. Елка &amp;laquo;Принцесса&amp;raquo; - это отличный выбор для тех, кто хочет совместить красоту, удобство и практичность, создавая атмосферу зимней сказки в своем доме на долгие годы. Характеристики елки: Высота: 1,5 м Количество ярусов: 13 Материалы: ПВХ пленка и моноволокно Особенности: край веточек обработан прессом и заснежен белым инеем.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5239</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5239/iskusstvennaya_elka_printsessa_1_5_m_novogodnyaya_el_s_zasnezhennymi_konchikami_realistichnaya_premium_6.jpg</picture>
-        <param name="Вид дерева">Ель искусственная</param>
-        <param name="Материал подставки">Пластик</param>
-        <param name="Подставка">Да</param>
-        <param name="Материал хвои">ПВХ</param>
-        <param name="Цвет хвои">Зеленый</param>
-        <param name="Высота дерева">1.5 м</param>
-        <param name="Состояние">Новое</param>
-        <param name="Класс">Премиум</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_KOS-HVO28_KOS-HVO28" available="true">
-        <name>Искусственная гирлянда Хвоя 2.8 м зеленая, новогодняя гирлянда с заснеженными кончиками реалистичная Премиум KOS-HVO28</name>
-        <price>819.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>293</categoryId>
-        <vendor>API-Prom.ua</vendor>
-        <vendorCode>f11_KOS-HVO28_KOS-HVO28</vendorCode>
-        <description>Искусственная гирлянда из хвои ПВХ - отличное решение для декорирования небольших помещений, где не хватает места для большой елки, а также для оформления различных элементов экстерьера и интерьера, включая балконы, лестницы, веранды и т.д. Гирлянда выполнена из безопасных материалов, не имеет посторонних запахов и не осыпается. Она отличается компактными размерами в сложенном виде, легко раскладывается и может принимать любую форму, что позволяет использовать ее как в качестве самостоятельного украшения, так и для создания рождественских композиций и венков. Характеристики гирлянды: Длина: 280 см Материал: ПВХ</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5258</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5258/iskusstvennaya_girlyanda_hvoya_2_8_m_zelenaya_novogodnyaya_girlyanda_s_zasnezhennymi_konchikami_realistichnaya_premium.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5258/iskusstvennaya_girlyanda_hvoya_2_8_m_zelenaya_novogodnyaya_girlyanda_s_zasnezhennymi_konchikami_realistichnaya_premium_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5258/iskusstvennaya_girlyanda_hvoya_2_8_m_zelenaya_novogodnyaya_girlyanda_s_zasnezhennymi_konchikami_realistichnaya_premium_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5258/iskusstvennaya_girlyanda_hvoya_2_8_m_zelenaya_novogodnyaya_girlyanda_s_zasnezhennymi_konchikami_realistichnaya_premium_3.jpg</picture>
-        <param name="Тип">Гирлянда</param>
-        <param name="Материал">ПВХ</param>
-        <param name="Цвет">Зелёный</param>
-        <param name="Длина">280</param>
-        <param name="Класс">Премиум</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_KOS-HVO128_KOS-HVO128" available="true">
         <name>Искусственная гирлянда Хвоя 2.8 м зеленая, новогодняя гирлянда реалистичная Премиум KOS-HVO128</name>
         <price>679.0</price>
@@ -61905,30 +61803,6 @@
         <param name="Материал">ПВХ</param>
         <param name="Цвет">Зелёный</param>
         <param name="Длина">280</param>
-        <param name="Класс">Премиум</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_KOS-HVO12_KOS-HVO12" available="true">
-        <name>Искусственная гирлянда Хвоя 2 м зеленая, новогодняя гирлянда литая реалистичная Премиум KOS-HVO12</name>
-        <price>1359.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>293</categoryId>
-        <vendor>API-Prom.ua</vendor>
-        <vendorCode>f11_KOS-HVO12_KOS-HVO12</vendorCode>
-        <description>Искусственная гирлянда - отличный вариант для декорирования помещений, балконов, различных элементов экстерьера и интерьера. Украшение подходит для многоразового использования благодаря производству методом формовочного литья. Гирлянда не осыпается, не теряет привлекательный вид на протяжении длительного времени и имеет потрясающее сходство с живой хвоей. Гирлянда изготовлена из безопасных материалов согласно всем действующим нормам, что позволяет использовать ее в помещениях где есть маленькие дети и животные. Характеристики гирлянды: Длина: 2 м Материал: PE</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5261</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5261/iskusstvennaya_girlyanda_hvoya_2_m_zelenaya_novogodnyaya_girlyanda_litaya_realistichnaya_premium_6.jpg</picture>
-        <param name="Тип">Гирлянда</param>
-        <param name="Материал">Полиэтилен</param>
-        <param name="Цвет">Зелёный</param>
-        <param name="Длина">200</param>
         <param name="Класс">Премиум</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -76927,33 +76801,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6081/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_serebrom_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6081/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_serebrom_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6081/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_serebrom_4.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">21</param>
-        <param name="Наличие половника">Нет</param>
-        <param name="Объем">1.5</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Высота с крышкой">16</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">32</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Форма">Фигурная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_XL-4054AG_XL-4054AG" available="true">
-        <name>Супница 800 (мл) фарфоровая 32×21×16 (см) с крышкой Белый с золотом XL-4054AG</name>
-        <price>1019.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>63</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_XL-4054AG_XL-4054AG</vendorCode>
-        <description>Современная фарфоровая супница с крышкой &amp;mdash; это стильное решение для тех, кто ценит утончённый дизайн и практичность. Её оригинальная форма с мягкими линиями и серебристым кантом придаёт сервировке особый шарм, делая подачу блюд не просто удобной, а эстетически совершенной. Такая супница станет элегантным акцентом как на повседневном, так и на праздничном столе. Основные характеристики кастрюли бульонницы Объем: 1.5 л; Размер: 32&amp;times;21&amp;times;16 см; Материал: фарфор. Особенности фарфоровой супницы: Изготовлена из прочного высококачественного фарфора; Оригинальная форма с плавными изгибами и рельефной поверхностью; Серебристая окантовка подчёркивает современный стиль; Крышка с декоративной ручкой сохраняет тепло и аромат блюд; Гладкая глазурованная поверхность легко очищается и устойчива к пятнам. Эта фарфоровая супница сочетает в себе элегантность, функциональность и современный дизайн. Она идеально подойдёт для подачи супов, рагу и бульонов, а также станет красивым элементом сервировки. Универсальный стиль и изысканные детали делают её отличным выбором для дома или в качестве подарка ценителям красивой посуды.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6082</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6082/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_zolotom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6082/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_zolotom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6082/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_zolotom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6082/supnitsa_800_ml_farforovaya_kastryulya_bulonnitsa_32_21_16_sm_s_kryshkoy_dlya_doma_i_restorana_belyy_s_zolotom_3.jpg</picture>
         <param name="Материал">Фарфор</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Ширина">21</param>
