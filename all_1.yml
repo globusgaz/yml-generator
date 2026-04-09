@@ -1,168 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-09 14:07">
+<yml_catalog date="2026-04-09 15:44">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="6">LED ленты</category>
-      <category id="89">Миксеры</category>
-      <category id="61">Сковородки</category>
+      <category id="98">Блендеры</category>
+      <category id="144">Вентиляторы</category>
       <category id="83">Чопперы и измельчители</category>
-      <category id="184">Бульонницы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="285">Йогуртницы</category>
+      <category id="125">Мангалы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="149">Палатки</category>
+      <category id="212">Мебель</category>
+      <category id="278">Косметички</category>
+      <category id="271">Товары для уборки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="31">Часы настенные</category>
+      <category id="195">Разделочные доски</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="292">Столовая посуда</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="6">LED ленты</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="122">Аксессуары</category>
+      <category id="33">Пепельницы</category>
       <category id="17">Воскоплавы</category>
-      <category id="295">Новогодние тарелки</category>
+      <category id="224">Гамаки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="148">Туристические коврики</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="65">Креманки</category>
+      <category id="114">Повербанки</category>
+      <category id="287">Банты на елку</category>
+      <category id="23">Фены</category>
+      <category id="29">Салфетницы</category>
+      <category id="13">Триммеры</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="55">Рюмки</category>
+      <category id="279">Зонты</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="60">Мармиты</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="262">Термосумки</category>
+      <category id="194">Менажницы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="67">Столовые приборы</category>
+      <category id="124">Решетки</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="126">Ланч боксы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="81">Капучинаторы</category>
+      <category id="182">Блюда</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="150">Спальные мешки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="166">Тортовницы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="15">Плойки</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="66">Сервизы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="56">Бокалы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="96">Вакууматоры</category>
+      <category id="184">Бульонницы</category>
+      <category id="77">Пылесосы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="72">Весы напольные</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="142">Посуда для детей</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="300">Подушки для спины</category>
+      <category id="140">Крышки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="118">Сумки</category>
+      <category id="133">Масленки</category>
+      <category id="76">Отпариватели</category>
+      <category id="90">Мясорубки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="53">Кувшины</category>
+      <category id="61">Сковородки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="57">Чашки</category>
+      <category id="103">Проекторы</category>
+      <category id="221">Туристические души</category>
+      <category id="14">Стайлеры</category>
+      <category id="68">Тарелки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="186">Тостеры</category>
+      <category id="97">Весы кухонные</category>
+      <category id="54">Стаканы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="285">Йогуртницы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="75">Утюги</category>
+      <category id="283">Подносы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="187">Слайсеры</category>
+      <category id="261">Терки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="89">Миксеры</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="110">Наушники</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="63">Кастрюли</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="284">Новогодний декор</category>
+      <category id="128">Органайзеры</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="62">Ковши</category>
+      <category id="145">Смарт-часы</category>
+      <category id="34">Подсвечники</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="93">Электрочайники</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="111">Портативные колонки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="21">Электробритвы</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="87">Соковыжималки</category>
+      <category id="132">Конфетницы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="141">Салатницы</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="265">Хозяйственные товары</category>
       <category id="304">Аккумуляторные пылесосы</category>
       <category id="48">Емкости для хранения</category>
-      <category id="56">Бокалы</category>
-      <category id="13">Триммеры</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="182">Блюда</category>
-      <category id="96">Вакууматоры</category>
-      <category id="279">Зонты</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="194">Менажницы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="271">Товары для уборки</category>
-      <category id="21">Электробритвы</category>
-      <category id="261">Терки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="65">Креманки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="136">Дуршлаги</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="133">Масленки</category>
-      <category id="287">Банты на елку</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="141">Салатницы</category>
-      <category id="187">Слайсеры</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="148">Туристические коврики</category>
-      <category id="128">Органайзеры</category>
-      <category id="144">Вентиляторы</category>
-      <category id="60">Мармиты</category>
-      <category id="114">Повербанки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="55">Рюмки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="98">Блендеры</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="63">Кастрюли</category>
-      <category id="90">Мясорубки</category>
-      <category id="140">Крышки</category>
-      <category id="53">Кувшины</category>
-      <category id="20">Эпиляторы</category>
-      <category id="31">Часы настенные</category>
-      <category id="281">Коврики для йоги</category>
       <category id="298">Брелки</category>
-      <category id="75">Утюги</category>
-      <category id="14">Стайлеры</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="186">Тостеры</category>
-      <category id="224">Гамаки</category>
-      <category id="68">Тарелки</category>
-      <category id="15">Плойки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="195">Разделочные доски</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="103">Проекторы</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="212">Мебель</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="193">Доски для подачи</category>
-      <category id="110">Наушники</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="72">Весы напольные</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="81">Капучинаторы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="66">Сервизы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="29">Салфетницы</category>
-      <category id="278">Косметички</category>
-      <category id="142">Посуда для детей</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="77">Пылесосы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="76">Отпариватели</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="124">Решетки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="125">Мангалы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="33">Пепельницы</category>
-      <category id="221">Туристические души</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="52">Лимонадницы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="93">Электрочайники</category>
-      <category id="262">Термосумки</category>
-      <category id="118">Сумки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="166">Тортовницы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="54">Стаканы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="57">Чашки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="145">Смарт-часы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="42">Термосы для детей</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="149">Палатки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="283">Подносы</category>
-      <category id="122">Аксессуары</category>
-      <category id="132">Конфетницы</category>
-      <category id="62">Ковши</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="23">Фены</category>
-      <category id="111">Портативные колонки</category>
-      <category id="34">Подсвечники</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="134">Бутылки для масла</category>
+      <category id="295">Новогодние тарелки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -90172,6 +90172,162 @@
         <param name="Длина">210</param>
         <param name="Поверхность">Глянцевая</param>
       </offer>
+      <offer id="f11_HP-16978-12_HP-16978-12" available="true">
+        <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см ложки чайные посуда нержавейка десерт кофе HP-16978-12</name>
+        <price>369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_2507fbe43d5f6b0a24</vendorCode>
+        <description>Десертные приборы, которые идеально подойдут к сервировке в любом стиле. Отличаются детальной проработкой рельефа рукояти и классической формой черпака. Особенности: Материал: Нержавеющая сталь. Материал обладает высокой стойкостью к коррозии, не вступает в реакцию с горячими напитками и сохраняет первоначальный блеск при длительном использовании. Зеркальная полировка: Рабочая часть ложки тщательно отполированная до зеркального состояния, что обеспечивает гладкость и гигиеничность. Компактный размер: Длина 14,5 см оптимальна для сервировки чая, кофе, а также для употребления десертов, муссов и порционных закусок. Долговечность: Прочный сплав устойчив к изгибам и механическим повреждениям. Приборы подходят для мытья в посудомоечной машине. Характеристики: Материал: нержавеющая сталь Длина: 14,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6874</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-12/_T5B0114.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-12/_T5B0218.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6874/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6874/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Чайная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">145</param>
+        <param name="Поверхность">Глянцевая</param>
+      </offer>
+      <offer id="f11_HP-16978-13_HP-16978-13" available="true">
+        <name>Набор столовых ложек 6 штук из нержавеющей стали 21 см ложки столовые приборы для сервировки стола HP-16978-13</name>
+        <price>419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_3ff086aec7bc4134d5</vendorCode>
+        <description>Столовые приборы в минималистичном стиле с зеркальной полировкой. Дизайн отличается плавными линиями и отсутствием лишнего декора, что делает их универсальными для любого типа сервировки. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии и окислению, не окрашивается и не изменяет вкусовые качества продуктов. Полировка: качественное глянцевое покрытие всей поверхности прибора. Зеркальный финиш обеспечивает эстетичный внешний вид и облегчает очистку. Размер: Длина изделия - 21 см. Полноразмерная форма оптимальна для употребления первых блюд, каш и гарниров. Практичность: Утолщенная сталь в основании рукояти предотвращает деформацию и изгибы. Приборы рассчитаны на интенсивную эксплуатацию. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6875</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-13/_T5B0099.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-13/_T5B0221.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6875/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_stolovye_pribory_dlya_servirovki_stola_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6875/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_stolovye_pribory_dlya_servirovki_stola_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Столовая</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая</param>
+      </offer>
+      <offer id="f11_HP-16978-14_HP-16978-14" available="true">
+        <name>Набор столовых вилок 6 штук из нержавеющей стали 20 см вилки кухонные столовые приборы классический стиль HP-16978-14</name>
+        <price>419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_a7f773b7c97ad5097e</vendorCode>
+        <description>Столовые приборы с лаконичным дизайном и зеркальной полировкой. Отсутствие декоративных элементов и классическая форма делают их пригодными для любого стиля сервировки &amp;ndash; от повседневного домашнего использования до торжественных приемов. Особенности: Материал: качественная пищевая нержавеющая сталь Материал устойчив к коррозии, не вступает в реакцию с пищей и сохраняет свои свойства при длительном контакте с влагой. Зеркальный финиш: Глянцевая полировка всей поверхности убора обеспечивает эстетический блеск и безупречную гладкость. Качественная обработка зубцов способствует комфортному использованию и легкому уходу. Размер: Длина изделия - 20 см Вилки имеют сбалансированный вес и стандартные пропорции для употребления других горячих блюд, салатов и закусок. Практичность: Прочная конструкция устойчива к изгибам. Приборы подходят для регулярного мытья в посудомоечной машине. Характеристики: Материал: нержавеющая сталь Длина: 20 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6876</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-14/_T5B0094.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6876/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_20_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-14/_T5B0215.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6876/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_20_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип вилки">Столовая</param>
+        <param name="Длина">200</param>
+        <param name="Поверхность">Глянцевая</param>
+      </offer>
+      <offer id="f11_HP-16978-15_HP-16978-15" available="true">
+        <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см серебристый ложки чайные посуда нержавейка десерт кофе HP-16978-15</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_fb514119ed7f803f09</vendorCode>
+        <description>Лаконичные десертные приборы с зеркальной полировкой. Дизайн выполнен в стиле минимализма: гладкие поверхности, отсутствие гравировки и декоративных элементов позволяют ложкам гармонично смотреться с любой современной посудой. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии, не влияет на вкус и аромат напитков, сохраняет блеск даже при частом использовании. Зеркальный финиш: Высококачественная полировка всей поверхности придает изделиям аккуратный и эстетичный вид. Минималистичная эргономика: Тонкая рукоят, плавно расширяющаяся к основанию, обеспечивает удобство использования. Гладкие края и отсутствие лишних деталей упрощают уход. Размер: Длина 14,5 см – классический формат для чайных пар, кофейных чашек и подачи порционных десертов. Универсальность: Приборы подходят как для домашнего использования, так и для оснащения кафе и ресторанов. Характеристики: Материал: нержавеющая сталь Длина: 14,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6877</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-15/_T5B0110.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6877/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_serebristyy_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-15/_T5B0202.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6877/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_serebristyy_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Чайная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">145</param>
+        <param name="Поверхность">Глянцевая</param>
+        <param name="Подарочная упаковка">Нет</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="f11_HP-16978-16_HP-16978-16" available="true">
+        <name>Набор столовых ложек 6 штук из нержавеющей стали серебристый ложки столовые приборы для сервировки стола нержавеющая сталь HP-16978-16</name>
+        <price>419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_3614332054de1784de</vendorCode>
+        <description>Столовые приборы в современном урбанистическом стиле. Отличительной чертой являются строгие геометрические формы, которые удачно сочетаются с различными идеями сервировки. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии, механическим повреждениям и высоким температурам. Материал не влияет на вкусовые качества пищи. Современный дизайн: Рукоятка имеет плоскую прямоугольную форму с четкими гранями. Отсутствие лишнего декора подчеркивает функциональность и стиль приборов. Размер: Длина изделия - 21 см. Форма черпака классическая овальная, что удобно для первых блюд и гарниров. Эргономика: Благодаря плоскому профилю рукояти ложка удобно лежит в руке и не проворачивается. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6878</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-16/_T5B0046.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6878/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_serebristyy_lozhki_stolovye_pribory_dlya_servirovki_stola_nerzhaveyushchaya_stal_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-16/_T5B0210.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6878/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_serebristyy_lozhki_stolovye_pribory_dlya_servirovki_stola_nerzhaveyushchaya_stal_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Столовая</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая</param>
+        <param name="Подарочная упаковка">Нет</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="f11_HP-16978-17_HP-16978-17" available="true">
+        <name>Набор столовых вилок 6 штук из нержавеющей стали 21.5 см вилки кухонные столовые приборы HP-16978-17</name>
+        <price>419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_a80345428d5c02e3f5</vendorCode>
+        <description>Столовые приборы в стиле hi-tech, дополняющие серию с плоскими геометрическими рукоятками. Модель характеризуется отсутствием округлых линий на ручке и строгим силуэтом. Особенности: Материал: Нержавеющая сталь. Материал обладает высокой прочностью, устойчив к коррозии и сохраняет геометрию зубцов при интенсивном использовании. Рабочая часть: Вилка имеет четыре классические зубья с зеркальной полировкой, что облегчает уход за прибором. Размер: Длина изделия составляет 21,5 см, что соответствует формату полноразмерной столовой вилки для основных блюд. Эргономика: Прямая форма ручки обеспечивает устойчивое положение прибора в руке. Характеристики: Материал: нержавеющая сталь Длина: 21,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6879</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-17/_T5B0119.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-17/_T5B0212.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6879/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_5_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_blisternaya_upakovka_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6879/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_5_sm_vilki_kuhonnye_stolovye_pribory_klassicheskiy_stil_blisternaya_upakovka_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип вилки">Столовая</param>
+        <param name="Длина">215</param>
+        <param name="Поверхность">Глянцевая</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
+      <offer id="f11_HP-16978-18_HP-16978-18" available="true">
+        <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см серебристые ложки чайные посуда нержавейка десерт кофе HP-16978-18</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_e86eb94a47cf2458fa</vendorCode>
+        <description>Десертные приборы в современном минималистичном дизайне. Модель продолжает стилистику основной серии, сочетая строгие геометрические формы с практичностью материалов. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии, воздействию температур и не влияет на вкусовые качества десертов и напитков. Геометрический дизайн: Рукоятка имеет плоский прямоугольный профиль с четкими гранями и прямым срезом у основания, что характерно для эстетики хай-тек. Размер: Длина изделия составляет 14,5 см, что является оптимальным стандартом для использования с чайными парами и приема порционных десертов. Эргономика: Плоская форма ручки обеспечивает удобный хват, а качественная обработка краев делает использование прибора комфортным. Характеристики: Материал: нержавеющая сталь Длина: 14,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6880</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-18/_T5B0057.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6880/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_serebristye_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6880/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_serebristye_lozhki_chaynye_posuda_nerzhaveyka_desert_kofe_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-18/_T5B0220.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Сервировочная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">145</param>
+        <param name="Поверхность">Глянцевая</param>
+        <param name="Упаковка">Блистер</param>
+      </offer>
       <offer id="f11_LB-1566BH_LB-1566BH" available="true">
         <name>Блюдо сервировочное фарфоровое 25х10 см для закусок фруктов десертов LB-1566BH</name>
         <price>899.0</price>
@@ -92156,6 +92312,492 @@
         <param name="Объем">520</param>
         <param name="Состояние">Новое</param>
         <param name="Нижний диаметр">6.5</param>
+      </offer>
+      <offer id="f11_HP-5-33_HP-5-33" available="true">
+        <name>Сетевой фильтр-удлинитель 3 розетки 3xUSBxA 1xUSB-C 3м белый HP-5-33</name>
+        <price>489.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-33_HP-5-33</vendorCode>
+        <description>Сетевой фильтр-удлинитель с тремя розетками и тремя USB портами подходит для одновременного подключения бытовых приборов и зарядки мобильных устройств. Формат 3 розетки 3 USB A + 1 Type-C позволяет рационально использовать одну точку питания без необходимости дополнительных адаптеров. Длина кабеля 3 метра обеспечивает удобное подключение на расстоянии. Корпус выполнен в вертикальном формате, что помогает экономить пространство и удобно размещать устройство на рабочем столе или полу. Три евророзетки расположены таким образом, чтобы обеспечить одновременное подключение без перекрытия. На передней панели размещены три USB A-порта и 1 порт Type-C, для зарядки смартфонов, наушников, павербанков и других гаджетов. Модель оснащена кнопкой питания с индикатором, позволяющим быстро выключать все подключенные устройства одновременно. Конструкция подходит для использования дома, в офисе или учебном пространстве, обеспечивая удобную организацию рабочего места и подключение нескольких устройств. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 3 Количество USB портов: 4 Длина кабеля: 3 м Тип розеток: европейский стандарт Кнопка питания: да, с индикатором</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6985</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6985/setevoy_filtr_udlinitel_3_rozetki_3xusbxa_1xusb_c_3m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">3</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Выносная розетка">Нет</param>
+        <param name="Намотка на рамку">Нет</param>
+        <param name="Длина провода">3</param>
+        <param name="Сетевой разъем">Нет</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500</param>
+        <param name="Защитные шторки">Нет</param>
+      </offer>
+      <offer id="f11_HP-5-34_HP-5-34" available="true">
+        <name>Сетевой фильтр черный с выключателем 3 розетки 3хUSB-A 3м HP-5-34</name>
+        <price>489.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-34_HP-5-34</vendorCode>
+        <description>Сетевой фильтр-удлинитель черного цвета с тремя розетками и четырьмя USB-портами разработан для эффективного подключения бытовой техники и одновременной зарядки нескольких мобильных устройств. Конфигурация 3 розетки плюс 4 USB позволяет максимально оптимизировать использование пространства и значительно уменьшить количество отдельных зарядных адаптеров в розетках. Трехметровый кабель питания обеспечивает удобное подключение электроприборов на значительном расстоянии от основной стационарной точки электроснабжения, что особенно актуально для больших комнат и офисных помещений. Особенности сетевого фильтра-удлинителя: Компактный вертикальный формат корпуса — включает три стандартные евророзетки для надежного подключения различных электроприборов и техники; Четыре USB-порта на передней панели — предоставляют возможность одновременной зарядки смартфонов, планшетов, беспроводных наушников, внешних аккумуляторов и других современных гаджетов без необходимости использования дополнительных зарядных устройств; Кнопка питания с индикатором включения — позволяет быстро и удобно отключать электропитание всех подключенных устройств одновременно одним нажатием, что способствует экономии электроэнергии и повышению безопасности; Продуманное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не перекрывают доступ друг к другу и не создают неудобств при использовании. Характеристики сетевого фильтра-удлинителя: Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 4 шт.; Длина кабеля: 3 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый; Сетевой разъем: нет; Защитная крышка: нет; Защитные шторки: нет. Удлинитель превосходно подходит для использования в домашних условиях, офисных пространствах или учебных аудиториях. Это оптимальное решение для организации функционального рабочего места или удобной зоны отдыха, где требуется одновременное подключение нескольких электронных устройств и гаджетов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6986</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6986/setevoy_filtr_chernyy_s_vyklyuchatelem_3_rozetki_3husb_a_3m_udlinitel_elektricheskaya_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">3</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Защитная крышка">Нет</param>
+        <param name="Сетевой разъем">Нет</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Защитные шторки">Нет</param>
+      </offer>
+      <offer id="f11_HP-5-35_HP-5-35" available="true">
+        <name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м белый HP-5-35</name>
+        <price>549.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-35_HP-5-35</vendorCode>
+        <description>Сетевой фильтр-удлинитель белого цвета с тремя розетками, тремя USB-A и одним USB-C портом предназначен для комплексного подключения бытовых электроприборов и зарядки современных мобильных устройств одновременно. Конфигурация 3 розетки плюс 3 USB-A плюс 1 USB-C дает возможность эффективно оптимизировать рабочее пространство и существенно сократить количество отдельных зарядных адаптеров, занимающих розетки. Кабель длиной 5 метров предоставляет исключительную свободу в размещении подключаемых устройств на значительном расстоянии от стационарной точки электропитания, что делает его идеальным решением для просторных комнат, офисов и студий. Особенности сетевого фильтра-удлинителя: Компактный вертикальный формат корпуса с тремя стандартными евророзетками — обеспечивает надежное и безопасное подключение различной бытовой техники и электронных устройств; Три USB-A порта и один современный USB-C порт на передней панели — позволяют одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие гаджеты, включая устройства с новейшими стандартами зарядки; Кнопка питания с индикатором — предоставляет возможность быстрого отключения электропитания всех подключенных устройств одним нажатием, что способствует экономии электроэнергии и повышает общий уровень безопасности; Эргономичное расположение розеток и USB-портов — продуманная конструкция позволяет одновременно подключать несколько устройств без перекрытия доступа друг к другу. Характеристики сетевого фильтра-удлинителя: Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: белый; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый; Мощность нагрузки: 2500 Вт. Удлинитель прекрасно подходит для применения в домашней обстановке, офисных помещениях или учебных пространствах. Это оптимальное решение для создания функционального рабочего места или комфортной зоны отдыха, где необходимо одновременное подключение множества электронных устройств и современных гаджетов с различными типами разъемов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6987</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6987/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">3</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-36_HP-5-36" available="true">
+        <name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
+        <price>549.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-36_HP-5-36</vendorCode>
+        <description>Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя: Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств. Характеристики сетевого фильтра-удлинителя: Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый. Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6988</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">3</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-37_HP-5-37" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 3xUSB-A 1xUSB-C 3м белый HP-5-37</name>
+        <price>529.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-37_HP-5-37</vendorCode>
+        <description>Сетевой фильтр-удлинитель белого цвета объединяет четыре розетки, три USB-A порта и один USB-C разъём — универсальное решение для подключения бытовых приборов и одновременной зарядки смартфонов, планшетов и других гаджетов. Комбинация розеток и USB-портов помогает рационально использовать электропитание и освобождает пространство от лишних зарядных устройств. Кабель длиной 3 метра даёт свободу в размещении техники вдали от стационарной розетки. Особенности сетевого фильтра-удлинителя: Компактный вертикальный корпус — экономит место и позволяет разместить удлинитель в любом удобном месте; Четыре евророзетки стандарта Euro — обеспечивают надёжное подключение электроприборов; Три USB-A и один USB-C разъём — для зарядки мобильных устройств, наушников, повербанков без дополнительных адаптеров; Кнопка питания с индикацией — позволяет мгновенно обесточить все подключённые устройства одним нажатием; Удобное расположение разъёмов — розетки и USB-порты не перекрывают друг друга при одновременном использовании. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 4 шт; Выключатель: Да; Длина шнура: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Длина провода: 3 м; Мощность нагрузки: 2500 Вт. Удлинитель идеально подходит для домашнего использования, офиса или учебного пространства. Надёжная конструкция и продуманное расположение элементов делают его отличным выбором для организации рабочего места или зоны отдыха, где требуется подключение нескольких устройств одновременно.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6989</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6989/setevoy_filtr_udlinitel_4_rozetki_3xusb_a_1xusb_c_3m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6989/setevoy_filtr_udlinitel_4_rozetki_3xusb_a_1xusb_c_3m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka_1.png</picture>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">3</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-38M_HP-5-38M" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 3xUSB-A 1xUSB-C 3м черный HP-5-38M</name>
+        <price>529.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-38M_HP-5-38M</vendorCode>
+        <description>Сетевой фильтр-удлинитель чёрного цвета с четырьмя розетками и тремя USB-портами разработан для одновременного питания электроприборов и зарядки мобильной техники. Формат с четырьмя розетками и тремя USB-разъёмами позволяет эффективно распределить нагрузку и избавиться от избытка зарядных адаптеров в розетке. Трёхметровый кабель обеспечивает гибкость в расположении устройства относительно источника питания. Особенности сетевого фильтра-удлинителя: Вертикальный компактный корпус — занимает минимум места и легко интегрируется в любой интерьер; Четыре стандартные евророзетки — для подключения бытовой техники, компьютеров, освещения; Три USB-порта на передней панели — удобная зарядка смартфонов, наушников, пауэрбанков и других гаджетов; Кнопка питания с индикатором — быстрое отключение всех устройств одновременно для экономии энергии; Продуманная конструкция — розетки и USB-порты размещены так, чтобы не мешать друг другу при использовании. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 4 шт; Выключатель: Да; Длина шнура: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Чёрный; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 4 м; Мощность нагрузки: 2500 Вт. Удлинитель отлично подходит для домашнего применения, офисных помещений или учебных аудиторий. Универсальное решение для создания организованного рабочего пространства или зоны релакса, где необходимо питание для множества устройств без хаоса проводов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6990</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6990/setevoy_filtr_udlinitel_4_rozetki_3xusb_a_1xusb_c_3m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">4</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-39_HP-5-39" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 5м белый HP-5-39</name>
+        <price>589.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-39_HP-5-39</vendorCode>
+        <description>Сетевой фильтр-удлинитель белого цвета сочетает пять розеток, три USB-A порта и один USB-C разъём — идеальный вариант для одновременного подключения домашней и офисной техники с возможностью зарядки мобильных устройств. Такая конфигурация позволяет максимально эффективно использовать одну точку питания без нагромождения зарядных блоков. Пятиметровый кабель предоставляет свободу размещения в любой точке комнаты или рабочей зоны. Особенности сетевого фильтра-удлинителя: Корпус из огнестойкого ABS-пластика — повышенная безопасность и долговечность конструкции; Вертикальный формат — экономия пространства и удобное размещение на столе или полу; Пять евророзеток — расположены для комфортного одновременного использования без взаимного перекрытия; Три USB-A и один USB-C разъём на передней панели — быстрая зарядка смартфонов, наушников, пауэрбанков и прочих гаджетов; Кнопка питания с индикатором — оперативное отключение всех подключённых приборов одним движением. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 5 шт; Выключатель: Да; Длина шнура: 5 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 5 м; Мощность нагрузки: 2500 Вт. Модель прекрасно подходит для дома, офиса или учебного пространства. Обеспечивает удобную и упорядоченную организацию питания техники, создавая функциональное рабочее место или комфортную зону для отдыха с доступом ко всем необходимым подключениям.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6991</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6991/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6991/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka_1.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-40_HP-5-40" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 5м черный HP-5-40</name>
+        <price>589.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-40_HP-5-40</vendorCode>
+        <description>Сетевой фильтр-удлинитель чёрного цвета с пятью розетками, тремя USB-A портами и одним USB-C разъёмом создан для одновременной работы бытовой техники и зарядки мобильных гаджетов. Конфигурация с пятью розетками и четырьмя USB-разъёмами позволяет грамотно организовать электропитание множества устройств без необходимости использовать дополнительные переходники. Длина кабеля 5 метров гарантирует комфортное подключение в любой части помещения или рабочего пространства. Особенности сетевого фильтра-удлинителя: Огнестойкий ABS-пластик корпуса — надёжная защита и безопасная эксплуатация; Вертикальная конструкция — компактное размещение, экономия места на столе или полу; Пять евророзеток — удобное расположение для подключения нескольких приборов одновременно без перекрытия; Три USB-A и один USB-C на фронтальной панели — для зарядки смартфонов, наушников, пауэрбанков и других устройств; Кнопка питания с индикатором — быстрое выключение всех подключённых устройств одним нажатием. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 5 шт; Выключатель: Да; Длина шнура: 5 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Чёрный; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 5 м; Мощность нагрузки: 2500 Вт. Удлинитель отлично впишется в домашнее, офисное или учебное пространство. Обеспечивает удобную и организованную систему подключения техники, создавая функциональную рабочую зону или комфортное место для отдыха с полным доступом ко всем необходимым электрическим соединениям.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6992</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6992/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-41_HP-5-41" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 3м белый HP-5-41</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-41_HP-5-41</vendorCode>
+        <description>Сетевой фильтр-удлинитель белого цвета объединяет пять розеток, три USB-A порта и один USB-C разъём — практичное решение для одновременного подключения бытовых приборов и зарядки мобильной электроники. Формат с пятью розетками и четырьмя USB-портами даёт возможность рационально использовать одну точку электропитания, избавляя от необходимости использовать дополнительные адаптеры. Кабель длиной 3 метра обеспечивает комфортное подключение в пределах комнаты или рабочей зоны. Особенности сетевого фильтра-удлинителя: Огнестойкий ABS-пластик — материал корпуса обеспечивает безопасность и долговечность использования; Вертикальный формат конструкции — помогает экономить пространство и удобно организовать расположение устройства; Пять евророзеток — размещены таким образом, чтобы обеспечить комфортное одновременное использование нескольких приборов; Три USB-A и один USB-C на передней панели — удобная зарядка смартфонов, наушников, пауэрбанков и прочих гаджетов; Кнопка питания с индикатором — позволяет одним движением выключить все подключённые устройства. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 6 шт; Выключатель: Да; Длина шнура: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 3 м. Удлинитель идеально подходит для домашнего использования, офисных помещений или учебных пространств. Обеспечивает удобную организацию рабочего места и упорядоченное подключение техники, создавая функциональную и аккуратную зону для работы или отдыха с множеством доступных разъёмов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6993</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6993/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_3m_belyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">3</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-42_HP-5-42" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 3м черный HP-5-42</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-42_HP-5-42</vendorCode>
+        <description>Удлинитель-фильтр с комплектацией из пяти розеток, трёх портов USB-A и одного USB-C идеально подходит для одновременной работы бытовой техники и зарядки гаджетов. Благодаря универсальной конфигурации вы сможете эффективно задействовать одну электрическую точку без необходимости использовать дополнительные переходники и зарядные устройства. Кабель протяжённостью 3 метра создаёт комфортные условия для размещения устройств в любой части помещения или на рабочем месте. Особенности сетевого фильтра-удлинителя: Корпус выполнен из огнеупорного ABS-пластика — обеспечивает надёжную защиту и долговечность конструкции; Вертикальная компоновка — позволяет сэкономить пространство и организовать аккуратное подключение множества приборов; Пять евророзеток с продуманным расположением — гарантируют беспрепятственное одновременное использование различной техники; Три USB-A порта и один USB Type-C на фронтальной панели — предназначены для зарядки телефонов, беспроводных наушников, внешних аккумуляторов и прочих портативных устройств; Кнопка питания со световой индикацией — даёт возможность мгновенно отключить всю подключённую технику одним нажатием. Характеристики сетевого фильтра-удлинителя: Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 1 шт.; Наличие выключателя: Да; Длина шнура: 3 м; Длина провода: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Чёрный; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый. Данная модель прекрасно подходит для применения в домашних условиях, офисных помещениях или образовательных учреждениях, обеспечивая грамотную организацию рабочего пространства и удобное подключение электроприборов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6994</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6994/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_3m_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">1</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">3</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-43_HP-5-43" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 5м белый HP-5-43</name>
+        <price>629.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-43_HP-5-43</vendorCode>
+        <description>Удлинитель-фильтр на пять розеток с тремя USB-A портами и одним разъёмом USB Type-C создан для удобного подключения бытовых приборов и одновременной зарядки мобильных девайсов. Компоновка 5 розеток + 3 USB + Type-C даёт возможность максимально рационально использовать единственную точку электропитания, исключая потребность в дополнительных адаптерах. Кабель длиной 5 метров предоставляет свободу размещения техники в разных зонах комнаты или рабочего пространства. Особенности сетевого фильтра-удлинителя: Корпус из огнестойкого ABS-пластика вертикального формата — обеспечивает безопасность эксплуатации и экономит место; Пять евророзеток с эргономичным размещением — позволяют комфортно подключать несколько устройств одновременно без взаимного перекрытия; Три USB-A и один USB Type-C порт на передней панели — подходят для зарядки смартфонов, планшетов, беспроводных наушников, повербанков и других портативных гаджетов; Кнопка питания с индикатором — обеспечивает возможность одновременного отключения всех подсоединённых приборов для экономии энергии; Удлинённый 5-метровый кабель — предоставляет гибкость в организации подключения техники на значительном расстоянии от основной розетки. Характеристики сетевого фильтра-удлинителя: Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 5 шт.; Наличие выключателя: Да; Длина шнура: 5 м; Длина провода: 5 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Цвет: Белый. Эта модель превосходно подходит для использования в домашней обстановке, офисных или учебных помещениях, где требуется продуманная организация рабочего места и надёжное подключение электротехники.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6995</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6995/setevoy_filtr_udlinitel_5_rozetok_3xusb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-45_HP-5-45" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 2xUSB-A 1xUSB-C 3м белый HP-5-45</name>
+        <price>539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-45_HP-5-45</vendorCode>
+        <description>Удлинитель-фильтр сетевого типа станет оптимальным решением для упорядоченного подключения техники там, где электрических розеток недостаточно. Конфигурация с четырьмя евророзетками и дополнительными USB-портами даёт возможность одновременно запитывать бытовые приборы и осуществлять зарядку мобильных девайсов, избавляя от необходимости использовать отдельные зарядные адаптеры. Данное решение прекрасно впишется в обстановку рабочего кабинета, домашнего интерьера или учебного помещения, где критически важна грамотная организация электропитания для множества устройств. Особенности сетевого фильтра-удлинителя: Компактная вертикальная конструкция из огнестойкого ABS-пластика — способствует экономии пространства и обеспечивает безопасную эксплуатацию; Четыре евророзетки с эргономичным расположением — позволяют подключать несколько приборов без перекрытия доступа друг к другу; Два USB-A порта и один USB Type-C на передней панели — идеально подходят для зарядки телефонов, беспроводных наушников, внешних аккумуляторов и прочих гаджетов; Трёхметровый кабель — обеспечивает комфортное подключение в пределах помещения или рабочей зоны; Кнопка питания с индикатором — предоставляет возможность мгновенно отключить все подсоединённые устройства одновременно, что упрощает контроль энергопотребления. Характеристики сетевого фильтра-удлинителя: Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 4 шт.; Наличие выключателя: Да; Длина шнура: 3 м; Длина провода: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый. Модель отлично подойдёт для применения в домашних, офисных или учебных пространствах, где необходима удобная организация электроснабжения и эффективная эксплуатация различных приборов.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6997</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6997/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_3m_belyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6997/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_3m_belyy_udlinitel_elektricheskoy_zaryadki_1.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">3</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-46_HP-5-46" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 2xUSB-A 1xUSB-C 3м черный HP-5-46</name>
+        <price>539.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-46_HP-5-46</vendorCode>
+        <description>Удлинитель-фильтр сетевого типа эффективно решает задачу организации подключения электрических устройств при недостатке стандартных розеток. Формат, включающий четыре евророзетки и дополнительные USB-порты, обеспечивает одновременное питание бытовых приборов и зарядку мобильных гаджетов без применения отдельных адаптеров. Такое устройство идеально подойдёт для рабочего стола, жилого пространства или учебной аудитории, где требуется упорядоченное электроснабжение нескольких приборов. Особенности сетевого фильтра-удлинителя: Компактный вертикальный корпус из огнеупорного ABS-пластика — обеспечивает экономию места и безопасность в процессе использования; Четыре евророзетки с продуманным размещением — позволяют подключать различные устройства без блокировки доступа к соседним разъёмам; Два порта USB-A и один USB Type-C на фронтальной панели — предназначены для зарядки смартфонов, планшетов, наушников, повербанков и других портативных устройств; Кабель длиной 3 метра — обеспечивает удобство подключения в границах комнаты или рабочей области; Кнопка питания со световым индикатором — позволяет быстро отключить все подключённые приборы одновременно, что упрощает контроль потребления электроэнергии и повседневную эксплуатацию. Характеристики сетевого фильтра-удлинителя: Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 4 шт.; Наличие выключателя: Да; Длина шнура: 3 м; Длина провода: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Чёрный; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый. Данная модель превосходно подходит для использования в домашних, офисных или образовательных условиях, где важна продуманная организация электропитания и надёжная работа различной техники.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6998</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6998/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_3m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">3</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-47_HP-5-47" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 2xUSB-A 1xUSB-C 5м белый HP-5-47</name>
+        <price>599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-47_HP-5-47</vendorCode>
+        <description>Данный сетевой фильтр-удлинитель является практичным решением для организации электропитания в условиях нехватки стационарных розеток. Модель с четырьмя евророзетками и встроенными USB-портами дает возможность одновременно запитывать бытовую технику и заряжать портативные гаджеты без необходимости применения дополнительных зарядных блоков. Такое устройство идеально подойдет для офисного стола, жилого помещения или учебной аудитории, где требуется централизованное подключение нескольких электроприборов. Особенности сетевого фильтра-удлинителя: Компактный вертикальный корпус из огнестойкого ABS-пластика — обеспечивает экономию пространства и повышенную безопасность эксплуатации; Удобное расположение четырех евророзеток — позволяет подключать различные устройства без блокировки соседних гнезд; Два порта USB-A и один USB Type-C на передней панели — предназначены для зарядки смартфонов, беспроводных наушников, внешних аккумуляторов и прочей электроники; Кабель протяженностью 5 метров — обеспечивает свободу размещения устройства в любой точке комнаты или рабочей зоны; Кнопка питания со световым индикатором — предоставляет возможность мгновенно отключить все подсоединенные приборы одним нажатием, что помогает экономить электроэнергию и упрощает повседневное пользование. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 4 шт.; Выключатель: да; Длина шнура: 5 м; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: белый; Тип удлинителя: сетевой фильтр-удлинитель; Состояние: новый; Длина провода: 5 м. Устройство подходит для использования в офисах, домашних кабинетах и других помещениях, где требуется надежное и удобное управление электропитанием множества устройств. Простота конструкции и продуманная функциональность делают этот удлинитель незаменимым помощником в организации рабочего пространства.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6999</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6999/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6999/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_5m_belyy_udlinitel_elektricheskoe_pitanie_zaryadka_1.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-48_HP-5-48" available="true">
+        <name>Сетевой фильтр-удлинитель 4 розетки 2xUSB-A 1xUSB-C 5м черный HP-5-48</name>
+        <price>599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-48_HP-5-48</vendorCode>
+        <description>Представленный сетевой фильтр-удлинитель представляет собой эффективное средство для организации электроснабжения в помещениях с ограниченным числом розеток. Комплектация с четырьмя евророзетками и интегрированными USB-портами позволяет параллельно подключать электроприборы и осуществлять зарядку мобильных устройств без задействования отдельных адаптеров. Данное решение прекрасно подходит для рабочего места, домашнего использования или образовательных учреждений, где необходимо систематизировать питание различной техники. Особенности сетевого фильтра-удлинителя: Компактное вертикальное исполнение корпуса из огнестойкого ABS-пластика — способствует рациональному использованию пространства и безопасной работе устройства; Продуманная компоновка четырех евророзеток — дает возможность подключать несколько приборов без взаимного перекрытия доступа к гнездам; Наличие двух портов USB-A и одного USB Type-C на фронтальной панели — обеспечивает зарядку смартфонов, портативных колонок, павербанков и других современных гаджетов; Кабель длиной 5 метров — гарантирует комфортное подключение в пределах комнаты или рабочей области; Кнопка питания с индикацией — позволяет оперативно обесточить все подключенные устройства одновременно, что способствует контролю за потреблением энергии и облегчает ежедневную эксплуатацию. Характеристики сетевого фильтра-удлинителя: Количество выходных розеток: 4 шт.; Выключатель: да; Длина шнура: 5 м; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип удлинителя: сетевой фильтр-удлинитель; Состояние: новый; Длина провода: 5 м. Модель в черном цветовом исполнении органично впишется в интерьер современного офиса или домашнего кабинета. Функциональность и надежность конструкции делают это устройство практичным выбором для тех, кто ценит порядок и удобство в организации электропитания.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7000</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7000/setevoy_filtr_udlinitel_4_rozetki_2xusb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">4</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-49_HP-5-49" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м белая HP-5-49</name>
+        <price>679.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-49_HP-5-49</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &amp;times; 10 &amp;times; 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7001</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7001/setevoy_filtr_udlinitel_5_rozetok_4xusb_a_1xusb_c_3m_belaya_knopka_otklyucheniya_udlinitel_elektricheskoe_pitanie_zaryadk.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Состояние">Новое</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-50_HP-5-50" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м черная HP-5-50</name>
+        <price>679.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-50_HP-5-50</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &amp;times; 10 &amp;times; 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7002</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7002/setevoy_filtr_udlinitel_5_rozetok_4xusb_a_1xusb_c_3m_chernaya_knopka_otklyucheniya_udlinitel_elektricheskiy_pitaniya_zaryad.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">3</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Длина провода">3</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Мощность нагрузки">2500</param>
+      </offer>
+      <offer id="f11_HP-5-51_HP-5-51" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 4хUSB-A 1хUSB-C 5м белая HP-5-51</name>
+        <price>749.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-51_HP-5-51</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &amp;times; 10 &amp;times; 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7003</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7003/setevoy_filtr_udlinitel_5_rozetok_4husb_a_1husb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-52_HP-5-52" available="true">
+        <name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 5м черный HP-5-52</name>
+        <price>749.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-52_HP-5-52</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &amp;times; 10 &amp;times; 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7004</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7004/setevoy_filtr_udlinitel_5_rozetok_4xusb_a_1xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">5</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-53_HP-5-53" available="true">
+        <name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
+        <price>699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-53_HP-5-53</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7005</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-54_HP-5-54" available="true">
+        <name>Сетевой фильтр-удлинитель 6 розеток 4 USB-A + 2USB Type-C 5м HP-5-54</name>
+        <price>699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-54_HP-5-54</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7006</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7006/setevoy_filtr_udlinitel_6_rozetok_4_usb_a_2usb_type_c_5m_knopka_otklyucheniya_udlinitel_elektricheskiy_pitan.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
+      </offer>
+      <offer id="f11_HP-5-55_HP-5-55" available="true">
+        <name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-55</name>
+        <price>799.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-55_HP-5-55</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 × 11 × 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7007</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7007/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Цвет корпуса">Белый</param>
+      </offer>
+      <offer id="f11_HP-5-56_HP-5-56" available="true">
+        <name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
+        <price>799.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>230</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-5-56_HP-5-56</vendorCode>
+        <description>Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети. Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств. Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования. Характеристики: Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &amp;times; 11 &amp;times; 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7008</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+        <param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+        <param name="Длина шнура">5</param>
+        <param name="Количество выходных розеток">6</param>
+        <param name="Выключатель">Да</param>
+        <param name="Входная вилка">ЕURO</param>
+        <param name="Выходная розетка">Евро</param>
+        <param name="Длина провода">5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет корпуса">Черный</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
