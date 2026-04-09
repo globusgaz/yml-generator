@@ -1,168 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-09 11:19">
+<yml_catalog date="2026-04-09 14:07">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="76">Отпариватели</category>
-      <category id="300">Подушки для спины</category>
-      <category id="279">Зонты</category>
-      <category id="17">Воскоплавы</category>
-      <category id="124">Решетки</category>
-      <category id="114">Повербанки</category>
-      <category id="184">Бульонницы</category>
-      <category id="65">Креманки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="67">Столовые приборы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="195">Разделочные доски</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="53">Кувшины</category>
-      <category id="136">Дуршлаги</category>
-      <category id="140">Крышки</category>
-      <category id="283">Подносы</category>
-      <category id="68">Тарелки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="316">Туристические плиты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="186">Тостеры</category>
-      <category id="89">Миксеры</category>
-      <category id="118">Сумки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="93">Электрочайники</category>
-      <category id="13">Триммеры</category>
-      <category id="166">Тортовницы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="142">Посуда для детей</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="66">Сервизы</category>
-      <category id="182">Блюда</category>
-      <category id="63">Кастрюли</category>
-      <category id="278">Косметички</category>
-      <category id="59">Все для выпечки</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="75">Утюги</category>
-      <category id="111">Портативные колонки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="81">Капучинаторы</category>
-      <category id="125">Мангалы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="20">Эпиляторы</category>
-      <category id="33">Пепельницы</category>
-      <category id="90">Мясорубки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="57">Чашки</category>
-      <category id="287">Банты на елку</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="54">Стаканы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="56">Бокалы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="141">Салатницы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="194">Менажницы</category>
-      <category id="23">Фены</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="15">Плойки</category>
-      <category id="29">Салфетницы</category>
-      <category id="262">Термосумки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="261">Терки</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="96">Вакууматоры</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="77">Пылесосы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="133">Масленки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="31">Часы настенные</category>
-      <category id="193">Доски для подачи</category>
-      <category id="61">Сковородки</category>
-      <category id="21">Электробритвы</category>
-      <category id="128">Органайзеры</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="122">Аксессуары</category>
       <category id="6">LED ленты</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="149">Палатки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="102">Микрофоны петличные</category>
+      <category id="89">Миксеры</category>
+      <category id="61">Сковородки</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="184">Бульонницы</category>
       <category id="150">Спальные мешки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="132">Конфетницы</category>
-      <category id="224">Гамаки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="103">Проекторы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="187">Слайсеры</category>
-      <category id="87">Соковыжималки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="110">Наушники</category>
-      <category id="298">Брелки</category>
-      <category id="14">Стайлеры</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="212">Мебель</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="223">Колбасные шприцы</category>
       <category id="285">Йогуртницы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="98">Блендеры</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="105">Зарядные устройства</category>
+      <category id="17">Воскоплавы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="56">Бокалы</category>
+      <category id="13">Триммеры</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="182">Блюда</category>
+      <category id="96">Вакууматоры</category>
+      <category id="279">Зонты</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="194">Менажницы</category>
+      <category id="104">Ручки для чистки наушников</category>
       <category id="271">Товары для уборки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="72">Весы напольные</category>
-      <category id="34">Подсвечники</category>
-      <category id="52">Лимонадницы</category>
+      <category id="21">Электробритвы</category>
+      <category id="261">Терки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="65">Креманки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="136">Дуршлаги</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="133">Масленки</category>
+      <category id="287">Банты на елку</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="141">Салатницы</category>
+      <category id="187">Слайсеры</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="148">Туристические коврики</category>
+      <category id="128">Органайзеры</category>
       <category id="144">Вентиляторы</category>
       <category id="60">Мармиты</category>
-      <category id="42">Термосы для детей</category>
-      <category id="221">Туристические души</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="145">Смарт-часы</category>
-      <category id="62">Ковши</category>
+      <category id="114">Повербанки</category>
+      <category id="59">Все для выпечки</category>
       <category id="126">Ланч боксы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="147">Наборы для пикника</category>
       <category id="55">Рюмки</category>
-      <category id="295">Новогодние тарелки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="98">Блендеры</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="63">Кастрюли</category>
+      <category id="90">Мясорубки</category>
+      <category id="140">Крышки</category>
+      <category id="53">Кувшины</category>
+      <category id="20">Эпиляторы</category>
+      <category id="31">Часы настенные</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="298">Брелки</category>
+      <category id="75">Утюги</category>
+      <category id="14">Стайлеры</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="186">Тостеры</category>
+      <category id="224">Гамаки</category>
+      <category id="68">Тарелки</category>
+      <category id="15">Плойки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="195">Разделочные доски</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="103">Проекторы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="212">Мебель</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="193">Доски для подачи</category>
+      <category id="110">Наушники</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="72">Весы напольные</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="81">Капучинаторы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="66">Сервизы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="29">Салфетницы</category>
+      <category id="278">Косметички</category>
+      <category id="142">Посуда для детей</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="77">Пылесосы</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="76">Отпариватели</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="124">Решетки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="125">Мангалы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="33">Пепельницы</category>
+      <category id="221">Туристические души</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="52">Лимонадницы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="93">Электрочайники</category>
+      <category id="262">Термосумки</category>
+      <category id="118">Сумки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="166">Тортовницы</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="54">Стаканы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="57">Чашки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="145">Смарт-часы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="42">Термосы для детей</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="149">Палатки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="283">Подносы</category>
+      <category id="122">Аксессуары</category>
+      <category id="132">Конфетницы</category>
+      <category id="62">Ковши</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="23">Фены</category>
+      <category id="111">Портативные колонки</category>
+      <category id="34">Подсвечники</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="134">Бутылки для масла</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -33187,30 +33187,6 @@
         <param name="Материал ручки">нержавеющая сталь</param>
         <param name="Цвет">Золотой</param>
         <param name="Длина">210</param>
-        <param name="Поверхность">Глянцевая</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Упаковка">Полиэтиленовый пакет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-20-9_HP-20-9" available="true">
-        <name>Набор столовых вилок 6 штук вилки кухонные из нержавеющей стали 21.5 см Белый с золотом HP-20-9</name>
-        <price>349.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>67</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-20-9_HP-20-9</vendorCode>
-        <description>Набор столовых вилок из 6 штук - это сочетание качества, элегантности и практичности. Изготовленные из высококачественной нержавеющей стали, они обеспечивают прочность и долговечность даже при интенсивном ежедневном использовании. Благодаря своим свойствам материал не поддается коррозии, не впитывает запахи и легко очищается, что делает эти вилки идеальным выбором для любой кухни. Основные характеристики: Количество предметов в наборе: 6 шт.; Количество персон: 6; Длина: 21.5 см; Материал: нержавеющая сталь; Упаковка: пакет. Одним из главных преимуществ набора является зеркальная полировка, которая придает приборам изысканный блеск и эстетическую привлекательность. Классический дизайн позволяет легко сочетать их с другими столовыми приборами, независимо от стиля сервировки. Эргономичная форма ручки обеспечивает удобное использование, а оптимальная высота вилок в 21.5 см делает их универсальными для различных блюд. Такой набор станет отличным дополнением к кухонному арсеналу как для домашнего использования, так и для кафе или ресторанов. Благодаря своей простоте и изысканности, он идеально подходит для повседневных обедов и торжественных событий, добавляя сервировке нотку элегантности и комфорта.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3685</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/010101/HP-20-9/HP209_1-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/010101/HP-20-9/HP209_3-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/010101/HP-20-9/HP209_2-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3685/nabor_stolovyh_vilok_6_shtuk_vilki_kuhonnye_iz_nerzhaveyushchey_stali_21_5_sm_belyy_s_zolotom_3.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Количество в наборе">6</param>
-        <param name="Тип вилки">Столовая</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
-        <param name="Длина">215</param>
         <param name="Поверхность">Глянцевая</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Упаковка">Полиэтиленовый пакет</param>
@@ -88986,7 +88962,7 @@
         <param name="Нижний диаметр">190</param>
       </offer>
       <offer id="f11_HP-19-298_HP-19-298" available="true">
-        <name>Лимонадница с краном 2л HP-19-298 кувшин для напитков диспенсер для лимонада</name>
+        <name>Лимонадница для напитков с краном 2л HP-19-298</name>
         <price>899.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -89000,16 +88976,16 @@
         <picture>https://feed.lugi.com.ua/image/catalog/HP-19-298/_T5B5377.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6783/limonadnitsa_s_kranom_2l_hp_19_298_kuvshin_dlya_napitkov_dispenser_dlya_limonada_3.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">480</param>
-        <param name="Верхний диаметр">170</param>
+        <param name="Высота">48</param>
+        <param name="Верхний диаметр">17</param>
         <param name="Назначение">Универсальное</param>
-        <param name="Объем">2000</param>
+        <param name="Объем">2</param>
         <param name="Наличие ручки">Нет</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Способ закрывания">Крышка</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Тип емкости">Лимонадница</param>
-        <param name="Нижний диаметр">170</param>
+        <param name="Нижний диаметр">17</param>
       </offer>
       <offer id="f11_HP-19-300_HP-19-300" available="true">
         <name>Лимонадница Ocean Crystal 5 литров с краном для мохито сока напитков HP-19-300</name>
@@ -90079,6 +90055,122 @@
         <param name="Тип вилки">Столовая</param>
         <param name="Длина">210</param>
         <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-07_HP-16978-07" available="true">
+        <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см ложки десертные глянцевая полировка столовые приборы HP-16978-07</name>
+        <price>449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_7638b79edf4a2f3cb2</vendorCode>
+        <description>Десертные приборы, которые идеально подходят для сервировки десертов на праздничном столе и для повседневного использования. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии и окислению, не окрашивается от напитков и не влияет на вкусовые качества продуктов. Рабочая часть: классическая каплевидная форма с зеркальной полировкой. Идеально гладкая поверхность обеспечивает комфортный контакт и легкость в уходе. Фактурная рукоята: Выполнена с применением объемного тиснения. Матовая рельефная поверхность имитирует естественную текстуру, что делает приборы менее скользкими и скрывает следы от пальцев. Компактный размер: Длина 14,5 см оптимальная для использования с чайными и кофейными парами, а также для подачи кондитерских изделий, муссов и закусок. Характеристики: Материал: нержавеющая сталь Длина: 14,5 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6869</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-07/_T5B0023.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6869/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_desertnye_glyantsevaya_polirovka_stolovye_pribory_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-07/_T5B0219.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6869/nabor_chaynyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_14_5_sm_lozhki_desertnye_glyantsevaya_polirovka_stolovye_pribory_3.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Чайная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">145</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-08_HP-16978-08" available="true">
+        <name>Набор ложек для латте 6 штук из нержавеющей стали 19 см ложки десертные глянцевые столовые приборы HP-16978-08</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_9df391c9145255d052</vendorCode>
+        <description>Столовые приборы с удлиненной ручкой предназначены для подачи напитков и десертов в высокой посуде. Дизайн отличается характерной &amp;laquo;качественной&amp;raquo; фактурой (hammered effect), создающей игру бликов на свету. Особенности: Материал: Нержавеющая сталь. Стойкая к коррозии, воздействию температур и фруктовых кислот. Сохраняет блеск при контакте с горячими и холодными напитками. Удлиненная форма: Рукоятка длиной 19 см позволяет комфортно использовать ложку в высоких стаканах для латте, бокалах для коктейлей, глубоких креманках или банках с десертами. Фактурный дизайн: Поверхность рукояти имеет рельефную отделку, имитирующую следы ручной ковки. Это не только придает приборам индивидуальности, но и делает их менее скользкими в руке. Зеркальная полировка: Рабочая часть (черпак) имеет безупречно гладкое глянцевое покрытие, обеспечивающее гигиеничность и эстетичный внешний вид. Практичность: Приборы имеют сбалансированный вес, не гнутся и подходят для ежедневного использования. Допускается мытье в посудомоечной машине. Характеристики: Материал: нержавеющая сталь Длина: 19 см Вес набора: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6870</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-08/_T5B0070.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-08/_T5B0222.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6870/nabor_lozhek_dlya_latte_6_shtuk_iz_nerzhaveyushchey_stali_19_sm_lozhki_desertnye_glyantsevye_stolovye_pribory_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6870/nabor_lozhek_dlya_latte_6_shtuk_iz_nerzhaveyushchey_stali_19_sm_lozhki_desertnye_glyantsevye_stolovye_pribory_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6870/nabor_lozhek_dlya_latte_6_shtuk_iz_nerzhaveyushchey_stali_19_sm_lozhki_desertnye_glyantsevye_stolovye_pribory_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Коктейльная</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">190</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+        <param name="Подарочная упаковка">Нет</param>
+      </offer>
+      <offer id="f11_HP-16978-09_HP-16978-09" available="true">
+        <name>Набор ножей для стейка 6 штук из нержавеющей стали 23 см комплект ножи кухонные принадлежности HP-16978-09</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_f32f1b62792659aa85</vendorCode>
+        <description>Специализированные столовые ножи с серрейторной заточкой, предназначены для нарезки готового мяса, стейков и других плотных блюд. Модель сочетает в себе функциональность режущего инструмента и декоративный дизайн рукояти. Особенности: Материал: Нержавеющая сталь с повышенной устойчивостью к затуплению. Лезвие сохраняет остроту при контакте с твердыми поверхностями тарелок. Серрейторная заточка: Острый зубчатый край позволяет легко разрезать волокна мяса, не меняя его, что критически для сохранения сочности стейка. Полноразмерный формат Длина 23 см обеспечивает оптимальный баланс и рычаг, необходимый для комфортного разрезания больших порций мяса. Характеристики: Материал: нержавеющая сталь Длина: 23 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6871</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-09/_T5B0104.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-09/_T5B0201.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6871/nabor_nozhey_dlya_steyka_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_komplekt_nozhi_kuhonnye_prinadlezhnosti_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6871/nabor_nozhey_dlya_steyka_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_komplekt_nozhi_kuhonnye_prinadlezhnosti_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6871/nabor_nozhey_dlya_steyka_6_shtuk_iz_nerzhaveyushchey_stali_23_sm_komplekt_nozhi_kuhonnye_prinadlezhnosti_4.png</picture>
+        <param name="Тип">Нож для стейка</param>
+        <param name="Вес">75</param>
+        <param name="Количество предметов в наборе">6</param>
+        <param name="Материал лезвия">Нержавеющая сталь</param>
+        <param name="Материал рукоятки">Нержавеющая сталь</param>
+        <param name="Длина ножа">23</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Съемные лезвия">Нет</param>
+        <param name="Нож универсальный">6</param>
+        <param name="Самозатачивающиеся лезвия">Нет</param>
+      </offer>
+      <offer id="f11_HP-16978-10_HP-16978-10" available="true">
+        <name>Набор столовых ложек 6 штук из нержавеющей стали 21 см ложки кухонные приборы столовые сервировки посуды HP-16978-10</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ce30eaf1f9d6864c22</vendorCode>
+        <description>Полноразмерные столовые ложки сочетают строгую геометрию черпака и сложную рельефную текстуру рукояти, что позволяет использовать приборы как в современном, так и в классической сервировке. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к коррозии, механическим деформациям и воздействию температур. Материал не вступает в химические реакции с едой и полностью безопасен при ежедневном использовании. Зеркальная полировка: Рабочая часть ложки (черпак) имеет гладкое глянцевое покрытие. Высокое качество полировки облегчает гигиенический уход и придает изделиям характерный блеск. Фактурная рукоятка: Поверхность ручки выполнена с применением технологии объемного тиснения. Рельефный узор, имитирующий естественную текстуру, обеспечивает антискользящий эффект и делает устройство удобным для захвата. Практичность: Износостойкое покрытие рукояти устойчиво к истиранию. Приборы подходят для мытья в посудомоечной машине. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6872</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-10/_T5B0114.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6872/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_kuhonnye_pribory_stolovye_servirovki_posudy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-10/_T5B0198.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6872/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_kuhonnye_pribory_stolovye_servirovki_posudy_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6872/nabor_stolovyh_lozhek_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_lozhki_kuhonnye_pribory_stolovye_servirovki_posudy_4.png</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип ложки">Столовая</param>
+        <param name="Материал ручки">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая/матовая</param>
+      </offer>
+      <offer id="f11_HP-16978-11_HP-16978-11" available="true">
+        <name>Набор столовых вилок 6 штук из нержавеющей стали 21 см вилки кухонные столовые приборы сервировки HP-16978-11</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_ec6ab4c35ee1ec26ef</vendorCode>
+        <description>Полноразмерные столовые вилки сочетают в себе функциональность рабочей части и декоративность обработки, что позволяет использовать приборы для сервировки стола в различных стилях. Особенности: Материал: Нержавеющая сталь. Сплав устойчив к воздействию влаги и пищевых кислот, не деформируется и не теряет своих свойств при длительном использовании. Зеркальная полировка: Зубцы и основание вилки имеют глянцевое покрытие. Гладкая поверхность рабочей части обеспечивает комфортное использование и простоту очистки. Эргономика: Длина изделия составляет 21 см, что является стандартом для употребления вторых горячих блюд и закусок. Уход: Приборы рассчитаны на мытье в посудомоечной машине. Износостойкое покрытие рукояти сохраняет первоначальный вид при соблюдении рекомендаций по уходу. Характеристики: Материал: нержавеющая сталь Длина: 21 см Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6873</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-11/_T5B0077.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6873/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_servirovki_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6873/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_servirovki_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6873/nabor_stolovyh_vilok_6_shtuk_iz_nerzhaveyushchey_stali_21_sm_vilki_kuhonnye_stolovye_pribory_servirovki_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-16978-11/_T5B0207.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Тип вилки">Столовая</param>
+        <param name="Длина">210</param>
+        <param name="Поверхность">Глянцевая</param>
       </offer>
       <offer id="f11_LB-1566BH_LB-1566BH" available="true">
         <name>Блюдо сервировочное фарфоровое 25х10 см для закусок фруктов десертов LB-1566BH</name>
@@ -91723,6 +91815,347 @@
         <param name="Длина">38</param>
         <param name="Форм-фактор">Переносной</param>
         <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_BQ-1_BQ-1" available="true">
+        <name>Угольный гриль двусторонний портативный с решеткой 38х25х35 см черный BQ-1</name>
+        <price>1779.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>125</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-1_BQ-1</vendorCode>
+        <description>Портативный угольный гриль двустороннего типа представляет собой компактное и функциональное решение для приготовления разнообразных блюд на открытом воздухе. Благодаря небольшим габаритам его удобно транспортировать на пикник, дачу или в любое место для отдыха на природе. Эта модель сочетает в себе возможности традиционного барбекю, гриля и коптильни, что позволяет готовить множество вариантов блюд на натуральном древесном угле. Ключевая особенность конструкции заключается в двустороннем исполнении: при открытой крышке рабочая поверхность значительно увеличивается, позволяя одновременно готовить несколько порций мяса, рыбы или овощей. Когда крышка закрыта, создаётся эффект равномерного распределения жара внутри, что идеально подходит для запекания или копчения продуктов. Особенности угольного гриля: Двусторонняя конструкция — позволяет увеличить рабочую площадь при открытии крышки; Многофункциональность — сочетает функции барбекю, гриля и коптильни; Комплект из 2 съёмных решёток — легко устанавливаются и снимаются для чистки; Удобная система фиксации — замок с накидной петлёй надёжно закрепляет крышку при транспортировке; Большая ручка для переноски — обеспечивает комфорт при перемещении; Устойчивые ножки — гарантируют стабильное положение на разных поверхностях. Характеристики гриля, аксессуаров для барбекю и приготовления на открытом воздухе: Тип: Гриль, барбекю; Конструкция: двусторонняя; Формат: портативный; Функции: барбекю, гриль, коптильня; Количество решёток: 2 съёмные; Наличие крышки: да; Фиксация крышки: замок с накидной петлёй; Ручка для переноски: да; Установка: на ножках; Цвет: Чёрный. Компактный формат и продуманная функциональная конструкция делают эту модель практичным выбором для любителей отдыха на природе. Гриль легко чистится после использования, а его портативность позволяет брать его с собой в любые поездки.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6970</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_9.jpg</picture>
+        <param name="Тип">Гриль, барбекю</param>
+        <param name="Высота">35</param>
+        <param name="Тип топлива">Древесный уголь</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Ширина">25.9</param>
+        <param name="Длина рабочей поверхности">35</param>
+        <param name="Ширина рабочей поверхности">22</param>
+        <param name="Материал решетки">Нержавеющая сталь</param>
+        <param name="Материал корпуса">Сталь</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">38</param>
+        <param name="Состояние">Новое</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_BQ-2_BQ-2" available="true">
+        <name>Угольный гриль двусторонний портативный с решеткой 38x25x35 см зеленый BQ-2</name>
+        <price>1779.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>125</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-2_BQ-2</vendorCode>
+        <description>Портативный угольный гриль с двусторонней конструкцией — это компактное и практичное решение для тех, кто любит готовить на свежем воздухе. Его небольшие размеры делают транспортировку максимально удобной, будь то выезд на пикник, поездка на дачу или отдых на природе. Конструкция объединяет функциональность классического барбекю, гриля и коптильни, предоставляя широкие возможности для приготовления самых разных блюд на древесном угле. Главное преимущество модели — двусторонняя система: при открытой крышке площадь приготовления существенно расширяется, что даёт возможность готовить одновременно несколько порций мяса, рыбы или овощей. При закрытой крышке тепло равномерно распределяется внутри камеры, создавая оптимальные условия для запекания или копчения продуктов. Особенности угольного гриля: Двусторонняя конструкция — увеличивает рабочую площадь и расширяет возможности готовки; Универсальность применения — подходит для барбекю, гриля и копчения; Две съёмные решётки в комплекте — легко устанавливаются и снимаются для удобной очистки; Надёжная фиксация крышки — замок с накидной петлёй обеспечивает безопасную транспортировку; Удобная ручка — упрощает переноску гриля с места на место; Стабильные ножки — обеспечивают устойчивость на различных типах поверхностей. Характеристики гриля, аксессуаров для барбекю и приготовления на открытом воздухе: Тип: Гриль, барбекю; Конструкция: двусторонняя; Формат: портативный; Функции: барбекю, гриль, коптильня; Количество решёток: 2 съёмные; Наличие крышки: да; Фиксация крышки: замок с накидной петлёй; Ручка для переноски: да; Установка: на ножках; Цвет: Зелёный. Компактный формат и функциональная конструкция делают этот гриль отличным вариантом для использования на открытом воздухе. Он легко очищается после приготовления, а его портативность позволяет без проблем брать устройство с собой в любые поездки и на отдых.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6971</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6971/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38x25x35_sm_zelenyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_7.jpg</picture>
+        <param name="Тип">Гриль, барбекю</param>
+        <param name="Высота">25</param>
+        <param name="Вес">3.8</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Ширина">35</param>
+        <param name="Длина рабочей поверхности">35</param>
+        <param name="Ширина рабочей поверхности">22</param>
+        <param name="Материал решетки">Нержавеющая сталь</param>
+        <param name="Материал корпуса">Сталь</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Длина">38</param>
+        <param name="Состояние">Новое</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_BQ-6_BQ-6" available="true">
+        <name>Набор аксессуаров для гриля 45 см BQ-6</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-6_BQ-6</vendorCode>
+        <description>Набор аксессуаров для гриля практичное дополнение для приготовления блюд на открытом огне или угольном гриле. Комплект помогает удобно переворачивать, перемещать и подавать мясо, рыбу и овощи, обеспечивая контроль во время готовки. Такой набор подходит как для домашнего использования, так и для пикников или выездов на природу. Аксессуары изготавливаются из материалов, устойчивых к высоким температурам, что позволяет безопасно работать возле жара. Удлиненные ручки уменьшают риск ожогов и обеспечивают комфорт при использовании. Инструменты легко очищаются после приготовления и могут храниться вместе благодаря компактному формату комплекта. Набор позволяет организовать процесс готовки более удобно и упорядоченно. Он станет полезным решением для тех, кто регулярно использует гриль и ценит практичность в деталях.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6972</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6972/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_7.jpg</picture>
+        <param name="Тип">Набор для гриля/барбекю</param>
+        <param name="Материал">Сталь</param>
+        <param name="Вилка для мяса">1</param>
+        <param name="Количество предметов в наборе">3</param>
+        <param name="Лопатка для барбекю">1</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">45</param>
+        <param name="Состояние">Новое</param>
+        <param name="Щипцы">1</param>
+      </offer>
+      <offer id="f11_BQ-7_BQ-7" available="true">
+        <name>Набор аксессуаров для гриля 45 см BQ-7</name>
+        <price>549.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-7_BQ-7</vendorCode>
+        <description>Набор аксессуаров для гриля практичное дополнение для приготовления блюд на открытом огне или угольном гриле. Комплект помогает удобно переворачивать, перемещать и подавать мясо, рыбу и овощи, обеспечивая контроль во время готовки. Такой набор подходит как для домашнего использования, так и для пикников или выездов на природу. Аксессуары изготавливаются из материалов, устойчивых к высоким температурам, что позволяет безопасно работать возле жара. Удлиненные ручки уменьшают риск ожогов и обеспечивают комфорт при использовании. Инструменты легко очищаются после приготовления и могут храниться вместе благодаря компактному формату комплекта. Набор позволяет организовать процесс готовки более удобно и упорядоченно. Он станет полезным решением для тех, кто регулярно использует гриль и ценит практичность в деталях.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6973</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6973/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6973/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6973/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6973/nabor_aksessuarov_dlya_grilya_45_sm_lopatka_vilka_dlya_myasa_dlya_kempinga_otdyha_barbekyu_dachi_3.jpg</picture>
+        <param name="Тип">Набор для гриля/барбекю</param>
+        <param name="Материал">Сталь</param>
+      </offer>
+      <offer id="f11_BQ-10_BQ-10" available="true">
+        <name>Решетка для гриля и барбекю глубокая 38х26 см BQ-10</name>
+        <price>519.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>124</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-10_BQ-10</vendorCode>
+        <description>Прямоугольная решетка для гриля и барбекю - удобное решение для приготовления блюд на открытом огне. Размер 38&amp;times;26 см позволяет использовать ее с большинством мангалов и грилей соответствующего формата, обеспечивая достаточную площадь для размещения продуктов. Решетка изготовлена из нержавеющей стали, что выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге и не подвергается коррозии, а гладкая поверхность упрощает очистку после приготовления. Конструкция рассчитана на равномерное размещение продуктов во время жарки. Благодаря продуманной форме решетка позволяет надежно удерживать мясо, рыбу или овощи при переворачивании, уменьшая риск их выпадения. Подходит для использования на пикниках, даче или во время отдыха на природе в качестве практичного аксессуара для приготовления на углях. Характеристики: Тип: решетка для гриля и барбекю Форма: прямоугольная Материал: нержавеющая сталь</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6974</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_5.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Назначение решетки">Для мяса|Для овощей|Для рыбы|Универсальная|Для сосисок, колбасок|Для пиццы</param>
+        <param name="Длина рабочей поверхности">38</param>
+        <param name="Ширина рабочей поверхности">26</param>
+      </offer>
+      <offer id="f11_BQ-11_BQ-11" available="true">
+        <name>Решетка гриль для рыбы из нержавеющей стали 37х15 см BQ-11</name>
+        <price>299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>124</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-11_BQ-11</vendorCode>
+        <description>Решетка гриль для рыбы – удобный инструмент для приготовления блюд на открытом огне. Размер рабочей части 37*15 см позволяет готовить рыбу целиком или порционными кусками, обеспечивая равномерную прожарку с обеих сторон. Конструкция предусматривает фиксацию продукта, что упрощает процесс переворачивания во время жарки. Модель оснащена длинной ручкой длиной 30 см с защитной накладкой, которая уменьшает нагрев при контакте с огнем. Это позволяет контролировать процесс приготовления и работать на безопасном расстоянии от жара. Решетка подходит для использования на открытом очаге, углях или гриле. Изготовлена из нержавеющей стали, решетка выдерживает высокие температуры и подходит для многократного использования. Материал устойчив к влаге и не подвергается коррозии, а конструкция облегчает очистку после приготовления. Практичный вариант для пикников, рыбалки и отдыха на природе. Характеристики: Тип: решетка-гриль для рыбы Материал: нержавеющая сталь Размеры: 35 × 14 см Длина ручки: 30 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6975</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_4.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Назначение решетки">Для рыбы</param>
+        <param name="Длина рабочей поверхности">37</param>
+        <param name="Ширина рабочей поверхности">15</param>
+        <param name="Форма">Рыба</param>
+      </offer>
+      <offer id="f11_BQ-18_BQ-18" available="true">
+        <name>Набор шампуров из нержавеющей стали 6 штук 60х1.2 см BQ-18</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-18_BQ-18</vendorCode>
+        <description>Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 60 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно. Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1,2 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки. Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе. Характеристики: Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 60 см Ширина: 1,2 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6976</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+        <param name="Тип">Набор шампуров</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество предметов в наборе">6</param>
+        <param name="Комплектация подставкой">Нет</param>
+        <param name="Длина">60</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_BQ-19_BQ-19" available="true">
+        <name>Набор шампуров 6 штук из нержавеющей стали 55x1см BQ-19</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-19_BQ-19</vendorCode>
+        <description>Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 55 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно. Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки. Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе. Характеристики: Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 55 см Ширина: 1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6977</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+        <param name="Тип">Набор шампуров</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество предметов в наборе">6</param>
+        <param name="Длина">55</param>
+        <param name="Состояние">Новое</param>
+        <param name="Толщина материала">10</param>
+      </offer>
+      <offer id="f11_BQ-20_BQ-20" available="true">
+        <name>Набор шампуров 4 штук из нержавеющей стали с деревянной ручкой 53.5х1 см BQ-20</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-20_BQ-20</vendorCode>
+        <description>Набор из 4 шампуров с деревянной прямоугольной ручкой, изготовленных из нержавеющей стали, предназначен для приготовления мяса, птицы, овощей и других блюд на мангале или гриле. Оптимальная длина 52,4 см обеспечивает удобное размещение продуктов над жаром и комфортное переворачивание во время жарки. Комплект из четырёх шампуров подходит для приготовления порций на небольшую компанию или семейный пикник, делая процесс готовки максимально удобным. Особенности набора шампуров с деревянной ручкой: Рабочая часть из нержавеющей стали — устойчива к высоким температурам, деформациям и воздействию влаги, не подвергается коррозии; Материал рассчитан на многократное использование — долговечность и надёжность в эксплуатации; Гладкая поверхность — облегчает очистку после приготовления и уменьшает прилипание продуктов; Прямоугольная деревянная ручка — обеспечивает удобный захват и меньше нагревается во время использования; Улучшенный контроль при переворачивании — форма ручки повышает стабильность и удобство работы с открытым огнём; Универсальная совместимость — набор подходит для различных типов мангалов и грилей. Характеристики шампуров, декора и освещения: Тип: набор шампуров; Количество в наборе: 4 штуки; Длина шампуров: 52,4 см; Материал шампуров: нержавеющая сталь; Материал ручки: дерево; Форма ручки: прямоугольная. Этот набор станет отличным выбором для любителей отдыха на природе. Комбинация прочной стали и деревянных ручек обеспечивает комфорт и безопасность при приготовлении, а продуманная длина шампуров делает процесс жарки удобным и приятным.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6978</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6978/nabor_shampurov_4_shtuk_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_53_5h1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_sha.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6978/nabor_shampurov_4_shtuk_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_53_5h1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_sha_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6978/nabor_shampurov_4_shtuk_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_53_5h1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_sha_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6978/nabor_shampurov_4_shtuk_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_53_5h1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_sha_3.jpg</picture>
+        <param name="Тип">Набор шампуров</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество предметов в наборе">6</param>
+        <param name="Материал ручки">дерево</param>
+        <param name="Длина">53.5</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_BQ-21_BQ-21" available="true">
+        <name>Набор шампуров 4 штуки из нержавеющей стали с деревянной ручкой 50х7 см BQ-21</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-21_BQ-21</vendorCode>
+        <description>Набор шампуров из нержавеющей стали с деревянной ручкой (4 штук) подходит для приготовления мяса, птицы, овощей и других блюд на мангале или гриле. Длина 50 см позволяет удобно размещать продукты над жаром и контролировать процесс жарки во время отдыха на природе или на даче. Рабочая часть изготовлена из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к воздействию влаги, не поддается коррозии и сохраняет форму во время эксплуатации. Конструкция обеспечивает равномерное размещение продуктов и удобство при переворачивании. Шампуры оснащены деревянными ручками, которые уменьшают нагрев при использовании и обеспечивают удобное удержание. Форма ручки позволяет лучше контролировать шампур в процессе приготовления. Набор совместим с большинством мангалов и грилей, что делает его практичным вариантом для пикников и отдыха на открытом воздухе. Характеристики: Тип: шампури для мангала Количество в наборе: 4 шт Длина: 50 см Ширина: 7 см Материал шампуров: нержавеющая сталь Материал ручек: дерево</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6979</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6979/nabor_shampurov_4_shtuki_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_50h7_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6979/nabor_shampurov_4_shtuki_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_50h7_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6979/nabor_shampurov_4_shtuki_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_50h7_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6979/nabor_shampurov_4_shtuki_iz_nerzhaveyushchey_stali_s_derevyannoy_ruchkoy_50h7_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_3.jpg</picture>
+        <param name="Тип">Набор шампуров</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество предметов в наборе">4</param>
+        <param name="Материал ручки">дерево</param>
+        <param name="Длина">50</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_BQ-23_BQ-23" available="true">
+        <name>Набор шампуров 6 штук из нержавеющей стали 60х1.5 см BQ-23</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>122</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_BQ-23_BQ-23</vendorCode>
+        <description>Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или гриле. Длина 60 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно. Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не подвержен коррозии и сохраняет форму во время эксплуатации. Ширина 1,5 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки. Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на угле. Практичный вариант для пикников, дачи и отдыха на природе. Характеристики: Тип: шампуры для мангала Количество в наборе: 6 шт. Материал: нержавеющая сталь Длина: 60 см Ширина: 1,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6980</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6980/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_60h1_5_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyka_grilya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6980/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_60h1_5_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyka_grilya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6980/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_60h1_5_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyka_grilya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6980/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_60h1_5_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyka_grilya_3.jpg</picture>
+        <param name="Тип">Набор шампуров</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Количество предметов в наборе">6</param>
+        <param name="Длина">60</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-FM-352-1_HP-FM-352-1" available="true">
+        <name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>41</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_0de7291b534b229859</vendorCode>
+        <description>Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &amp;ldquo;COFFEE&amp;rdquo;. Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости. Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями. Характеристики: Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6981</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6981/termochashka_520_ml_s_ml_s_trubochkoy_i_dvoynym_otkryvaniem_belyy_termokruzhka_dlya_kofe_chaya_termos_dlya_napitkov.jpg</picture>
+        <param name="Тип">Термокружка</param>
+        <param name="Высота">20</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Глубина">6.5</param>
+        <param name="Крышка">крышка с поилкой</param>
+        <param name="Ширина">6.5</param>
+        <param name="Объем">520</param>
+        <param name="Ручка">Нет</param>
+        <param name="Тип термоса">Питьевой</param>
+        <param name="Состояние">Новое</param>
+        <param name="Нижний диаметр">6.5</param>
+      </offer>
+      <offer id="f11_HP-FM-352-2_HP-FM-352-2" available="true">
+        <name>Термочашка 520 мл с отверстием для трубочки и двойным открыванием розовый HP-FM-352-2</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>41</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_d813620d6a82ba8db5</vendorCode>
+        <description>Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью “COFFEE”. Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости. Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями. Характеристики: Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6982</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6982/termochashka_520_ml_s_otverstiem_dlya_trubochki_i_dvoynym_otkryvaniem_rozovyy_dlya_chaya_i_kofe_termos_dlya_napitkov.png</picture>
+        <param name="Тип">Термокружка</param>
+        <param name="Высота">20</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Помповый механизм">Нет</param>
+        <param name="Ширина">6.5</param>
+        <param name="Объем">520</param>
+        <param name="Состояние">Новое</param>
+        <param name="Нижний диаметр">6.5</param>
+      </offer>
+      <offer id="f11_HP-FM-352-3_HP-FM-352-3" available="true">
+        <name>Термочашка Summer 520 мл с трубочкой и двойным открыванием розовый HP-FM-352-3</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>41</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_53fb77cd5c8fc38131</vendorCode>
+        <description>Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &amp;ldquo;COFFEE&amp;rdquo;. Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости. Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями. Характеристики: Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6983</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6983/termochashka_summer_520_ml_s_trubochkoy_i_dvoynym_otkryvaniem_rozovyy_dlya_chaya_kofe_termos_dlya_napitkov.jpg</picture>
+        <param name="Тип">Термокружка</param>
+        <param name="Высота">20</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Вес">300</param>
+        <param name="Глубина">6.5</param>
+        <param name="Ширина">6.5</param>
+        <param name="Объем">520</param>
+        <param name="Состояние">Новое</param>
+        <param name="Нижний диаметр">6.5</param>
+      </offer>
+      <offer id="f11_HP-FM-352-4_HP-FM-352-4" available="true">
+        <name>Термочашка 520 мл с трубочкой и двойным открыванием белый HP-FM-352-4</name>
+        <price>499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>41</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_3526e75812faf9cdd0</vendorCode>
+        <description>Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &amp;ldquo;COFFEE&amp;rdquo;. Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости. Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями. Характеристики: Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6984</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6984/termochashka_520_ml_s_trubochkoy_i_dvoynym_otkryvaniem_belyy_dlya_chaya_i_kofe_termos_dlya_napitkov.jpg</picture>
+        <param name="Тип">Термокружка</param>
+        <param name="Высота">20</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Вес">400</param>
+        <param name="Глубина">6.5</param>
+        <param name="Ширина">6.5</param>
+        <param name="Объем">520</param>
+        <param name="Состояние">Новое</param>
+        <param name="Нижний диаметр">6.5</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
