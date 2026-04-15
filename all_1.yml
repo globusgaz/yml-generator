@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-15 11:20">
+<yml_catalog date="2026-04-15 14:01">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="268">Кухонные подставки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="77">Пылесосы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="110">Наушники</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="6">LED ленты</category>
+      <category id="142">Посуда для детей</category>
+      <category id="300">Подушки для спины</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="20">Эпиляторы</category>
+      <category id="284">Новогодний декор</category>
+      <category id="72">Весы напольные</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="224">Гамаки</category>
+      <category id="63">Кастрюли</category>
+      <category id="212">Мебель</category>
+      <category id="33">Пепельницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="59">Все для выпечки</category>
+      <category id="90">Мясорубки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="283">Подносы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="111">Портативные колонки</category>
+      <category id="56">Бокалы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="54">Стаканы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="145">Смарт-часы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="53">Кувшины</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="76">Отпариватели</category>
       <category id="141">Салатницы</category>
       <category id="279">Зонты</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="212">Мебель</category>
-      <category id="278">Косметички</category>
-      <category id="63">Кастрюли</category>
-      <category id="142">Посуда для детей</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="193">Доски для подачи</category>
-      <category id="284">Новогодний декор</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="262">Термосумки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="75">Утюги</category>
-      <category id="114">Повербанки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="298">Брелки</category>
       <category id="198">Гофре и выпрямители для волос</category>
-      <category id="186">Тостеры</category>
-      <category id="149">Палатки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="140">Крышки</category>
-      <category id="89">Миксеры</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="125">Мангалы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="54">Стаканы</category>
-      <category id="133">Масленки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="90">Мясорубки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="195">Разделочные доски</category>
-      <category id="29">Салфетницы</category>
-      <category id="187">Слайсеры</category>
-      <category id="150">Спальные мешки</category>
-      <category id="283">Подносы</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="136">Дуршлаги</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="23">Фены</category>
-      <category id="55">Рюмки</category>
-      <category id="132">Конфетницы</category>
-      <category id="196">Сетки и корзины для фри</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="262">Термосумки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="52">Лимонадницы</category>
       <category id="4">Удлинители гирлянд</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="124">Решетки</category>
+      <category id="89">Миксеры</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="132">Конфетницы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="140">Крышки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="68">Тарелки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="182">Блюда</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="125">Мангалы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="150">Спальные мешки</category>
+      <category id="15">Плойки</category>
+      <category id="60">Мармиты</category>
+      <category id="194">Менажницы</category>
+      <category id="166">Тортовницы</category>
+      <category id="93">Электрочайники</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="184">Бульонницы</category>
       <category id="144">Вентиляторы</category>
+      <category id="149">Палатки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="29">Салфетницы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="13">Триммеры</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="114">Повербанки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="87">Соковыжималки</category>
+      <category id="122">Аксессуары</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="61">Сковородки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="186">Тостеры</category>
+      <category id="57">Чашки</category>
+      <category id="23">Фены</category>
+      <category id="65">Креманки</category>
+      <category id="261">Терки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="287">Банты на елку</category>
+      <category id="103">Проекторы</category>
+      <category id="221">Туристические души</category>
+      <category id="96">Вакууматоры</category>
+      <category id="187">Слайсеры</category>
+      <category id="117">Рюкзаки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="14">Стайлеры</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="126">Ланч боксы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="62">Ковши</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="66">Сервизы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="128">Органайзеры</category>
+      <category id="133">Масленки</category>
+      <category id="55">Рюмки</category>
+      <category id="98">Блендеры</category>
+      <category id="34">Подсвечники</category>
       <category id="31">Часы настенные</category>
       <category id="2">Уличные гирлянды</category>
-      <category id="261">Терки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="96">Вакууматоры</category>
-      <category id="110">Наушники</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="224">Гамаки</category>
-      <category id="66">Сервизы</category>
-      <category id="111">Портативные колонки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="97">Весы кухонные</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="47">Наборы для специй</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="21">Электробритвы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="285">Йогуртницы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="68">Тарелки</category>
-      <category id="103">Проекторы</category>
-      <category id="77">Пылесосы</category>
-      <category id="14">Стайлеры</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="221">Туристические души</category>
-      <category id="124">Решетки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="298">Брелки</category>
-      <category id="93">Электрочайники</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="57">Чашки</category>
-      <category id="60">Мармиты</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="15">Плойки</category>
-      <category id="98">Блендеры</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="6">LED ленты</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="20">Эпиляторы</category>
-      <category id="87">Соковыжималки</category>
-      <category id="76">Отпариватели</category>
+      <category id="67">Столовые приборы</category>
       <category id="121">Туристические обогреватели</category>
-      <category id="17">Воскоплавы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="72">Весы напольные</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="117">Рюкзаки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="33">Пепельницы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="65">Креманки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="56">Бокалы</category>
       <category id="42">Термосы для детей</category>
-      <category id="128">Органайзеры</category>
-      <category id="62">Ковши</category>
-      <category id="294">Новогодние елки</category>
-      <category id="34">Подсвечники</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="300">Подушки для спины</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="166">Тортовницы</category>
-      <category id="118">Сумки</category>
-      <category id="194">Менажницы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="122">Аксессуары</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="61">Сковородки</category>
-      <category id="81">Капучинаторы</category>
-      <category id="53">Кувшины</category>
-      <category id="287">Банты на елку</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="59">Все для выпечки</category>
-      <category id="182">Блюда</category>
-      <category id="13">Триммеры</category>
-      <category id="184">Бульонницы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="278">Косметички</category>
+      <category id="17">Воскоплавы</category>
       <category id="269">Подарочные пакеты</category>
+      <category id="118">Сумки</category>
+      <category id="75">Утюги</category>
+      <category id="21">Электробритвы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -3322,31 +3322,6 @@
         <param name="Количество емкостей">6</param>
         <param name="Объем">120 мл</param>
         <param name="Цвет">Серебристый</param>
-      </offer>
-      <offer id="f11_2052165763_HP531B6612Z" available="true">
-        <name>Набор для специй на деревянной подставке 12 предметов по 100 мл HP531B6612Z</name>
-        <price>1339.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>47</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_71502d7eea51fea636</vendorCode>
-        <description>Набор емкостей для специй состоит из 12 баночек по 100 мл, которые идеально подойдут для организации и хранения специй. Баночки изготовлены из прочного стекла и имеют металлические плотно закрывающиеся крышки для сохранения свежести специй. Деревянная подставка не только обеспечивает удобное размещение баночек, но и защищает их от повреждений. Характеристики: Количество баночек: 12 Объем баночки: 100 мл Материал баночек: стекло Материал крышек: металл Материал подставки: дерево Преимущества: Прочное стекло обеспечивает долговечность баночек. Плотные металлические крышки сохраняют специи свежими. Деревянная подставка для удобного и организованного хранения. Уход: Рекомендуется мыть баночки вручную. Подставку протирать сухой или слегка влажной тканью. Набор содержит: 12 стеклянных баночек по 100 мл Деревянную подставку</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=1114</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP531B6612Z/nabor_emkostey_dlya_spetsiy_12_banochek_po_100_ml_na_derevyannoy_podstavke.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP531B6612Z/hp531b6612z_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP531B6612Z/hp531b6612z_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP531B6612Z/hp531b6612z_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP531B6612Z/hp531b6612z_6.jpg</picture>
-        <param name="Тип">Набор для специй</param>
-        <param name="Материал">Стекло</param>
-        <param name="Высота подставки">22 см</param>
-        <param name="Количество емкостей">12</param>
-        <param name="Материал подставки">Дерево</param>
-        <param name="Материал крышки">Металл</param>
-        <param name="Ширина">16 см</param>
-        <param name="Объем">100 мл</param>
-        <param name="Длина">16 см</param>
       </offer>
       <offer id="f11_HP531FS1030Y_HP531FS1030Y" available="true">
         <name>Банки для сыпучих продуктов набор из 3 шт на металической подставке HP531FS1030Y</name>
@@ -53205,22 +53180,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4740/zazhim_dlya_musora_s_dlinnoy_ruchkoy_rezinovaya_kromka_professionalnyy_inventar_5.jpg</picture>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-35015-40_HP-35015-40" available="true">
-        <name>Захват для мусора с длинной ручкой, резиновый край, инвентарь для уборки HP-35015-40</name>
-        <price>189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>265</categoryId>
-        <vendor>Household</vendor>
-        <vendorCode>f11_d97ac5561e11311ab7</vendorCode>
-        <description>Захват для сбора мусора с длинной ручкой: Вес, кг: 0.300; Габариты, см: длина 90; Материал ручки: пластик + нержавеющая сталь; Материал механизма зажимания: пластик + нержавеющая сталь. Описание инструмента для захвата с длинной ручкой: Рукоятка: выполнена в синем цвете, оснащена удобным триггером для управления захватом; Штанга: удлинённая, металлическая, серебристая, обеспечивает лёгкий доступ к предметам, расположенным на расстоянии; Захватные элементы: красные &amp;laquo;когти&amp;raquo; с прорезиненными наконечниками для надёжного и бережного удержания вещей; Назначение: используется для поднятия предметов с пола, извлечения вещей с верхних полок и работы в труднодоступных местах. Применение инструмента &amp;laquo;граббер&amp;raquo; для дома и работы: Бытовое использование: незаменим для пожилых людей и людей с ограниченной подвижностью, позволяя доставать вещи без необходимости наклоняться или использовать стремянку; Уборка помещений: помогает легко собирать мусор и предметы с пола без лишней нагрузки на спину; Складская работа: облегчает доступ к товарам и предметам, расположенным на верхних стеллажах.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4741</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_3.jpg</picture>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-35015-41_HP-35015-41" available="true">
         <name>Ручной захват для мусора с длинной ручкой и резиновой кромкой HP-35015-41</name>
         <price>169.0</price>
@@ -61249,29 +61208,6 @@
         <param name="Ширина">210</param>
         <param name="Объем">3</param>
         <param name="Цвет корпуса">Синий</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-45-17O_HP-45-17O" available="true">
-        <name>Сушилка для зелени и листьев салата 22×21×16 (см) ручная мойка сушилка для зелени, овощей и ягод Оранжевый HP-45-17O</name>
-        <price>249.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>255</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-45-17O_HP-45-17O</vendorCode>
-        <description>Мойка-сушка для зелени &amp;mdash; удобное и функциональное устройство, которое позволяет быстро вымыть та просушить зелень, фрукты и овощи без лишних усилий. Это решение экономит воду, время и пространство на кухне, избавляя от необходимости вручную отряхивать зелень или выкладывать её на полотенце. Благодаря продуманной конструкции с прозрачной чашей объёмом вы можете обрабатывать большие порции продуктов за один раз. После мойки достаточно покрутить ручку &amp;mdash; центробежная сила удаляет влагу, не повреждая листья. Для удобства на крышке предусмотрены специальные отверстия &amp;mdash; воду можно сливать или добавлять, не снимая крышку. Основные характеристики сушилка для зелени: Материал: пластик; Размер: 22&amp;times;21&amp;times;16 см; Механизм: ручка для вращения на крышке; Отверстия в крышке: да, для слива/долива воды. Преимущества центрифуги для сушки зелени: Простое управление одной рукой; Возможность добавлять или сливать воду без снятия крышки; Удобная ручка для вращения; Прозрачная чаша и съёмная корзина &amp;mdash; можно использовать для хранения продуктов; Изготовлена из качественного пищевого пластика. Ручная сушилка для зелени &amp;mdash; это практичный и незаменимый помощник на кухне для тех, кто ценит чистоту, удобство и бережное обращение с продуктами. Она помогает сократить время на подготовку овощей, зелени и фруктов, избавляя от лишней влаги и упрощая последующую обработку. Эргономичная конструкция, вместимость и лёгкость в уходе делают эту модель отличным выбором как для ежедневного использования, так и для хранения продуктов.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5192</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5192/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_oranzhevyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5192/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_oranzhevyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5192/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_oranzhevyy_2.jpg</picture>
-        <param name="Высота">160</param>
-        <param name="Вес">0.3</param>
-        <param name="Глубина">220</param>
-        <param name="Количество секций">1</param>
-        <param name="Ширина">210</param>
-        <param name="Объем">3</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Цвет корпуса">Оранжевый</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-45-18W_HP-45-18W" available="true">
@@ -72485,26 +72421,6 @@
         <param name="Количество в упаковке">6</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">19.5</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_64486-83_64486-83" available="true">
-        <name>Набор стеклянных трубочек с щеточкой, многоразовые соломинки для коктейлей и напитков (8+1) 64486-83</name>
-        <price>109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>45</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_64486-83_64486-83</vendorCode>
-        <description>Набор стеклянных трубочек для напитков &amp;mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &amp;mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола. Характеристики набора стеклянных трубочек: &amp;bull; Вес: 0.200 кг; &amp;bull; Длина трубочек: 19.5 см; &amp;bull; Материалы: стекло, металл; &amp;bull; Комплектация: 8 стеклянных трубочек в наборе; &amp;bull; Дополнительные элементы: щёточка для очистки; &amp;bull; Диаметр трубочек: 5 мм. Преимущества набора трубочек из стекла: &amp;bull; Экологичность &amp;mdash; многоразовое использование без вреда для природы; &amp;bull; Гигиеничность &amp;mdash; легко очищаются и не впитывают запахи; &amp;bull; Универсальность &amp;mdash; подходят для холодных и горячих напитков; &amp;bull; Эстетичность &amp;mdash; прозрачное стекло выглядит стильно и современно; &amp;bull; Практичность &amp;mdash; щёточка в комплекте облегчает уход.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5849</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5849/nabor_steklyannyh_trubochek_s_shchetochkoy_mnogorazovye_solominki_dlya_kokteyley_i_napitkov_8_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5849/nabor_steklyannyh_trubochek_s_shchetochkoy_mnogorazovye_solominki_dlya_kokteyley_i_napitkov_8_1_1.jpg</picture>
-        <param name="Материал">Боросиликатное стекло</param>
-        <param name="Вес">200</param>
-        <param name="Диаметр">5</param>
-        <param name="Количество в упаковке">8</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Длина">195</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-32-1_HP-32-1" available="true">
@@ -84747,6 +84663,30 @@
         <param name="Объем">8</param>
         <param name="Тип нагревательного элемента">ТЭН</param>
       </offer>
+      <offer id="f11_520-7_520-7" available="true">
+        <name>Мягкая игрушка-подушка с пледом Капибара 110×140 (см) Коричневый 520-7</name>
+        <price>869.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_520-7_520-7</vendorCode>
+        <description>Мягкая игрушка в виде милой капибары с рюкзачком &amp;mdash; это оригинальный и уютный подарок как для ребёнка, так и для взрослого. Внутри спрятан тёплый плед из кораллового флиса, который приятно укутывает и помогает сохранить тепло. Плед лёгкий, мягкий на ощупь, быстро сохнет и почти не мнётся, поэтому им удобно пользоваться дома, в дороге или на отдыхе. Материал обладает гипоаллергенными свойствами и подходит даже для чувствительной детской кожи, не вызывая раздражения. Основные характеристики детского пледа-игрушки: Материал пледа: коралловый флис; Материал игрушки: плюш, полиэстер; Наполнитель: синтепон Размер пледа: 110&amp;times;140 см; Размер игрушки: 40&amp;times;60 см. Подушка-игрушка с пледом сочетает в себе комфорт, функциональность и милый дизайн, делая отдых комфортнее. Она станет отличным подарком для детей и взрослых, подарит тепло, удобство и будет радовать своим практичным использованием каждый день.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6594</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67213/6594/myagkaya_igrushka_podushka_s_pledom_kapibara_110_140_sm_plyushevyy_detskiy_pled_3v1_korichnevyy_6.jpg</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Ширина">110</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Длина">140</param>
+        <param name="Тематика декора, рисунка">Без декора</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_7127-G_7127-G" available="true">
         <name>Мягкая игрушка-подушка с пледом Гусеница 110×170 (см) плюшевый детский плед 3в1 Серый 7127-G</name>
         <price>539.0</price>
@@ -92982,6 +92922,184 @@
         <param name="Цвет">Серый</param>
         <param name="Высота сиденья стула">330</param>
         <param name="Глубина стула">260</param>
+      </offer>
+      <offer id="f11_509-30_509-30" available="true">
+        <name>Игрушка-подушка Стич с мячом и пледом 110х140 см коралловый 509-30</name>
+        <price>899.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-30_509-30</vendorCode>
+        <description>Игрушка-подушка &amp;laquo;Стич с мячом и пледом&amp;raquo; сочетает функциональность и приятный внешний вид. Мягкая игрушка выполнена в виде персонажа с большими ушами и выразительными глазами, одетого в спортивную футболку с номером 10 и футбольным мячом. Внутри игрушки предусмотрен скрытый отсек для пледа, позволяющий компактно хранить его без лишнего места. Практичность игрушки-подушки заключается в его трансформации: игрушка легко превращается в подушку, а плед быстро достается при необходимости. Благодаря использованию кораллового флиса плед обеспечивает тепло и комфорт, подходит для использования дома, в дороге или во время отдыха. Плюшевый материал игрушки приятен на ощупь и хорошо держит форму. Этот комплект станет удобным решением для тех, кто ценит функциональные вещи с дополнительными возможностями. Компактность, универсальность и продуманный дизайн делают его уместным как для детей, так и для взрослых. Игрушка не занимает много места, легко переносится и может использоваться в различных условиях. Характеристики: Тип: игрушка-подушка с пледом Дизайн: Стич с футбольным мячом Размер пледа: 110 &amp;times; 140 см Материал пледа: коралловый флис Материал игрушки: плюш Особенности: мягкий, теплый плед</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7053</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7053/igrushka_podushka_stich_s_myachom_i_pledom_110h140_sm_korallovyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7053/igrushka_podushka_stich_s_myachom_i_pledom_110h140_sm_korallovyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7053/igrushka_podushka_stich_s_myachom_i_pledom_110h140_sm_korallovyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7053/igrushka_podushka_stich_s_myachom_i_pledom_110h140_sm_korallovyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7053/igrushka_podushka_stich_s_myachom_i_pledom_110h140_sm_korallovyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_4.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Тип игрушки">Стич</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-33BE_509-33BE" available="true">
+        <name>Игрушка-подушка Медведь с малышом и пледом 110x140 см бежевый 509-33P</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-33BE_509-33BE</vendorCode>
+        <description>Мягкая игрушка в виде мишки выполнена из приятного на ощупь плюша. Мишка имеет округлую форму, аккуратные ушки, маленькие черные глаза и более темный носик, что придает ему выразительность и уютный вид. В лапках он держит маленького мишки, подчеркивающего декоративность изделия и делающий его особенно привлекательным для детской комнаты или подарка. Конструкция игрушки позволяет компактно хранить плед внутри игрушки, превращая ее в удобную подушку. Плед изготовлен из кораллового плюша, имеет мягкую текстуру и обеспечивает комфорт при использовании. Благодаря размеру 110×140 см его удобно использовать как для отдыха дома, так и брать с собой в дорогу или на природу. Такой формат экономит место и добавляет функциональности: днем это декоративный элемент интерьера, а при необходимости – теплый плед для отдыха. Изделие сочетает практичность и приятный внешний вид, что делает его универсальным в использовании. Характеристики: Тип: игрушка-подушка с пледом Размер пледа: 110×140 см Материал игрушки: плюш Материал пледа: коралловый плюш</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7054</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7054/igrushka_podushka_medved_s_malyshom_i_pledom_110x140_sm_bezhevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7054/igrushka_podushka_medved_s_malyshom_i_pledom_110x140_sm_bezhevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7054/igrushka_podushka_medved_s_malyshom_i_pledom_110x140_sm_bezhevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7054/igrushka_podushka_medved_s_malyshom_i_pledom_110x140_sm_bezhevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Тип игрушки">Медведь</param>
+        <param name="Цвет">Бежевый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-33BR_509-33BR" available="true">
+        <name>Игрушка-подушка Медведь с малышом и пледом 110х140 см коричневый 509-33BR</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-33BR_509-33BR</vendorCode>
+        <description>Мягкая игрушка в виде мишки выполнена из приятного на ощупь плюша. Мишка имеет округлую форму, аккуратные ушки, маленькие черные глаза и более темный носик, что придает ему выразительность и уютный вид. В лапках он держит маленького мишки, подчеркивающего декоративность изделия и делающий его особенно привлекательным для детской комнаты или подарка. Конструкция игрушки позволяет компактно хранить плед внутри игрушки, превращая ее в удобную подушку. Плед изготовлен из кораллового плюша, имеет мягкую текстуру и обеспечивает комфорт при использовании. Благодаря размеру 110&amp;times;140 см его удобно использовать как для отдыха дома, так и брать с собой в дорогу или на природу. Такой формат экономит место и добавляет функциональности: днем это декоративный элемент интерьера, а при необходимости &amp;ndash; теплый плед для отдыха. Изделие сочетает практичность и приятный внешний вид, что делает его универсальным в использовании. Характеристики: Тип: игрушка-подушка с пледом Размер пледа: 110&amp;times;140 см Материал игрушки: плюш Материал пледа: коралловый плюш</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7055</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7055/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_korichnevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7055/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_korichnevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7055/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_korichnevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7055/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_korichnevyy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Тип игрушки">Медведь</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-33P_509-33P" available="true">
+        <name>Игрушка-подушка Медведь с малышом и пледом 110х140 см розовый 509-33P</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-33P_509-33P</vendorCode>
+        <description>Мягкая игрушка в виде мишки выполнена из приятного на ощупь плюша. Мишка имеет округлую форму, аккуратные ушки, маленькие черные глаза и более темный носик, что придает ему выразительность и уютный вид. В лапках он держит маленького мишки, подчеркивающего декоративность изделия и делающий его особенно привлекательным для детской комнаты или подарка. Конструкция игрушки позволяет компактно хранить плед внутри игрушки, превращая ее в удобную подушку. Плед изготовлен из кораллового плюша, имеет мягкую текстуру и обеспечивает комфорт при использовании. Благодаря размеру 110×140 см его удобно использовать как для отдыха дома, так и брать с собой в дорогу или на природу. Такой формат экономит место и добавляет функциональности: днем это декоративный элемент интерьера, а при необходимости – теплый плед для отдыха. Изделие сочетает практичность и приятный внешний вид, что делает его универсальным в использовании. Характеристики: Тип: игрушка-подушка с пледом Размер пледа: 110×140 см Материал игрушки: плюш Материал пледа: коралловый плюш</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7056</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7056/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_rozovyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7056/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_rozovyy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7056/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_rozovyy_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7056/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_rozovyy_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7056/igrushka_podushka_medved_s_malyshom_i_pledom_110h140_sm_rozovyy_4.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Тип игрушки">Медведь</param>
+        <param name="Цвет">Розовый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-6G_509-6G" available="true">
+        <name>Игрушка-подушка Пес Патрон с пледом 110x140 см серый 509-6G</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-6G_509-6G</vendorCode>
+        <description>Игрушка-подушка в виде Пса Патрона сочетает в себе сразу две функции: мягкую игрушку и удобную подушку для отдыха. Благодаря своей форме она подходит для сна, релакса или в качестве декоративного элемента в комнате. Компактный размер позволяет легко разместить ее на кровати, диване или взять с собой в дорогу. Внутри игрушки находится плед размером 110&amp;times;140 см, который удобно использовать дома, в путешествиях или во время отдыха. Он легко достается через специальное отверстие и так же просто складывается назад, не занимая много места. Это практичное решение для тех, кто хочет иметь под рукой теплый плед без лишнего беспорядка. Игрушка изготовлена из мягкого плюша, а плед &amp;mdash; из теплого кораллового флиса, что обеспечивает комфорт и приятные ощущения при использовании. Материалы хорошо держат форму, легкие в уходе и подходят для ежедневного использования как взрослыми, так и детьми. Такой набор станет универсальным вариантом для дома или подарка. Характеристики: Тип: игрушка-подушка с пледом Дизайн: Пес Патрон Размер игрушки: 30 &amp;times; 50 см Размер пледа: 110 &amp;times; 140 см Материал игрушки: плюш Материал пледа: коралловый флис Наполнитель: синтепон</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7066</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7066/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7066/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7066/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7066/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Высота">50</param>
+        <param name="Тип игрушки">Собачка</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-6GB_509-6GB" available="true">
+        <name>Игрушка-подушка Пес Патрон с пледом 110x140 см серый с коричневым 509-6GB</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-6GB_509-6GB</vendorCode>
+        <description>Игрушка-подушка в виде Пса Патрона сочетает в себе сразу две функции: мягкую игрушку и удобную подушку для отдыха. Благодаря своей форме она подходит для сна, релакса или в качестве декоративного элемента в комнате. Компактный размер позволяет легко разместить ее на кровати, диване или взять с собой в дорогу. Внутри игрушки находится плед размером 110&amp;times;140 см, который удобно использовать дома, в путешествиях или во время отдыха. Он легко достается через специальное отверстие и так же просто складывается назад, не занимая много места. Это практичное решение для тех, кто хочет иметь под рукой теплый плед без лишнего беспорядка. Игрушка изготовлена из мягкого плюша, а плед &amp;mdash; из теплого кораллового флиса, что обеспечивает комфорт и приятные ощущения при использовании. Материалы хорошо держат форму, легкие в уходе и подходят для ежедневного использования как взрослыми, так и детьми. Такой набор станет универсальным вариантом для дома или подарка. Характеристики: Тип: игрушка-подушка с пледом Дизайн: Пес Патрон Размер игрушки: 30 &amp;times; 50 см Размер пледа: 110 &amp;times; 140 см Материал игрушки: плюш Материал пледа: коралловый флис Наполнитель: синтепон</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7067</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7067/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_s_korichnevym_detskiy_plyushevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7067/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_s_korichnevym_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7067/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_s_korichnevym_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7067/igrushka_podushka_pes_patron_s_pledom_110x140_sm_seryy_s_korichnevym_detskiy_plyushevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Высота">50</param>
+        <param name="Тип игрушки">Собачка</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_509-6BR_509-6BR" available="true">
+        <name>Игрушка-подушка Пес Патрон с пледом 110x140 см детский плюшевый коричневый 509-6BR</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_509-6BR_509-6BR</vendorCode>
+        <description>Игрушка-подушка в виде Пса Патрона сочетает в себе сразу две функции: мягкую игрушку и удобную подушку для отдыха. Благодаря своей форме она подходит для сна, релакса или в качестве декоративного элемента в комнате. Компактный размер позволяет легко разместить ее на кровати, диване или взять с собой в дорогу. Внутри игрушки находится плед размером 110&amp;times;140 см, который удобно использовать дома, в путешествиях или во время отдыха. Он легко достается через специальное отверстие и так же просто складывается назад, не занимая много места. Это практичное решение для тех, кто хочет иметь под рукой теплый плед без лишнего беспорядка. Игрушка изготовлена из мягкого плюша, а плед &amp;mdash; из теплого кораллового флиса, что обеспечивает комфорт и приятные ощущения при использовании. Материалы хорошо держат форму, легкие в уходе и подходят для ежедневного использования как взрослыми, так и детьми. Такой набор станет универсальным вариантом для дома или подарка. Характеристики: Тип: игрушка-подушка с пледом Дизайн: Пес Патрон Размер игрушки: 30 &amp;times; 50 см Размер пледа: 110 &amp;times; 140 см Материал игрушки: плюш Материал пледа: коралловый флис Наполнитель: синтепон</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7068</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7068/igrushka_podushka_pes_patron_s_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7068/igrushka_podushka_pes_patron_s_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7068/igrushka_podushka_pes_patron_s_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <param name="Материал">Плюш</param>
+        <param name="Высота">50</param>
+        <param name="Тип игрушки">Собачка</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Состояние">Новое</param>
+        <param name="Возрастная группа">Без ограничений</param>
+      </offer>
+      <offer id="f11_520-8_520-8" available="true">
+        <name>Игрушка-подушка Каприбара с гамбургером и пледом 110x140 см детский плюшевый коричневый 520-8</name>
+        <price>869.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>267</categoryId>
+        <vendor>ТМ COLORFUL HOME</vendor>
+        <vendorCode>f11_520-8_520-8</vendorCode>
+        <description>Игрушка-подушка в виде капибары выглядит мило и оригинально благодаря продуманному дизайну. Она выполнена в спокойных естественных оттенках, имеет округлую форму, небольшие ушки и аккуратную мордочку с дружелюбным выражением. Особого шарма добавляет рюкзачок в виде гамбургера, что создает игривый акцент и делает игрушку более интересной как для детей, так и для взрослых. Игрушка изготовлена из мягкого плюша, приятного на ощупь, что обеспечивает комфорт при использовании в качестве подушки. Ее размер 40&amp;times;30 см позволяет удобно разместить ее на диване, кровати или взять с собой в дорогу. Внутри находится плед из кораллового плюша размером 110&amp;times;140 см &amp;ndash; теплый, легкий и удобный для ежедневного использования дома или во время отдыха. Функциональность изделия заключается в том, что плед компактно прячется внутрь игрушки, благодаря чему она не занимает много места и легко трансформируется в подушку. Это практичное решение для экономии пространства и поддержания порядка, а также удобный вариант для тех, кто ценит сочетание декоративности и пользы в одном изделии. Характеристики: Тип: игрушка-подушка с пледом Дизайн: капибара с гамбургером на голове Размер игрушки: 40&amp;times;30 см Размер пледа: 110&amp;times;140 см Материал игрушки: плюш Материал пледа: коралловый плюш</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7069</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71242/7069/igrushka_podushka_kapribara_s_gamburgerom_i_pledom_110x140_sm_detskiy_plyushevyy_korichnevyy_pled_igrushka_podushka_detskaya_5.png</picture>
+        <param name="Тип">Плед</param>
+        <param name="Материал">Плюш</param>
+        <param name="Высота">40</param>
+        <param name="Тип игрушки">Капибара</param>
+        <param name="Ширина">30</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Возрастная группа">Без ограничений</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
