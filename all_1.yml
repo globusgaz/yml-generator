@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-15 08:12">
+<yml_catalog date="2026-04-15 09:41">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="62">Ковши</category>
-      <category id="132">Конфетницы</category>
-      <category id="76">Отпариватели</category>
-      <category id="75">Утюги</category>
-      <category id="87">Соковыжималки</category>
-      <category id="55">Рюмки</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="52">Лимонадницы</category>
-      <category id="31">Часы настенные</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="124">Решетки</category>
-      <category id="13">Триммеры</category>
-      <category id="262">Термосумки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="285">Йогуртницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="90">Мясорубки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="271">Товары для уборки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="125">Мангалы</category>
-      <category id="54">Стаканы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="221">Туристические души</category>
-      <category id="14">Стайлеры</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="166">Тортовницы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="98">Блендеры</category>
-      <category id="145">Смарт-часы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="103">Проекторы</category>
-      <category id="29">Салфетницы</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="96">Вакууматоры</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="283">Подносы</category>
-      <category id="53">Кувшины</category>
-      <category id="42">Термосы для детей</category>
-      <category id="148">Туристические коврики</category>
-      <category id="72">Весы напольные</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="194">Менажницы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="117">Рюкзаки</category>
-      <category id="65">Креманки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="133">Масленки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="182">Блюда</category>
-      <category id="298">Брелки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="77">Пылесосы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="224">Гамаки</category>
-      <category id="66">Сервизы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="23">Фены</category>
-      <category id="6">LED ленты</category>
-      <category id="140">Крышки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="126">Ланч боксы</category>
-      <category id="57">Чашки</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="316">Туристические плиты</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="279">Зонты</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="300">Подушки для спины</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="34">Подсвечники</category>
-      <category id="21">Электробритвы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="56">Бокалы</category>
-      <category id="186">Тостеры</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="15">Плойки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="184">Бульонницы</category>
-      <category id="141">Салатницы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="63">Кастрюли</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="68">Тарелки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="81">Капучинаторы</category>
-      <category id="278">Косметички</category>
       <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="61">Сковородки</category>
-      <category id="128">Органайзеры</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="261">Терки</category>
-      <category id="212">Мебель</category>
-      <category id="292">Столовая посуда</category>
-      <category id="93">Электрочайники</category>
-      <category id="149">Палатки</category>
-      <category id="193">Доски для подачи</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="97">Весы кухонные</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="136">Дуршлаги</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="60">Мармиты</category>
       <category id="114">Повербанки</category>
-      <category id="118">Сумки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="212">Мебель</category>
+      <category id="66">Сервизы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
       <category id="33">Пепельницы</category>
-      <category id="122">Аксессуары</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="187">Слайсеры</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="111">Портативные колонки</category>
+      <category id="186">Тостеры</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="87">Соковыжималки</category>
       <category id="43">Бутылки для воды</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="65">Креманки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="187">Слайсеры</category>
+      <category id="111">Портативные колонки</category>
+      <category id="72">Весы напольные</category>
+      <category id="29">Салфетницы</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="125">Мангалы</category>
+      <category id="90">Мясорубки</category>
+      <category id="166">Тортовницы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="77">Пылесосы</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="300">Подушки для спины</category>
+      <category id="195">Разделочные доски</category>
       <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="12">Косметические зеркала</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="118">Сумки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="140">Крышки</category>
+      <category id="103">Проекторы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="194">Менажницы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="93">Электрочайники</category>
+      <category id="150">Спальные мешки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="60">Мармиты</category>
       <category id="89">Миксеры</category>
+      <category id="21">Электробритвы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="136">Дуршлаги</category>
+      <category id="149">Палатки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="292">Столовая посуда</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="126">Ланч боксы</category>
+      <category id="184">Бульонницы</category>
+      <category id="110">Наушники</category>
+      <category id="54">Стаканы</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="182">Блюда</category>
+      <category id="261">Терки</category>
+      <category id="31">Часы настенные</category>
+      <category id="117">Рюкзаки</category>
+      <category id="132">Конфетницы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="13">Триммеры</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="53">Кувшины</category>
+      <category id="283">Подносы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="76">Отпариватели</category>
+      <category id="6">LED ленты</category>
+      <category id="75">Утюги</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="128">Органайзеры</category>
+      <category id="271">Товары для уборки</category>
+      <category id="23">Фены</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="55">Рюмки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="81">Капучинаторы</category>
+      <category id="63">Кастрюли</category>
+      <category id="144">Вентиляторы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="68">Тарелки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="278">Косметички</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="224">Гамаки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="96">Вакууматоры</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="47">Наборы для специй</category>
+      <category id="145">Смарт-часы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="284">Новогодний декор</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="141">Салатницы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="262">Термосумки</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="298">Брелки</category>
+      <category id="98">Блендеры</category>
       <category id="287">Банты на елку</category>
       <category id="26">Мусорные ведра</category>
-      <category id="110">Наушники</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="17">Воскоплавы</category>
+      <category id="122">Аксессуары</category>
+      <category id="285">Йогуртницы</category>
+      <category id="14">Стайлеры</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="61">Сковородки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="34">Подсвечники</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="59">Все для выпечки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="221">Туристические души</category>
+      <category id="57">Чашки</category>
+      <category id="56">Бокалы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="133">Масленки</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="124">Решетки</category>
+      <category id="62">Ковши</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="279">Зонты</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="15">Плойки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -40910,31 +40910,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-4-27S_HP-4-27S" available="true">
-        <name>Подсвечник стеклянный 6×9.3 см на одну свечу подсвечник бокал на ножке декоративный прозрачный HP-4-27S</name>
-        <price>169.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>34</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-4-27S_HP-4-27S</vendorCode>
-        <description>Этот декоративный стеклянный подсвечник выполнен в минималистичном и современном стиле. Он имеет цилиндрическую форму со строгими линиями, которая идеально подходит для интерьерных композиций в духе минимализма, скандинавского и современного дизайна. Основные характеристики: Материал: стекло; Высота: 9.3 см; Диаметр: 6 см; Диаметр под свечу: 5.5 см; Глубина: 5.5 см; Цвет: прозрачный. Идеально подойдёт для: Свечей-таблеток или небольших цилиндрических свечей; Современного или лофт-интерьера; Украшения журнального столика, подоконника, полки или ванной комнаты; Сервировки стола или вечернего декора с приглушённым освещением; Подарка в стиле &amp;laquo;лаконичная эстетика&amp;raquo;. Этот подсвечник &amp;mdash; сочетание функциональности и эстетики. Его сдержанный, но выразительный дизайн отлично впишется в стильный интерьер и подчеркнёт вкус владельца. Компактный, но эффектный, он будет уместен как самостоятельный элемент декора, так и в составе композиции с другими предметами.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4096</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-27S/427S_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-27S/427S_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4096/podsvechnik_steklyannyy_6_9_3_sm_na_odnu_svechu_podsvechnik_bokal_na_nozhke_dekorativnyy_prozrachnyy_2.jpg</picture>
-        <param name="Высота подсвечника">9.3 см</param>
-        <param name="Диаметр подсвечника">6 см</param>
-        <param name="Вес подсвечника">200 г</param>
-        <param name="Количество мест для свечей">1</param>
-        <param name="Материал изготовления">Стекло</param>
-        <param name="Диаметр рекомендуемой свечи">5.5 см</param>
-        <param name="Тип подсвечника">настольный (каминный)</param>
-        <param name="Тип рекомендуемой свечи">чайная свеча|длинная свеча цилиндрической формы|пеньковая свеча</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-4-28M_HP-4-28M" available="true">
         <name>Подсвечник стеклянный 6×13.3 см на одну свечу подсвечник бокал на ножке декоративный прозрачный HP-4-28M</name>
         <price>229.0</price>
@@ -67427,33 +67402,6 @@
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
-      <offer id="f11_SJ-0065O_SJ-0065O" available="true">
-        <name>Кресло туристическое для ребенка 34х58х65 см с подстаканником Оранжевый SJ-0065O</name>
-        <price>959.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>179</categoryId>
-        <vendor>Lugi</vendor>
-        <vendorCode>f11_SJ-0065O_SJ-0065O</vendorCode>
-        <description>Складное кемпинговое кресло имеет стальной каркас, который обеспечивает прочность и устойчивость. Оно оснащено подголовником, что добавляет комфорта во время отдыха. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии:34х58х65 см; Размер в сложенном состоянии: 65х15х15 см; Ширина сиденья: 65 см; Рекомендуемая нагрузка: 30 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Этот материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в частности во время кемпинга или на пикниках. Легкость в использовании и складывании делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5586</url>
-        <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
-        <param name="Вес">1.2 кг</param>
-        <param name="Материал каркаса (опор)">Металл</param>
-        <param name="Материал сиденья">Ткань</param>
-        <param name="Материал спинки">Ткань</param>
-        <param name="Откидной столик на подлокотнике">Нет</param>
-        <param name="Подстаканник">1</param>
-        <param name="Складная конструкция для хранения и транспортировки">Да</param>
-        <param name="Ширина стула">58 см</param>
-        <param name="Максимально допустимая нагрузка">30 кг</param>
-        <param name="Цвет">Оранжевый</param>
-        <param name="Высота стула с учетом спинки">65 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Глубина стула">34 см</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Чехол для хранения и транспортировки">Да</param>
-      </offer>
       <offer id="f11_HP-1301_HP-1301" available="true">
         <name>Банки для сыпучих продуктов набор из 4 шт пластиковые с бамбуковыми крышками 0.7 л /1.7 л /2.7 л /3.7 л HP-1301</name>
         <price>1329.0</price>
@@ -91284,27 +91232,6 @@
         <param name="Наличие крышки">Нет</param>
         <param name="Форма">Квадратная</param>
       </offer>
-      <offer id="f11_ML2045_ML2045" available="true">
-        <name>Тортовница фарфоровая на ножке 30х30х12 см квадратная ML2045</name>
-        <price>1119.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Fiora</vendor>
-        <vendorCode>f11_ML2045_ML2045</vendorCode>
-        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6940</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6940/tortovnitsa_farforovaya_na_nozhke_30h30h12_sm_kvadratnaya_podstavka_dlya_torta_kapkeykov_pirozhnyh_desertov_prazdnichnaya_posuda.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">12</param>
-        <param name="Ширина">30</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">30</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Квадратная</param>
-      </offer>
       <offer id="f11_ML2049_ML2049" available="true">
         <name>Тортовница фарфоровая на ножке 25х16.5х10 см прямоугольная ML2049</name>
         <price>669.0</price>
@@ -91563,25 +91490,6 @@
         <param name="Многоуровневая">Нет</param>
         <param name="Наличие крышки">Нет</param>
         <param name="Форма">Квадратная</param>
-      </offer>
-      <offer id="f11_ML2023_ML2023" available="true">
-        <name>Фарфоровое блюдо 25х16.5 см прямоугольное сервировочное ML2023</name>
-        <price>359.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>182</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_ML2023_ML2023</vendorCode>
-        <description>Фарфоровое прямоугольное блюдо с золотой отделкой предназначено для сервировки основных блюд, закусок или десертов. Его форма позволяет рационально разместить еду и удобно подавать ее на стол. Классический дизайн в сочетании с декоративными элементами делает изделие уместным как в повседневном использовании, так и во время праздничных событий. Материал - высококачественный фарфор, отличающийся прочностью и устойчивостью к царапинам. Поверхность гладкая, легко очищается и не впитывает запахи. Золотистая отделка выполнена аккуратно, добавляет изделию элегантности и подчеркивает его декоративную ценность без излишеств. Блюдо станет практичным элементом кухонной посуды, который помогает организовать подачу блюд и создает гармоничный вид стола. Оно сочетает функциональность с эстетикой, обеспечивая удобство в использовании и привлекательный вид при сервировке. Характеристики Тип: блюдо Форма: прямоугольная Материал: фарфор Отделка: золотистая</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6958</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6958/farforovoe_blyudo_25h16_5_sm_pryamougolnoe_servirovochnoe_dlya_zakusok_fruktov_desertov_s_zolotoy_otdelkoy.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Ширина">16.5</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">25</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Прямоугольная</param>
       </offer>
       <offer id="f11_ML2025_ML2025" available="true">
         <name>Фарфоровое блюдо 35х23 см прямоугольное сервировочное ML2025</name>
