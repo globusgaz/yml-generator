@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-15 09:41">
+<yml_catalog date="2026-04-15 11:20">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="114">Повербанки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="212">Мебель</category>
-      <category id="66">Сервизы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="33">Пепельницы</category>
-      <category id="186">Тостеры</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="87">Соковыжималки</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="65">Креманки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="187">Слайсеры</category>
-      <category id="111">Портативные колонки</category>
-      <category id="72">Весы напольные</category>
-      <category id="29">Салфетницы</category>
       <category id="268">Кухонные подставки</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="125">Мангалы</category>
-      <category id="90">Мясорубки</category>
-      <category id="166">Тортовницы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="77">Пылесосы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="300">Подушки для спины</category>
-      <category id="195">Разделочные доски</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="118">Сумки</category>
-      <category id="193">Доски для подачи</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="140">Крышки</category>
-      <category id="103">Проекторы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="194">Менажницы</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="93">Электрочайники</category>
-      <category id="150">Спальные мешки</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="60">Мармиты</category>
-      <category id="89">Миксеры</category>
-      <category id="21">Электробритвы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="136">Дуршлаги</category>
-      <category id="149">Палатки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="292">Столовая посуда</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="126">Ланч боксы</category>
-      <category id="184">Бульонницы</category>
-      <category id="110">Наушники</category>
-      <category id="54">Стаканы</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="42">Термосы для детей</category>
-      <category id="182">Блюда</category>
-      <category id="261">Терки</category>
-      <category id="31">Часы настенные</category>
-      <category id="117">Рюкзаки</category>
-      <category id="132">Конфетницы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="13">Триммеры</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="53">Кувшины</category>
-      <category id="283">Подносы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="76">Отпариватели</category>
-      <category id="6">LED ленты</category>
-      <category id="75">Утюги</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="128">Органайзеры</category>
-      <category id="271">Товары для уборки</category>
-      <category id="23">Фены</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="55">Рюмки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="81">Капучинаторы</category>
-      <category id="63">Кастрюли</category>
-      <category id="144">Вентиляторы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="68">Тарелки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="278">Косметички</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="224">Гамаки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="96">Вакууматоры</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="47">Наборы для специй</category>
-      <category id="145">Смарт-часы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="284">Новогодний декор</category>
-      <category id="269">Подарочные пакеты</category>
       <category id="141">Салатницы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="262">Термосумки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="298">Брелки</category>
-      <category id="98">Блендеры</category>
-      <category id="287">Банты на елку</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="122">Аксессуары</category>
-      <category id="285">Йогуртницы</category>
-      <category id="14">Стайлеры</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="61">Сковородки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="34">Подсвечники</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="59">Все для выпечки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="221">Туристические души</category>
-      <category id="57">Чашки</category>
-      <category id="56">Бокалы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="133">Масленки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="124">Решетки</category>
-      <category id="62">Ковши</category>
-      <category id="179">Мебель для кемпинга</category>
       <category id="279">Зонты</category>
-      <category id="121">Туристические обогреватели</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="212">Мебель</category>
+      <category id="278">Косметички</category>
+      <category id="63">Кастрюли</category>
+      <category id="142">Посуда для детей</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="193">Доски для подачи</category>
+      <category id="284">Новогодний декор</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="262">Термосумки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="75">Утюги</category>
+      <category id="114">Повербанки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="186">Тостеры</category>
+      <category id="149">Палатки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="140">Крышки</category>
+      <category id="89">Миксеры</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="125">Мангалы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="54">Стаканы</category>
+      <category id="133">Масленки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="90">Мясорубки</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="195">Разделочные доски</category>
+      <category id="29">Салфетницы</category>
+      <category id="187">Слайсеры</category>
+      <category id="150">Спальные мешки</category>
+      <category id="283">Подносы</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="136">Дуршлаги</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="23">Фены</category>
+      <category id="55">Рюмки</category>
+      <category id="132">Конфетницы</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="144">Вентиляторы</category>
+      <category id="31">Часы настенные</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="261">Терки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="110">Наушники</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="224">Гамаки</category>
+      <category id="66">Сервизы</category>
+      <category id="111">Портативные колонки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="97">Весы кухонные</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="47">Наборы для специй</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="21">Электробритвы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="285">Йогуртницы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="68">Тарелки</category>
+      <category id="103">Проекторы</category>
+      <category id="77">Пылесосы</category>
+      <category id="14">Стайлеры</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="221">Туристические души</category>
+      <category id="124">Решетки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="298">Брелки</category>
+      <category id="93">Электрочайники</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="52">Лимонадницы</category>
+      <category id="57">Чашки</category>
+      <category id="60">Мармиты</category>
+      <category id="226">Детские игровые палатки</category>
       <category id="15">Плойки</category>
+      <category id="98">Блендеры</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="6">LED ленты</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="20">Эпиляторы</category>
+      <category id="87">Соковыжималки</category>
+      <category id="76">Отпариватели</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="17">Воскоплавы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="72">Весы напольные</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="117">Рюкзаки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="33">Пепельницы</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="65">Креманки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="56">Бокалы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="128">Органайзеры</category>
+      <category id="62">Ковши</category>
+      <category id="294">Новогодние елки</category>
+      <category id="34">Подсвечники</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="300">Подушки для спины</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="166">Тортовницы</category>
+      <category id="118">Сумки</category>
+      <category id="194">Менажницы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="122">Аксессуары</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="61">Сковородки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="53">Кувшины</category>
+      <category id="287">Банты на елку</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="59">Все для выпечки</category>
+      <category id="182">Блюда</category>
+      <category id="13">Триммеры</category>
+      <category id="184">Бульонницы</category>
+      <category id="269">Подарочные пакеты</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -34091,36 +34091,6 @@
         <param name="Упаковка">Коробка</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-20-63_HP-20-63" available="true">
-        <name>Набор столовых приборов золото на 6 персон комплект столовых приборов 24 предмета Серебро HP-20-63</name>
-        <price>1829.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>67</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-20-63_HP-20-63</vendorCode>
-        <description>Набор столовых приборов состоит из 24 предметов, рассчитанных на 6 персон. В комплект входят 6 столовых ложек, 6 чайных ложек, 6 вилок и 6 столовых ножей. Все элементы изготовлены из нержавеющей стали, что обеспечивает их прочность и устойчивость к коррозии. Основные характеристики: Количество предметов в наборе: 24 шт.; Количество персон: 6; Материал: нержавеющая сталь; Упаковка: коробка; Размеры приборов: длина столового ножа: 22.5 см; длина столовой ложки: 21.1 см; длина столовой вилки: 21 см; длина чайной ложки: 15 см. Комплектация набора: столовый нож: 6 шт.; столовая ложка: 6 шт.; столовая вилка: 6 шт.; чайная ложка: 6 шт.. Форма приборов соответствует стандартам эргономики, что способствует удобному использованию во время ежедневных приемов пищи. Ложки имеют плавные контуры, вилки оснащены равномерно заостренными зубцами, а ножи разработаны для эффективной нарезки продуктов. Гладкая поверхность и сбалансированный вес каждого предмета обеспечивают комфорт в использовании. Приборы выполнены в серебристом цвете. Благодаря классическому дизайну набор подходит как для повседневного использования, так и для сервировки праздничного стола. Изделия пригодны для мытья в посудомоечной машине в соответствии с рекомендациями производителя.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3737</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_2-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_4-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_5-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_1-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_3-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3737/nabor_stolovyh_priborov_zoloto_na_6_person_komplekt_stolovyh_priborov_24_predmeta_serebro_5.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Вилка столовая">6</param>
-        <param name="Количество персон">6</param>
-        <param name="Количество предметов">24</param>
-        <param name="Ложка столовая">6</param>
-        <param name="Ложка чайная">6</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
-        <param name="Цвет">Серебристый</param>
-        <param name="Нож столовый">6</param>
-        <param name="Поверхность">Зеркальная</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Упаковка">Коробка</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-20-66_HP-20-66" available="true">
         <name>Набор кухонных принадлежностей на подставке 7 предметов кухонные аксессуары на подставке Черный с золотом HP-20-66</name>
         <price>1409.0</price>
@@ -57956,6 +57926,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4957/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4957/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4957/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_2.jpg</picture>
+        <param name="Ширина">13 см</param>
+        <param name="Длина">37.5 см</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-42-11WV_HP-42-11WV" available="true">
+        <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11WV</name>
+        <price>59.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>273</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-42-11WV_HP-42-11WV</vendorCode>
+        <description>Влаговпитывающий коврик для раковины под кран &amp;mdash; удобный и практичный аксессуар для кухни и ванной. Он эффективно защищает поверхность от капель воды, предотвращает образование разводов и плесени, а также обеспечивает аккуратный внешний вид зоны вокруг крана. Благодаря влагопоглощающим свойствам коврик быстро впитывает жидкость, сохраняя поверхность сухой и чистой. Характеристики влаговпитывающего коврика для раковины: &amp;bull; габариты &amp;mdash; 37,5&amp;times;13 см; &amp;bull; материал &amp;mdash; полиэстер; &amp;bull; влагопоглощающие свойства &amp;mdash; да; &amp;bull; прорезиненная основа &amp;mdash; да; &amp;bull; назначение &amp;mdash; кухня, ванная. Преимущества коврика под смеситель: &amp;bull; защита поверхности от влаги и капель; &amp;bull; удобство в использовании и уходе; &amp;bull; компактные размеры &amp;mdash; легко размещается под краном; &amp;bull; прочный материал &amp;mdash; сохраняет форму и внешний вид; &amp;bull; универсальность &amp;mdash; подходит как для кухни, так и для ванной комнаты. Такой коврик станет практичным решением для поддержания чистоты и порядка в доме.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4958</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4958/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4958/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4958/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_2.jpg</picture>
         <param name="Ширина">13 см</param>
         <param name="Длина">37.5 см</param>
         <param name="Состояние">Новое</param>
@@ -92645,8 +92633,7 @@
         <vendorCode>f11_SJ-0036-1B_SJ-0036-1B</vendorCode>
         <description>Прочный и вместительный туристический рюкзак 90 литров из износостойкого материала Oxford с PU-подкладкой и анатомической спинкой. Идеален для длительных походов, путешествий и экспедиций &amp;ndash; удобная система ношения, продуманная компоновка и множество внешних карманов. Преимущества Емкость 90 л можно брать все необходимое для многодневного похода. Надежный материал и PU подкладка защищают вещи от легкого дождя и стирания. Анатомическая спинка с вентиляцией снижает нагрузку и улучшает теплообмен при длительной носке. Регулируемые ремни повышают комфорт и устойчивость при перемещении по пересеченной местности. Множество внешних карманов и креплений позволяют удобно распределить снаряжение и иметь быстрый доступ к нужным предметам. Универсальный дизайн &amp;ndash; подойдет для походов, туризма, рыбалки и путешествий. Рекомендации по использованию Равномерно распределяйте вес между основным отделением и карманами; тяжелое - ближе к спине и внизу. Дополнительно используйте чехол-дождевик для защиты от сильного дождя. Регулируйте поясной и плечевые ремни так, чтобы поясной ремень падал на бедра &amp;ndash; это снизит нагрузку на плечи. Периодически чистите и обрабатывайте ткань водоотталкивающими средствами для сохранения свойств. Характеристики Объем: 90 л Материал: Oxford Подкладка: PU Спинка: анатомическая с мягкими вентилируемыми вставками для комфортной посадки и отвода влаги Ремни: регулируемые плечевые ремни с мягкой подкладкой, поясной ремень с фиксацией для разгрузки спины Дополнительно: внешние крепления для треккинговых палок/карематов, петли для снаряжения, компрессионные стропы Фурнитура: прочные застежки-фиксаторы и молнии, усиленные швы</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7034</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7034/turisticheskiy_ryukzak_hinshenglong_90l_chernyy_oxford_pu_chernyy_sportivnaya_sumka_dlya_puteshestviy_vmestitelnyy.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7034/turisticheskiy_ryukzak_hinshenglong_90l_chernyy_oxford_pu_chernyy_sportivnaya_sumka_dlya_puteshestviy_vmestitelnyy_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-1/_T5B5883.jpg</picture>
         <param name="Высота">60</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
         <param name="Вес">1000</param>
@@ -92669,7 +92656,7 @@
         <vendorCode>f11_cf7e4e88319577280b</vendorCode>
         <description>Прочный и вместительный туристический рюкзак 90 литров из износостойкого материала Oxford с PU-подкладкой и анатомической спинкой. Идеален для длительных походов, путешествий и экспедиций – удобная система ношения, продуманная компоновка и множество внешних карманов. Преимущества Емкость 90 л можно брать все необходимое для многодневного похода. Надежный материал и PU подкладка защищают вещи от легкого дождя и стирания. Анатомическая спинка с вентиляцией снижает нагрузку и улучшает теплообмен при длительной носке. Регулируемые ремни повышают комфорт и устойчивость при перемещении по пересеченной местности. Множество внешних карманов и креплений позволяют удобно распределить снаряжение и иметь быстрый доступ к нужным предметам. Универсальный дизайн – подойдет для походов, туризма, рыбалки и путешествий. Рекомендации по использованию Равномерно распределяйте вес между основным отделением и карманами; тяжелое - ближе к спине и внизу. Дополнительно используйте чехол-дождевик для защиты от сильного дождя. Регулируйте поясной и плечевые ремни так, чтобы поясной ремень падал на бедра – это снизит нагрузку на плечи. Периодически чистите и обрабатывайте ткань водоотталкивающими средствами для сохранения свойств. Характеристики Объем: 90 л Материал: Oxford Подкладка: PU Спинка: анатомическая с мягкими вентилируемыми вставками для комфортной посадки и отвода влаги Ремни: регулируемые плечевые ремни с мягкой подкладкой, поясной ремень с фиксацией для разгрузки спины Дополнительно: внешние крепления для треккинговых палок/карематов, петли для снаряжения, компрессионные стропы Фурнитура: прочные застежки-фиксаторы и молнии, усиленные швы</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7035</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7035/turisticheskiy_ryukzak_hinshenglong_90l_siniy_oxford_pu_chernyy_sportivnaya_sumka_dlya_puteshestviy_vmestitelnyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-1/_T5B5883.jpg</picture>
         <param name="Высота">60</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
         <param name="Глубина">35</param>
@@ -92692,8 +92679,7 @@
         <vendorCode>f11_8080d792d808865633</vendorCode>
         <description>Прочный и вместительный туристический рюкзак 90 литров из износостойкого материала Oxford с PU-подкладкой и анатомической спинкой. Идеален для длительных походов, путешествий и экспедиций &amp;ndash; удобная система ношения, продуманная компоновка и множество внешних карманов. Преимущества Емкость 90 л можно брать все необходимое для многодневного похода. Надежный материал и PU подкладка защищают вещи от легкого дождя и стирания. Анатомическая спинка с вентиляцией снижает нагрузку и улучшает теплообмен при длительной носке. Регулируемые ремни повышают комфорт и устойчивость при перемещении по пересеченной местности. Множество внешних карманов и креплений позволяют удобно распределить снаряжение и иметь быстрый доступ к нужным предметам. Универсальный дизайн &amp;ndash; подойдет для походов, туризма, рыбалки и путешествий. Рекомендации по использованию Равномерно распределяйте вес между основным отделением и карманами; тяжелое - ближе к спине и внизу. Дополнительно используйте чехол-дождевик для защиты от сильного дождя. Регулируйте поясной и плечевые ремни так, чтобы поясной ремень падал на бедра &amp;ndash; это снизит нагрузку на плечи. Периодически чистите и обрабатывайте ткань водоотталкивающими средствами для сохранения свойств. Характеристики Объем: 90 л Материал: Oxford Подкладка: PU Спинка: анатомическая с мягкими вентилируемыми вставками для комфортной посадки и отвода влаги Ремни: регулируемые плечевые ремни с мягкой подкладкой, поясной ремень с фиксацией для разгрузки спины Дополнительно: внешние крепления для треккинговых палок/карематов, петли для снаряжения, компрессионные стропы Фурнитура: прочные застежки-фиксаторы и молнии, усиленные швы</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7036</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7036/turisticheskiy_ryukzak_hinshenglong_90l_goluboy_oxford_pu_chernaya_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7036/turisticheskiy_ryukzak_hinshenglong_90l_goluboy_oxford_pu_chernaya_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-1/_T5B5922.jpg</picture>
         <param name="Высота">60</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
         <param name="Глубина">35</param>
@@ -92716,7 +92702,7 @@
         <vendorCode>f11_SJ-0036-1R_SJ-0036-1R</vendorCode>
         <description>Прочный и вместительный туристический рюкзак 90 литров из износостойкого материала Oxford с PU-подкладкой и анатомической спинкой. Идеален для длительных походов, путешествий и экспедиций – удобная система ношения, продуманная компоновка и множество внешних карманов. Преимущества Емкость 90 л можно брать все необходимое для многодневного похода. Надежный материал и PU подкладка защищают вещи от легкого дождя и стирания. Анатомическая спинка с вентиляцией снижает нагрузку и улучшает теплообмен при длительной носке. Регулируемые ремни повышают комфорт и устойчивость при перемещении по пересеченной местности. Множество внешних карманов и креплений позволяют удобно распределить снаряжение и иметь быстрый доступ к нужным предметам. Универсальный дизайн – подойдет для походов, туризма, рыбалки и путешествий. Рекомендации по использованию Равномерно распределяйте вес между основным отделением и карманами; тяжелое - ближе к спине и внизу. Дополнительно используйте чехол-дождевик для защиты от сильного дождя. Регулируйте поясной и плечевые ремни так, чтобы поясной ремень падал на бедра – это снизит нагрузку на плечи. Периодически чистите и обрабатывайте ткань водоотталкивающими средствами для сохранения свойств. Характеристики Объем: 90 л Материал: Oxford Подкладка: PU Спинка: анатомическая с мягкими вентилируемыми вставками для комфортной посадки и отвода влаги Ремни: регулируемые плечевые ремни с мягкой подкладкой, поясной ремень с фиксацией для разгрузки спины Дополнительно: внешние крепления для треккинговых палок/карематов, петли для снаряжения, компрессионные стропы Фурнитура: прочные застежки-фиксаторы и молнии, усиленные швы</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7037</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7037/turisticheskiy_ryukzak_hinshenglong_90l_krasnyy_oxford_pu_chernaya_sportivnaya_sumka_dlya_puteshestviy_vmestitelnyy.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-1/_T5B5857.jpg</picture>
         <param name="Высота">60</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
         <param name="Глубина">35</param>
@@ -92739,7 +92725,7 @@
         <vendorCode>f11_SJ-0036-2B_SJ-0036-2B</vendorCode>
         <description>Прочный и легкий рюкзак объемом 70 л с мягкой спинкой, выполнен из износостойкого нейлона. Оснащен регулируемыми плечевыми и поясными ремнями, системой креплений MOLLE для дополнительного снаряжения – идеален для длительных походов, трекинга и поездок. Преимущества Комфорт при длительном ношении: мягкая спинка и регулируемые ремни равномерно распределяют вес. Модульность: MOLLE-стропы позволяют крепить дополнительные подсумки и карманы. Универсальность: подходит как для походов, так и для экстремального туризма. Легкий и прочный: нейлон обеспечивает хорошую прочность при небольшом весе. Удобная организация: множество карманов и компрессионных лент для правильного распределения вещей. Рекомендации по использованию Тяжелые вещи размещайте ближе к спине и ближе к поясу для оптимального баланса. Во время длительных дождей используйте дополнительный дождевик. Регулируйте нагрудный и поясной ремни так, чтобы основная нагрузка воспринималась бедра. Перед каждым походом проверьте все пряжки и швы на целостность. Характеристики Объем: 70 литров Тип спинки: Softback Материал: нейлон Система креплений: MOLLE-стропы для модульных подсумков и аксессуаров Ремни: регулируемые плечевые ремни с мягкой подкладкой, широкий поясной ремень с застежкой Компрессионные стропы: для уменьшения объема и фиксации груза Фурнитура: прочные замки и пряжки, усиленные точки крепления</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7038</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7038/turisticheskiy_ryukzak_slow_journey_70l_chernyy_s_krepleniem_molle_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-2/_T5B5808.jpg</picture>
         <param name="Материал">Нейлон</param>
         <param name="Высота">55</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
@@ -92762,7 +92748,7 @@
         <vendorCode>f11_7146db82f60649a3ae</vendorCode>
         <description>Прочный и легкий рюкзак объемом 70 л с мягкой спинкой, выполнен из износостойкого нейлона. Оснащен регулируемыми плечевыми и поясными ремнями, системой креплений MOLLE для дополнительного снаряжения &amp;ndash; идеален для длительных походов, трекинга и поездок. Преимущества Комфорт при длительном ношении: мягкая спинка и регулируемые ремни равномерно распределяют вес. Модульность: MOLLE-стропы позволяют крепить дополнительные подсумки и карманы. Универсальность: подходит как для походов, так и для экстремального туризма. Легкий и прочный: нейлон обеспечивает хорошую прочность при небольшом весе. Удобная организация: множество карманов и компрессионных лент для правильного распределения вещей. Рекомендации по использованию Тяжелые вещи размещайте ближе к спине и ближе к поясу для оптимального баланса. Во время длительных дождей используйте дополнительный дождевик. Регулируйте нагрудный и поясной ремни так, чтобы основная нагрузка воспринималась бедра. Перед каждым походом проверьте все пряжки и швы на целостность. Характеристики Объем: 70 литров Тип спинки: Softback Материал: нейлон Система креплений: MOLLE-стропы для модульных подсумков и аксессуаров Ремни: регулируемые плечевые ремни с мягкой подкладкой, широкий поясной ремень с застежкой Компрессионные стропы: для уменьшения объема и фиксации груза Фурнитура: прочные замки и пряжки, усиленные точки крепления</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7039</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7039/turisticheskiy_ryukzak_slow_journey_70l_siniy_s_krepleniem_molle_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-2/_T5B0561.jpg</picture>
         <param name="Материал">Нейлон</param>
         <param name="Высота">55</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
@@ -92785,8 +92771,7 @@
         <vendorCode>f11_SJ-0036-2R_SJ-0036-2R</vendorCode>
         <description>Прочный и легкий рюкзак объемом 70 л с мягкой спинкой, выполнен из износостойкого нейлона. Оснащен регулируемыми плечевыми и поясными ремнями, системой креплений MOLLE для дополнительного снаряжения &amp;ndash; идеален для длительных походов, трекинга и поездок. Преимущества Комфорт при длительном ношении: мягкая спинка и регулируемые ремни равномерно распределяют вес. Модульность: MOLLE-стропы позволяют крепить дополнительные подсумки и карманы. Универсальность: подходит как для походов, так и для экстремального туризма. Легкий и прочный: нейлон обеспечивает хорошую прочность при небольшом весе. Удобная организация: множество карманов и компрессионных лент для правильного распределения вещей. Рекомендации по использованию Тяжелые вещи размещайте ближе к спине и ближе к поясу для оптимального баланса. Во время длительных дождей используйте дополнительный дождевик. Регулируйте нагрудный и поясной ремни так, чтобы основная нагрузка воспринималась бедра. Перед каждым походом проверьте все пряжки и швы на целостность. Характеристики Объем: 70 литров Тип спинки: Softback Материал: нейлон Система креплений: MOLLE-стропы для модульных подсумков и аксессуаров Ремни: регулируемые плечевые ремни с мягкой подкладкой, широкий поясной ремень с застежкой Компрессионные стропы: для уменьшения объема и фиксации груза Фурнитура: прочные замки и пряжки, усиленные точки крепления</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7040</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7040/turisticheskiy_ryukzak_slow_journey_70l_krasnyy_s_krepleniem_molle_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7040/turisticheskiy_ryukzak_slow_journey_70l_krasnyy_s_krepleniem_molle_sportivnaya_sumka_dlya_puteshestviy_vmestitelnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0036-2/_T5B0487.jpg</picture>
         <param name="Материал">Нейлон</param>
         <param name="Высота">55</param>
         <param name="Назначение рюкзака">Мультиспорт</param>
