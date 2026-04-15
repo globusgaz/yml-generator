@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-15 05:45">
+<yml_catalog date="2026-04-15 08:12">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="118">Сумки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="14">Стайлеры</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="87">Соковыжималки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="150">Спальные мешки</category>
-      <category id="221">Туристические души</category>
-      <category id="15">Плойки</category>
-      <category id="55">Рюмки</category>
-      <category id="298">Брелки</category>
-      <category id="33">Пепельницы</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="59">Все для выпечки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="29">Салфетницы</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="31">Часы настенные</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="287">Банты на елку</category>
-      <category id="187">Слайсеры</category>
-      <category id="224">Гамаки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="21">Электробритвы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="114">Повербанки</category>
-      <category id="278">Косметички</category>
-      <category id="103">Проекторы</category>
-      <category id="292">Столовая посуда</category>
-      <category id="125">Мангалы</category>
-      <category id="61">Сковородки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="184">Бульонницы</category>
-      <category id="261">Терки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="186">Тостеры</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="98">Блендеры</category>
-      <category id="23">Фены</category>
-      <category id="193">Доски для подачи</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="140">Крышки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="124">Решетки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="6">LED ленты</category>
-      <category id="53">Кувшины</category>
-      <category id="89">Миксеры</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="56">Бокалы</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="283">Подносы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="57">Чашки</category>
-      <category id="66">Сервизы</category>
-      <category id="128">Органайзеры</category>
-      <category id="316">Туристические плиты</category>
-      <category id="271">Товары для уборки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="264">Мягкие игрушки</category>
+      <category id="62">Ковши</category>
       <category id="132">Конфетницы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="52">Лимонадницы</category>
-      <category id="284">Новогодний декор</category>
-      <category id="144">Вентиляторы</category>
-      <category id="54">Стаканы</category>
-      <category id="72">Весы напольные</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="226">Детские игровые палатки</category>
+      <category id="76">Отпариватели</category>
       <category id="75">Утюги</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="77">Пылесосы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="194">Менажницы</category>
-      <category id="17">Воскоплавы</category>
-      <category id="300">Подушки для спины</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="212">Мебель</category>
+      <category id="87">Соковыжималки</category>
+      <category id="55">Рюмки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="52">Лимонадницы</category>
+      <category id="31">Часы настенные</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="124">Решетки</category>
+      <category id="13">Триммеры</category>
+      <category id="262">Термосумки</category>
       <category id="304">Аккумуляторные пылесосы</category>
-      <category id="122">Аксессуары</category>
-      <category id="63">Кастрюли</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="35">Вазы для цветов</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="285">Йогуртницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="90">Мясорубки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="271">Товары для уборки</category>
+      <category id="59">Все для выпечки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="125">Мангалы</category>
+      <category id="54">Стаканы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="221">Туристические души</category>
+      <category id="14">Стайлеры</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="255">Сита и дуршлаги</category>
       <category id="166">Тортовницы</category>
-      <category id="149">Палатки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="144">Вентиляторы</category>
+      <category id="98">Блендеры</category>
+      <category id="145">Смарт-часы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="103">Проекторы</category>
+      <category id="29">Салфетницы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="283">Подносы</category>
+      <category id="53">Кувшины</category>
+      <category id="42">Термосы для детей</category>
+      <category id="148">Туристические коврики</category>
+      <category id="72">Весы напольные</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="194">Менажницы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="117">Рюкзаки</category>
+      <category id="65">Креманки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="133">Масленки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="182">Блюда</category>
+      <category id="298">Брелки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="77">Пылесосы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="224">Гамаки</category>
+      <category id="66">Сервизы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="23">Фены</category>
+      <category id="6">LED ленты</category>
+      <category id="140">Крышки</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="126">Ланч боксы</category>
+      <category id="57">Чашки</category>
+      <category id="92">Кофеварки и кофемолки</category>
       <category id="41">Термосы и термочашки</category>
       <category id="94">Газовые плиты и электроплиты</category>
-      <category id="97">Весы кухонные</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="62">Ковши</category>
-      <category id="13">Триммеры</category>
-      <category id="65">Креманки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="20">Эпиляторы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="117">Рюкзаки</category>
-      <category id="110">Наушники</category>
-      <category id="142">Посуда для детей</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="145">Смарт-часы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="93">Электрочайники</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="195">Разделочные доски</category>
-      <category id="76">Отпариватели</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="68">Тарелки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="42">Термосы для детей</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="148">Туристические коврики</category>
-      <category id="182">Блюда</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="60">Мармиты</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="133">Масленки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="47">Наборы для специй</category>
-      <category id="262">Термосумки</category>
-      <category id="141">Салатницы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="279">Зонты</category>
-      <category id="90">Мясорубки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="111">Портативные колонки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="96">Вакууматоры</category>
-      <category id="67">Столовые приборы</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="34">Подсвечники</category>
+      <category id="316">Туристические плиты</category>
       <category id="223">Колбасные шприцы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="279">Зонты</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="300">Подушки для спины</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="34">Подсвечники</category>
+      <category id="21">Электробритвы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="56">Бокалы</category>
+      <category id="186">Тостеры</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="15">Плойки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="184">Бульонницы</category>
+      <category id="141">Салатницы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="63">Кастрюли</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="68">Тарелки</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="17">Воскоплавы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="81">Капучинаторы</category>
+      <category id="278">Косметички</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="61">Сковородки</category>
+      <category id="128">Органайзеры</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="261">Терки</category>
+      <category id="212">Мебель</category>
+      <category id="292">Столовая посуда</category>
+      <category id="93">Электрочайники</category>
+      <category id="149">Палатки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="97">Весы кухонные</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="136">Дуршлаги</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="60">Мармиты</category>
+      <category id="114">Повербанки</category>
+      <category id="118">Сумки</category>
+      <category id="33">Пепельницы</category>
+      <category id="122">Аксессуары</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="187">Слайсеры</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="89">Миксеры</category>
+      <category id="287">Банты на елку</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="110">Наушники</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -28309,31 +28309,6 @@
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-3-203B_HP-3-203B" available="true">
-        <name>Салфетница из эко кожи 21.5х13х9 см органайзер для кафе и ресторанов Черный HP-3-203B</name>
-        <price>879.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>29</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-3-203B_HP-3-203B</vendorCode>
-        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21.5х13х9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3451</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/1111111/6543741236_w640_h640_6543741236.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-203/HP-3-203B-%2810%29.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-203/HP-3-203B-%282%29.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3451/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21_5h13h9_sm_organayzer_dlya_salfetok_na_stol_chernyy_5.jpg</picture>
-        <param name="Тип">Салфетница</param>
-        <param name="Материал">ДВП</param>
-        <param name="Высота">90</param>
-        <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">130</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Цвет">Черный</param>
-        <param name="Длина">215</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-3-203G_HP-3-203G" available="true">
         <name>Салфетница из эко кожи 21.5х13х9 см органайзер для кафе и ресторанов Серый HP-3-203G</name>
         <price>879.0</price>
@@ -34113,6 +34088,36 @@
         <param name="Поверхность">Зеркальная</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Вилка десертная">3</param>
+        <param name="Упаковка">Коробка</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-20-63_HP-20-63" available="true">
+        <name>Набор столовых приборов золото на 6 персон комплект столовых приборов 24 предмета Серебро HP-20-63</name>
+        <price>1829.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>67</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-20-63_HP-20-63</vendorCode>
+        <description>Набор столовых приборов состоит из 24 предметов, рассчитанных на 6 персон. В комплект входят 6 столовых ложек, 6 чайных ложек, 6 вилок и 6 столовых ножей. Все элементы изготовлены из нержавеющей стали, что обеспечивает их прочность и устойчивость к коррозии. Основные характеристики: Количество предметов в наборе: 24 шт.; Количество персон: 6; Материал: нержавеющая сталь; Упаковка: коробка; Размеры приборов: длина столового ножа: 22.5 см; длина столовой ложки: 21.1 см; длина столовой вилки: 21 см; длина чайной ложки: 15 см. Комплектация набора: столовый нож: 6 шт.; столовая ложка: 6 шт.; столовая вилка: 6 шт.; чайная ложка: 6 шт.. Форма приборов соответствует стандартам эргономики, что способствует удобному использованию во время ежедневных приемов пищи. Ложки имеют плавные контуры, вилки оснащены равномерно заостренными зубцами, а ножи разработаны для эффективной нарезки продуктов. Гладкая поверхность и сбалансированный вес каждого предмета обеспечивают комфорт в использовании. Приборы выполнены в серебристом цвете. Благодаря классическому дизайну набор подходит как для повседневного использования, так и для сервировки праздничного стола. Изделия пригодны для мытья в посудомоечной машине в соответствии с рекомендациями производителя.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3737</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_2-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_4-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_5-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_1-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0011100/HP-20-63/HP20663_3-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3737/nabor_stolovyh_priborov_zoloto_na_6_person_komplekt_stolovyh_priborov_24_predmeta_serebro_5.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Вилка столовая">6</param>
+        <param name="Количество персон">6</param>
+        <param name="Количество предметов">24</param>
+        <param name="Ложка столовая">6</param>
+        <param name="Ложка чайная">6</param>
+        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Нож столовый">6</param>
+        <param name="Поверхность">Зеркальная</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Упаковка">Коробка</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -48306,6 +48311,39 @@
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
+      <offer id="f11_HP-8-14_HP-8-14" available="true">
+        <name>Универсальная терка для овощей и фруктов 13×13×24.5 (см) из нержавейки HP-8-14</name>
+        <price>359.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>261</categoryId>
+        <vendor>Ding Lanfang</vendor>
+        <vendorCode>f11_HP-8-14_HP-8-14</vendorCode>
+        <description>Четырехсторонняя кухонная тёрка &amp;mdash; это универсальный и незаменимый инструмент для каждой кухни. Её практичность и многофункциональность делают её идеальным решением для повседневной кулинарии: от приготовления салатов до натирания сыра для запеканок и десертов. Благодаря четырём разным сторонам, тёрка справляется с широким спектром задач &amp;mdash; измельчает, натирает, шинкует как ровными, так и волнистыми ломтиками. Это не просто кухонный аксессуар, а полноценный помощник на каждой стадии приготовления пищи. Изготовлена из высококачественной нержавеющей стали, устойчива к коррозии и сохраняет свою остроту длительное время. Элегантный корпус придаёт изделию стильный и современный вид, который будет эстетично смотреться на любой кухне. Классическая металлическая ручка обеспечивает удобный захват, а прочная конструкция гарантирует долговечность. Основные характеристики ручной терки из нержавейки: Материал терки: нержавеющая сталь; Материал ручки: нержавеющая сталь; Размер: 13&amp;times;13&amp;times;24.5 см; Количество рабочих сторон: 4; Ширина рабочей поверхности: 6 см; Длина рабочей поверхности: 13 см; Противоскользящее основание: есть. Особенности металлической терки для овощей и фруктов: 4 рабочие стороны; Удобная металлическая ручка для комфортного захвата; Прочный и эстетичный корпус; Подходит для овощей, сыра, шоколада, фруктов, орехов и др.; Простая очистка &amp;mdash; можно мыть вручную или в посудомоечной машине. Четырехсторонняя терка из нержавеки &amp;mdash; это сочетание стиля, качества и функциональности. Она станет незаменимым помощником на кухне, с лёгкостью справляясь с ежедневными задачами по приготовлению пищи. Независимо от того, готовите ли вы дома или работаете на профессиональной кухне &amp;mdash; такая тёрка обеспечит комфорт и эффективность в работе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4491</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4491/universalnaya_terka_dlya_ovoshchey_i_fruktov_13_13_24_5_sm_terka_iz_nerzhaveyki_dlya_morkovi_kartofelya_dranikov_5.jpg</picture>
+        <param name="Тип">Терка-пирамида</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Высота">24.5 см</param>
+        <param name="Количество трущих/режущих поверхностей">4</param>
+        <param name="Вес">400 г</param>
+        <param name="Наличие контейнера (поддона)">Не предусмотрен</param>
+        <param name="Основное назначение">Для цедры цитрусовых|Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
+        <param name="Ширина">13 см</param>
+        <param name="Ручка">Есть</param>
+        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Длина">13 см</param>
+        <param name="Нескользящее основание">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-8-15_HP-8-15" available="true">
         <name>Овальная терка для овощей и фруктов 12×6×24 (см) многофункциональная из нержавейки HP-8-15</name>
         <price>219.0</price>
@@ -57912,24 +57950,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-42-11BG_HP-42-11BG" available="true">
-        <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11BG</name>
-        <price>59.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>273</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-42-11BG_HP-42-11BG</vendorCode>
-        <description>Влаговпитывающий коврик для раковины под кран &amp;mdash; удобный и практичный аксессуар для кухни и ванной. Он эффективно защищает поверхность от капель воды, предотвращает образование разводов и плесени, а также обеспечивает аккуратный внешний вид зоны вокруг крана. Благодаря влагопоглощающим свойствам коврик быстро впитывает жидкость, сохраняя поверхность сухой и чистой. Характеристики влаговпитывающего коврика для раковины: &amp;bull; габариты &amp;mdash; 37,5&amp;times;13 см; &amp;bull; материал &amp;mdash; полиэстер; &amp;bull; влагопоглощающие свойства &amp;mdash; да; &amp;bull; прорезиненная основа &amp;mdash; да; &amp;bull; назначение &amp;mdash; кухня, ванная. Преимущества коврика под смеситель: &amp;bull; защита поверхности от влаги и капель; &amp;bull; удобство в использовании и уходе; &amp;bull; компактные размеры &amp;mdash; легко размещается под краном; &amp;bull; прочный материал &amp;mdash; сохраняет форму и внешний вид; &amp;bull; универсальность &amp;mdash; подходит как для кухни, так и для ванной комнаты. Такой коврик станет практичным решением для поддержания чистоты и порядка в доме.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4955</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4955/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4955/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4955/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_2.jpg</picture>
-        <param name="Ширина">13 см</param>
-        <param name="Длина">37.5 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-42-11W_HP-42-11W" available="true">
         <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11W</name>
         <price>59.0</price>
@@ -58016,23 +58036,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4962/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4962/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4962/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_2.jpg</picture>
-        <param name="Ширина">13 см</param>
-        <param name="Длина">37.5 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-42-12G_HP-42-12G" available="true">
-        <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-12G</name>
-        <price>59.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>273</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-42-12G_HP-42-12G</vendorCode>
-        <description>Влаговпитывающий коврик для раковины под кран &amp;mdash; удобный и практичный аксессуар для кухни и ванной. Он эффективно защищает поверхность от капель воды, предотвращает образование разводов и плесени, а также обеспечивает аккуратный внешний вид зоны вокруг крана. Благодаря влагопоглощающим свойствам коврик быстро впитывает жидкость, сохраняя поверхность сухой и чистой. Характеристики влаговпитывающего коврика для раковины: &amp;bull; габариты &amp;mdash; 37,5&amp;times;13 см; &amp;bull; материал &amp;mdash; полиэстер; &amp;bull; влагопоглощающие свойства &amp;mdash; да; &amp;bull; прорезиненная основа &amp;mdash; да; &amp;bull; назначение &amp;mdash; кухня, ванная. Преимущества коврика под кран: &amp;bull; защита поверхности от влаги и капель; &amp;bull; удобство в использовании и уходе; &amp;bull; компактные размеры &amp;mdash; легко размещается под краном; &amp;bull; прочный материал &amp;mdash; сохраняет форму и внешний вид; &amp;bull; универсальность &amp;mdash; подходит как для кухни, так и для ванной комнаты. Такой коврик станет практичным решением для поддержания чистоты и порядка в доме.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4963</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4963/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4963/vlagovpityvayushchiy_kovrik_dlya_rakoviny_pod_kran_iz_poliestera_37_5_13_sm_1.jpg</picture>
         <param name="Ширина">13 см</param>
         <param name="Длина">37.5 см</param>
         <param name="Состояние">Новое</param>
@@ -91318,27 +91321,6 @@
         <param name="Ширина">16.5</param>
         <param name="Цвет">Белый</param>
         <param name="Длина">25</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_ML2050_ML2050" available="true">
-        <name>Тортовница фарфоровая на ножке 30.5х20х11 см прямоугольная ML2050</name>
-        <price>839.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Fiora</vendor>
-        <vendorCode>f11_ML2050_ML2050</vendorCode>
-        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: прямоугольная, на ножке</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6942</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6942/tortovnitsa_farforovaya_na_nozhke_30_5h20h11_sm_pryamougolnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_dlya_desertov_prazdnichnaya_posuda.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">11</param>
-        <param name="Ширина">20.5</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">30</param>
         <param name="Многоуровневая">Нет</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Наличие крышки">Нет</param>
