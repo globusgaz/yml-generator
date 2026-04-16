@@ -1,169 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-16 20:17">
+<yml_catalog date="2026-04-16 22:06">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="117">Рюкзаки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="34">Подсвечники</category>
-      <category id="140">Крышки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="111">Портативные колонки</category>
-      <category id="93">Электрочайники</category>
-      <category id="60">Мармиты</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="122">Аксессуары</category>
-      <category id="66">Сервизы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="55">Рюмки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="90">Мясорубки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="128">Органайзеры</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="141">Салатницы</category>
-      <category id="182">Блюда</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="29">Салфетницы</category>
-      <category id="133">Масленки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="110">Наушники</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="77">Пылесосы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="298">Брелки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="300">Подушки для спины</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="261">Терки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="126">Ланч боксы</category>
-      <category id="6">LED ленты</category>
-      <category id="13">Триммеры</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="283">Подносы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="221">Туристические души</category>
-      <category id="103">Проекторы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="279">Зонты</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="132">Конфетницы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="166">Тортовницы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="284">Новогодний декор</category>
-      <category id="23">Фены</category>
-      <category id="212">Мебель</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="194">Менажницы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="292">Столовая посуда</category>
       <category id="187">Слайсеры</category>
-      <category id="148">Туристические коврики</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="53">Кувшины</category>
-      <category id="136">Дуршлаги</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="42">Термосы для детей</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="145">Смарт-часы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="59">Все для выпечки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="193">Доски для подачи</category>
-      <category id="52">Лимонадницы</category>
-      <category id="96">Вакууматоры</category>
-      <category id="285">Йогуртницы</category>
-      <category id="121">Туристические обогреватели</category>
+      <category id="166">Тортовницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="212">Мебель</category>
+      <category id="31">Часы настенные</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="149">Палатки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="77">Пылесосы</category>
+      <category id="90">Мясорубки</category>
+      <category id="23">Фены</category>
       <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="81">Капучинаторы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="35">Вазы для цветов</category>
       <category id="296">Полки, этажерки, шкафы</category>
-      <category id="14">Стайлеры</category>
-      <category id="114">Повербанки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="118">Сумки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="271">Товары для уборки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="3">Ретро гирлянды</category>
+      <category id="300">Подушки для спины</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="184">Бульонницы</category>
+      <category id="72">Весы напольные</category>
+      <category id="124">Решетки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="29">Салфетницы</category>
       <category id="269">Подарочные пакеты</category>
+      <category id="87">Соковыжималки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="145">Смарт-часы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="110">Наушники</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="61">Сковородки</category>
+      <category id="54">Стаканы</category>
+      <category id="140">Крышки</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="293">Хвойные гирлянды</category>
       <category id="105">Зарядные устройства</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="118">Сумки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
       <category id="217">Кемпинговые фонари</category>
-      <category id="89">Миксеры</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="103">Проекторы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="34">Подсвечники</category>
+      <category id="56">Бокалы</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="66">Сервизы</category>
+      <category id="93">Электрочайники</category>
+      <category id="271">Товары для уборки</category>
+      <category id="73">Наборы для груминга</category>
       <category id="49">Наборы кухонных ножей и лопаток</category>
       <category id="299">Подушки для путишествий</category>
-      <category id="186">Тостеры</category>
-      <category id="278">Косметички</category>
-      <category id="316">Туристические плиты</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="98">Блендеры</category>
-      <category id="72">Весы напольные</category>
-      <category id="62">Ковши</category>
-      <category id="21">Электробритвы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="57">Чашки</category>
-      <category id="224">Гамаки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="68">Тарелки</category>
-      <category id="76">Отпариватели</category>
-      <category id="75">Утюги</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="65">Креманки</category>
       <category id="262">Термосумки</category>
-      <category id="54">Стаканы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="92">Кофеварки и кофемолки</category>
+      <category id="75">Утюги</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="141">Салатницы</category>
       <category id="33">Пепельницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="15">Плойки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="124">Решетки</category>
-      <category id="31">Часы настенные</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="125">Мангалы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="292">Столовая посуда</category>
-      <category id="63">Кастрюли</category>
-      <category id="184">Бульонницы</category>
-      <category id="287">Банты на елку</category>
-      <category id="47">Наборы для специй</category>
+      <category id="98">Блендеры</category>
+      <category id="62">Ковши</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="14">Стайлеры</category>
       <category id="156">Столовые сервизы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="149">Палатки</category>
-      <category id="61">Сковородки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="278">Косметички</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="17">Воскоплавы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="111">Портативные колонки</category>
+      <category id="114">Повербанки</category>
+      <category id="224">Гамаки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="52">Лимонадницы</category>
+      <category id="63">Кастрюли</category>
+      <category id="122">Аксессуары</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="195">Разделочные доски</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="21">Электробритвы</category>
+      <category id="287">Банты на елку</category>
+      <category id="144">Вентиляторы</category>
+      <category id="55">Рюмки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="57">Чашки</category>
+      <category id="53">Кувшины</category>
+      <category id="294">Новогодние елки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="76">Отпариватели</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="182">Блюда</category>
+      <category id="6">LED ленты</category>
+      <category id="221">Туристические души</category>
+      <category id="283">Подносы</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="81">Капучинаторы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="13">Триммеры</category>
+      <category id="96">Вакууматоры</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="194">Менажницы</category>
+      <category id="132">Конфетницы</category>
+      <category id="298">Брелки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="60">Мармиты</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="133">Масленки</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="284">Новогодний декор</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="89">Миксеры</category>
+      <category id="186">Тостеры</category>
+      <category id="15">Плойки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="136">Дуршлаги</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="128">Органайзеры</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="316">Туристические плиты</category>
+      <category id="150">Спальные мешки</category>
+      <category id="279">Зонты</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="65">Креманки</category>
       <category id="20">Эпиляторы</category>
-      <category id="56">Бокалы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="117">Рюкзаки</category>
+      <category id="125">Мангалы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="261">Терки</category>
+      <category id="68">Тарелки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="147">Наборы для пикника</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -45802,6 +45802,46 @@
         <param name="Тип элементов питания">Ni-MH</param>
         <param name="Щеточка для чистки">Да</param>
       </offer>
+      <offer id="f11_HP-V-172_HP-V-172" available="true">
+        <name>Машинка триммер для стрижки 4в1 с насадками Синий VGR V-172</name>
+        <price>1249.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>16</categoryId>
+        <vendor>VGR</vendor>
+        <vendorCode>f11_HP-V-172_HP-V-172</vendorCode>
+        <description>Многофункциональная машинка для стрижки волос и бороды VGR V-172 &amp;mdash; это профессиональный триммер 4 в 1, который сочетает в себе надёжность, удобство и универсальность. Благодаря богатой комплектации и острым лезвиям из нержавеющей стали, вы сможете точно подравнять бороду, убрать нежелательные волосы в носу, выполнить окантовку или аккуратно побриться. Подходит для домашнего и салонного применения. Характеристики машинки для стрижки VGR V-172 тип устройства: триммер 4 в 1 (для волос, бороды, носа и бритва); тип питания: аккумулятор + USB зарядка; мощность: 5 В; время зарядки: 2 часа; время автономной работы: до 120 минут; тип аккумулятора: Li-ion; насадки: 3,6,9,12 см; размер: 16&amp;times;4&amp;times;4 см; влагозащита корпуса: IPX5; материал корпуса: ABS-пластик; лезвия: из нержавеющей стали. Преимущества триммера VGR V-172 Многофункциональность: заменяет сразу несколько приборов. Компактность и лёгкость: удобно держать в руке, подходит для поездок. Низкий уровень шума: можно использовать даже ночью. Безопасность: острые, но безопасные лезвия без порезов. Эргономичный корпус: удобно лежит в руке, не скользит. Простота в уходе: головки легко очищаются водой. Комплектация триммера VGR V-172 универсальная машинка VGR V-172 (синий цвет); триммер для бороды и волос; сеточная бритва и узкий триммер для дизайна; триммер для носа и ушей; подставка для хранения; насадки для стрижки; масло и щёточка для очистки; USB-кабель для зарядки; заводская упаковка и инструкция. Машинка VGR V-172 &amp;mdash; идеальный выбор для мужчин, которые ценят порядок в деталях. Надёжный помощник в уходе за внешностью дома, в поездке или в профессиональном использовании. Подходит как для взрослых, так и для подростков. Купить триммер VGR V-172 можно прямо сейчас с доставкой по всей Украине. Мы отправляем в день заказа. Гарантируем безопасную упаковку и отличное качество прибора. Данный товар находится в герметичной блистерной упаковке, поэтому, обязательно проверьте целостность блистера при получении на почте. В случае обнаружения дефектов упаковки, пожалуйста, сообщите нам сразу для замены товара. После нарушения целостности блистера товар не подлежит возврату. При обнаружении у товара заводских неисправностей вы можете вернуть или заменить его в течение 14 дней.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4390</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_10.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4390/mashinka_trimmer_4v1_vgr_v_172_dlya_strizhki_volos_i_borody_s_nasadkami_siniy_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000/000000/HP-V-172/V172_9.jpg</picture>
+        <param name="Гарантийный срок">3 мес</param>
+        <param name="Вес">0.5 кг</param>
+        <param name="Длина сетевого шнура">0.95 м</param>
+        <param name="Время заряда аккумулятора">2 ч</param>
+        <param name="Влагозащищенный корпус">Да</param>
+        <param name="Время работы от аккумулятора">120 ч</param>
+        <param name="Количество насадок">9</param>
+        <param name="Детская/тихая стрижка">Нет</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет корпуса">Синий</param>
+        <param name="Материал лезвий">Нержавеющая сталь</param>
+        <param name="Насадка для стрижки бороды и усов">Да</param>
+        <param name="Регулировка длины">Сменные насадки</param>
+        <param name="Насадка-триммер для носа и ушей">Да</param>
+        <param name="Тип прибора">Набор для стрижки</param>
+        <param name="Тип элементов питания">Li-Ion</param>
+        <param name="Триммер для окантовки">Да</param>
+        <param name="Щеточка для чистки">Да</param>
+      </offer>
       <offer id="f11_HP-V-256_HP-V-256" available="true">
         <name>Профессиональная машинка для стрижки волос и бороды с LED-дисплеем и подставкой VGR HP-V-256</name>
         <price>3449.0</price>
@@ -60134,6 +60174,30 @@
         <param name="Основа">ПВХ</param>
         <param name="Машинная стирка">Нет</param>
         <param name="Цвет">Розовый</param>
+        <param name="Подарочная упаковка">Нет</param>
+        <param name="Диаметр салфетки">38 см</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-35-8BE_HP-35-8BE" available="true">
+        <name>Салфетка сервировочная на стол круглая Ø38 (см) Бежевый HP-35-8BE</name>
+        <price>129.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>275</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-35-8BE_HP-35-8BE</vendorCode>
+        <description>Круглая декоративная салфетка с цветочным узором &amp;mdash; стильный и практичный сервировочный элемент, сочетающий красоту и функциональность. Она придаст вашему интерьеру естественные мотивы и создаст атмосферу уюта. Основные характеристики сервировочной салфетки на обеденный стол: Материал: резина; Диаметр: 38 см. Особенности круглой салфетки под тарелки: Изящный дизайн с цветочными и растительными мотивами делает салфетку эффектным украшением стола. Выполнена из высококачественного материала, устойчивого к износу и воздействию высоких температур. Предохраняет столешницу от царапин, пятен и следов горячей посуды. Помогает создать красивую и завершённую сервировку для повседневных трапез и праздничных ужинов. Не впитывает влагу и жир, достаточно протереть влажной губкой для сохранения идеального вида. Круглая салфетка с рельефным узором на стол &amp;mdash; это сочетание стиля и практичности. Она станет акцентом сервировки, подчеркнёт вкус хозяйки и обеспечит надёжную защиту поверхности стола. Такой аксессуар идеально подойдёт для ежедневного использования и особых случаев.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5122</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5122/salfetka_servirovochnaya_na_stol_kruglaya_38_sm_salfetka_pod_tarelki_pribory_dlya_servirovki_stola_bezhevyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5122/salfetka_servirovochnaya_na_stol_kruglaya_38_sm_salfetka_pod_tarelki_pribory_dlya_servirovki_stola_bezhevyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5122/salfetka_servirovochnaya_na_stol_kruglaya_38_sm_salfetka_pod_tarelki_pribory_dlya_servirovki_stola_bezhevyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5122/salfetka_servirovochnaya_na_stol_kruglaya_38_sm_salfetka_pod_tarelki_pribory_dlya_servirovki_stola_bezhevyy_3.jpg</picture>
+        <param name="Материал">ПВХ</param>
+        <param name="Общее количество предметов">1</param>
+        <param name="Количество салфеток">1</param>
+        <param name="Машинная стирка">Нет</param>
+        <param name="Цвет">Бежевый</param>
         <param name="Подарочная упаковка">Нет</param>
         <param name="Диаметр салфетки">38 см</param>
         <param name="Состояние">Новое</param>
