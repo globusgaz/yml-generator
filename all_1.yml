@@ -1,172 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-21 05:49">
+<yml_catalog date="2026-04-21 08:16">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="265">Хозяйственные товары</category>
-      <category id="149">Палатки</category>
-      <category id="33">Пепельницы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="3">Ретро гирлянды</category>
+      <category id="42">Термосы для детей</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="61">Сковородки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="6">LED ленты</category>
       <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="221">Туристические души</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="97">Весы кухонные</category>
-      <category id="212">Мебель</category>
+      <category id="55">Рюмки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="125">Мангалы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="291">Новогодние чашки</category>
       <category id="134">Бутылки для масла</category>
-      <category id="278">Косметички</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="14">Стайлеры</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="318">Кусторезы</category>
       <category id="34">Подсвечники</category>
-      <category id="110">Наушники</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="90">Мясорубки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="87">Соковыжималки</category>
+      <category id="21">Электробритвы</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="62">Ковши</category>
+      <category id="59">Все для выпечки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="98">Блендеры</category>
+      <category id="128">Органайзеры</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="122">Аксессуары</category>
+      <category id="47">Наборы для специй</category>
+      <category id="316">Туристические плиты</category>
+      <category id="68">Тарелки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="187">Слайсеры</category>
+      <category id="194">Менажницы</category>
+      <category id="144">Вентиляторы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="318">Кусторезы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="4">Удлинители гирлянд</category>
       <category id="114">Повербанки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="145">Смарт-часы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="57">Чашки</category>
+      <category id="75">Утюги</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="33">Пепельницы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="124">Решетки</category>
+      <category id="283">Подносы</category>
+      <category id="65">Креманки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="96">Вакууматоры</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="261">Терки</category>
+      <category id="14">Стайлеры</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="63">Кастрюли</category>
+      <category id="93">Электрочайники</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="66">Сервизы</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="317">Садовое освещение</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="72">Весы напольные</category>
+      <category id="90">Мясорубки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="103">Проекторы</category>
+      <category id="279">Зонты</category>
+      <category id="284">Новогодний декор</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="287">Банты на елку</category>
+      <category id="278">Косметички</category>
+      <category id="23">Фены</category>
+      <category id="13">Триммеры</category>
+      <category id="60">Мармиты</category>
+      <category id="184">Бульонницы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="77">Пылесосы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="298">Брелки</category>
+      <category id="141">Салатницы</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="97">Весы кухонные</category>
+      <category id="89">Миксеры</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="186">Тостеры</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="224">Гамаки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="262">Термосумки</category>
+      <category id="221">Туристические души</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="56">Бокалы</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
       <category id="132">Конфетницы</category>
       <category id="196">Сетки и корзины для фри</category>
-      <category id="61">Сковородки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="298">Брелки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="63">Кастрюли</category>
-      <category id="60">Мармиты</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="76">Отпариватели</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="166">Тортовницы</category>
-      <category id="316">Туристические плиты</category>
-      <category id="75">Утюги</category>
-      <category id="67">Столовые приборы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="262">Термосумки</category>
-      <category id="283">Подносы</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="186">Тостеры</category>
-      <category id="77">Пылесосы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="279">Зонты</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="54">Стаканы</category>
-      <category id="187">Слайсеры</category>
-      <category id="184">Бульонницы</category>
-      <category id="53">Кувшины</category>
-      <category id="57">Чашки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="13">Триммеры</category>
-      <category id="42">Термосы для детей</category>
-      <category id="65">Креманки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="89">Миксеры</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="317">Садовое освещение</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="62">Ковши</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="66">Сервизы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="124">Решетки</category>
-      <category id="21">Электробритвы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="81">Капучинаторы</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="68">Тарелки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="284">Новогодний декор</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="98">Блендеры</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="142">Посуда для детей</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="128">Органайзеры</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="6">LED ленты</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="47">Наборы для специй</category>
-      <category id="93">Электрочайники</category>
-      <category id="125">Мангалы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="285">Йогуртницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="23">Фены</category>
-      <category id="141">Салатницы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="103">Проекторы</category>
-      <category id="59">Все для выпечки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="194">Менажницы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="15">Плойки</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="261">Терки</category>
-      <category id="140">Крышки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="133">Масленки</category>
-      <category id="72">Весы напольные</category>
-      <category id="122">Аксессуары</category>
-      <category id="118">Сумки</category>
-      <category id="287">Банты на елку</category>
-      <category id="148">Туристические коврики</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="224">Гамаки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="56">Бокалы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="182">Блюда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="55">Рюмки</category>
-      <category id="111">Портативные колонки</category>
       <category id="121">Туристические обогреватели</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="29">Салфетницы</category>
-      <category id="96">Вакууматоры</category>
-      <category id="300">Подушки для спины</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="193">Доски для подачи</category>
-      <category id="117">Рюкзаки</category>
-      <category id="31">Часы настенные</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="20">Эпиляторы</category>
+      <category id="15">Плойки</category>
+      <category id="3">Ретро гирлянды</category>
       <category id="293">Хвойные гирлянды</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="149">Палатки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="182">Блюда</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="53">Кувшины</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="133">Масленки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="150">Спальные мешки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="166">Тортовницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="31">Часы настенные</category>
+      <category id="29">Салфетницы</category>
+      <category id="118">Сумки</category>
+      <category id="117">Рюкзаки</category>
+      <category id="110">Наушники</category>
+      <category id="294">Новогодние елки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="300">Подушки для спины</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="76">Отпариватели</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="212">Мебель</category>
+      <category id="111">Портативные колонки</category>
+      <category id="54">Стаканы</category>
+      <category id="140">Крышки</category>
+      <category id="269">Подарочные пакеты</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -24315,14 +24315,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_C5W200300_C5W200300" available="true">
-        <name>Разделочная деревянная доска прямоугольная 30×20 см ясень C5W200300</name>
+        <name>Разделочная деревянная доска прямоугольная 20×30 см ясень C5W200300</name>
         <price>259.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>195</categoryId>
         <vendor>Lugi</vendor>
         <vendorCode>f11_C5W200300_C5W200300</vendorCode>
-        <description>Разделочная деревянная доска &amp;ndash; это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 30&amp;times;20 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Данная доска не только функциональна, но и эстетически привлекательна, благодаря природной текстуре дерева и продуманному дизайну. Преимущества разделочных досок из дерева Деревянные доски для нарезки, изготовленные из ясеня, отличаются высокой прочностью и устойчивостью к механическим повреждениям. Этот материал славится своей плотной структурой, которая минимизирует появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но и обеспечивает удобство в использовании. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации. Основные характеристики деревянной кухонной доски Материал - натуральный ясень &amp;ndash; экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 30&amp;times;20 см &amp;ndash; компактный формат, удобный для обработки продуктов. Прямоугольная форма с углублением по краю. Оснащена металлической ручкой для подвешивания. Покрытие - защитное масло, предотвращающее впитывание запахов и жира. Уход за изделием Чтобы разделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и тёплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья доску следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом. Деревянные кухонные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Естественная текстура ясеня привнесёт нотку уюта и природной гармонии в интерьер вашей кухни. Почему выбирают деревянные доски? Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи, благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно ясень, обладает природными свойствами, которые препятствуют размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает её абсолютно безопасной для здоровья. Разделочные доски из дерева &amp;ndash; это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 30&amp;times;20 см &amp;ndash; превосходный пример оптимального соотношения цены и качества. Она станет не только надёжным помощником в приготовлении блюд, но и стильным дополнением к вашему кухонному пространству.</description>
+        <description>Разделочная деревянная доска – это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 20×30 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Данная доска не только функциональна, но и эстетически привлекательна, благодаря природной текстуре дерева и продуманному дизайну. Преимущества разделочных досок из дерева Деревянные доски для нарезки, изготовленные из ясеня, отличаются высокой прочностью и устойчивостью к механическим повреждениям. Этот материал славится своей плотной структурой, которая минимизирует появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но и обеспечивает удобство в использовании. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации. Основные характеристики деревянной кухонной доски Материал - натуральный ясень – экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 20×30 см – компактный формат, удобный для обработки продуктов. Прямоугольная форма с углублением по краю. Оснащена металлической ручкой для подвешивания. Покрытие - защитное масло, предотвращающее впитывание запахов и жира. Уход за изделием Чтобы разделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и тёплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья доску следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом. Деревянные кухонные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Естественная текстура ясеня привнесёт нотку уюта и природной гармонии в интерьер вашей кухни. Почему выбирают деревянные доски? Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи, благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно ясень, обладает природными свойствами, которые препятствуют размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает её абсолютно безопасной для здоровья. Разделочные доски из дерева – это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 20×30 см – превосходный пример оптимального соотношения цены и качества. Она станет не только надёжным помощником в приготовлении блюд, но и стильным дополнением к вашему кухонному пространству.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3310</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3310/razdelochnaya_derevyannaya_doska_pryamougolnaya_30_20_sm_kuhonnaya_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3310/razdelochnaya_derevyannaya_doska_pryamougolnaya_30_20_sm_kuhonnaya_yasen_1.jpg</picture>
@@ -27245,27 +27245,27 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-9-R_HP-19-9-R" available="true">
-        <name>Корзина сервировочная для картофеля фри и снеков 14×10×6 см Розовый HP-19-9-R</name>
+        <name>Корзина сервировочная для картофеля фри и снеков 14×10.5×6.5 см Розовый HP-19-9-R</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>196</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_HP-19-9-R_HP-19-9-R</vendorCode>
-        <description>Стильная сервировочная корзина для фри и снеков станет незаменимым аксессуаром для оригинальной подачи любимых закусок. Изготовлена из нержавеющей стали с гальваническим покрытием, он совмещает изысканный вид с прочностью и долговечностью. Компактный размер и удобная форма позволяют подавать картофель фри, чипсы или другие закуски. Основные характеристики: Материал: нержавеющая сталь; Размер: 14&amp;times;10&amp;times;6 см; Высота с ручкой: 12 см; Глубина: 6.5 см; Толщина проволоки: 0.5 мм. Корзина имеет оптимальные размеры 14&amp;times;10&amp;times;6 см, что делает ее универсальной как для домашнего использования, так и для заведений питания. Гальваническое покрытие защищает поверхность износа и обеспечивает устойчивость к воздействию влаги, сохраняя презентабельный вид даже после длительного использования. Благодаря легкому уходу и оригинальному дизайну эта корзина станет ярким акцентом на вашем столе, добавляя нотку современности и эстетики в сервировку блюд.</description>
+        <description>Стильная сервировочная корзина для фри и снеков станет незаменимым аксессуаром для оригинальной подачи любимых закусок. Изготовлена из нержавеющей стали с гальваническим покрытием, он совмещает изысканный вид с прочностью и долговечностью. Компактный размер и удобная форма позволяют подавать картофель фри, чипсы или другие закуски. Основные характеристики: Материал: нержавеющая сталь; Размер: 14×10.5×6.5 см; Высота с ручкой: 12 см; Глубина: 6.5 см; Толщина проволоки: 0.5 мм. Корзина имеет оптимальные размеры 14×10×6 см, что делает ее универсальной как для домашнего использования, так и для заведений питания. Гальваническое покрытие защищает поверхность износа и обеспечивает устойчивость к воздействию влаги, сохраняя презентабельный вид даже после длительного использования. Благодаря легкому уходу и оригинальному дизайну эта корзина станет ярким акцентом на вашем столе, добавляя нотку современности и эстетики в сервировку блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3413</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3413/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_rozovyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3413/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_rozovyy_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3413/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_rozovyy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3413/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_rozovyy_3.jpg</picture>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">6 см</param>
+        <param name="Высота">6.5 см</param>
         <param name="Количество секций">1</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Крышка">нет</param>
-        <param name="Ширина">10 см</param>
+        <param name="Ширина">10.5 см</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Розовый</param>
@@ -27275,27 +27275,27 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-9-G_HP-19-9-G" available="true">
-        <name>Корзина сервировочная для картофеля фри и снеков 14×10×6 см Золото HP-19-9-G</name>
+        <name>Корзина сервировочная для картофеля фри и снеков 14×10.5×6.5 см Золото HP-19-9-G</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>196</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_HP-19-9-G_HP-19-9-G</vendorCode>
-        <description>Стильная сервировочная корзина для фри и снеков станет незаменимым аксессуаром для оригинальной подачи любимых закусок. Изготовлена из нержавеющей стали с гальваническим покрытием, он совмещает изысканный вид с прочностью и долговечностью. Компактный размер и удобная форма позволяют подавать картофель фри, чипсы или другие закуски. Основные характеристики: Материал: нержавеющая сталь; Размер: 14&amp;times;10&amp;times;6 см; Высота с ручкой: 12 см; Глубина: 6.5 см; Толщина проволоки: 0.5 мм. Корзина имеет оптимальные размеры 14&amp;times;10&amp;times;6 см, что делает ее универсальной как для домашнего использования, так и для заведений питания. Гальваническое покрытие защищает поверхность износа и обеспечивает устойчивость к воздействию влаги, сохраняя презентабельный вид даже после длительного использования. Благодаря легкому уходу и оригинальному дизайну эта корзина станет ярким акцентом на вашем столе, добавляя нотку современности и эстетики в сервировку блюд.</description>
+        <description>Стильная сервировочная корзина для фри и снеков станет незаменимым аксессуаром для оригинальной подачи любимых закусок. Изготовлена из нержавеющей стали с гальваническим покрытием, он совмещает изысканный вид с прочностью и долговечностью. Компактный размер и удобная форма позволяют подавать картофель фри, чипсы или другие закуски. Основные характеристики: Материал: нержавеющая сталь; Размер: 14×10.5×6.5 см; Высота с ручкой: 12 см; Глубина: 6.5 см; Толщина проволоки: 0.5 мм. Корзина имеет оптимальные размеры 14×10×6 см, что делает ее универсальной как для домашнего использования, так и для заведений питания. Гальваническое покрытие защищает поверхность износа и обеспечивает устойчивость к воздействию влаги, сохраняя презентабельный вид даже после длительного использования. Благодаря легкому уходу и оригинальному дизайну эта корзина станет ярким акцентом на вашем столе, добавляя нотку современности и эстетики в сервировку блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3414</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3414/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_zoloto.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3414/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_zoloto_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3414/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_zoloto_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3414/korzina_servirovochnaya_dlya_podachi_fri_i_snekov_14_10_6_sm_iz_nerzhaveyushchey_stali_posuda_dlya_podachi_zoloto_3.jpg</picture>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">6 см</param>
+        <param name="Высота">6.5 см</param>
         <param name="Количество секций">1</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Крышка">нет</param>
-        <param name="Ширина">10 см</param>
+        <param name="Ширина">10.5 см</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Золотистый</param>
@@ -27425,7 +27425,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-12_HP-19-12" available="true">
-        <name>Набор ситечек 3 штуки для чая круп и муки 8,10 и 12 см из нержавеющей стали Серебристый HP-19-12</name>
+        <name>Набор ситечек 3 штуки для чая круп и муки 8/10/12 см из нержавеющей стали Серебристый HP-19-12</name>
         <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -27779,7 +27779,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-21_HP-19-21" available="true">
-        <name>Набор ситечек 3 штуки для чая круп и муки 8,14 и 20 см из нержавеющей стали Золотистый HP-19-21</name>
+        <name>Набор ситечек 3 штуки для чая круп и муки 8/14 /20 см из нержавеющей стали Золотистый HP-19-21</name>
         <price>579.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -27796,13 +27796,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3434/nabor_sitechek_3_shtuki_dlya_chaya_krup_i_muki_8_14_i_20_sm_iz_nerzhaveyushchey_stali_5.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">7 см</param>
-        <param name="Диаметр">20 см</param>
-        <param name="Ширина">20 см</param>
         <param name="Ручка">Одна</param>
         <param name="Ножки/подставка">Нет</param>
         <param name="Цвет">Золотистый</param>
-        <param name="Длина">39 см</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -27953,7 +27949,7 @@
         <param name="Толщина стенки">1</param>
       </offer>
       <offer id="f11_HP-19-25_HP-19-25" available="true">
-        <name>Сито из нержавеющей стали для фритюра и варки 10х8 см HP-19-25</name>
+        <name>Сито из нержавеющей стали для фритюра и варки 22 см HP-19-25</name>
         <price>519.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -27970,17 +27966,17 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3440/sito_iz_nerzhaveyushchey_stali_dlya_frityura_i_varki_10h8_sm_5.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">80</param>
-        <param name="Диаметр">100</param>
-        <param name="Ширина">100</param>
+        <param name="Высота">8</param>
+        <param name="Диаметр">10</param>
+        <param name="Ширина">10</param>
         <param name="Ножки/подставка">Нет</param>
-        <param name="Длина">100</param>
+        <param name="Длина">10</param>
         <param name="Цвет">Серебристый</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-26_HP-19-26" available="true">
-        <name>Сито из нержавеющей стали для фритюра и варки 14.2х13 см HP-19-26</name>
+        <name>Сито из нержавеющей стали для фритюра и варки 34 см HP-19-26</name>
         <price>689.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -27996,24 +27992,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3441/sito_iz_nerzhaveyushchey_stali_dlya_frityura_i_varki_14_2h13_sm_4.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">130</param>
-        <param name="Диаметр">142</param>
-        <param name="Ширина">142</param>
+        <param name="Высота">13</param>
+        <param name="Диаметр">14.2</param>
+        <param name="Ширина">14.2</param>
         <param name="Ножки/подставка">Нет</param>
-        <param name="Длина">142</param>
+        <param name="Длина">14.2</param>
         <param name="Цвет">Серебристый</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-20-5.4x21.3CM_HP-19-20-5.4x21.3CM" available="true">
-        <name>Круглая ложка для мороженого 21×6.5×3.5 см из нержавеющей стали HP-19-20-5.4x21.3CM</name>
+        <name>Круглая ложка для мороженого из нержавеющей стали HP-19-20-5.4x21.3CM</name>
         <price>329.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>45</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_61252f25d081c5f2d6</vendorCode>
-        <description>Ложка для мороженого &amp;ndash; незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: Высококачественная нержавеющая сталь. Размеры 21&amp;times;6.5&amp;times;3.5 см. Диаметр рабочей части: 5.5 см. Толщина стенок: 1 мм. Вес: 120 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого &amp;mdash; незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
+        <description>Ложка для мороженого – незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: Высококачественная нержавеющая сталь. Размеры 5,4х21,3 см Диаметр рабочей части: 5.5 см. Толщина стенок: 1 мм. Вес: 120 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого — незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3442</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3442/kruglaya_lozhka_dlya_morozhenogo_21_6_5_sm_iz_nerzhaveyushchey_stali.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-19-20/HP-19-20-5.4x21.3CM_3.jpg</picture>
@@ -28023,13 +28019,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3442/kruglaya_lozhka_dlya_morozhenogo_21_6_5_sm_iz_nerzhaveyushchey_stali_6.jpg</picture>
         <param name="Тип">Ложка для мороженого</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">35</param>
-        <param name="Диаметр">55</param>
-        <param name="Ширина">65</param>
         <param name="Количество в наборе">1</param>
         <param name="Толщина">1</param>
         <param name="Цвет">Серебристый</param>
-        <param name="Длина">210</param>
         <param name="Состояние">Новое</param>
         <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
@@ -28356,14 +28348,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-20-7.2x23CM_HP-19-20-7.2x23CM" available="true">
-        <name>Круглая ложка для мороженого 23×6.5 см из нержавеющей стали HP-19-20-7.2x23CM</name>
+        <name>Круглая ложка для мороженого из нержавеющей стали HP-19-20-7.2x23CM</name>
         <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>45</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_0233a507cf8a7440de</vendorCode>
-        <description>Ложка для мороженого &amp;ndash; незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: Высококачественная нержавеющая сталь. Размеры 23&amp;times;6.5&amp;times;3.5 см. Диаметр рабочей части: 7 см. Толщина стенок: 1 мм. Вес: 140 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого &amp;mdash; незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
+        <description>Ложка для мороженого – незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: Высококачественная нержавеющая сталь. Размеры 7.2x23 см. Диаметр рабочей части: 7 см. Толщина стенок: 1 мм. Вес: 140 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого — незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3465</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3465/kruglaya_lozhka_dlya_morozhenogo_23_6_5_sm_iz_nerzhaveyushchey_stali.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-19-20/HP-19-20-7.2x23CM_3.jpg</picture>
@@ -28386,14 +28378,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-20-6.5x22.8CM_HP-19-20-6.5x22.8CM" available="true">
-        <name>Круглая ложка для мороженого 22×6.5 см из нержавеющей стали HP-19-20-6.5x22.8CM</name>
+        <name>Круглая ложка для мороженого из нержавеющей стали HP-19-20-6.5x22.8CM</name>
         <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>45</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_b5aafd3e812c0426b3</vendorCode>
-        <description>Ложка для мороженого &amp;ndash; незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: высококачественная нержавеющая сталь. Размеры 22&amp;times;6.5&amp;times;3.5 см. Диаметр рабочей части: 6.5 см. Толщина стенок: 1 мм. Вес: 140 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого &amp;mdash; незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
+        <description>Ложка для мороженого – незаменимый аксессуар для заведений общественного питания, кондитерских где подаются прохладительные десерты. Круглая ложка для мороженого представляет собой профессиональный инструмент для формирования идеальных шариков мороженого, сорбета и других замороженных десертов. Ложка изготовлена из нержавеющей стали и оснащена пружинным механизмом, который легко приводится в действие. Таким образом шарики быстро выталкиваются из полусферы, что позволяет ускорить рабочий процесс. Основные характеристики ложки для мороженного Материал: высококачественная нержавеющая сталь. Размеры 6.5x22.8 см. Диаметр рабочей части: 6.5 см. Толщина стенок: 1 мм. Вес: 140 г. Конструктивные особенности Оснащена удобным механическим механизмом выброса, обеспечивающим легкое извлечение мороженого без прилипания. Эргономичная ручка с усиленной конструкцией для удобного захвата и длительного срока службы. Устойчивость к коррозии благодаря высокопрочной нержавеющей стали. Легкость в очистке и возможность мытья в посудомоечной машине. Ложка предназначена для профессионального и домашнего использования в кафе, ресторанах, кондитерских, а также в бытовых условиях. Может использоваться не только для мороженого, но и для порционного теста, картофельного пюре, арбузных шариков и других продуктов. Ложка для мороженого — незаменимый помощник для профессионалов и любителей кулинарии, обеспечивающий идеальную подачу блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3466</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3466/kruglaya_lozhka_dlya_morozhenogo_22_6_5_sm_iz_nerzhaveyushchey_stali.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-19-20/HP-19-20-6.5x22.8CM_3.jpg</picture>
@@ -28403,13 +28395,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3466/kruglaya_lozhka_dlya_morozhenogo_22_6_5_sm_iz_nerzhaveyushchey_stali_5.jpg</picture>
         <param name="Тип">Ложка для мороженого</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">35</param>
-        <param name="Диаметр">65</param>
-        <param name="Ширина">65</param>
         <param name="Количество в наборе">1</param>
         <param name="Толщина">1</param>
         <param name="Цвет">Серебристый</param>
-        <param name="Длина">220</param>
         <param name="Состояние">Новое</param>
         <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
@@ -34482,7 +34470,7 @@
         <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="f11_HP-10-1AW_HP-10-1AW" available="true">
-        <name>Зеркало косметическое 18.5х10х29 см с подсветкой Белое HP-10-1AW</name>
+        <name>Зеркало косметическое 18.5 см с подсветкой Белое HP-10-1AW</name>
         <price>839.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -35166,7 +35154,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-10-25_HP-10-25" available="true">
-        <name>Ваза стеклянная для цветов декоративная 19.5 см декоративная ваза с двойной стенкой 500 мл прозрачная HP-10-25</name>
+        <name>Ваза стеклянная для цветов декоративная 24 см прозрачная HP-10-25</name>
         <price>1009.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -43648,35 +43636,6 @@
         <param name="Количество в упаковке">4</param>
         <param name="Цвет">Желтый</param>
         <param name="Длина">19.5 см</param>
-      </offer>
-      <offer id="f11_HP-34-36_HP-34-36" available="true">
-        <name>Чайник для заваривания стеклянный для чая 1 л с металлической ручкой прозрачный HP-34-36</name>
-        <price>719.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>51</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-34-36_HP-34-36</vendorCode>
-        <description>Заварочный чайник из термостойкого стекла объёмом 1 литр &amp;mdash; это идеальное решение для тех, кто ценит эстетику, чистый вкус и комфорт в процессе чаепития. Прозрачные стенки позволяют наблюдать за процессом заваривания, а удобная металлическая ручка обеспечивает безопасное использование без риска ожогов. Характеристики стеклянного чайника для заваривания тип: заварник стеклянный с крышкой и фильтром; материал корпуса: стекло; объём: 1 литр; высота с крышкой: 19 см; высота без крышки: 15 см; диаметр дна: 10 см; диаметр горлышка: 7.5 см; ручка: эргономичная, металлическая; фильтр: встроенное ситечко; термостойкость: подходит для кипятка и горячего заваривания. Преимущества стеклянного заварника Чистый вкус чая: стекло не впитывает запахи и не влияет на аромат напитка. Встроенный фильтр: задерживает листья, обеспечивая чистую подачу. Эргономичная ручка: безопасный захват без риска обжечься. Термостойкость: устойчив к высоким температурам, подходит для кипятка. Прозрачность: вы контролируете степень заваривания в реальном времени. Эстетичный дизайн: отлично смотрится на кухне и сервировочном столе. Универсальность: подходит для чёрного, зелёного, травяного чая и цветочных сборов. Этот заварочный чайник &amp;mdash; практичный аксессуар для повседневного и церемониального чаепития. Его гармоничное сочетание стекла и дерева создаёт атмосферу уюта и натуральной простоты. Купить заварник для чая объёмом 1 литр с деревянной ручкой можно прямо сейчас с доставкой по всей Украине. Мы обеспечиваем аккуратную упаковку, быструю отправку и гарантию качества. Добавьте изысканности и комфорта в каждый момент вашего чаепития вместе с нашим стеклянным заварником.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4304</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-36/HP-34-36_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-36/HP-34-36_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-36/HP-34-36_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-36/HP-34-36_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4304/chaynik_dlya_zavarivaniya_steklyannyy_dlya_chaya_1_l_zavarnik_s_metallicheskoy_ruchkoy_prozrachnyy_4.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">19 см</param>
-        <param name="Диаметр">10 см</param>
-        <param name="Пресс-фильтр">Нет</param>
-        <param name="Материал крышки">Металл</param>
-        <param name="Ширина">10 см</param>
-        <param name="Объем">1 л</param>
-        <param name="Ситечко">Есть</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип посуды">Заварочный чайник</param>
-        <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-34-37_HP-34-37" available="true">
         <name>Заварник стеклянный для чая 0.8 л чайник для заваривания с деревянной ручкой черный HP-34-37</name>
@@ -61127,41 +61086,6 @@
         <param name="Форма сечения">Круглая</param>
         <param name="Цветовая гамма">RGB</param>
       </offer>
-      <offer id="f11_12MWY_12MWY" available="true">
-        <name>Уличная гирлянда Бахрома 12 м 200 LED белый провод Желтый 12MWY</name>
-        <price>1019.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>2</categoryId>
-        <vendor>Garlando</vendor>
-        <vendorCode>f11_12MWY_12MWY</vendorCode>
-        <description>Гирлянда &amp;laquo;Бахрома&amp;raquo; с 200 светодиодными лампочками создаёт выразительное декоративное освещение и помогает оформить пространство к празднику. Длина основного шнура &amp;mdash; 12 метров, что позволяет использовать гирлянду для украшения фасадов, окон, балконов, витрин или интерьера помещений. Благодаря чёрному кабелю изделие выглядит аккуратно и незаметно днём, а в тёмное время суток равномерно рассеивает свет, создавая эффект мягкого сияния. Конструкция включает 40 подвесных линий разной длины &amp;mdash; 65 см, 50 см и 30 см, которые формируют красивый каскад. Расстояние между линиями &amp;mdash; 30 см, между лампочками &amp;mdash; 8 см, что обеспечивает плотное и равномерное свечение без затемнённых участков. Удлинённый провод от вилки до первой лампочки (102 см) обеспечивает удобство подключения. Основные характеристики уличной новогодней гирлянды: Тип: гирлянда &amp;laquo;Бахрома&amp;raquo;; Источник питания: от сети; Количество LED: 200 шт; Общая длина: 12 м; Расстояние от вилки до первой лампочки: 102 см; Расстояние между линиями: 30 см; Расстояние между лампочками: 8 см; Количество линий: 40; Длина линий: 65 см, 50 см, 30 см; Режим работы: флеш; Цвет провода: белый; Цвет свечения: желтый. Особенности светодиодной гирлянды на дом: 200 ярких светодиодов для равномерного и насыщенного свечения. Общая длина гирлянды &amp;mdash; 12 м, удобна для оформления больших площадей. 40 подвесных нитей разной длины (65, 50 и 30 см) создают эффект каскада. Расстояние между линиями &amp;mdash; 30 см, между лампочками &amp;mdash; 8 см. Удлинённый провод от вилки до первой лампочки &amp;mdash; 102 см. Работает от сети, оснащена режимом мягкого мерцания (&amp;laquo;флеш&amp;raquo;). Светодиоды энергоэффективны, долговечны и не нагреваются. Подходит для внутреннего и внешнего оформления. Светодиодная гирлянда &amp;laquo;Бахрома&amp;raquo; &amp;mdash; это сочетание функциональности, эстетики и надёжности. Она станет универсальным элементом праздничного оформления, создаст уютную атмосферу и подчеркнёт индивидуальный стиль любого пространства.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5290</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5290/ulichnaya_girlyanda_bahroma_12_m_200_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5290/ulichnaya_girlyanda_bahroma_12_m_200_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5290/ulichnaya_girlyanda_bahroma_12_m_200_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_3.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5290/ulichnaya_girlyanda_bahroma_12_m_200_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_4.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5290/ulichnaya_girlyanda_bahroma_12_m_200_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_5.png</picture>
-        <param name="Вес">700 г</param>
-        <param name="Режим работы">Динамический</param>
-        <param name="Количество светодиодов">200</param>
-        <param name="Длина шнура питания">1.02 м</param>
-        <param name="Напряжение">220 В</param>
-        <param name="Длина">12 м</param>
-        <param name="Тип гирлянды">Бахрома уличная</param>
-        <param name="Тип освещения">Светодиодная гирлянда</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип питания">Сеть</param>
-        <param name="Упаковка">Коробка</param>
-        <param name="Степень защиты IP">44</param>
-        <param name="Цвет шнура питания">Белый</param>
-        <param name="Угол свечения">360</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Цвет свечения">Желтый</param>
-        <param name="Форма лампочки">Классическая</param>
-        <param name="Форма сечения">Круглая</param>
-        <param name="Цветовая гамма">Желтый</param>
-      </offer>
       <offer id="f11_50MBW_50MBW" available="true">
         <name>Уличная гирлянда Бахрома 50 м 840 LED черный провод Белый 50MBW</name>
         <price>3219.0</price>
@@ -63809,7 +63733,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_CR-1-37_CR-1-37" available="true">
-        <name>Салфетница на стол Santa Ø15 см фарфоровая CR-1-37</name>
+        <name>Салфетница на стол Santa 8*6*9 см фарфоровая CR-1-37</name>
         <price>219.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -66887,14 +66811,14 @@
         <param name="Подставка под горячее">2</param>
       </offer>
       <offer id="f11_C7W250350_C7W250350" available="true">
-        <name>Кухонная разделочная доска деревянная 35×20 см с прямоугольной основой C7W250350</name>
+        <name>Кухонная разделочная доска деревянная 20×35 см с прямоугольной основой C7W250350</name>
         <price>279.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>195</categoryId>
         <vendor>Lugi</vendor>
         <vendorCode>f11_C7W250350_C7W250350</vendorCode>
-        <description>Эта кухонная доска с прямоугольным основанием &amp;mdash; идеальное сочетание стиля, природной текстуры и практичности. Изготовленная из прочного массива ясеня, она не только устойчива к повреждениям, но и сохраняет свою красоту даже при частом использовании. Удобная ручка с отверстием позволяет легко подвесить доску, экономя место и добавляя декоративный акцент в интерьер кухни. Защитная обработка поверхности делает доску устойчивой к влаге, не впитывает запахи и облегчает уход. Основные характеристики: Форма: прямоугольная; Материал: массив ясеня; Размер: 35 &amp;times; 20 см; Оснащена удобной ручкой с отверстием для подвешивания. Почему стоит выбрать именно эту доску: Прочный натуральный ясень &amp;mdash; гарантия долговечности и экологичности; Эргономичный дизайн с продуманной ручкой; Легкость в уходе &amp;mdash; не боится воды и запахов; Стильный внешний вид &amp;mdash; подойдет как для готовки, так и для подачи блюд.</description>
+        <description>Эта кухонная доска с прямоугольным основанием — идеальное сочетание стиля, природной текстуры и практичности. Изготовленная из прочного массива ясеня, она не только устойчива к повреждениям, но и сохраняет свою красоту даже при частом использовании. Удобная ручка с отверстием позволяет легко подвесить доску, экономя место и добавляя декоративный акцент в интерьер кухни. Защитная обработка поверхности делает доску устойчивой к влаге, не впитывает запахи и облегчает уход. Основные характеристики: Форма: прямоугольная; Материал: массив ясеня; Размер: 20×35 см; Оснащена удобной ручкой с отверстием для подвешивания. Почему стоит выбрать именно эту доску: Прочный натуральный ясень — гарантия долговечности и экологичности; Эргономичный дизайн с продуманной ручкой; Легкость в уходе — не боится воды и запахов; Стильный внешний вид — подойдет как для готовки, так и для подачи блюд.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5597</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5597/kuhonnaya_razdelochnaya_doska_derevyannaya_35_20_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5597/kuhonnaya_razdelochnaya_doska_derevyannaya_35_20_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy_1.png</picture>
@@ -68068,14 +67992,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-10359-21_HP-10359-21" available="true">
-        <name>Набор подарочных пакетов из бумаги 12 шт 26×10×32 см HP-10359-21</name>
+        <name>Набор подарочных пакетов из бумаги 12 шт 18*10*22,5 см HP-10359-21</name>
         <price>559.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>269</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_b55ac0fdd9eb3d28a2</vendorCode>
-        <description>Подарочные бумажные пакеты &amp;mdash; стильное и экологичное решение для упаковки сувениров, аксессуаров и небольших подарков. Прочные ручки из скрученного шнура обеспечивают удобство в использовании, а универсальный дизайн делает их подходящими для любого повода. Основные характеристики бумажных подарочных пакетов: Материал пакета: бумага; Материал ручек: шнур; Размер: 26&amp;times;10&amp;times;32 см; Комплектация: 12 шт. Преимущества красивых подарочных пакетов для подарков: Экологичный материал &amp;mdash; изготовлены из бумаги. Универсальный дизайн &amp;mdash; подходят для любых праздников и мероприятий. Прочные ручки из скрученного шнура. Лёгкие и удобные в использовании. Компактный размер &amp;mdash; идеально для небольших подарков, сувениров и аксессуаров. Подходят для домашнего использования, магазинов и праздничных событий. В наборе 12 штук. Бумажные подарочные пакеты &amp;mdash; это практичное и стильное решение для упаковки небольших презентов. Они подчеркнут заботу о деталях и сделают любой подарок более выразительным. Прочные ручки и универсальный дизайн делают их удобными в использовании дома, в магазине или на праздниках. Такой набор всегда пригодится, когда нужно быстро и красиво упаковать подарок.</description>
+        <description>Подарочные бумажные пакеты — стильное и экологичное решение для упаковки сувениров, аксессуаров и небольших подарков. Прочные ручки из скрученного шнура обеспечивают удобство в использовании, а универсальный дизайн делает их подходящими для любого повода. Основные характеристики бумажных подарочных пакетов: Материал пакета: бумага; Материал ручек: шнур; Размер: 18*10*22,5 см; Комплектация: 12 шт. Преимущества красивых подарочных пакетов для подарков: Экологичный материал — изготовлены из бумаги. Универсальный дизайн — подходят для любых праздников и мероприятий. Прочные ручки из скрученного шнура. Лёгкие и удобные в использовании. Компактный размер — идеально для небольших подарков, сувениров и аксессуаров. Подходят для домашнего использования, магазинов и праздничных событий. В наборе 12 штук. Бумажные подарочные пакеты — это практичное и стильное решение для упаковки небольших презентов. Они подчеркнут заботу о деталях и сделают любой подарок более выразительным. Прочные ручки и универсальный дизайн делают их удобными в использовании дома, в магазине или на праздниках. Такой набор всегда пригодится, когда нужно быстро и красиво упаковать подарок.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5650</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5650/nabor_podarochnyh_paketov_iz_bumagi_12_sht_kartonnye_krasivye_pakety_dlya_podarkov_26_10_32_sm.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5650/nabor_podarochnyh_paketov_iz_bumagi_12_sht_kartonnye_krasivye_pakety_dlya_podarkov_26_10_32_sm_1.jpg</picture>
@@ -68088,10 +68012,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5650/nabor_podarochnyh_paketov_iz_bumagi_12_sht_kartonnye_krasivye_pakety_dlya_podarkov_26_10_32_sm_8.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Бумага</param>
-        <param name="Высота">32</param>
+        <param name="Высота">22.5</param>
         <param name="Ширина">10</param>
         <param name="Цвет">Разные цвета</param>
-        <param name="Длина">26</param>
+        <param name="Длина">18</param>
         <param name="Форма">Прямоугольная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -68404,14 +68328,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-138S_HP-19-138S" available="true">
-        <name>Тортовница на ножке Ø26 см стеклянная подставка для торта, капкейков, пирожных HP-19-138S</name>
+        <name>Тортовница на ножке 19 см стеклянная подставка для торта, капкейков, пирожных HP-19-138S</name>
         <price>589.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>166</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-19-138S_HP-19-138S</vendorCode>
-        <description>Эта тортовница на ножке изготовлена из прозрачного стекла с имитацией хрустального узора, создающего эффект лучистого сияния. Изделие имеет круглую форму с рельефным краем и гладкой центральной частью для удобного размещения тортов, пирогов или другой выпечки. Конструкция предусматривает приподнятое основание, которое не только придает изделию устойчивости, но и позволяет эффектно презентовать десерты на праздничном столе. Основные характеристики тортовницы: Диаметр: 26 см; Высота: 11.5 см; Высота ножки: 10 см; Материал: стекло. Особенности тортовницы: Выполнена из прочного прозрачного стекла; Устойчивое и надёжное основание; Идеальный размер для подачи тортов, пирожных, капкейков, фруктов и других десертов; Подходит как для домашнего использования, так и для торжественных мероприятий, свадеб и банкетов. Диаметр поверхности тортовницы обеспечивает достаточно места для большого торта, а высота ножки создает дополнительный визуальный акцент. Материал - закаленное стекло, которое не имеет запаха, легко моется и не впитывает цветные пигменты. Форма ножки коническая с рельефным узором, который повторяет геометрию краев, создавая целостное дизайнерское решение. Такая тортовница подходит как для ежедневного использования, так и для сервировки на торжества. Благодаря классическому прозрачному оформлению она хорошо сочетается с любой посудой. Оптимальный выбор для заведений питания или домашнего пользования, где важно не только функциональное назначение, но и визуальная презентация десерта.</description>
+        <description>Эта тортовница на ножке изготовлена из прозрачного стекла с имитацией хрустального узора, создающего эффект лучистого сияния. Изделие имеет круглую форму с рельефным краем и гладкой центральной частью для удобного размещения тортов, пирогов или другой выпечки. Конструкция предусматривает приподнятое основание, которое не только придает изделию устойчивости, но и позволяет эффектно презентовать десерты на праздничном столе. Основные характеристики тортовницы: Диаметр: 19 см; Высота: 11.5 см; Высота ножки: 10 см; Материал: стекло. Особенности тортовницы: Выполнена из прочного прозрачного стекла; Устойчивое и надёжное основание; Идеальный размер для подачи тортов, пирожных, капкейков, фруктов и других десертов; Подходит как для домашнего использования, так и для торжественных мероприятий, свадеб и банкетов. Диаметр поверхности тортовницы обеспечивает достаточно места для большого торта, а высота ножки создает дополнительный визуальный акцент. Материал - закаленное стекло, которое не имеет запаха, легко моется и не впитывает цветные пигменты. Форма ножки коническая с рельефным узором, который повторяет геометрию краев, создавая целостное дизайнерское решение. Такая тортовница подходит как для ежедневного использования, так и для сервировки на торжества. Благодаря классическому прозрачному оформлению она хорошо сочетается с любой посудой. Оптимальный выбор для заведений питания или домашнего пользования, где важно не только функциональное назначение, но и визуальная презентация десерта.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5678</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5678/tortovnitsa_na_nozhke_26_sm_steklyannaya_podstavka_dlya_torta_kapkeykov_pirozhnyh.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5678/tortovnitsa_na_nozhke_26_sm_steklyannaya_podstavka_dlya_torta_kapkeykov_pirozhnyh_1.jpg</picture>
@@ -68419,7 +68343,7 @@
         <param name="Материал">Стекло</param>
         <param name="Высота">11.5</param>
         <param name="Диаметр">26</param>
-        <param name="Ширина">26</param>
+        <param name="Ширина">19</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">26</param>
@@ -68429,7 +68353,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-140RB_HP-19-140RB" available="true">
-        <name>Конфетница стеклянная круглая на ножке, прозрачное стекло, диаметр 17 см, высота 27 см, высота ножки 10 см HP-19-140RB</name>
+        <name>Конфетница стеклянная круглая на ножке прозрачное стекло диаметр 17 см HP-19-140RB</name>
         <price>1039.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -69414,80 +69338,80 @@
         <param name="Гарантия">3 месяца</param>
       </offer>
       <offer id="f11_HP-11-19_HP-11-19" available="true">
-        <name>Пакеты для вакууматора 12*5 см пакеты для вакуумирования продуктов в рулоне HP-11-19</name>
+        <name>Пакеты для вакууматора 12*500 см пакеты для вакуумирования продуктов в рулоне HP-11-19</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-19_HP-11-19</vendorCode>
-        <description>Вакуумные пакеты 12*5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 12*5 см; тип: рулон; габарити рулону: 12*500 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 12*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 12*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5734</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5734/pakety_dlya_vakuumatora_12_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5734/pakety_dlya_vakuumatora_12_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">100</param>
-        <param name="Ширина">50</param>
+        <param name="Ширина">500</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
-        <param name="Длина">120</param>
+        <param name="Длина">12</param>
         <param name="Наличие индикатора">Нет</param>
         <param name="Комплектация насосом">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-20_HP-11-20" available="true">
-        <name>Пакеты для вакууматора 15*5 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
+        <name>Пакеты для вакууматора 15*500 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-20_HP-11-20</vendorCode>
-        <description>Вакуумные пакеты 15*5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 15*5 см; тип: рулон; габарити рулону: 15*500 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5735</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">100</param>
-        <param name="Ширина">50</param>
+        <param name="Ширина">500</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
-        <param name="Длина">150</param>
+        <param name="Длина">15</param>
         <param name="Наличие индикатора">Нет</param>
         <param name="Комплектация насосом">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-21_HP-11-21" available="true">
-        <name>Пакеты для вакууматора 20*5.5 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
+        <name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
         <price>109.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-21_HP-11-21</vendorCode>
-        <description>Вакуумные пакеты 20*5,5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 20*5,5 см; тип: рулон; габарити рулону: 20*500 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5736</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">200</param>
-        <param name="Ширина">55</param>
+        <param name="Ширина">500</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
-        <param name="Длина">200</param>
+        <param name="Длина">20</param>
         <param name="Наличие индикатора">Нет</param>
         <param name="Комплектация насосом">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-22_HP-11-22" available="true">
-        <name>Пакеты для вакууматора 25*6 см в рулоне HP-11-22</name>
+        <name>Пакеты для вакууматора 25*500 см в рулоне HP-11-22</name>
         <price>129.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-22_HP-11-22</vendorCode>
-        <description>Вакуумные пакеты 25*6 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 25*6 см; тип: рулон; габарити рулону: 25*500 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 25*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 25*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5737</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5737/pakety_dlya_vakuumatora_25_6_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5737/pakety_dlya_vakuumatora_25_6_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
@@ -69503,21 +69427,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-23_HP-11-23" available="true">
-        <name>Пакеты для вакууматора 30*5.5 см в рулоне HP-11-23</name>
+        <name>Пакеты для вакууматора 30*500 см в рулоне HP-11-23</name>
         <price>149.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-23_HP-11-23</vendorCode>
-        <description>Вакуумные пакеты 30*5,5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 30*5,5 см; тип: рулон; габарити рулону: 30*500 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5738</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">200</param>
-        <param name="Ширина">5.5</param>
+        <param name="Ширина">500</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">30</param>
@@ -69526,21 +69450,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-24_HP-11-24" available="true">
-        <name>Пакеты для вакууматора 12*4.5 см в рулоне HP-11-24</name>
+        <name>Пакеты для вакууматора 12*300 см в рулоне HP-11-24</name>
         <price>69.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-24_HP-11-24</vendorCode>
-        <description>Вакуумные пакеты 12*4.5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 12*4.5 см; тип: рулон; габарити рулону: 12*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 12*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: тип: рулон; габарити рулону: 12*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5739</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5739/pakety_dlya_vakuumatora_12_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5739/pakety_dlya_vakuumatora_12_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">100</param>
-        <param name="Ширина">4.5</param>
+        <param name="Ширина">300</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">12</param>
@@ -69549,21 +69473,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-25_HP-11-25" available="true">
-        <name>Пакеты для вакууматора 15*4.5 см в рулоне HP-11-25</name>
+        <name>Пакеты для вакууматора 15*300 см в рулоне HP-11-25</name>
         <price>79.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-25_HP-11-25</vendorCode>
-        <description>Вакуумные пакеты 15*4.5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 15*4.5 см; тип: рулон; габарити рулону: 15*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 15*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: тип: рулон; габарити рулону: 15*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5740</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5740/pakety_dlya_vakuumatora_15_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5740/pakety_dlya_vakuumatora_15_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">100</param>
-        <param name="Ширина">4.5</param>
+        <param name="Ширина">300</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">15</param>
@@ -69572,21 +69496,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-26_HP-11-26" available="true">
-        <name>Пакеты для вакууматора 20*4.5 см в рулоне HP-11-26</name>
+        <name>Пакеты для вакууматора 20*300 см в рулоне HP-11-26</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-26_HP-11-26</vendorCode>
-        <description>Вакуумные пакеты 20*4,5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 20*4,5 см; тип: рулон; габарити рулону: 20*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 20*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: тип: рулон; габарити рулону: 20*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5741</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5741/pakety_dlya_vakuumatora_20_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5741/pakety_dlya_vakuumatora_20_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">100</param>
-        <param name="Ширина">4.5</param>
+        <param name="Ширина">300</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">20</param>
@@ -69595,21 +69519,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-27_HP-11-27" available="true">
-        <name>Пакеты для вакууматора 25*4.5 см в рулоне HP-11-27</name>
+        <name>Пакеты для вакууматора 25*300 см в рулоне HP-11-27</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-27_HP-11-27</vendorCode>
-        <description>Вакуумные пакеты 25*4.5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 25*4.5 см; тип: рулон; габарити рулону: 25*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 25*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: тип: рулон; габарити рулону: 25*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5742</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5742/pakety_dlya_vakuumatora_25_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5742/pakety_dlya_vakuumatora_25_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">200</param>
-        <param name="Ширина">4.5</param>
+        <param name="Ширина">300</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">25</param>
@@ -69618,21 +69542,21 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-11-28_HP-11-28" available="true">
-        <name>Пакеты для вакууматора 30*5 см в рулоне HP-11-28</name>
+        <name>Пакеты для вакууматора 30*300 см в рулоне HP-11-28</name>
         <price>119.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>96</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-11-28_HP-11-28</vendorCode>
-        <description>Вакуумные пакеты 30*5 см (в рулоне) &amp;ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: размер: 30*5 см; тип: рулон; габарити рулону: 30*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &amp;ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты &amp;ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
+        <description>Вакуумные пакеты 30*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования. Основные характеристики пакетов для вакууматора: тип: рулон; габарити рулону: 30*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен. Преимущества: Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки. Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5743</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5743/pakety_dlya_vakuumatora_30_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5743/pakety_dlya_vakuumatora_30_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
         <param name="Тип">Пакет</param>
         <param name="Материал">Полиэтилен</param>
         <param name="Вес">200</param>
-        <param name="Ширина">5</param>
+        <param name="Ширина">300</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">30</param>
