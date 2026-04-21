@@ -1,172 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-21 08:16">
+<yml_catalog date="2026-04-21 10:12">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="42">Термосы для детей</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="61">Сковородки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="6">LED ленты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="55">Рюмки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="125">Мангалы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="34">Подсвечники</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="87">Соковыжималки</category>
-      <category id="21">Электробритвы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="62">Ковши</category>
-      <category id="59">Все для выпечки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="98">Блендеры</category>
-      <category id="128">Органайзеры</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="122">Аксессуары</category>
-      <category id="47">Наборы для специй</category>
-      <category id="316">Туристические плиты</category>
-      <category id="68">Тарелки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="187">Слайсеры</category>
-      <category id="194">Менажницы</category>
-      <category id="144">Вентиляторы</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="318">Кусторезы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="114">Повербанки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="145">Смарт-часы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="57">Чашки</category>
-      <category id="75">Утюги</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="33">Пепельницы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="124">Решетки</category>
-      <category id="283">Подносы</category>
-      <category id="65">Креманки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="96">Вакууматоры</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="261">Терки</category>
-      <category id="14">Стайлеры</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="63">Кастрюли</category>
-      <category id="93">Электрочайники</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="66">Сервизы</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="317">Садовое освещение</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="72">Весы напольные</category>
-      <category id="90">Мясорубки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="103">Проекторы</category>
-      <category id="279">Зонты</category>
-      <category id="284">Новогодний декор</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="287">Банты на елку</category>
-      <category id="278">Косметички</category>
-      <category id="23">Фены</category>
-      <category id="13">Триммеры</category>
-      <category id="60">Мармиты</category>
-      <category id="184">Бульонницы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="77">Пылесосы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="298">Брелки</category>
-      <category id="141">Салатницы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="97">Весы кухонные</category>
-      <category id="89">Миксеры</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="186">Тостеры</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="224">Гамаки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="262">Термосумки</category>
       <category id="221">Туристические души</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="56">Бокалы</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="132">Конфетницы</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="15">Плойки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="17">Воскоплавы</category>
-      <category id="149">Палатки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="182">Блюда</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="53">Кувшины</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="133">Масленки</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="150">Спальные мешки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="166">Тортовницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="31">Часы настенные</category>
-      <category id="29">Салфетницы</category>
-      <category id="118">Сумки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="110">Наушники</category>
-      <category id="294">Новогодние елки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="300">Подушки для спины</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="76">Отпариватели</category>
-      <category id="3221201">Детская обувь и одежда</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="98">Блендеры</category>
       <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="295">Новогодние тарелки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="76">Отпариватели</category>
+      <category id="66">Сервизы</category>
+      <category id="149">Палатки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="31">Часы настенные</category>
+      <category id="318">Кусторезы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="2">Уличные гирлянды</category>
       <category id="67">Столовые приборы</category>
-      <category id="212">Мебель</category>
-      <category id="111">Портативные колонки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="61">Сковородки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="57">Чашки</category>
+      <category id="65">Креманки</category>
       <category id="54">Стаканы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="89">Миксеры</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="125">Мангалы</category>
+      <category id="224">Гамаки</category>
+      <category id="261">Терки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="13">Триммеры</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="15">Плойки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="142">Посуда для детей</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="144">Вентиляторы</category>
+      <category id="287">Банты на елку</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="14">Стайлеры</category>
+      <category id="166">Тортовницы</category>
+      <category id="187">Слайсеры</category>
+      <category id="62">Ковши</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="33">Пепельницы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="124">Решетки</category>
+      <category id="114">Повербанки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="53">Кувшины</category>
       <category id="140">Крышки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="122">Аксессуары</category>
+      <category id="6">LED ленты</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="298">Брелки</category>
+      <category id="68">Тарелки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="195">Разделочные доски</category>
+      <category id="292">Столовая посуда</category>
+      <category id="278">Косметички</category>
+      <category id="132">Конфетницы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="34">Подсвечники</category>
+      <category id="283">Подносы</category>
+      <category id="90">Мясорубки</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="29">Салфетницы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="186">Тостеры</category>
+      <category id="75">Утюги</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="59">Все для выпечки</category>
+      <category id="117">Рюкзаки</category>
+      <category id="141">Салатницы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="97">Весы кухонные</category>
+      <category id="184">Бульонницы</category>
+      <category id="93">Электрочайники</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="182">Блюда</category>
+      <category id="136">Дуршлаги</category>
+      <category id="118">Сумки</category>
+      <category id="72">Весы напольные</category>
+      <category id="262">Термосумки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="20">Эпиляторы</category>
+      <category id="87">Соковыжималки</category>
+      <category id="279">Зонты</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="42">Термосы для детей</category>
+      <category id="77">Пылесосы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="63">Кастрюли</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="96">Вакууматоры</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="60">Мармиты</category>
+      <category id="103">Проекторы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="133">Масленки</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="212">Мебель</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="194">Менажницы</category>
+      <category id="284">Новогодний декор</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="21">Электробритвы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="128">Органайзеры</category>
+      <category id="111">Портативные колонки</category>
+      <category id="23">Фены</category>
       <category id="269">Подарочные пакеты</category>
+      <category id="285">Йогуртницы</category>
+      <category id="317">Садовое освещение</category>
+      <category id="110">Наушники</category>
+      <category id="56">Бокалы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="55">Рюмки</category>
+      <category id="81">Капучинаторы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -28060,14 +28060,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-118M_HP-3-118M" available="true">
-        <name>Салфетница горизонтальная 21х13х9 см для салфеток на стол Мятный HP-3-118M</name>
+        <name>Салфетница горизонтальная 21х13,5х9 см для салфеток на стол Мятный HP-3-118M</name>
         <price>819.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-118M_HP-3-118M</vendorCode>
-        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер для салфеток обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21 х 13 х 9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Подходит для салфеток разного размера. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер для салфеток обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21 х 13,5 х 9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Подходит для салфеток разного размера. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3444</url>
         <picture>https://feed.lugi.com.ua/image/catalog/1111111/6513097658_w640_h640_6513097658.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3444/salfetnitsa_pryamougolnaya_21h13h9_sm_organayzer_dlya_salfetok_na_stol_1.png</picture>
@@ -28076,24 +28076,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3444/salfetnitsa_pryamougolnaya_21h13h9_sm_organayzer_dlya_salfetok_na_stol_4.png</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">90</param>
+        <param name="Высота">9</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13,5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Мятный</param>
-        <param name="Длина">210</param>
+        <param name="Длина">21</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-201B_HP-3-201B" available="true">
-        <name>Салфетница из эко кожи квадратная 13х13х14.5 см органайзер для салфеток на стол, Черный HP-3-201B</name>
+        <name>Салфетница из эко кожи квадратная 13х13х14,7 см органайзер для салфеток на стол, Черный HP-3-201B</name>
         <price>799.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-201B_HP-3-201B</vendorCode>
-        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14.5 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14,7 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3447</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3447/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_chernyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-201/HP-3-201B-%288%29.jpg</picture>
@@ -28103,24 +28103,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3447/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_chernyy_5.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">145</param>
+        <param name="Высота">14,7</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Черный</param>
-        <param name="Длина">130</param>
+        <param name="Длина">13</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-201G_HP-3-201G" available="true">
-        <name>Салфетница из эко кожи настольная 13х13х14.5 см органайзер для салфеток Серый HP-3-201G</name>
+        <name>Салфетница из эко кожи настольная 13х13х14,7 см органайзер для салфеток Серый HP-3-201G</name>
         <price>799.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-201G_HP-3-201G</vendorCode>
-        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14.5 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14,7 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3448</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3448/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_seryy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-201/HP-3-201G-%283%29.jpg</picture>
@@ -28129,24 +28129,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3448/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_seryy_5.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">145</param>
+        <param name="Высота">14,7</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Серый</param>
-        <param name="Длина">130</param>
+        <param name="Длина">13</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-202_HP-3-202" available="true">
-        <name>Салфетница из эко кожи 21.5х13х9 см для кафе и ресторанов Белый мрамор HP-3-202</name>
+        <name>Салфетница из эко кожи 25х13,5х10 см для кафе и ресторанов Белый мрамор HP-3-202</name>
         <price>879.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-202_HP-3-202</vendorCode>
-        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21.5х13х9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 25х13,5х10 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3450</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3450/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21_5h13h9_sm_organayzer_dlya_salfetok_na_stol.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-202/HP-3-202-%286%29.jpg</picture>
@@ -28156,12 +28156,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3450/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21_5h13h9_sm_organayzer_dlya_salfetok_na_stol_5.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">90</param>
+        <param name="Высота">10</param>
         <param name="Декоративное оформление">Роспись</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">215</param>
+        <param name="Длина">25</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -28191,14 +28191,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-208O_HP-3-208O" available="true">
-        <name>Салфетница из эко кожи 21х13.5х9.5 см для салфеток на стол Оранжевый HP-3-208O</name>
+        <name>Салфетница из эко кожи 25х13,5х9 см для салфеток на стол Оранжевый HP-3-208O</name>
         <price>819.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-208O_HP-3-208O</vendorCode>
-        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21х13.5х9.5 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 25х13,5х9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3455</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3455/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_oranzhevyy.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3455/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_oranzhevyy_1.png</picture>
@@ -28208,24 +28208,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3455/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_oranzhevyy_5.png</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">95</param>
+        <param name="Высота">9</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">135</param>
+        <param name="Ширина">13.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Оранжевый</param>
-        <param name="Длина">210</param>
+        <param name="Длина">25</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-208GR_HP-3-208GR" available="true">
-        <name>Салфетница из эко кожи 21х13.5х9.5 см для салфеток на стол Зеленый HP-3-208GR</name>
+        <name>Салфетница из эко кожи 25х13,5х9 см для салфеток на стол Зеленый HP-3-208GR</name>
         <price>819.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-208GR_HP-3-208GR</vendorCode>
-        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21х13.5х9.5 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол прямоугольная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 25х13,5х9 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3456</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3456/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_zelenyy.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3456/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_zelenyy_1.png</picture>
@@ -28235,12 +28235,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3456/salfetnitsa_iz_eko_kozhi_pryamougolnaya_21h13_5h9_5_sm_organayzer_dlya_salfetok_na_stol_zelenyy_5.png</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">95</param>
+        <param name="Высота">9</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">135</param>
+        <param name="Ширина">13.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Зелёный</param>
-        <param name="Длина">210</param>
+        <param name="Длина">25</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -28271,14 +28271,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-210BR_HP-3-210BR" available="true">
-        <name>Салфетница из эко кожи 21х12х8 см контейнер для салфеток в автомобиль Коричневый HP-3-210BR</name>
+        <name>Салфетница из эко кожи 22х11,5х9 см контейнер для салфеток в автомобиль Коричневый HP-3-210BR</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-210BR_HP-3-210BR</vendorCode>
-        <description>Органайзер для салфеток в салон авто &amp;ndash; практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21х12х8 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 22х11,5х9 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3458</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3458/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_korichnevyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-210/HP-3-210BR_5.jpg</picture>
@@ -28287,24 +28287,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3458/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_korichnevyy_4.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">80</param>
+        <param name="Высота">9</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">120</param>
+        <param name="Ширина">11.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Коричневый</param>
-        <param name="Длина">210</param>
+        <param name="Длина">22</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-210W_HP-3-210W" available="true">
-        <name>Салфетница из эко кожи 21х12х8 см контейнер для салфеток в автомобиль Белый HP-3-210W</name>
+        <name>Салфетница из эко кожи 22х11,5х9 см контейнер для салфеток в автомобиль Белый HP-3-210W</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-210W_HP-3-210W</vendorCode>
-        <description>Органайзер для салфеток в салон авто &amp;ndash; практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21х12х8 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 22х11,5х9 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3459</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3459/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_belyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-210/HP-3-210W_7.jpg</picture>
@@ -28313,24 +28313,24 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3459/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_belyy_4.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">80</param>
+        <param name="Высота">9</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">120</param>
+        <param name="Ширина">11.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">210</param>
+        <param name="Длина">22</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-210B_HP-3-210B" available="true">
-        <name>Салфетница из эко кожи в машину 21х12х8 см контейнер для салфеток Черный HP-3-210B</name>
+        <name>Салфетница из эко кожи в машину 22х11,5х9 см контейнер для салфеток Черный HP-3-210B</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-210B_HP-3-210B</vendorCode>
-        <description>Органайзер для салфеток в салон авто &amp;ndash; практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 21х12х8 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 22х11,5х9 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3460</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3460/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_chernyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-210/HP-3-210B_7.jpg</picture>
@@ -28339,11 +28339,11 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3460/salfetnitsa_iz_eko_kozhi_21h12h8_sm_konteyner_dlya_salfetok_chernyy_4.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">80</param>
-        <param name="Ширина">120</param>
+        <param name="Высота">9</param>
+        <param name="Ширина">11.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Черный</param>
-        <param name="Длина">210</param>
+        <param name="Длина">22</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -28433,14 +28433,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-3-201BR_HP-3-201BR" available="true">
-        <name>Салфетница из эко кожи 13х13х14.5 см для кафе и ресторанов на стол Коричневая HP-3-201BR</name>
+        <name>Салфетница из эко кожи 13х13х14,7 см для кафе и ресторанов на стол Коричневая HP-3-201BR</name>
         <price>799.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>29</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3-201BR_HP-3-201BR</vendorCode>
-        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14.5 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
+        <description>Салфетница на стол квадратная идеально подходит для использования как дома, так и в кафе. Изготовлена из двп и эко кожи, она долговечна и легко чистится. Простой дизайн делает его универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 13х13х14,7 см. Качественный материал. Идеально подходит для использования на дому, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3468</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3468/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_korichnevyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-3-201/HP-3-201BR-%283%29.jpg</picture>
@@ -28450,12 +28450,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3468/salfetnitsa_iz_eko_kozhi_kvadratnaya_13h13h14_5_sm_organayzer_dlya_salfetok_na_stol_korichnevyy_5.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">ДВП</param>
-        <param name="Высота">145</param>
+        <param name="Высота">14,7</param>
         <param name="Декоративное оформление">Без декора</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13</param>
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Коричневый</param>
-        <param name="Длина">130</param>
+        <param name="Длина">13</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -39865,7 +39865,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-2M_HP-4-2M" available="true">
-        <name>Подсвечник стеклянный 7×29 см подсвечник декоративный бокал на ножке HP-4-2M</name>
+        <name>Подсвечник стеклянный 29 см подсвечник декоративный бокал на ножке HP-4-2M</name>
         <price>749.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -39945,7 +39945,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-5M_HP-4-5M" available="true">
-        <name>Подсвечник стеклянный 7×31.5 см подсвечник декоративный бокал на ножке HP-4-5M</name>
+        <name>Подсвечник стеклянный 31.5 см декоративный на ножке HP-4-5M</name>
         <price>689.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40027,7 +40027,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-8M_HP-4-8M" available="true">
-        <name>Подсвечник стеклянный на тонкой ножке 9×34 см прозрачный декоративный подсвечник на стол HP-4-8M</name>
+        <name>Подсвечник стеклянный на тонкой ножке 34 см прозрачный HP-4-8M</name>
         <price>629.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40106,7 +40106,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-11M_HP-4-11M" available="true">
-        <name>Подсвечник стеклянный на ножке 6×19.5 см прозрачный декоративный подсвечник на стол HP-4-11M</name>
+        <name>Подсвечник стеклянный на ножке 19.5 см прозрачный декоративный подсвечник на стол HP-4-11M</name>
         <price>289.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40344,7 +40344,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-20M_HP-4-20M" available="true">
-        <name>Подсвечник стеклянный 6×13 см на одну свечу подсвечник бокал на ножке декоративный Серый HP-4-20M</name>
+        <name>Подсвечник стеклянный 13 см на одну свечу подсвечник бокал на ножке декоративный Серый HP-4-20M</name>
         <price>259.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40418,7 +40418,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-28M_HP-4-28M" available="true">
-        <name>Подсвечник стеклянный 6×13.3 см на одну свечу подсвечник бокал на ножке декоративный прозрачный HP-4-28M</name>
+        <name>Подсвечник стеклянный 13.3 см на одну свечу подсвечник бокал на ножке декоративный прозрачный HP-4-28M</name>
         <price>229.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40492,7 +40492,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-33M_HP-4-33M" available="true">
-        <name>Подсвечник стеклянный на ножке с золотой окантовкой 6×13.3 см подсвечник бокал декоративный прозрачный HP-4-33M</name>
+        <name>Подсвечник стеклянный на ножке с золотой окантовкой 13.3 см прозрачный HP-4-33M</name>
         <price>259.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40590,7 +40590,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-38M_HP-4-38M" available="true">
-        <name>Подсвечник стеклянный на ножке 6×16 см подсвечник бокал декоративный прозрачный HP-4-38M</name>
+        <name>Подсвечник стеклянный на ножке 16 см декоративный прозрачный HP-4-38M</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40663,7 +40663,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-41M_HP-4-41M" available="true">
-        <name>Подсвечник стеклянный на ножке 6.5×23 см подсвечник бокал декоративный прозрачный HP-4-41M</name>
+        <name>Подсвечник стеклянный на ножке 23 см подсвечник бокал декоративный прозрачный HP-4-41M</name>
         <price>389.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40740,7 +40740,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-44M_HP-4-44M" available="true">
-        <name>Подсвечник стеклянный на ножке 8×36 см подсвечник бокал декоративный прозрачный HP-4-44M</name>
+        <name>Подсвечник стеклянный на ножке 36 см декоративный прозрачный HP-4-44M</name>
         <price>509.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40817,7 +40817,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-53M_HP-4-53M" available="true">
-        <name>Подсвечник стеклянный на высокой ножке 9.5×9.5×22.5 см декоративный прозрачный HP-4-53M</name>
+        <name>Подсвечник стеклянный на высокой ножке 22.5 см декоративный прозрачный HP-4-53M</name>
         <price>1039.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -40950,7 +40950,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-68M_HP-4-68M" available="true">
-        <name>Тортовница стеклянная на ножке 12×18 см круглая стойка для торта, капкейков HP-4-68M</name>
+        <name>Тортовница стеклянная на ножке 18 см круглая HP-4-68M</name>
         <price>479.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41033,7 +41033,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-71M_HP-4-71M" available="true">
-        <name>Тортовница стеклянная на ножке 12×12×18 см квадратная стойка для торта, капкейков HP-4-71M</name>
+        <name>Тортовница стеклянная на ножке 18 см квадратная HP-4-71M</name>
         <price>569.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41118,7 +41118,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-88M_HP-4-88M" available="true">
-        <name>Тортовница стеклянная на высокой ножке 30×60 см круглая подставка для торта, капкейков HP-4-88M</name>
+        <name>Тортовница стеклянная на высокой ножке 60 см круглая HP-4-88M</name>
         <price>2019.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41291,7 +41291,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-103_HP-4-103" available="true">
-        <name>Конфетница с крышкой Ø7.5 см ваза сахарница круглая стеклянная HP-4-103</name>
+        <name>Конфетница с крышкой 15 см ваза сахарница круглая стеклянная HP-4-103</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41319,7 +41319,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-105_HP-4-105" available="true">
-        <name>Конфетница стеклянная с крышкой Ø7.5 см ваза сахарница круглая HP-4-105</name>
+        <name>Конфетница стеклянная с крышкой 16 см ваза сахарница круглая HP-4-105</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41346,7 +41346,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-107_HP-4-107" available="true">
-        <name>Сахарница с крышкой Ø8.5 см ваза сахарница круглая стеклянная HP-4-107</name>
+        <name>Сахарница с крышкой 16 см ваза сахарница круглая стеклянная HP-4-107</name>
         <price>209.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -41358,8 +41358,8 @@
         <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-107/_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4151/konfetnitsa_s_kryshkoy_8_5_sm_vaza_konfetnitsa_kruglaya_steklyannaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-107/_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-107/_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-107/_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-107/_1.jpg</picture>
         <param name="Материал">Стекло</param>
         <param name="Высота">16 см</param>
         <param name="Диаметр">8.5 см</param>
@@ -41428,7 +41428,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-4-113_HP-4-113" available="true">
-        <name>Конфетница стеклянная Ø9 см конфетница с крышкой прозрачная HP-4-113</name>
+        <name>Конфетница стеклянная 11 см конфетница с крышкой прозрачная HP-4-113</name>
         <price>169.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -53256,19 +53256,19 @@
         <param name="Термометр">Нет</param>
       </offer>
       <offer id="f11_HP-3Y-4BE_HP-3Y-4BE" available="true">
-        <name>Часы настенные диаметр 12 см круглые HP-3Y-4BE</name>
+        <name>Часы настенные диаметр 10 см круглые HP-3Y-4BE</name>
         <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>31</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3Y-4BE_HP-3Y-4BE</vendorCode>
-        <description>Настенные часы диаметром 12 см &amp;mdash; стильный и компактный аксессуар для кухни, выполненный в стиле лофт. Благодаря лаконичной круглой форме и минималистичному дизайну они органично дополнят современный интерьер. Легкий пластиковый корпус и стрелки обеспечивают надежность и удобство в использовании. Часы работают от одной батарейки и оснащены двумя стрелками &amp;mdash; часовой и минутной. Характеристики настенных часов для кухни: &amp;bull; диаметр &amp;mdash; 12 см; &amp;bull; материал корпуса &amp;mdash; пластик; &amp;bull; материал стрелок &amp;mdash; пластик; &amp;bull; количество батареек &amp;mdash; 1 (тип АА) не идут в комплекте; &amp;bull; количество стрелок &amp;mdash; 2. Преимущества настенных часов: &amp;bull; компактный размер, идеально подходит для кухни и небольших помещений; &amp;bull; универсальный дизайн в стиле лофт; &amp;bull; простая установка и легкость в уходе; &amp;bull; энергоэкономичный механизм работы. Такие часы станут не только функциональным элементом, но и стильным акцентом вашей кухни.</description>
+        <description>Настенные часы диаметром 10 см — стильный и компактный аксессуар для кухни, выполненный в стиле лофт. Благодаря лаконичной круглой форме и минималистичному дизайну они органично дополнят современный интерьер. Легкий пластиковый корпус и стрелки обеспечивают надежность и удобство в использовании. Часы работают от одной батарейки и оснащены двумя стрелками — часовой и минутной. Характеристики настенных часов для кухни: • диаметр — 10 см; • материал корпуса — пластик; • материал стрелок — пластик; • количество батареек — 1 (тип АА) не идут в комплекте; • количество стрелок — 2. Преимущества настенных часов: • компактный размер, идеально подходит для кухни и небольших помещений; • универсальный дизайн в стиле лофт; • простая установка и легкость в уходе; • энергоэкономичный механизм работы. Такие часы станут не только функциональным элементом, но и стильным акцентом вашей кухни.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4771</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/00000/HP-3Y-4BE/HP-3Y-4-3-600x600.jpg</picture>
         <param name="Барометр">Нет</param>
         <param name="Вес">0.4 кг</param>
-        <param name="Диаметр">12 см</param>
+        <param name="Диаметр">10 см</param>
         <param name="Подсветка">Нет</param>
         <param name="Индикация времени">Стрелочная</param>
         <param name="Гигрометр">Нет</param>
@@ -53322,19 +53322,19 @@
         <param name="Термометр">Нет</param>
       </offer>
       <offer id="f11_HP-3Y-4B_HP-3Y-4B" available="true">
-        <name>Часы настенные диаметр 12 см круглые HP-3Y-4B</name>
+        <name>Часы настенные диаметр 10 см круглые HP-3Y-4B</name>
         <price>349.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>31</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-3Y-4B_HP-3Y-4B</vendorCode>
-        <description>Настенные часы диаметром 12 см &amp;mdash; стильный и компактный аксессуар для кухни, выполненный в стиле лофт. Благодаря лаконичной круглой форме и минималистичному дизайну они органично дополнят современный интерьер. Легкий пластиковый корпус и стрелки обеспечивают надежность и удобство в использовании. Часы работают от одной батарейки и оснащены двумя стрелками &amp;mdash; часовой и минутной. Характеристики настенных часов для кухни: &amp;bull; диаметр &amp;mdash; 12 см; &amp;bull; материал корпуса &amp;mdash; пластик; &amp;bull; материал стрелок &amp;mdash; пластик; &amp;bull; количество батареек &amp;mdash; 1 (тип АА) не идут в комплекте; &amp;bull; количество стрелок &amp;mdash; 2. Преимущества настенных часов: &amp;bull; компактный размер, идеально подходит для кухни и небольших помещений; &amp;bull; универсальный дизайн в стиле лофт; &amp;bull; простая установка и легкость в уходе; &amp;bull; энергоэкономичный механизм работы. Такие часы станут не только функциональным элементом, но и стильным акцентом вашей кухни.</description>
+        <description>Настенные часы диаметром 10 см — стильный и компактный аксессуар для кухни, выполненный в стиле лофт. Благодаря лаконичной круглой форме и минималистичному дизайну они органично дополнят современный интерьер. Легкий пластиковый корпус и стрелки обеспечивают надежность и удобство в использовании. Часы работают от одной батарейки и оснащены двумя стрелками — часовой и минутной. Характеристики настенных часов для кухни: • диаметр — 10 см; • материал корпуса — пластик; • материал стрелок — пластик; • количество батареек — 1 (тип АА) не идут в комплекте; • количество стрелок — 2. Преимущества настенных часов: • компактный размер, идеально подходит для кухни и небольших помещений; • универсальный дизайн в стиле лофт; • простая установка и легкость в уходе; • энергоэкономичный механизм работы. Такие часы станут не только функциональным элементом, но и стильным акцентом вашей кухни.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4773</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4773/chasy_nastennye_diametr_12_sm_kruglye_chasy_na_kuhnyu_v_stile_loft.jpg</picture>
         <param name="Барометр">Нет</param>
         <param name="Вес">0.4 кг</param>
-        <param name="Диаметр">12 см</param>
+        <param name="Диаметр">10 см</param>
         <param name="Подсветка">Нет</param>
         <param name="Индикация времени">Стрелочная</param>
         <param name="Гигрометр">Нет</param>
@@ -60393,26 +60393,25 @@
         <param name="Длина">260</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-45-9BE_HP-45-9BE" available="true">
-        <name>Корзина для мусора пластиковая в офис для бумаги 22×22×30 (см) корзина под мусор 8 (л) мусорное ведро Бежевый HP-45-9BE</name>
+      <offer id="f11_HP-45-9G_HP-45-9G" available="true">
+        <name>Корзина для мусора пластиковая в офис для бумаги 22×22×30 (см) корзина под мусор 8 (л) мусорное ведро Серый HP-45-9G</name>
         <price>379.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>26</categoryId>
         <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-45-9BE_HP-45-9BE</vendorCode>
+        <vendorCode>f11_HP-45-9G_HP-45-9G</vendorCode>
         <description>Эта корзина для мусора станет практичным и стильным решением для вашего дома или офиса. Благодаря современному дизайну и продуманной конструкции она легко вписывается в любой интерьер и обеспечивает удобство в ежедневном использовании. Основные характеристики корзины для мусора: Объем: 8 л; Материал: пластик; Размер: 22&amp;times;22&amp;times;30 см. Особенности корзина под мусор: Строгие вертикальные линии и лаконичная форма придают корзине современный аккуратный вид, а нейтральный цвет гармонично сочетается с разными стилями оформления. Изготовлена из прочного пластика, устойчивого к ударам и деформации. Гладкая поверхность легко очищается и не требует особого ухода. Компактная вытянутая форма экономит пространство, при этом широкое отверстие позволяет удобно выбрасывать даже крупный мусор. Вертикальные прорези обеспечивают вентиляцию, уменьшают запахи и предотвращают накопление влаги. Легкая по весу и удобная в использовании: легко переносится, опустошается и подходит для любых стандартных мусорных пакетов. Благодаря сочетанию минималистичного дизайна и функциональности корзина станет отличным дополнением к кухне, ванной, прихожей, рабочему кабинету или общественным зонам. Это практичный аксессуар, который сделает пространство более организованным и удобным.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5175</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5175/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_bezhevyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5175/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_bezhevyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5175/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_bezhevyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5175/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_bezhevyy_3.jpg</picture>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5177</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5177/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_seryy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5177/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_seryy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5177/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_seryy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5177/korzina_dlya_musora_plastikovaya_v_ofis_dlya_bumagi_22_22_30_sm_korzina_pod_musor_8_l_musornoe_vedro_seryy_3.jpg</picture>
         <param name="Материал">Пластик</param>
         <param name="Высота">300</param>
         <param name="Вес">700</param>
         <param name="Ширина">220</param>
-        <param name="Объем">8</param>
-        <param name="Цвет">Белый</param>
+        <param name="Цвет">Серый</param>
         <param name="Длина">220</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -72777,22 +72776,6 @@
         <param name="Цвет">Синий</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-56-14B_HP-56-14B" available="true">
-        <name>Подушка для шеи Smile&amp;Hug U-образная темно-серый HP-56-14B</name>
-        <price>529.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>299</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-56-14B_HP-56-14B</vendorCode>
-        <description>Ортопедическая подушка-рогалик представляет собой оптимальное решение для тех, кто стремится к комфортному отдыху и анатомически правильной поддержке шеи. Данная модель объединяет в себе передовые технологии пены с эффектом памяти и стильный минималистичный внешний вид. Преимущества ортопедической подушки для шеи: &amp;bull; Наполнитель Memory Foam для анатомической поддержки: высококачественная пена с памятью формы точно повторяет индивидуальные контуры шеи и головы, что гарантирует правильное положение позвоночника и устранение мышечного напряжения во время длительного использования; &amp;bull; Катионная ткань с дышащими свойствами: внешнее покрытие изготовлено из инновационного катионного материала, который отличается высокой прочностью, отличной воздухопроницаемостью и способностью эффективно отводить влагу для поддержания оптимального микроклимата; &amp;bull; Система регулируемой фиксации: встроенный шнур с надежным фиксатором обеспечивает индивидуальную настройку степени прилегания и надежное крепление подушки на шее; &amp;bull; Многофункциональность применения: превосходно подходит для авиаперелетов, автомобильных путешествий, домашнего использования и работы в офисе. Технические характеристики подушки Memory Foam: &amp;bull; Внешний материал чехла: катионная ткань; &amp;bull; Внутренний наполнитель: пена с эффектом памяти memory foam; &amp;bull; Габаритные размеры: 30*30*10 см; &amp;bull; Общий вес изделия: 300 г.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5929</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5929/podushka_dlya_shei_smile_hug_u_obraznaya_temno_seryy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5929/podushka_dlya_shei_smile_hug_u_obraznaya_temno_seryy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5929/podushka_dlya_shei_smile_hug_u_obraznaya_temno_seryy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5929/podushka_dlya_shei_smile_hug_u_obraznaya_temno_seryy_3.jpg</picture>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-56-14G_HP-56-14G" available="true">
         <name>Подушка для шеи Smile&amp;Hug U-образная темно-серый HP-56-14G</name>
         <price>529.0</price>
@@ -76078,28 +76061,6 @@
         <param name="Применение">Для меда</param>
         <param name="Объем">0.35</param>
         <param name="Цвет">Прозрачный</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_64486-54_64486-54" available="true">
-        <name>Тортовница стеклянная на ножке прозрачная Yiwu 64486-54</name>
-        <price>1189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_64486-54_64486-54</vendorCode>
-        <description>Это настоящий трансформер в мире посуды! Гениальный и в то же время простой дизайн позволяет использовать этот один предмет в двух абсолютно разных ролях, просто перевернув его. Режим 1: Тортовница. В своем "стандартном" положении это элегантная тарель на устойчивой ножке. Она обладает изысканной рельефной текстурой, напоминающей переплетение ткани. Идеально подходит для эффектной подачи тортов, пирогов, капкейков или фруктов. Режим 2: Менажница. А теперь - магия: просто переверните ее! Большая тарель становится устойчивой основой, а полая ножка превращается в идеальную центральную чашу. Теперь вы можете разложить по кругу чипсы, начес, крекеры или овощные палочки, а в центр налить любимый соус. Изготовлена из толстого, прочного стекла, эта тортовница-трансформер - настоящий универсальный солдат для любой вечеринки! Характеристики тортовницы : Тип: Тортовница / Менажница (многофункциональная) Материал: Стекло Цвет: Прозрачный Особенности: Конструкция "трансформер" (2-в-1), рельефная текстура, устойчивая основа в обоих положениях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6113</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6113/tortovnitsa_transformer_steklyannaya_na_nozhke_menazhnitsa_transformer_steklyannaya_prozrachnaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6113/tortovnitsa_transformer_steklyannaya_na_nozhke_menazhnitsa_transformer_steklyannaya_prozrachnaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6113/tortovnitsa_transformer_steklyannaya_na_nozhke_menazhnitsa_transformer_steklyannaya_prozrachnaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6113/tortovnitsa_transformer_steklyannaya_na_nozhke_menazhnitsa_transformer_steklyannaya_prozrachnaya_3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-L6_HP-19-L6" available="true">
@@ -81619,14 +81580,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-18_HP-42-18" available="true">
-        <name>Коврик для сушки посуды 30*40 см диатомитовый HP-42-18</name>
+        <name>Коврик для сушки посуды 40*30 см диатомитовый HP-42-18</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>API-Prom.ua</vendor>
         <vendorCode>f11_HP-42-18_HP-42-18</vendorCode>
-        <description>Коврик для сушки посуды размером 30&amp;times;40 см выполнен из диатомитового камня &amp;mdash; натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства. Уход за ковриком не требует усилий &amp;mdash; достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне. Характеристики дренажного коврика для сушки посуды: Размер: 30&amp;times;40 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства. Преимущества коврика на кухню для посуды: эффективное впитывание влаги и защита поверхности; устойчивость на столе &amp;mdash; предотвращает скольжение; долговечный материал &amp;mdash; сохраняет форму и внешний вид; легкий уход &amp;mdash; быстро очищается и сохнет; универсальность &amp;mdash; подходит для сушки и сервировки посуды. Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.</description>
+        <description>Коврик для сушки посуды размером 40*30 см выполнен из диатомитового камня — натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства. Уход за ковриком не требует усилий — достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне. Характеристики дренажного коврика для сушки посуды: Размер: 40*30 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства. Преимущества коврика на кухню для посуды: эффективное впитывание влаги и защита поверхности; устойчивость на столе — предотвращает скольжение; долговечный материал — сохраняет форму и внешний вид; легкий уход — быстро очищается и сохнет; универсальность — подходит для сушки и сервировки посуды. Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6469</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_1.jpg</picture>
@@ -81640,14 +81601,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-19_HP-42-19" available="true">
-        <name>Коврик для сушки посуды диатомитовый 30*40 см универсальный HP-42-19</name>
+        <name>Коврик для сушки посуды диатомитовый 40*30 см универсальный HP-42-19</name>
         <price>99.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-19_HP-42-19</vendorCode>
-        <description>Коврик для сушки посуды размером 30&amp;times;40 см выполнен из диатомитового камня &amp;mdash; натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства. Уход за ковриком не требует усилий &amp;mdash; достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне. Характеристики дренажного коврика для сушки посуды: Размер: 30&amp;times;40 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства. Преимущества коврика на кухню для посуды: эффективное впитывание влаги и защита поверхности; устойчивость на столе &amp;mdash; предотвращает скольжение; долговечный материал &amp;mdash; сохраняет форму и внешний вид; легкий уход &amp;mdash; быстро очищается и сохнет; универсальность &amp;mdash; подходит для сушки и сервировки посуды. Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.</description>
+        <description>Коврик для сушки посуды размером 40*30 см выполнен из диатомитового камня — натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства. Уход за ковриком не требует усилий — достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне. Характеристики дренажного коврика для сушки посуды: Размер: 40*30 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства. Преимущества коврика на кухню для посуды: эффективное впитывание влаги и защита поверхности; устойчивость на столе — предотвращает скольжение; долговечный материал — сохраняет форму и внешний вид; легкий уход — быстро очищается и сохнет; универсальность — подходит для сушки и сервировки посуды. Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6470</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6470/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_korichnevyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6470/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_korichnevyy_1.jpg</picture>
@@ -81829,14 +81790,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-30_HP-42-30" available="true">
-        <name>Коврик универсальный с 3D-эффектом Garden Mirage 38*58 см диатомитовый HP-42-30</name>
+        <name>Коврик универсальный с 3D-эффектом Garden Mirage 58*38 см диатомитовый HP-42-30</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-30_HP-42-30</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6481</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6481/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6481/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta_1.jpg</picture>
@@ -81852,14 +81813,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-31_HP-42-31" available="true">
-        <name>Коврик диатомитовый с 3D-эффектом Embroidered Bloomscape 38*58 см универсальный HP-42-31</name>
+        <name>Коврик диатомитовый с 3D-эффектом Embroidered Bloomscape 58*38 см универсальный HP-42-31</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-31_HP-42-31</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6482</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6482/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6482/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta_1.jpg</picture>
@@ -81873,14 +81834,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-32_HP-42-32" available="true">
-        <name>Коврик диатомитовый с 3D-эффектом Dreamscape Bloom 38*58 см универсальный HP-42-32</name>
+        <name>Коврик диатомитовый с 3D-эффектом Dreamscape Bloom 58*38 см универсальный HP-42-32</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-32_HP-42-32</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6483</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6483/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6483/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta_1.jpg</picture>
@@ -81896,14 +81857,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-33_HP-42-33" available="true">
-        <name>Коврик диатомитовый с 3D-эффектом Sunset Meadow 38*58 см универсальный HP-42-33</name>
+        <name>Коврик диатомитовый с 3D-эффектом Sunset Meadow 58*38 см универсальный HP-42-33</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-33_HP-42-33</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6484</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6484/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6484/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_dusha_i_tualeta_1.jpg</picture>
@@ -81919,14 +81880,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-34_HP-42-34" available="true">
-        <name>Коврик диатомитовый с 3D-эффектом Whimsical Village 38*58 см универсальный HP-42-34</name>
+        <name>Коврик диатомитовый с 3D-эффектом Whimsical Village 58*38 см универсальный HP-42-34</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-34_HP-42-34</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6485</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6485/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6485/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_1.jpg</picture>
@@ -81942,14 +81903,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-35_HP-42-35" available="true">
-        <name>Коврик для ванной комнаты с 3D-эффектом Petal Relief 38*58 см диатомитовый Коричневый HP-42-35</name>
+        <name>Коврик для ванной комнаты с 3D-эффектом Petal Relief 58*38 см диатомитовый Коричневый HP-42-35</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-35_HP-42-35</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6486</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6486/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6486/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_1.jpg</picture>
@@ -81965,14 +81926,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-36_HP-42-36" available="true">
-        <name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 38*58 см диатомитовый Синий HP-42-36</name>
+        <name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 58*38 см диатомитовый Синий HP-42-36</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-36_HP-42-36</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6487</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6487/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6487/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_1.jpg</picture>
@@ -81988,14 +81949,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-37_HP-42-37" available="true">
-        <name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 38*58 см диатомитовый Коричневый HP-42-37</name>
+        <name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 58*38 см диатомитовый Коричневый HP-42-37</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-37_HP-42-37</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6488</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6488/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6488/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_1.jpg</picture>
@@ -82010,14 +81971,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-38_HP-42-38" available="true">
-        <name>Коврик для ванной комнаты с 3D-эффектом Petal Relief 38*58 см диатомитовый Черный HP-42-38</name>
+        <name>Коврик для ванной комнаты с 3D-эффектом Petal Relief 58*38 см диатомитовый Черный HP-42-38</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-38_HP-42-38</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты. Характеристики 3d коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6489</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6489/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6489/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_1.jpg</picture>
@@ -82033,14 +81994,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-39_HP-42-39" available="true">
-        <name>Коврик привратный Welcome Form 38*58 см диатомитовый HP-42-39</name>
+        <name>Коврик привратный Welcome Form 58*38 см диатомитовый HP-42-39</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-39_HP-42-39</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6490</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
@@ -82057,14 +82018,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-40_HP-42-40" available="true">
-        <name>Коврик привратный Framed Welcome 38*58 см диатомитовый HP-42-40</name>
+        <name>Коврик привратный Framed Welcome 58*38 см диатомитовый HP-42-40</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-40_HP-42-40</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6491</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6491/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6491/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
@@ -82080,14 +82041,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-41_HP-42-41" available="true">
-        <name>Коврик привратный Vertical Welcome 38*58 см диатомитовый HP-42-41</name>
+        <name>Коврик привратный Vertical Welcome 58*38 см диатомитовый HP-42-41</name>
         <price>159.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>273</categoryId>
         <vendor>Jiamat</vendor>
         <vendorCode>f11_HP-42-41_HP-42-41</vendorCode>
-        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом &amp;mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&amp;times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик &amp;mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
+        <description>Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных. Характеристики придверного коврика из диатомита: Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома. Преимущества влаговпитывающего коврика для входной двери: Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго. Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6492</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
@@ -87488,34 +87449,6 @@
         <param name="Тип емкости">Лимонадница</param>
         <param name="Нижний диаметр">170</param>
       </offer>
-      <offer id="f11_HP-19-293_HP-19-293" available="true">
-        <name>Лимонадница с краном стеклянная 3 л диспенсер для напитков лимонадник с краном HP-19-293</name>
-        <price>1129.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>52</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-19-293_HP-19-293</vendorCode>
-        <description>Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики: Объём: 3 л; Высота: 50 см; Материал: стекло; Верхний диаметр : 17 см. Особенности: Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых. Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6778</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">500</param>
-        <param name="Верхний диаметр">170</param>
-        <param name="Назначение">Универсальное</param>
-        <param name="Декоративное оформление">Гравировка</param>
-        <param name="Объем">3000</param>
-        <param name="Наличие ручки">Нет</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Способ закрывания">Крышка</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип емкости">Лимонадница</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-19-294_HP-19-294" available="true">
         <name>Лимонадница Topaz Crystal 5л с краном HP-19-294 кувшин диспенсер для напитков прозрачный</name>
         <price>1489.0</price>
@@ -90182,34 +90115,6 @@
         <param name="Расположение">Настольное</param>
         <param name="Тип крышки">Съемная</param>
         <param name="Форм-фактор">Переносной</param>
-        <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_ML850-15_ML850-15" available="true">
-        <name>Мармитница фарфоровая на подставке 2л с подогревом белый 40х22.5х15.5 см ML850-15</name>
-        <price>2089.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_ML850-15_ML850-15</vendorCode>
-        <description>Мармитница фарфоровая прямоугольной формы выполнена в нейтральном белом цвете, который легко сочетается с разными стилями сервировки. Изделие предназначено для подачи и поддержания температуры горячих блюд во время семейных обедов, праздничных событий или профессионального использования. Прямоугольная форма позволяет удобно размещать мармитницу на столе и эффективно использовать пространство. Мармитница хорошо сохраняет тепло и подходит для различных видов горячих блюд. Прозрачная стеклянная крышка позволяет видеть содержимое без открывания, что помогает уменьшить потерю температуры и сохранить внешний вид блюда. Крышка легко снимается и удобна в уходе. Мармитница установлена на металлической подставке с золотистым покрытием, которая оснащена подогревом от свечей-таблеток. Такой способ нагрева не требует электричества и подходит для выездных мероприятий, фуршетов и банкетов. Конструкция обеспечивает стабильность и рассчитана на регулярное использование. Характеристики: Тип изделия: мармитница Форма: прямоугольная Материал чаши: фарфор Цвет чаши: белый Крышка: стеклянная, прозрачная Материал подставки: металл Цвет подставки: золотистый Тип подогрева: от свечей-таблеток</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6927</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6927/marmitnitsa_farforovaya_na_metallicheskoy_podstavke_2l_s_podogrevom_belyy_40h22_5h15_5_sm_marmit_teplye_blyuda_fu_3.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">15.5</param>
-        <param name="Вид оборудования">Мармит</param>
-        <param name="Назначение">Для первых блюд</param>
-        <param name="Количество емкостей">1</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">22.5</param>
-        <param name="Расположение">Настольное</param>
-        <param name="Объем">2</param>
-        <param name="Тип крышки">Съемная</param>
-        <param name="Длина">40</param>
-        <param name="Форм-фактор">Переносной</param>
-        <param name="Цвет корпуса">Белый</param>
         <param name="Форма">Прямоугольная</param>
       </offer>
       <offer id="f11_ML1106-11_ML1106-11" available="true">
