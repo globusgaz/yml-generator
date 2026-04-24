@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-24 09:19">
+<yml_catalog date="2026-04-24 11:25">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="31">Часы настенные</category>
-      <category id="77">Пылесосы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="318">Кусторезы</category>
-      <category id="224">Гамаки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="66">Сервизы</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="67">Столовые приборы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="15">Плойки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="55">Рюмки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="283">Подносы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="65">Креманки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="140">Крышки</category>
-      <category id="118">Сумки</category>
-      <category id="75">Утюги</category>
-      <category id="47">Наборы для специй</category>
-      <category id="53">Кувшины</category>
-      <category id="279">Зонты</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="145">Смарт-часы</category>
-      <category id="186">Тостеры</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="54">Стаканы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="182">Блюда</category>
-      <category id="96">Вакууматоры</category>
-      <category id="294">Новогодние елки</category>
-      <category id="221">Туристические души</category>
-      <category id="262">Термосумки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="62">Ковши</category>
-      <category id="267">Подушки-игрушки</category>
       <category id="291">Новогодние чашки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="194">Менажницы</category>
-      <category id="89">Миксеры</category>
-      <category id="20">Эпиляторы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="63">Кастрюли</category>
-      <category id="148">Туристические коврики</category>
-      <category id="110">Наушники</category>
-      <category id="87">Соковыжималки</category>
-      <category id="60">Мармиты</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="150">Спальные мешки</category>
-      <category id="298">Брелки</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="316">Туристические плиты</category>
-      <category id="90">Мясорубки</category>
-      <category id="132">Конфетницы</category>
-      <category id="72">Весы напольные</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="76">Отпариватели</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="124">Решетки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="149">Палатки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="133">Масленки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="103">Проекторы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="57">Чашки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="59">Все для выпечки</category>
-      <category id="187">Слайсеры</category>
-      <category id="111">Портативные колонки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="56">Бокалы</category>
-      <category id="122">Аксессуары</category>
-      <category id="287">Банты на елку</category>
-      <category id="93">Электрочайники</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="29">Салфетницы</category>
-      <category id="195">Разделочные доски</category>
-      <category id="98">Блендеры</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="117">Рюкзаки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="284">Новогодний декор</category>
-      <category id="42">Термосы для детей</category>
-      <category id="125">Мангалы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="17">Воскоплавы</category>
-      <category id="21">Электробритвы</category>
-      <category id="141">Салатницы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="271">Товары для уборки</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="285">Йогуртницы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="114">Повербанки</category>
-      <category id="61">Сковородки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="193">Доски для подачи</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="278">Косметички</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="13">Триммеры</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="261">Терки</category>
-      <category id="14">Стайлеры</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="97">Весы кухонные</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="136">Дуршлаги</category>
-      <category id="260">Дождевики и пончо туристические</category>
       <category id="82">Другая мелкая техника</category>
-      <category id="34">Подсвечники</category>
-      <category id="23">Фены</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="68">Тарелки</category>
-      <category id="128">Органайзеры</category>
-      <category id="33">Пепельницы</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="166">Тортовницы</category>
-      <category id="144">Вентиляторы</category>
-      <category id="212">Мебель</category>
-      <category id="184">Бульонницы</category>
-      <category id="269">Подарочные пакеты</category>
+      <category id="103">Проекторы</category>
       <category id="12">Косметические зеркала</category>
+      <category id="62">Ковши</category>
+      <category id="194">Менажницы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="23">Фены</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="20">Эпиляторы</category>
+      <category id="292">Столовая посуда</category>
+      <category id="56">Бокалы</category>
+      <category id="262">Термосумки</category>
+      <category id="118">Сумки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="117">Рюкзаки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="29">Салфетницы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="60">Мармиты</category>
+      <category id="54">Стаканы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="65">Креманки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="212">Мебель</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="166">Тортовницы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="17">Воскоплавы</category>
+      <category id="128">Органайзеры</category>
+      <category id="15">Плойки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="31">Часы настенные</category>
+      <category id="141">Салатницы</category>
+      <category id="133">Масленки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="195">Разделочные доски</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="98">Блендеры</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="149">Палатки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="61">Сковородки</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="279">Зонты</category>
+      <category id="52">Лимонадницы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="144">Вентиляторы</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="296">Полки, этажерки, шкафы</category>
       <category id="6">LED ленты</category>
+      <category id="122">Аксессуары</category>
+      <category id="285">Йогуртницы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="63">Кастрюли</category>
+      <category id="187">Слайсеры</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="97">Весы кухонные</category>
+      <category id="186">Тостеры</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="93">Электрочайники</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="13">Триммеры</category>
+      <category id="125">Мангалы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="193">Доски для подачи</category>
+      <category id="89">Миксеры</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="66">Сервизы</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="53">Кувшины</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="278">Косметички</category>
+      <category id="145">Смарт-часы</category>
+      <category id="317">Садовое освещение</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="90">Мясорубки</category>
       <category id="300">Подушки для спины</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="318">Кусторезы</category>
+      <category id="114">Повербанки</category>
+      <category id="140">Крышки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="77">Пылесосы</category>
+      <category id="72">Весы напольные</category>
+      <category id="224">Гамаки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="184">Бульонницы</category>
+      <category id="261">Терки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="68">Тарелки</category>
+      <category id="110">Наушники</category>
+      <category id="57">Чашки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="67">Столовые приборы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="283">Подносы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="33">Пепельницы</category>
+      <category id="182">Блюда</category>
+      <category id="76">Отпариватели</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="221">Туристические души</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="55">Рюмки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="132">Конфетницы</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="47">Наборы для специй</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="34">Подсвечники</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="21">Электробритвы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="142">Посуда для детей</category>
+      <category id="124">Решетки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="287">Банты на елку</category>
+      <category id="14">Стайлеры</category>
+      <category id="298">Брелки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="75">Утюги</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="102">Микрофоны петличные</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -28776,13 +28776,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/124/SK-7028/sk7028_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3489/chopper_izmelchitel_s_chashey_4_litra_myasorezka_4_lezviya_nerzhaveyushchaya_stal_myasorubka_sokany_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/124/SK-7028/sk7028_6.jpg</picture>
-        <param name="Высота">340</param>
+        <param name="Высота">34</param>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">1.8</param>
+        <param name="Вес">1.84</param>
         <param name="Потребляемая мощность">800</param>
         <param name="Длина сетевого шнура">0.85</param>
         <param name="Назначение">Бытовое</param>
-        <param name="Ширина">200</param>
+        <param name="Ширина">20</param>
         <param name="Количество скоростей">2</param>
         <param name="Материал корпуса">Нержавеющая сталь|Пластик</param>
         <param name="Материал чаши">Нержавеющая сталь</param>
@@ -30110,15 +30110,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/126/SK-213/sk213_8.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/126/SK-213/sk213_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/126/SK-213/sk213_1.jpg</picture>
-        <param name="Высота">170</param>
+        <param name="Высота">17</param>
         <param name="Встраиваемая техника">Нет</param>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">0.52</param>
-        <param name="Глубина">160</param>
+        <param name="Вес">0.5</param>
+        <param name="Глубина">16</param>
         <param name="Потребляемая мощность">600</param>
         <param name="Длина сетевого шнура">0.5</param>
         <param name="Назначение">Бытовое</param>
-        <param name="Ширина">120</param>
+        <param name="Ширина">12</param>
         <param name="Объем">0.5</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Нержавеющая сталь</param>
@@ -32235,7 +32235,7 @@
         <param name="Количество предметов в наборе">4</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Применение">Для сыпучих продуктов</param>
-        <param name="Объем">0.75 л | 1.7 л | 2.7 л | 3.7 л</param>
+        <param name="Объем">3.7/2.7/1.7/0.75 л</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Прозрачный</param>
@@ -32265,7 +32265,7 @@
         <param name="Количество предметов в наборе">8</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Применение">Для сыпучих продуктов</param>
-        <param name="Объем">3.7 л | 2.7 л | 2.4 л | 1.8 л | 1,7 л | 1.2 л | 0.75 л | 0.5 л</param>
+        <param name="Объем">3.7/2.7/2.4/1.8/1.7/1.2/0.75/0.5 л</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Прозрачный</param>
@@ -37831,9 +37831,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_2.jpg</picture>
         <param name="Тип">Спортивная бутылка</param>
         <param name="Материал">Тритан</param>
-        <param name="Высота">320</param>
+        <param name="Высота">23</param>
         <param name="Вес">200</param>
-        <param name="Диаметр">75</param>
+        <param name="Диаметр">7.5</param>
         <param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
         <param name="Объем">650</param>
         <param name="Цвет">Черный</param>
@@ -37883,8 +37883,8 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_4.png</picture>
         <param name="Тип">Бутылка для напитков</param>
         <param name="Материал">Поликарбонат</param>
-        <param name="Высота">220</param>
-        <param name="Вес">200</param>
+        <param name="Высота">22</param>
+        <param name="Вес">220</param>
         <param name="Диаметр">75</param>
         <param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
         <param name="Объем">760</param>
@@ -38313,7 +38313,7 @@
         <param name="Тип">Набор для специй</param>
         <param name="Материал">Стекло</param>
         <param name="Количество емкостей">8</param>
-        <param name="Объем">120</param>
+        <param name="Объем">120/300/500 мл</param>
         <param name="Цвет">Белый</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
@@ -41523,7 +41523,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/000000000000/HP-4-110/1_2.jpg</picture>
         <param name="Тип">Салфетница</param>
         <param name="Материал">Стекло</param>
-        <param name="Высота">17.5 см</param>
+        <param name="Высота">17 см</param>
         <param name="Диаметр">15 см</param>
         <param name="Декоративное оформление">Гравировка</param>
         <param name="Количество в наборе">1</param>
@@ -41840,7 +41840,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4180/pakety_dlya_vakuumatora_19_15_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
         <param name="Тип">Набор пакетов</param>
         <param name="Материал">Полиэтилен</param>
-        <param name="Вес">400</param>
+        <param name="Вес">100</param>
         <param name="Ширина">150</param>
         <param name="Применение">Для хранения продуктов</param>
         <param name="Цвет">Прозрачный</param>
@@ -41861,7 +41861,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4181/pakety_dlya_vakuumatora_24_16sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
         <param name="Тип">Набор пакетов</param>
         <param name="Материал">Полиэтилен</param>
-        <param name="Вес">400</param>
+        <param name="Вес">100</param>
         <param name="Ширина">160</param>
         <param name="Применение">Для хранения продуктов</param>
         <param name="Цвет">Прозрачный</param>
@@ -41882,7 +41882,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4182/pakety_dlya_vakuumatora_30_19_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
         <param name="Тип">Набор пакетов</param>
         <param name="Материал">Полиэтилен</param>
-        <param name="Вес">700</param>
+        <param name="Вес">100</param>
         <param name="Ширина">190</param>
         <param name="Применение">Для хранения продуктов</param>
         <param name="Цвет">Прозрачный</param>
@@ -41903,7 +41903,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4183/pakety_dlya_vakuumatora_33_23_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
         <param name="Тип">Набор пакетов</param>
         <param name="Материал">Полиэтилен</param>
-        <param name="Вес">1000</param>
+        <param name="Вес">100</param>
         <param name="Ширина">230</param>
         <param name="Применение">Для хранения продуктов</param>
         <param name="Цвет">Прозрачный</param>
@@ -42624,10 +42624,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4220/konteyner_dlya_edy_s_8_otsekami_31h24h7_sm_sudok_dlya_edy_plastikovyy_2_5_l_belyy_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4220/konteyner_dlya_edy_s_8_otsekami_31h24h7_sm_sudok_dlya_edy_plastikovyy_2_5_l_belyy_6.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">70</param>
+        <param name="Высота">7</param>
         <param name="Количество предметов в наборе">1</param>
-        <param name="Ширина">240</param>
-        <param name="Объем">2500</param>
+        <param name="Ширина">24</param>
+        <param name="Объем">2.5/0.25 л</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Да</param>
         <param name="Цвет">Белый</param>
@@ -42712,14 +42712,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4223/konteyner_dlya_edy_plastikovyy_32_5h22_5h6_s_indikatorom_daty_i_regulirovkoy_vlazhnosti_pishchevoy_konteyner_belyy_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4223/konteyner_dlya_edy_plastikovyy_32_5h22_5h6_s_indikatorom_daty_i_regulirovkoy_vlazhnosti_pishchevoy_konteyner_belyy_8.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">60</param>
+        <param name="Высота">6</param>
         <param name="Количество предметов в наборе">1</param>
-        <param name="Ширина">225</param>
-        <param name="Объем">1</param>
+        <param name="Ширина">22.5</param>
+        <param name="Объем">1.5</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Да</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">325</param>
+        <param name="Длина">32.5</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -42777,8 +42777,8 @@
         <param name="Длина формы">305</param>
         <param name="Количество в наборе">1</param>
         <param name="Ширина формы">240</param>
-        <param name="Количество ячеек">126</param>
-        <param name="Объем">700</param>
+        <param name="Количество ячеек">12.6</param>
+        <param name="Объем">2.5/0.035 л</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Да</param>
         <param name="Цвет">Бежевый</param>
@@ -42805,11 +42805,11 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4226/konteyner_dlya_zamorozki_lda_s_kryshkoy_72_otseka_30_5h16h7_5_sm_pishchevoy_konteyner_plastikovyy_bezhevyy_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4226/konteyner_dlya_zamorozki_lda_s_kryshkoy_72_otseka_30_5h16h7_5_sm_pishchevoy_konteyner_plastikovyy_bezhevyy_8.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Длина формы">305</param>
+        <param name="Длина формы">30.5</param>
         <param name="Количество в наборе">1</param>
-        <param name="Ширина формы">160</param>
+        <param name="Ширина формы">16</param>
         <param name="Количество ячеек">72</param>
-        <param name="Объем">400</param>
+        <param name="Объем">1/0.2 л</param>
         <param name="Цвет">Бежевый</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -42843,14 +42843,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-27-11_HP-27-11" available="true">
-        <name>Контейнер для еды с 2 отсеками 23.5х17х7 см судок для еды пластиковый 1.4 л Белый HP-27-11</name>
+        <name>Контейнер для еды с 2 отсеками 23.5х17х7 см судок для еды пластиковый 2 л Белый HP-27-11</name>
         <price>279.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>48</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-27-11_HP-27-11</vendorCode>
-        <description>Контейнер предназначен для раздельного хранения продуктов - две отдельные секции позволяют хранить различные виды пищи без смешивания вкусов и запахов. Это удобно для хранения обеда, перекусов или готовых блюд. Благодаря компактной прямоугольной форме контейнер подходит как для домашнего использования, так и для транспортировки еды на работу или учебу. Основные характеристики: Размер: 23.5х17х7 см; Внутренний размер: 21.5х15х5 см; Размер отсека: 20.5х6.5х5 см; Объем: 1.4 л; Количество отсеков: 2 шт; Материал: пластик. Контейнер имеет съемную решетчатую подставку, которая обеспечивает вентиляцию и отвод влаги. Такая конструкция помогает сохранять свежесть овощей, фруктов или других влажных продуктов. Контейнер легко моется и может использоваться повторно. Материал не впитывает запахов, устойчив к пятнам, а герметичная крышка плотно фиксируется, предотвращая протекание. Контейнер удобен для хранения в холодильнике, а также для использования в дороге.</description>
+        <description>Контейнер предназначен для раздельного хранения продуктов - две отдельные секции позволяют хранить различные виды пищи без смешивания вкусов и запахов. Это удобно для хранения обеда, перекусов или готовых блюд. Благодаря компактной прямоугольной форме контейнер подходит как для домашнего использования, так и для транспортировки еды на работу или учебу. Основные характеристики: Размер: 23.5х17х7 см; Внутренний размер: 21.5х15х5 см; Размер отсека: 20.5х6.5х5 см; Объем: 2 л; Количество отсеков: 2 шт; Материал: пластик. Контейнер имеет съемную решетчатую подставку, которая обеспечивает вентиляцию и отвод влаги. Такая конструкция помогает сохранять свежесть овощей, фруктов или других влажных продуктов. Контейнер легко моется и может использоваться повторно. Материал не впитывает запахов, устойчив к пятнам, а герметичная крышка плотно фиксируется, предотвращая протекание. Контейнер удобен для хранения в холодильнике, а также для использования в дороге.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4228</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4228/konteyner_dlya_edy_s_2_otsekami_23_5h17h7_sm_sudok_dlya_edy_plastikovyy_1_4_l_belyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4228/konteyner_dlya_edy_s_2_otsekami_23_5h17h7_sm_sudok_dlya_edy_plastikovyy_1_4_l_belyy_1.jpg</picture>
@@ -42859,15 +42859,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4228/konteyner_dlya_edy_s_2_otsekami_23_5h17h7_sm_sudok_dlya_edy_plastikovyy_1_4_l_belyy_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4228/konteyner_dlya_edy_s_2_otsekami_23_5h17h7_sm_sudok_dlya_edy_plastikovyy_1_4_l_belyy_5.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">70</param>
+        <param name="Высота">7</param>
         <param name="Количество предметов в наборе">1</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">170</param>
-        <param name="Объем">1400</param>
+        <param name="Ширина">17</param>
+        <param name="Объем">2</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Да</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">235</param>
+        <param name="Длина">23.5</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -42920,10 +42920,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4231/konteyner_dlya_edy_s_9_otsekami_plastikovyy_29_sm_pishchevoy_konteyner_dlya_hraneniya_edy_3_5_l_bezhevyy_8.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4231/konteyner_dlya_edy_s_9_otsekami_plastikovyy_29_sm_pishchevoy_konteyner_dlya_hraneniya_edy_3_5_l_bezhevyy_9.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">80</param>
+        <param name="Высота">8</param>
         <param name="Количество предметов в наборе">1</param>
-        <param name="Диаметр">290</param>
-        <param name="Объем">3500</param>
+        <param name="Диаметр">29</param>
+        <param name="Объем">3.5/0.3</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Да</param>
         <param name="Цвет">Бежевый</param>
@@ -43738,12 +43738,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_6.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_7.png</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">230</param>
-        <param name="Диаметр">120</param>
+        <param name="Высота">22.5</param>
+        <param name="Диаметр">12</param>
         <param name="Пресс-фильтр">Нет</param>
         <param name="Материал крышки">Металл</param>
-        <param name="Ширина">120</param>
-        <param name="Объем">2000</param>
+        <param name="Ширина">12</param>
+        <param name="Объем">2</param>
         <param name="Ситечко">Нет</param>
         <param name="Материал ручки">Дерево</param>
         <param name="Цвет">Прозрачный</param>
@@ -44250,12 +44250,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
-        <param name="Мощность">20</param>
-        <param name="Диаметр">70</param>
+        <param name="Мощность">15 / 20 Вт</param>
+        <param name="Диаметр">7</param>
         <param name="Напряжение">220</param>
         <param name="Количество в упаковке">1</param>
         <param name="Минимальное рабочее напряжение">85</param>
-        <param name="Длина">160</param>
+        <param name="Длина">16</param>
         <param name="Максимальное рабочее напряжение">265</param>
         <param name="Минимальная цветовая температура">8000</param>
         <param name="Максимальная цветовая температура">8500</param>
@@ -44283,12 +44283,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-5-32/532_5.jpg</picture>
-        <param name="Мощность">20</param>
-        <param name="Диаметр">70</param>
+        <param name="Мощность">15/20 Вт</param>
+        <param name="Диаметр">7</param>
         <param name="Напряжение">220</param>
         <param name="Количество в упаковке">1</param>
         <param name="Минимальное рабочее напряжение">90</param>
-        <param name="Длина">170</param>
+        <param name="Длина">17</param>
         <param name="Максимальное рабочее напряжение">265</param>
         <param name="Минимальная цветовая температура">8000</param>
         <param name="Максимальная цветовая температура">8500</param>
@@ -44663,7 +44663,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4351/apparat_dlya_korn_dogov_sokany_sk_08037_750_vt_na_6_sht_s_antiprigarnym_pokrytiem_elektricheskaya_korndognitsa_7.jpg</picture>
         <param name="Высота">10 см</param>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">1.6 кг</param>
+        <param name="Вес">1.5 кг</param>
         <param name="Вариант установки">Настольный</param>
         <param name="Потребляемая мощность">750 Вт</param>
         <param name="Длина сетевого шнура">0.7 м</param>
@@ -44885,7 +44885,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/SK-14005/sk14005.1.jpg</picture>
         <param name="Тип">Фен</param>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">0.95 кг</param>
+        <param name="Вес">0.9 кг</param>
         <param name="Защита от перегрева">Да</param>
         <param name="Количество режимов работы">2</param>
         <param name="Количество температурных режимов">2</param>
@@ -45635,7 +45635,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-V-332/V332_5.jpg</picture>
         <param name="Высота">12.5 см</param>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">0.6 кг</param>
+        <param name="Вес">0.25 кг</param>
         <param name="Глубина">4 см</param>
         <param name="Время заряда аккумулятора">2 ч</param>
         <param name="Дисплей">Да</param>
@@ -45744,7 +45744,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4399/fen_dlya_volos_vgr_v_452_s_holodnym_obduvom_i_regulirovkoy_moshchnosti_2400_vt_6.png</picture>
         <param name="Тип">Фен</param>
         <param name="Гарантийный срок">3</param>
-        <param name="Вес">1</param>
+        <param name="Вес">0.8</param>
         <param name="Защита от перегрева">Да</param>
         <param name="Количество насадок">2</param>
         <param name="Количество режимов работы">2</param>
@@ -46037,8 +46037,8 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-V-683/V683_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-V-683/V683_1.jpg</picture>
         <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">0.5 кг</param>
-        <param name="Длина сетевого шнура">0.95 м</param>
+        <param name="Вес">0.6 кг</param>
+        <param name="Длина сетевого шнура">0,95 м</param>
         <param name="Время заряда аккумулятора">3 ч</param>
         <param name="Время работы от аккумулятора">200 мин</param>
         <param name="Количество насадок">4</param>
@@ -46355,7 +46355,7 @@
         <param name="Назначение">Профессиональное</param>
         <param name="Капуччинатор">Да</param>
         <param name="Ширина">27 см</param>
-        <param name="Объем">2.6 л</param>
+        <param name="Объем">2.6/0.5 л</param>
         <param name="Способ приготовления капуччино">автоматический</param>
         <param name="Индикатор работы">Да</param>
         <param name="Сфера использования">HoReCa|Fast-food|Уличная торговля|Торговые магазины</param>
@@ -53440,7 +53440,7 @@
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4771</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/00000/HP-3Y-4BE/HP-3Y-4-3-600x600.jpg</picture>
         <param name="Барометр">Нет</param>
-        <param name="Вес">0.4 кг</param>
+        <param name="Вес">200 г</param>
         <param name="Диаметр">10 см</param>
         <param name="Подсветка">Нет</param>
         <param name="Индикация времени">Стрелочная</param>
@@ -53506,7 +53506,7 @@
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4773</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4773/chasy_nastennye_diametr_12_sm_kruglye_chasy_na_kuhnyu_v_stile_loft.jpg</picture>
         <param name="Барометр">Нет</param>
-        <param name="Вес">0.4 кг</param>
+        <param name="Вес">200 г</param>
         <param name="Диаметр">10 см</param>
         <param name="Подсветка">Нет</param>
         <param name="Индикация времени">Стрелочная</param>
@@ -55761,7 +55761,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4850/steklyannaya_kastryulya_prozrachnaya_s_kryshkoy_2_l_zharoprochnaya_kastryulya_iz_termostoykogo_stekla_3.jpg</picture>
         <param name="Тип">Кастрюля</param>
         <param name="Материал">Жаропрочное стекло</param>
-        <param name="Вес">0.8 кг</param>
+        <param name="Вес">0.7 кг</param>
         <param name="Внутреннее покрытие">без покрытия</param>
         <param name="Внешнее покрытие">без покрытия</param>
         <param name="Диаметр кастрюли">16 см</param>
@@ -55860,14 +55860,14 @@
         <categoryId>51</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-33-4_HP-33-4</vendorCode>
-        <description>Стеклянный чайник с фильтром предназначен для заваривания листового чая, травяных сборов. Корпус изготовлен из жаропрочных стекол, которые выдерживают высокие температуры и позволяют наблюдать за процессом заваривания. Фильтр с металлической сеткой обеспечивает эффективное отделение чая от напитка. Черная ручка эргономичной формы изготовлена ​​из термостойкого материала, что предотвращает нагрев во время использования и обеспечивает комфортное удержание. Благодаря прозрачным стенкам можно контролировать насыщенность напитка и своевременно прекращать заваривание. Конструкция чайника разборная, что упрощает его очищение. Характеристики стеклянного чайника для заваривания Размер: 18&amp;times;14&amp;times;21 см; Объем: 1.1 л; Высота: 12 см; Верхний диаметр: 5 см; Нижний диаметр: 12 см; Материал: cтекло + металл; Наличие: фильтра да. Преимущества стеклянного заварника Чистый вкус чая: стекло не впитывает запахи и не влияет на аромат напитка. Встроенный фильтр: задерживает листья, обеспечивая чистую подачу. Эргономичная ручка: безопасный захват без риска обжечься. Термостойкость: устойчив к высоким температурам, подходит для кипятка. Прозрачность: вы контролируете степень заваривания в реальном времени. Эстетичный дизайн: отлично смотрится на кухне и сервировочном столе. Универсальность: подходит для чёрного, зелёного, травяного чая и цветочных сборов. Такой чайник подходит для ежедневного использования дома или офиса, позволяя быстро приготовить ароматный чай или кофе без дополнительных аксессуаров. Он сочетает удобство, простоту ухода и аккуратный внешний вид.</description>
+        <description>Стеклянный чайник с фильтром предназначен для заваривания листового чая, травяных сборов. Корпус изготовлен из жаропрочных стекол, которые выдерживают высокие температуры и позволяют наблюдать за процессом заваривания. Фильтр с металлической сеткой обеспечивает эффективное отделение чая от напитка. Черная ручка эргономичной формы изготовлена ​​из термостойкого материала, что предотвращает нагрев во время использования и обеспечивает комфортное удержание. Благодаря прозрачным стенкам можно контролировать насыщенность напитка и своевременно прекращать заваривание. Конструкция чайника разборная, что упрощает его очищение. Характеристики стеклянного чайника для заваривания Размер: 18×14×21 см; Объем: 1.1 л; Высота: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 21 см; Верхний диаметр: 5 см; Нижний диаметр: 12 см; Материал: cтекло + металл; Наличие: фильтра да. Преимущества стеклянного заварника Чистый вкус чая: стекло не впитывает запахи и не влияет на аромат напитка. Встроенный фильтр: задерживает листья, обеспечивая чистую подачу. Эргономичная ручка: безопасный захват без риска обжечься. Термостойкость: устойчив к высоким температурам, подходит для кипятка. Прозрачность: вы контролируете степень заваривания в реальном времени. Эстетичный дизайн: отлично смотрится на кухне и сервировочном столе. Универсальность: подходит для чёрного, зелёного, травяного чая и цветочных сборов. Такой чайник подходит для ежедневного использования дома или офиса, позволяя быстро приготовить ароматный чай или кофе без дополнительных аксессуаров. Он сочетает удобство, простоту ухода и аккуратный внешний вид.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4853</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4853/zavarnik_steklyannyy_dlya_chaya_1_1_l_chaynik_dlya_zavarivaniya_s_ruchkoy_i_filtrom_prozrachnyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4853/zavarnik_steklyannyy_dlya_chaya_1_1_l_chaynik_dlya_zavarivaniya_s_ruchkoy_i_filtrom_prozrachnyy_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4853/zavarnik_steklyannyy_dlya_chaya_1_1_l_chaynik_dlya_zavarivaniya_s_ruchkoy_i_filtrom_prozrachnyy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4853/zavarnik_steklyannyy_dlya_chaya_1_1_l_chaynik_dlya_zavarivaniya_s_ruchkoy_i_filtrom_prozrachnyy_3.jpg</picture>
         <param name="Материал">Силикон</param>
-        <param name="Высота">12 см</param>
+        <param name="Высота">21 см</param>
         <param name="Диаметр">12 см</param>
         <param name="Пресс-фильтр">Нет</param>
         <param name="Материал крышки">Пластик</param>
@@ -56201,14 +56201,14 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-41-2G_HP-41-2G" available="true">
-        <name>Корзина для белья 31×26×44 (см) мягкая 28 (л) Серый HP-41-2G</name>
+        <name>Корзина для белья 31×26×44 (см) мягкая 15 л Серый HP-41-2G</name>
         <price>419.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>274</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-41-2G_HP-41-2G</vendorCode>
-        <description>Корзина для белья из мешковины &amp;mdash; это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке. Основные характеристики корзины для белья: Размер: 31&amp;times;26&amp;times;44 см; Материал: мешковина; Объем: 28 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
+        <description>Корзина для белья из мешковины — это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке. Основные характеристики корзины для белья: Размер: 31×26×44 см; Материал: мешковина; Объем: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 15 л Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4870</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4870/korzina_dlya_belya_31_26_44_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_28_l_seryy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4870/korzina_dlya_belya_31_26_44_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_28_l_seryy_1.jpg</picture>
@@ -56220,21 +56220,21 @@
         <param name="Вес">300 г</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">26 см</param>
-        <param name="Объем">28 л</param>
+        <param name="Объем">15 л</param>
         <param name="Цвет">Серый</param>
         <param name="Длина">31 см</param>
         <param name="Форма">Прямоугольная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-41-2BE_HP-41-2BE" available="true">
-        <name>Корзина для белья 31×26×44 (см) мягкая 28 (л) Бежевый HP-41-2BE</name>
+        <name>Корзина для белья 31×26×44 (см) мягкая 15 л Бежевый HP-41-2BE</name>
         <price>419.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
         <categoryId>274</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-41-2BE_HP-41-2BE</vendorCode>
-        <description>Корзина для белья из мешковины &amp;mdash; это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке. Основные характеристики корзины для белья: Размер: 31&amp;times;26&amp;times;44 см; Материал: мешковина; Объем: 28 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
+        <description>Корзина для белья из мешковины — это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке. Основные характеристики корзины для белья: Размер: 31×26×44 см; Материал: мешковина; Объем: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 15 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4871</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4871/korzina_dlya_belya_31_26_44_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_28_l_bezhevyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4871/korzina_dlya_belya_31_26_44_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_28_l_bezhevyy_1.jpg</picture>
@@ -56249,7 +56249,7 @@
         <param name="Вес">300 г</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">26 см</param>
-        <param name="Объем">28 л</param>
+        <param name="Объем">15 л</param>
         <param name="Цвет">Бежевый</param>
         <param name="Длина">31 см</param>
         <param name="Форма">Прямоугольная</param>
@@ -56463,7 +56463,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4880/korzina_dlya_belya_na_podstavke_36_28_58_sm_myagkaya_korzina_dlya_gryaznoy_odezhdy_i_belya_v_vannuyu_komnatu_4.jpg</picture>
         <param name="Материал">Текстиль</param>
         <param name="Высота">58 см</param>
-        <param name="Вес">400 кг</param>
+        <param name="Вес">400 г</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">28 см</param>
         <param name="Объем">60 л</param>
@@ -56480,7 +56480,7 @@
         <categoryId>274</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-41-11BE_HP-41-11BE</vendorCode>
-        <description>Корзина для белья с алюминиевым каркасом &amp;mdash; практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной. Основные характеристики корзины для белья: Размер в разложенном виде: 36&amp;times;32&amp;times;52 см; Размер в сложенном виде: 60&amp;times;35&amp;times;10 см; Материал: оксфорд+ алюминий; Объем: 45 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
+        <description>Корзина для белья с алюминиевым каркасом — практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной. Основные характеристики корзины для белья: Размер в разложенном виде: 36×32×52 см; Размер в сложенном виде: 60×35×10 см; Материал: оксфорд+ алюминий; Объем: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 20 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4881</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4881/korzina_dlya_belya_na_podstavke_36_32_52_sm_myagkaya_korzina_dlya_gryaznoy_odezhdy_i_belya_v_vannuyu_komnatu.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4881/korzina_dlya_belya_na_podstavke_36_32_52_sm_myagkaya_korzina_dlya_gryaznoy_odezhdy_i_belya_v_vannuyu_komnatu_1.jpg</picture>
@@ -56494,7 +56494,7 @@
         <param name="Вес">600 г</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">32 см</param>
-        <param name="Объем">45 л</param>
+        <param name="Объем">20 л</param>
         <param name="Цвет">Розовый</param>
         <param name="Длина">36 см</param>
         <param name="Форма">Прямоугольная</param>
@@ -56508,7 +56508,7 @@
         <categoryId>274</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_463a21bb707d711c5a</vendorCode>
-        <description>Корзина для белья с алюминиевым каркасом &amp;mdash; практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной. Основные характеристики корзины для белья: Размер в разложенном виде: 36&amp;times;32&amp;times;52 см; Размер в сложенном виде: 60&amp;times;35&amp;times;10 см; Материал: оксфорд+ алюминий; Объем: 45 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
+        <description>Корзина для белья с алюминиевым каркасом — практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной. Основные характеристики корзины для белья: Размер в разложенном виде: 36×32×52 см; Размер в сложенном виде: 60×35×10 см; Материал: оксфорд+ алюминий; Объем: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 20 л. Особенности бельевой корзины для грязного белья: Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4884</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4884/korzina_dlya_belya_na_podstavke_36_32_52_sm_myagkaya_korzina_dlya_gryaznoy_odezhdy_i_belya_korichnevyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4884/korzina_dlya_belya_na_podstavke_36_32_52_sm_myagkaya_korzina_dlya_gryaznoy_odezhdy_i_belya_korichnevyy_1.jpg</picture>
@@ -56520,7 +56520,7 @@
         <param name="Вес">600 г</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">32 см</param>
-        <param name="Объем">45 л</param>
+        <param name="Объем">20 л</param>
         <param name="Цвет">Коричневый</param>
         <param name="Длина">36 см</param>
         <param name="Форма">Прямоугольная</param>
@@ -60755,12 +60755,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5193/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_belyy_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5193/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_belyy_4.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">265</param>
+        <param name="Высота">24</param>
         <param name="Вес">400</param>
-        <param name="Ширина">150</param>
+        <param name="Ширина">15</param>
         <param name="Объем">6</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">240</param>
+        <param name="Длина">26.5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-45-18BE_HP-45-18BE" available="true">
@@ -60779,12 +60779,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5194/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_bezhevyy_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5194/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_bezhevyy_4.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">265</param>
+        <param name="Высота">24</param>
         <param name="Вес">400</param>
-        <param name="Ширина">150</param>
+        <param name="Ширина">15</param>
         <param name="Объем">6</param>
         <param name="Цвет">Бежевый</param>
-        <param name="Длина">240</param>
+        <param name="Длина">26.5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-45-18CR_HP-45-18CR" available="true">
@@ -60803,12 +60803,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5195/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_korichnevyy_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5195/musornoe_vedro_na_dvertsu_6_l_vedro_dlya_musora_plastikovoe_navesnoe_korichnevyy_4.jpg</picture>
         <param name="Материал">Пластик</param>
-        <param name="Высота">265</param>
+        <param name="Высота">24</param>
         <param name="Вес">400</param>
-        <param name="Ширина">150</param>
+        <param name="Ширина">15</param>
         <param name="Объем">6</param>
         <param name="Цвет">Коричневый</param>
-        <param name="Длина">240</param>
+        <param name="Длина">26.5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-55-20GR_HP-55-20GR" available="true">
@@ -63565,7 +63565,7 @@
         <categoryId>292</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_CR-1-5_CR-1-5</vendorCode>
-        <description>Сахарница с крышкой New Year &amp;mdash; это практичный и изящный элемент сервировки, который сочетает в себе функциональность и аккуратный дизайн. Благодаря объему 500 мл, в ней удобно хранить сахар, мелкие сладости или другие сыпучие продукты. Классическая форма с крышкой обеспечивает защиту содержимого от влаги и сохраняет аромат продуктов. Изготовленная из высококачественного фарфора, сахарница имеет гладкую, блестящую поверхность, устойчивую к царапинам и пятнам. Материал не впитывает запахов и легко очищается, что делает изделие удобным в уходе. Крышка плотно прилегает, а форма обеспечивает стабильность на поверхности. Основные характеристики сахарницы: Материал: фарфор; Диаметр: 11 см; Высота: 12 см; Объем: 500 мл. Сахарница New Year станет не только полезным аксессуаром, но и стильным украшением праздничного стола &amp;mdash; добавит уюта и создаст новогоднее настроение в каждом чаепитии.</description>
+        <description>Сахарница с крышкой New Year — это практичный и изящный элемент сервировки, который сочетает в себе функциональность и аккуратный дизайн. Благодаря объему 500 мл, в ней удобно хранить сахар, мелкие сладости или другие сыпучие продукты. Классическая форма с крышкой обеспечивает защиту содержимого от влаги и сохраняет аромат продуктов. Изготовленная из высококачественного фарфора, сахарница имеет гладкую, блестящую поверхность, устойчивую к царапинам и пятнам. Материал не впитывает запахов и легко очищается, что делает изделие удобным в уходе. Крышка плотно прилегает, а форма обеспечивает стабильность на поверхности. Основные характеристики сахарницы: Материал: фарфор; Диаметр: 9 см; Высота: 12 см; Объем: 500 мл. Сахарница New Year станет не только полезным аксессуаром, но и стильным украшением праздничного стола — добавит уюта и создаст новогоднее настроение в каждом чаепитии.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5367</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5367/saharnitsa_farforovaya_novogodnyaya_new_year_500_ml_krasivaya_saharnitsa_s_kryshkoy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5367/saharnitsa_farforovaya_novogodnyaya_new_year_500_ml_krasivaya_saharnitsa_s_kryshkoy_1.jpg</picture>
@@ -63575,7 +63575,7 @@
         <param name="Материал">Фарфор</param>
         <param name="Высота">12 см</param>
         <param name="Количество предметов в наборе">1</param>
-        <param name="Диаметр">11 см</param>
+        <param name="Диаметр">9 см</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Применение">Для сыпучих продуктов</param>
         <param name="Объем">0.5 л</param>
@@ -63681,7 +63681,7 @@
         <categoryId>292</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_CR-1-21_CR-1-21</vendorCode>
-        <description>Элегантная конфетница в форме новогодней ёлки &amp;mdash; идеальный акцент для праздничного стола и уютного зимнего декора. Изготовлена из качественного фарфора, она сочетает в себе изысканный внешний вид и практичность. Крышка помогает сохранять свежесть сладостей и защищает их от пыли. Основные характеристики конфетницы: Материал: фарфор; Диаметр: 15 см; Высота: 19 см. Фарфоровая конфетница в виде ёлки станет неотъемлемой частью праздничного декора и создаст атмосферу тепла и радости. Её удобно использовать для угощений на новогоднем столе или просто как красивый элемент интерьера. Отлично подойдёт в подарок друзьям, коллегам или близким &amp;mdash; ведь такая вещь приносит не только пользу, но и праздничное настроение.</description>
+        <description>Элегантная конфетница в форме новогодней ёлки — идеальный акцент для праздничного стола и уютного зимнего декора. Изготовлена из качественного фарфора, она сочетает в себе изысканный внешний вид и практичность. Крышка помогает сохранять свежесть сладостей и защищает их от пыли. Основные характеристики конфетницы: Материал: фарфор; Диаметр: 8 см; Высота: 19 см. Фарфоровая конфетница в виде ёлки станет неотъемлемой частью праздничного декора и создаст атмосферу тепла и радости. Её удобно использовать для угощений на новогоднем столе или просто как красивый элемент интерьера. Отлично подойдёт в подарок друзьям, коллегам или близким — ведь такая вещь приносит не только пользу, но и праздничное настроение.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5375</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5375/konfetnitsa_novogodnyaya_farforovaya_elochka_15_sm_vaza_konfetnitsa.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5375/konfetnitsa_novogodnyaya_farforovaya_elochka_15_sm_vaza_konfetnitsa_1.jpg</picture>
@@ -63690,7 +63690,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5375/konfetnitsa_novogodnyaya_farforovaya_elochka_15_sm_vaza_konfetnitsa_4.jpg</picture>
         <param name="Материал">Фарфор</param>
         <param name="Высота">19 см</param>
-        <param name="Диаметр">15 см</param>
+        <param name="Диаметр">8 см</param>
         <param name="Крышка">Есть</param>
         <param name="Цвет">Разные цвета</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
@@ -64059,7 +64059,7 @@
         <categoryId>292</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_CR-1-42_CR-1-42</vendorCode>
-        <description>Фарфоровая банка с крышкой в новогоднем оформлении &amp;mdash; стильный и практичный аксессуар для хранения сыпучих продуктов. Яркий праздничный декор с пряничным человечком, елочкой и надписью Merry Christmas придаёт кухне уют и зимнее настроение, гармонично сочетаясь с другими элементами новогодней сервировки. Изготовленная из качественного фарфора, банка не впитывает запахи и сохраняет свежесть содержимого. Плотно прилегающая крышка защищает продукты от влаги и пыли, что делает изделие удобным для хранения кофе, чая, сахара, круп или сладостей. Основные характеристики новогодней емкости для сыпучих продуктов: Диаметр: 9 см; Высота: 13 см; Материал банки: фарфор. Фарфоровая банка с крышкой &amp;laquo;Merry Christmas&amp;raquo; &amp;mdash; это сочетание функциональности и праздничного настроения. Она станет красивым элементом декора и поможет поддерживать порядок на кухне в любое время года.</description>
+        <description>Фарфоровая банка с крышкой в новогоднем оформлении — стильный и практичный аксессуар для хранения сыпучих продуктов. Яркий праздничный декор с пряничным человечком, елочкой и надписью Merry Christmas придаёт кухне уют и зимнее настроение, гармонично сочетаясь с другими элементами новогодней сервировки. Изготовленная из качественного фарфора, банка не впитывает запахи и сохраняет свежесть содержимого. Плотно прилегающая крышка защищает продукты от влаги и пыли, что делает изделие удобным для хранения кофе, чая, сахара, круп или сладостей. Основные характеристики новогодней емкости для сыпучих продуктов: Диаметр: 7 см; Высота: 13 см; Материал банки: фарфор. Фарфоровая банка с крышкой «Merry Christmas» — это сочетание функциональности и праздничного настроения. Она станет красивым элементом декора и поможет поддерживать порядок на кухне в любое время года.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5392</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5392/banka_dlya_sypuchih_produktov_s_kryshkoy_iz_farfora_9_13_sm_emkost_dlya_sypuchih_merry_christmas.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5392/banka_dlya_sypuchih_produktov_s_kryshkoy_iz_farfora_9_13_sm_emkost_dlya_sypuchih_merry_christmas_1.jpg</picture>
@@ -64069,7 +64069,7 @@
         <param name="Материал">Фарфор</param>
         <param name="Высота">13 см</param>
         <param name="Количество предметов в наборе">1</param>
-        <param name="Диаметр">9 см</param>
+        <param name="Диаметр">7 см</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Применение">Для сыпучих продуктов</param>
         <param name="Хранение в холодильнике">Да</param>
@@ -67430,7 +67430,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5613/steklyannaya_butylka_dlya_masla_i_uksusa_s_nosikom_i_dozatorom_650_ml_derevyannaya_kryshka_kvadratnaya_ruchka_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5613/steklyannaya_butylka_dlya_masla_i_uksusa_s_nosikom_i_dozatorom_650_ml_derevyannaya_kryshka_kvadratnaya_ruchka_5.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">12</param>
+        <param name="Высота">21</param>
         <param name="Диаметр">9.2</param>
         <param name="Применение">Для жидких продуктов</param>
         <param name="Объем">0.65</param>
@@ -68564,11 +68564,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5678/tortovnitsa_na_nozhke_26_sm_steklyannaya_podstavka_dlya_torta_kapkeykov_pirozhnyh_2.jpg</picture>
         <param name="Материал">Стекло</param>
         <param name="Высота">11.5</param>
-        <param name="Диаметр">26</param>
+        <param name="Диаметр">19</param>
         <param name="Ширина">19</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Прозрачный</param>
-        <param name="Длина">26</param>
         <param name="Многоуровневая">Нет</param>
         <param name="Наличие крышки">Нет</param>
         <param name="Форма">Круглая</param>
@@ -70736,7 +70735,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5781/fruktovnitsa_na_3_yarusa_santa_novogodnyaya_furshetnaya_stoyka_dlya_zakusok_konfetnitsa_posuda_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5781/fruktovnitsa_na_3_yarusa_santa_novogodnyaya_furshetnaya_stoyka_dlya_zakusok_konfetnitsa_posuda_8.jpg</picture>
         <param name="Материал">Фарфор</param>
-        <param name="Высота">3.4</param>
+        <param name="Высота">34</param>
         <param name="Крышка">Нет</param>
         <param name="Цвет">Зелёный</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
@@ -72423,12 +72422,12 @@
         <categoryId>54</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_f140802512b342b6a8</vendorCode>
-        <description>Стаканы изготовлены из прозрачного стекла, которое отличается чистотой и блеском. Изделия имеют фигурную форму с мягкими изгибами, что создает выразительный визуальный эффект. Благодаря плотной структуре стенок стаканы удобно лежат в руке и сохраняют температуру напитка немного дольше. Основные характеристики: Материал: стекло; Объем: 250 мл; Высота: 8 см; Верхний диаметр: 7 см; Нижний диаметр: 5 см; Назначение: для воды, соков, коктейлей и других напитков; Особенности: прочные, стойкие к повреждениям, легко моются. Форма стаканов подходит для подачи различных холодных напитков - воды, соков, лимонадов или коктейлей. Прозрачное стекло позволяет оценить цвет и консистенцию напитка, а гладкая внутренняя поверхность обеспечивает легкую очистку. Благодаря фигурному профилю изделия имеют приятный на ощупь захват. Стаканы практичны в повседневном использовании и уместны для сервировки праздничного стола. Их можно мыть вручную или в посудомоечной машине. Посуда для тех, кто предпочитает сочетание функциональности и лаконичного дизайна.</description>
+        <description>Стаканы изготовлены из прозрачного стекла, которое отличается чистотой и блеском. Изделия имеют фигурную форму с мягкими изгибами, что создает выразительный визуальный эффект. Благодаря плотной структуре стенок стаканы удобно лежат в руке и сохраняют температуру напитка немного дольше. Основные характеристики: Материал: стекло; Объем: 250 мл; Высота: 8.5 см; Верхний диаметр: 7 см; Нижний диаметр: 5 см; Назначение: для воды, соков, коктейлей и других напитков; Особенности: прочные, стойкие к повреждениям, легко моются. Форма стаканов подходит для подачи различных холодных напитков - воды, соков, лимонадов или коктейлей. Прозрачное стекло позволяет оценить цвет и консистенцию напитка, а гладкая внутренняя поверхность обеспечивает легкую очистку. Благодаря фигурному профилю изделия имеют приятный на ощупь захват. Стаканы практичны в повседневном использовании и уместны для сервировки праздничного стола. Их можно мыть вручную или в посудомоечной машине. Посуда для тех, кто предпочитает сочетание функциональности и лаконичного дизайна.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5888</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5888/nabor_stakanov_6_sht_po_250_ml_steklyannye_stakany_dlya_holodnyh_napitkov_vody_sokov_i_limonada_prozrachnyy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5888/nabor_stakanov_6_sht_po_250_ml_steklyannye_stakany_dlya_holodnyh_napitkov_vody_sokov_i_limonada_prozrachnyy_1.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">8</param>
+        <param name="Высота">8.5</param>
         <param name="Верхний диаметр">7</param>
         <param name="Декоративное оформление">Гравировка</param>
         <param name="Количество в наборе">6</param>
@@ -74169,34 +74168,6 @@
         <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_ML152_ML152" available="true">
-        <name>Суповой сервиз на 6 персон супница 2 (л) на подставке с бульонницами 350 (мл) ML152</name>
-        <price>2709.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>156</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_ML152_ML152</vendorCode>
-        <description>Суповой сервиз из высококачественного фарфора станет украшением любого стола и придаст сервировке нотку изысканности. Элегантное сочетание белого цвета с золотыми акцентами делает набор особенно нарядным и современным. В комплект входит супница с крышкой и шесть суповых тарелок, на прочной металлической подставке с золотым покрытием. Благодаря удобной форме и продуманному дизайну сервиз не только красив, но и практичен в использовании. Основные характеристики супового сервиза: Материал: фарфор + металл; Высота: 32 см; Объем супницы: 2 литра; Объем тарелок: 350 мл; Диаметр супницы: 22 см. Такой набор прекрасно подойдет для семейных обедов, праздничных ужинов или торжественных мероприятий. Он станет отличным подарком на свадьбу, новоселье или юбилей, подчеркивая вкус и внимание к деталям хозяев дома.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6002</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6002/supovoy_serviz_na_6_person_supnitsa_2_l_na_podstavke_s_bulonnitsami_350_ml_tarelki_dlya_supa_6.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Диаметр">22</param>
-        <param name="Использование в микроволновке">Нет</param>
-        <param name="Наличие половника">Нет</param>
-        <param name="Объем">2</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Цвет">Белый</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Форма">Круглая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_ZJH-14-4_ZJH-14-4" available="true">
         <name>Тарелка фарфоровая глубокая с ручкой Яблоко 700 мл с ручкой Серебро ZJH-14-4</name>
         <price>509.0</price>
@@ -75014,10 +74985,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6038/farforovoe_blyudo_dlya_servirovki_stola_37_13_2_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6038/farforovoe_blyudo_dlya_servirovki_stola_37_13_2_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6038/farforovoe_blyudo_dlya_servirovki_stola_37_13_2_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_zolotom_4.jpg</picture>
-        <param name="Высота">25</param>
+        <param name="Высота">2.5</param>
         <param name="Ширина">130</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">370</param>
+        <param name="Длина">37</param>
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -75429,7 +75400,7 @@
         <param name="Количество емкостей">1</param>
         <param name="Материал крышки">Стекло</param>
         <param name="Ширина">26</param>
-        <param name="Объем">2.2</param>
+        <param name="Объем">2</param>
         <param name="Тип крышки">Съемная</param>
         <param name="Длина">31</param>
         <param name="Форм-фактор">Переносной</param>
@@ -75777,10 +75748,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom_3.jpg</picture>
         <param name="Материал">Фарфор</param>
-        <param name="Высота">90</param>
-        <param name="Ширина">105</param>
+        <param name="Высота">9/2.5 см</param>
+        <param name="Ширина">10.5</param>
         <param name="Цвет">Белый</param>
-        <param name="Длина">250</param>
+        <param name="Длина">25</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_LB-1568S_LB-1568S" available="true">
