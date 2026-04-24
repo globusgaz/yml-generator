@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-24 06:27">
+<yml_catalog date="2026-04-24 09:19">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="90">Мясорубки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="53">Кувшины</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="118">Сумки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="212">Мебель</category>
-      <category id="42">Термосы для детей</category>
-      <category id="145">Смарт-часы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="136">Дуршлаги</category>
-      <category id="29">Салфетницы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="317">Садовое освещение</category>
-      <category id="59">Все для выпечки</category>
-      <category id="298">Брелки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="284">Новогодний декор</category>
-      <category id="149">Палатки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="60">Мармиты</category>
-      <category id="132">Конфетницы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="13">Триммеры</category>
-      <category id="14">Стайлеры</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="221">Туристические души</category>
-      <category id="271">Товары для уборки</category>
-      <category id="261">Терки</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="294">Новогодние елки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="125">Мангалы</category>
-      <category id="72">Весы напольные</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="15">Плойки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="111">Портативные колонки</category>
-      <category id="318">Кусторезы</category>
-      <category id="133">Масленки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="114">Повербанки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="182">Блюда</category>
-      <category id="194">Менажницы</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="96">Вакууматоры</category>
-      <category id="97">Весы кухонные</category>
-      <category id="76">Отпариватели</category>
-      <category id="63">Кастрюли</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="224">Гамаки</category>
-      <category id="56">Бокалы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="61">Сковородки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="54">Стаканы</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="255">Сита и дуршлаги</category>
       <category id="31">Часы настенные</category>
-      <category id="184">Бульонницы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="23">Фены</category>
-      <category id="68">Тарелки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="166">Тортовницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="98">Блендеры</category>
-      <category id="142">Посуда для детей</category>
-      <category id="81">Капучинаторы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="316">Туристические плиты</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="62">Ковши</category>
-      <category id="300">Подушки для спины</category>
-      <category id="283">Подносы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="55">Рюмки</category>
-      <category id="124">Решетки</category>
-      <category id="141">Салатницы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="262">Термосумки</category>
-      <category id="193">Доски для подачи</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="292">Столовая посуда</category>
-      <category id="117">Рюкзаки</category>
-      <category id="33">Пепельницы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="57">Чашки</category>
-      <category id="66">Сервизы</category>
-      <category id="267">Подушки-игрушки</category>
       <category id="77">Пылесосы</category>
-      <category id="187">Слайсеры</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="75">Утюги</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="128">Органайзеры</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="93">Электрочайники</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="6">LED ленты</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="21">Электробритвы</category>
-      <category id="20">Эпиляторы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="318">Кусторезы</category>
+      <category id="224">Гамаки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="66">Сервизы</category>
       <category id="299">Подушки для путишествий</category>
-      <category id="126">Ланч боксы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="89">Миксеры</category>
-      <category id="103">Проекторы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="17">Воскоплавы</category>
-      <category id="148">Туристические коврики</category>
+      <category id="67">Столовые приборы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="15">Плойки</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="55">Рюмки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="283">Подносы</category>
+      <category id="156">Столовые сервизы</category>
       <category id="65">Креманки</category>
-      <category id="34">Подсвечники</category>
-      <category id="150">Спальные мешки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="278">Косметички</category>
-      <category id="186">Тостеры</category>
       <category id="264">Мягкие игрушки</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="279">Зонты</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="287">Банты на елку</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="285">Йогуртницы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
       <category id="140">Крышки</category>
+      <category id="118">Сумки</category>
+      <category id="75">Утюги</category>
+      <category id="47">Наборы для специй</category>
+      <category id="53">Кувшины</category>
+      <category id="279">Зонты</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="145">Смарт-часы</category>
+      <category id="186">Тостеры</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="54">Стаканы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="182">Блюда</category>
+      <category id="96">Вакууматоры</category>
+      <category id="294">Новогодние елки</category>
+      <category id="221">Туристические души</category>
+      <category id="262">Термосумки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="62">Ковши</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="194">Менажницы</category>
+      <category id="89">Миксеры</category>
+      <category id="20">Эпиляторы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="63">Кастрюли</category>
+      <category id="148">Туристические коврики</category>
       <category id="110">Наушники</category>
+      <category id="87">Соковыжималки</category>
+      <category id="60">Мармиты</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="298">Брелки</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="316">Туристические плиты</category>
+      <category id="90">Мясорубки</category>
+      <category id="132">Конфетницы</category>
+      <category id="72">Весы напольные</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="76">Отпариватели</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="124">Решетки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="149">Палатки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="133">Масленки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="103">Проекторы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="57">Чашки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="59">Все для выпечки</category>
+      <category id="187">Слайсеры</category>
+      <category id="111">Портативные колонки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="56">Бокалы</category>
       <category id="122">Аксессуары</category>
+      <category id="287">Банты на елку</category>
+      <category id="93">Электрочайники</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="29">Салфетницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="98">Блендеры</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="117">Рюкзаки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="284">Новогодний декор</category>
+      <category id="42">Термосы для детей</category>
+      <category id="125">Мангалы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="17">Воскоплавы</category>
+      <category id="21">Электробритвы</category>
+      <category id="141">Салатницы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="271">Товары для уборки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="285">Йогуртницы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="114">Повербанки</category>
+      <category id="61">Сковородки</category>
+      <category id="317">Садовое освещение</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="193">Доски для подачи</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="278">Косметички</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="13">Триммеры</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="261">Терки</category>
+      <category id="14">Стайлеры</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="97">Весы кухонные</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="136">Дуршлаги</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="34">Подсвечники</category>
+      <category id="23">Фены</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="68">Тарелки</category>
+      <category id="128">Органайзеры</category>
+      <category id="33">Пепельницы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="166">Тортовницы</category>
+      <category id="144">Вентиляторы</category>
+      <category id="212">Мебель</category>
+      <category id="184">Бульонницы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="6">LED ленты</category>
+      <category id="300">Подушки для спины</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -2721,7 +2721,7 @@
         <param name="Тип">Термос</param>
         <param name="Высота">240</param>
         <param name="Время сохранения тепла">6</param>
-        <param name="Вес">300</param>
+        <param name="Вес">350</param>
         <param name="Глубина">240</param>
         <param name="Время сохранения холода">12</param>
         <param name="Помповый механизм">Нет</param>
@@ -2755,7 +2755,7 @@
         <param name="Высота">240</param>
         <param name="Время сохранения тепла">6</param>
         <param name="Верхний диаметр">65</param>
-        <param name="Вес">300</param>
+        <param name="Вес">350</param>
         <param name="Глубина">240</param>
         <param name="Время сохранения холода">12</param>
         <param name="Помповый механизм">Нет</param>
@@ -2770,7 +2770,7 @@
         <param name="Тип термоса">Питьевой</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Состояние">Новое</param>
-        <param name="Нижний диаметр">65</param>
+        <param name="Нижний диаметр">7</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HPGM5009O_HPGM5009O" available="true">
@@ -2789,7 +2789,7 @@
         <param name="Тип">Термос</param>
         <param name="Высота">240</param>
         <param name="Время сохранения тепла">6</param>
-        <param name="Вес">300</param>
+        <param name="Вес">350</param>
         <param name="Глубина">240</param>
         <param name="Время сохранения холода">12</param>
         <param name="Помповый механизм">Нет</param>
@@ -2822,7 +2822,7 @@
         <param name="Тип">Термос</param>
         <param name="Высота">240</param>
         <param name="Время сохранения тепла">6</param>
-        <param name="Вес">300</param>
+        <param name="Вес">350</param>
         <param name="Глубина">240</param>
         <param name="Время сохранения холода">12</param>
         <param name="Помповый механизм">Нет</param>
@@ -26758,7 +26758,7 @@
         <categoryId>136</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_1b5409726131c490c5</vendorCode>
-        <description>Сито из нержавеющей стали – это универсальное и практичное дополнение кухонной утвари. Дуршлаг-сито может использоваться для разнообразных процессов, в числе которых просеивание муки и других мелкодисперсных продуктов, протирание фруктовых и овощных пюре, соусов, промывание овощей и фруктов. Основные характеристики ситечка размер сита 37×18×7.5 см; материал - нержавеющая сталь. Ситечко изготовлено из нержавеющей стали, легко моются под проточной водой и не занимает много места на кухне. Для удобства использования предусмотрена длинная ручка и широкий ободок с петелькой для подвешивания.</description>
+        <description>Сито из нержавеющей стали – это универсальное и практичное дополнение кухонной утвари. Дуршлаг-сито может использоваться для разнообразных процессов, в числе которых просеивание муки и других мелкодисперсных продуктов, протирание фруктовых и овощных пюре, соусов, промывание овощей и фруктов. Основные характеристики ситечка размер сита 37×18×8.5 см; материал - нержавеющая сталь. Ситечко изготовлено из нержавеющей стали, легко моются под проточной водой и не занимает много места на кухне. Для удобства использования предусмотрена длинная ручка и широкий ободок с петелькой для подвешивания.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3394</url>
         <picture>https://feed.lugi.com.ua/image/catalog/1111111/6516361827_w640_h640_6516361827.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3394/durshlag_sito_s_ruchkoy_18_sm_melkoyacheistaya_setka_iz_nerzhaveyushchey_stali_1.jpg</picture>
@@ -26767,12 +26767,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3394/durshlag_sito_s_ruchkoy_18_sm_melkoyacheistaya_setka_iz_nerzhaveyushchey_stali_4.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">75</param>
-        <param name="Диаметр">180</param>
-        <param name="Ширина">180</param>
+        <param name="Высота">8.5</param>
+        <param name="Диаметр">18</param>
+        <param name="Ширина">18</param>
         <param name="Ручка">Одна</param>
         <param name="Ножки/подставка">Есть</param>
-        <param name="Длина">370</param>
+        <param name="Длина">37</param>
         <param name="Цвет">Нержавеющая сталь</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
@@ -27358,12 +27358,12 @@
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
         <param name="Высота">4 см</param>
-        <param name="Диаметр">12 см</param>
+        <param name="Диаметр">12/10/8 см</param>
         <param name="Ширина">12 см</param>
         <param name="Ручка">Одна</param>
         <param name="Ножки/подставка">Нет</param>
         <param name="Цвет">Серебристый</param>
-        <param name="Длина">28.5 см</param>
+        <param name="Длина">28/25/21.5 см</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -27431,7 +27431,7 @@
         <categoryId>67</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_HP-19-15-G_HP-19-15-G</vendorCode>
-        <description>Подставка для половника и ложек &amp;ndash; отличный вариант для поддержания чистоты и порядка на кухне. Вертикальная подставка под половник, лопатку или кухонную ложку изготовлена из прочной нержавеющей стали. Благодаря такой подставке ваша столешница будет всегда оставаться чистой. Основные характеристики подставки размер 12х10.5&amp;times;17 см материал - нержавеющая сталь. Держатель имеет вертикальную конструкцию, не занимает много места на рабочей поверхности. При этом, аксессуар предотвращает попадание жира и крошек на стол, и делает процесс готовки более удобным. Подставка легко моется, устойчива к высоким температурам и станет стильным дополнением кухонного пространства.</description>
+        <description>Подставка для половника и ложек – отличный вариант для поддержания чистоты и порядка на кухне. Вертикальная подставка под половник, лопатку или кухонную ложку изготовлена из прочной нержавеющей стали. Благодаря такой подставке ваша столешница будет всегда оставаться чистой. Основные характеристики подставки размер 12х10.5×17 см материал - нержавеющая сталь. Держатель имеет вертикальную конструкцию, не занимает много места на рабочей поверхности. При этом, аксессуар предотвращает попадание жира и крошек на стол, и делает процесс готовки более удобным. Подставка легко моется, устойчива к высоким температурам и станет стильным дополнением кухонного пространства.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3424</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3424/podstavka_pod_polovnik_lopatochku_ili_lozhku_12_10_5_17_sm_zoloto.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3424/podstavka_pod_polovnik_lopatochku_ili_lozhku_12_10_5_17_sm_zoloto_1.jpg</picture>
@@ -27446,7 +27446,7 @@
         <param name="Особенности">Защита от коррозии |Термостойкая</param>
         <param name="Ширина">12 см</param>
         <param name="Цвет">Золотистый</param>
-        <param name="Длина">12 см</param>
+        <param name="Длина">21.5 см</param>
         <param name="Размещение">Вертикальное</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -27689,7 +27689,7 @@
         <param name="Особенности">Защита от коррозии |Термостойкая</param>
         <param name="Ширина">10.5 см</param>
         <param name="Цвет">Серебристый</param>
-        <param name="Длина">12 см</param>
+        <param name="Длина">21.5 см</param>
         <param name="Размещение">Вертикальное</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -27735,12 +27735,12 @@
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
         <param name="Высота">7 см</param>
-        <param name="Диаметр">20 см</param>
+        <param name="Диаметр">8/14/20 см</param>
         <param name="Ширина">20 см</param>
         <param name="Ручка">Одна</param>
         <param name="Ножки/подставка">Нет</param>
         <param name="Цвет">Медный</param>
-        <param name="Длина">39 см</param>
+        <param name="Длина">39/30 /22 см</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -27881,7 +27881,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3440/sito_iz_nerzhaveyushchey_stali_dlya_frityura_i_varki_10h8_sm_5.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">8</param>
+        <param name="Высота">22 см</param>
         <param name="Диаметр">10</param>
         <param name="Ширина">10</param>
         <param name="Ножки/подставка">Нет</param>
@@ -27898,7 +27898,7 @@
         <categoryId>136</categoryId>
         <vendor>Zhongjing</vendor>
         <vendorCode>f11_HP-19-26_HP-19-26</vendorCode>
-        <description>Сито из нержавеющей стали для фритюра и варки макарон &amp;ndash; универсальный аксессуар для домашней и профессиональной кухни, который имеет множество вариантов применения. Глубокое сито из нержавеющей стали с маленькими круглыми отверстиями идеально подходит для процеживания жареных и приготовленных ингредиентов, таких как макароны, пельмени или овощи в темпуре. Также подходит для быстрого приготовления и бланширования продуктов прямо в ситечке. Основные характеристики размер 14.2х14.2х13 см. высота с ручкой 34 см. глубина 13 см. вес 280 г. тип поверхности - перфорированный металл. Сито подходит для быстрого приготовления продуктов на пару или в горячем масле мясных, овощных, рыбных закусок, и позволяет практически сразу избавиться от лишнего жира.</description>
+        <description>Сито из нержавеющей стали для фритюра и варки макарон – универсальный аксессуар для домашней и профессиональной кухни, который имеет множество вариантов применения. Глубокое сито из нержавеющей стали с маленькими круглыми отверстиями идеально подходит для процеживания жареных и приготовленных ингредиентов, таких как макароны, пельмени или овощи в темпуре. Также подходит для быстрого приготовления и бланширования продуктов прямо в ситечке. Основные характеристики размер 14.2х14.2х13 см. высота с ручкой 34 см. глубина 13 см. вес 280 г. тип поверхности - перфорированный металл. Сито подходит для быстрого приготовления продуктов на пару или в горячем масле мясных, овощных, рыбных закусок, и позволяет практически сразу избавиться от лишнего жира.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3441</url>
         <picture>https://feed.lugi.com.ua/image/catalog/1111111/6522974789_w640_h640_6522974789.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-19-26/HP-19-26_1.jpg</picture>
@@ -27907,8 +27907,8 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3441/sito_iz_nerzhaveyushchey_stali_dlya_frityura_i_varki_14_2h13_sm_4.jpg</picture>
         <param name="Тип">Сито</param>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">13</param>
-        <param name="Диаметр">14.2</param>
+        <param name="Высота">34</param>
+        <param name="Диаметр">14</param>
         <param name="Ширина">14.2</param>
         <param name="Ножки/подставка">Нет</param>
         <param name="Длина">14.2</param>
@@ -27957,7 +27957,7 @@
         <param name="Тип">Термос</param>
         <param name="Высота">240</param>
         <param name="Время сохранения тепла">6</param>
-        <param name="Вес">300</param>
+        <param name="Вес">350</param>
         <param name="Глубина">240</param>
         <param name="Время сохранения холода">12</param>
         <param name="Помповый механизм">Нет</param>
@@ -28259,85 +28259,6 @@
         <param name="Количество в наборе">1</param>
         <param name="Цвет">Черный</param>
         <param name="Длина">22</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-3-213BL_HP-3-213BL" available="true">
-        <name>Салфетница из эко кожи 20х12х12,5 см для салфеток на кнопках Синий HP-3-213BL</name>
-        <price>139.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>29</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-3-213BL_HP-3-213BL</vendorCode>
-        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 20х12х12,5 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3461</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3461/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_avtomobilnyy_siniy_5.jpg</picture>
-        <param name="Тип">Салфетница</param>
-        <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">12.5</param>
-        <param name="Декоративное оформление">Роспись</param>
-        <param name="Ширина">12</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Цвет">Синий</param>
-        <param name="Длина">20</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-3-213P_HP-3-213P" available="true">
-        <name>Салфетница из эко кожи 20х12х12,5 см для салфеток на кнопках Розовый HP-3-213P</name>
-        <price>139.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>29</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-3-213P_HP-3-213P</vendorCode>
-        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 20х12х12,5 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3462</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3462/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_rozovyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3462/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_rozovyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3462/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_rozovyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3462/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_rozovyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3462/salfetnitsa_iz_eko_kozhi_20h7_5h11_5_sm_organayzer_dlya_salfetok_rozovyy_4.jpg</picture>
-        <param name="Тип">Салфетница</param>
-        <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">12.5</param>
-        <param name="Декоративное оформление">Роспись</param>
-        <param name="Ширина">12</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Цвет">Розовый</param>
-        <param name="Длина">20</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-3-213Y_HP-3-213Y" available="true">
-        <name>Салфетница из эко кожи 20х12х12,5 см для салфеток на кнопках Желтый HP-3-213Y</name>
-        <price>139.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>29</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-3-213Y_HP-3-213Y</vendorCode>
-        <description>Органайзер для салфеток в салон авто – практичный и стильный аксессуар, который обеспечит аккуратное хранение бумажных салфеток. Салфетница изготовлена из эко кожи, она долговечна и легко чистится. Простой дизайн делает ее универсальным вариантом для любого интерьера. Органайзер обеспечивает легкий доступ к салфеткам и помогает сохранить их в порядке. Преимущества: Размер салфетницы 20х12х12,5 см. Качественный материал. Идеально подходит для использования в авто, дома, в офисе, кафе или ресторане. Стильный дизайн, который дополнит любой интерьер. Купить салфетницу можно с доставкой по всей Украине. Эта салфетница является практичным и надежным решением для хранения салфеток как в домашних, так и коммерческих помещениях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3464</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3464/salfetnitsa_iz_eko_kozhi_20_7_5_11_5_sm_organayzer_dlya_salfetok_zheltyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3464/salfetnitsa_iz_eko_kozhi_20_7_5_11_5_sm_organayzer_dlya_salfetok_zheltyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3464/salfetnitsa_iz_eko_kozhi_20_7_5_11_5_sm_organayzer_dlya_salfetok_zheltyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3464/salfetnitsa_iz_eko_kozhi_20_7_5_11_5_sm_organayzer_dlya_salfetok_zheltyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3464/salfetnitsa_iz_eko_kozhi_20_7_5_11_5_sm_organayzer_dlya_salfetok_zheltyy_4.jpg</picture>
-        <param name="Тип">Салфетница</param>
-        <param name="Материал">Искусственная кожа</param>
-        <param name="Высота">12.5</param>
-        <param name="Декоративное оформление">Роспись</param>
-        <param name="Ширина">12</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Цвет">Желтый</param>
-        <param name="Длина">20</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -31683,68 +31604,6 @@
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-YH-45_HP-YH-45" available="true">
-        <name>Масленка стеклянная для сливочного масла с крышкой 16.5х10.5х8 см подставка для сливочного масла HP-YH-45</name>
-        <price>189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>133</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-YH-45_HP-YH-45</vendorCode>
-        <description>Стеклянная масленка с крышкой &amp;ndash; это практичный и стильный аксессуар для вашей кухни или праздничного стола. Она изготовлена ​​из прозрачного стекла, которое позволяет удобно контролировать количество масла и добавляет сервировке эстетики. Компактный размер делает его удобным в использовании, а крышка защищает содержимое от пыли и посторонних запахов. Основные характеристики: Материал: стекло; Размер: 16.5х10.5х8 см. Высота масленки составляет 8 см, что позволяет размещать ее в холодильнике или на столе, не занимая много места. Благодаря классическому дизайну она идеально вписывается в любой интерьер &amp;ndash; от современного до традиционного. Толстое стекло обеспечивает долговечность и стойкость к механическим повреждениям. Эта масленка станет отличным дополнением к повседневному использованию или может быть хорошим подарком для любителей хорошей кухонной атрибутики. Ее удобно мыть вручную или в посудомоечной машине.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3615</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3615/maslenka_steklyannaya_dlya_slivochnogo_masla_s_kryshkoy_16_5h10_5h8_sm_podstavka_dlya_slivochnogo_masla.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3615/maslenka_steklyannaya_dlya_slivochnogo_masla_s_kryshkoy_16_5h10_5h8_sm_podstavka_dlya_slivochnogo_masla_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3615/maslenka_steklyannaya_dlya_slivochnogo_masla_s_kryshkoy_16_5h10_5h8_sm_podstavka_dlya_slivochnogo_masla_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3615/maslenka_steklyannaya_dlya_slivochnogo_masla_s_kryshkoy_16_5h10_5h8_sm_podstavka_dlya_slivochnogo_masla_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3615/maslenka_steklyannaya_dlya_slivochnogo_masla_s_kryshkoy_16_5h10_5h8_sm_podstavka_dlya_slivochnogo_masla_4.jpg</picture>
-        <param name="Высота">80</param>
-        <param name="Вилочка">Нет</param>
-        <param name="Декоративное оформление">Гравировка</param>
-        <param name="Материал масленки">Стекло</param>
-        <param name="Крышка">есть</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">105</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Хранение в морозильной камере">Нет</param>
-        <param name="Длина">165</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Ножик">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Форма">Прямоугольная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-YH-46_HP-YH-46" available="true">
-        <name>Масленка для сливочного масла 17х10.5х8 см с крышкой из стекла HP-YH-46</name>
-        <price>189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>133</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-YH-46_HP-YH-46</vendorCode>
-        <description>Масленка из толстого стекла с крышкой &amp;ndash; это практичная и элегантная посуда для хранения и подачи масла. Ее классический дизайн гармонично сочетается с любым стилем сервировки стола. Благодаря прозрачному толстому стеклу, вы всегда сможете видеть остатки продукта, а также хранить масло в опрятном виде. Основные характеристики: Материал: стекло; Размеры: 17х10.5х8 см; Высота масленки составляет 8 см, что делает ее компактной и удобной для хранения в холодильнике или на столе. Крышка обеспечивает защиту масла от посторонних запахов, пыли и высыхания, а крепкое стекло гарантирует долговечность и стойкость к повреждениям. Эта масленка идеально подходит как для повседневного использования, так и для праздничных мероприятий. Ее легко чистить как вручную, так и в посудомоечной машине, что придает удобство в уходе. Это также отличный вариант подарка для тех, кто ценит функциональность и стиль.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3616</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3616/maslenka_dlya_slivochnogo_masla_17h10_5h8_sm_s_kryshkoy_iz_stekla_5.jpg</picture>
-        <param name="Высота">80</param>
-        <param name="Вилочка">Нет</param>
-        <param name="Материал масленки">Стекло</param>
-        <param name="Крышка">есть</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">105</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Хранение в морозильной камере">Нет</param>
-        <param name="Длина">170</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Ножик">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Форма">Прямоугольная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-YH-53_HP-YH-53" available="true">
         <name>Блюдо для закусок стеклянное 24,5*20,5*2 см прямоугольное HP-YH-53</name>
         <price>429.0</price>
@@ -32729,6 +32588,168 @@
         <param name="Цвет">Прозрачный</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_X9BL_X9BL" available="true">
+        <name>Мультистайлер для волос Airwrap Complete Long 6 насадок, синий X9BL</name>
+        <price>6719.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>14</categoryId>
+        <vendor>Smartx</vendor>
+        <vendorCode>f11_X9BL_X9BL</vendorCode>
+        <description>Мультистайлер Airwrap Complete Long - усовершенствованное устройство для ухода за волосами и создания салонной укладки в домашних условиях. Устройство оснащено интеллектуальным датчиком контроля температуры, который регулирует температуру воздушного потока, предотвращая перегрев локонов. Характеристики стайлера мощность 1300 Вт; 3 скорости; 3 температурных режима; материал корпуса - пластик; размер стайлера без насадок 4.5х4х26.5 см; длина шнура питания 2.4 м. Стайлер имеет независимую регулировку скорости и температуры, благодаря чему можно выбрать необходимый режим в зависимости от типа волос. Кроме того, настройками предусмотрено наличие холодного обдува для фиксации укладки. Стайлер имеет комплект насадок, предназначенных для создания локонов, разглаживания и высушивания прядей: Цилиндрическая насадка диаметром 30, 40 мм для создания локонов и волн. Захватывает прядь автоматически с помощью воздушного потока, что позволяет сократить время на создание укладки даже без особых навыков. Укладка осуществляется не за счет высокой температуры, а за счет воздуха, благодаря чему можно сохранить здоровье волос. Подходит для всех типов волос различной длины. В зависимости от направления воздушного потока позволяет создавать симметричные и асимметричные укладки. Насадка-браш. Идеально подходит для создания прикорневого объема, разглаживания волос, подкручивания кончиков и создания мягких локонов. Жесткие щетки для выравнивания волос. Позволяет одновременно сушить и укладывать пряди без спутывания, а также создать прикорневой объем и пригладить волосы, предотвращая эффект "одуванчика". Во время сушки параллельно осуществляет массаж кожи головы. Насадка Коанда. Предназначена для выравнивания и разглаживания прядей с сохранением естественного объема. Насадка уменьшает пушистость, помогает избавиться от "заломов" и минимизирует термическое воздействие на пряди.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3672</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3672/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_siniy_8.jpg</picture>
+        <param name="Тип">Наборы для укладки</param>
+        <param name="Гарантийный срок">3 мес</param>
+        <param name="Вес">1.5</param>
+        <param name="Возможность завивки волос">Да</param>
+        <param name="Потребляемая мощность">1300</param>
+        <param name="Длина сетевого шнура">2.4</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Количество насадок">6</param>
+        <param name="Количество режимов работы">3</param>
+        <param name="Количество температурных режимов">3</param>
+        <param name="Индикатор работы">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип питания">Сеть 220 В</param>
+        <param name="Цвет корпуса">Синий</param>
+        <param name="Петелька для подвешивания">Нет</param>
+        <param name="Поворот шнура на 360 градусов">Да</param>
+        <param name="Насадка-щетка">Да</param>
+        <param name="Терморегулятор">Да</param>
+        <param name="Насадка для спиральной завивки">Да</param>
+        <param name="Термоизолированный наконечник">Да</param>
+        <param name="Выбор типа волос">Нет</param>
+      </offer>
+      <offer id="f11_X9PBL_X9PBL" available="true">
+        <name>Мультистайлер для волос Airwrap Complete Long 6 насадок, голубой X9PBL</name>
+        <price>6719.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>14</categoryId>
+        <vendor>Smartx</vendor>
+        <vendorCode>f11_X9PBL_X9PBL</vendorCode>
+        <description>Мультистайлер Airwrap Complete Long - усовершенствованное устройство для ухода за волосами и создания салонной укладки в домашних условиях. Устройство оснащено интеллектуальным датчиком контроля температуры, который регулирует температуру воздушного потока, предотвращая перегрев локонов. Характеристики стайлера мощность 1300 Вт; 3 скорости; 3 температурных режима; материал корпуса - пластик; размер стайлера без насадок 4.5х4х26.5 см; длина шнура питания 2.4 м. Стайлер имеет независимую регулировку скорости и температуры, благодаря чему можно выбрать необходимый режим в зависимости от типа волос. Кроме того, настройками предусмотрено наличие холодного обдува для фиксации укладки. Стайлер имеет комплект насадок, предназначенных для создания локонов, разглаживания и высушивания прядей: Цилиндрическая насадка диаметром 30, 40 мм для создания локонов и волн. Захватывает прядь автоматически с помощью воздушного потока, что позволяет сократить время на создание укладки даже без особых навыков. Укладка осуществляется не за счет высокой температуры, а за счет воздуха, благодаря чему можно сохранить здоровье волос. Подходит для всех типов волос различной длины. В зависимости от направления воздушного потока позволяет создавать симметричные и асимметричные укладки. Насадка-браш. Идеально подходит для создания прикорневого объема, разглаживания волос, подкручивания кончиков и создания мягких локонов. Жесткие щетки для выравнивания волос. Позволяет одновременно сушить и укладывать пряди без спутывания, а также создать прикорневой объем и пригладить волосы, предотвращая эффект "одуванчика". Во время сушки параллельно осуществляет массаж кожи головы. Насадка Коанда. Предназначена для выравнивания и разглаживания прядей с сохранением естественного объема. Насадка уменьшает пушистость, помогает избавиться от "заломов" и минимизирует термическое воздействие на пряди.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3674</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3674/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_goluboy_9.jpg</picture>
+        <param name="Тип">Наборы для укладки</param>
+        <param name="Гарантийный срок">3 мес</param>
+        <param name="Вес">1.5</param>
+        <param name="Потребляемая мощность">1300</param>
+        <param name="Длина сетевого шнура">2.4</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Количество насадок">6</param>
+        <param name="Количество режимов работы">3</param>
+        <param name="Индикатор работы">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип питания">Сеть 220 В</param>
+        <param name="Цвет корпуса">Голубой</param>
+        <param name="Петелька для подвешивания">Нет</param>
+        <param name="Поворот шнура на 360 градусов">Да</param>
+        <param name="Терморегулятор">Да</param>
+        <param name="Выбор типа волос">Нет</param>
+      </offer>
+      <offer id="f11_X9P_X9P" available="true">
+        <name>Мультистайлер для волос Airwrap Complete Long 6 насадок, розовый X9P</name>
+        <price>6719.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>14</categoryId>
+        <vendor>Smartx</vendor>
+        <vendorCode>f11_X9P_X9P</vendorCode>
+        <description>Мультистайлер Airwrap Complete Long - усовершенствованное устройство для ухода за волосами и создания салонной укладки в домашних условиях. Устройство оснащено интеллектуальным датчиком контроля температуры, который регулирует температуру воздушного потока, предотвращая перегрев локонов. Характеристики стайлера мощность 1300 Вт; 3 скорости; 3 температурных режима; материал корпуса - пластик; размер стайлера без насадок 4.5х4х26.5 см; длина шнура питания 2.4 м. Стайлер имеет независимую регулировку скорости и температуры, благодаря чему можно выбрать необходимый режим в зависимости от типа волос. Кроме того, настройками предусмотрено наличие холодного обдува для фиксации укладки. Стайлер имеет комплект насадок, предназначенных для создания локонов, разглаживания и высушивания прядей: Цилиндрическая насадка диаметром 30, 40 мм для создания локонов и волн. Захватывает прядь автоматически с помощью воздушного потока, что позволяет сократить время на создание укладки даже без особых навыков. Укладка осуществляется не за счет высокой температуры, а за счет воздуха, благодаря чему можно сохранить здоровье волос. Подходит для всех типов волос различной длины. В зависимости от направления воздушного потока позволяет создавать симметричные и асимметричные укладки. Насадка-браш. Идеально подходит для создания прикорневого объема, разглаживания волос, подкручивания кончиков и создания мягких локонов. Жесткие щетки для выравнивания волос. Позволяет одновременно сушить и укладывать пряди без спутывания, а также создать прикорневой объем и пригладить волосы, предотвращая эффект "одуванчика". Во время сушки параллельно осуществляет массаж кожи головы. Насадка Коанда. Предназначена для выравнивания и разглаживания прядей с сохранением естественного объема. Насадка уменьшает пушистость, помогает избавиться от "заломов" и минимизирует термическое воздействие на пряди.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3675</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3675/multistayler_dlya_volos_airwrap_complete_long_6_nasadok_rozovyy_9.jpg</picture>
+        <param name="Тип">Наборы для укладки</param>
+        <param name="Гарантийный срок">3 мес</param>
+        <param name="Вес">1.5</param>
+        <param name="Возможность завивки волос">Да</param>
+        <param name="Потребляемая мощность">1300</param>
+        <param name="Длина сетевого шнура">2.4</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Количество насадок">6</param>
+        <param name="Количество режимов работы">3</param>
+        <param name="Количество температурных режимов">3</param>
+        <param name="Индикатор работы">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип питания">Сеть 220 В</param>
+        <param name="Цвет корпуса">Розовый</param>
+        <param name="Петелька для подвешивания">Нет</param>
+        <param name="Поворот шнура на 360 градусов">Да</param>
+        <param name="Насадка-щетка">Да</param>
+        <param name="Терморегулятор">Да</param>
+        <param name="Насадка для спиральной завивки">Да</param>
+        <param name="Термоизолированный наконечник">Да</param>
+        <param name="Функция быстрого нагрева">Да</param>
+        <param name="Выбор типа волос">Нет</param>
+      </offer>
+      <offer id="f11_X10BL_X10BL" available="true">
+        <name>Утюжок для волос 1300 Вт стайлер воздушный Air Stasghtener, синий X10BL</name>
+        <price>6959.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>14</categoryId>
+        <vendor>Smartx</vendor>
+        <vendorCode>f11_X10BL_X10BL</vendorCode>
+        <description>Выпрямитель для волос Air Stasghtener - инновационное устройство, объединяющее функции фена и утюжка, позволяющее одновременно сушить и выравнивать волосы. Характеристики утюжка для волос Air Stasghtener размер 33х4х3.5 см; мощность 1300 Вт; длина пластин 10 см; ширина пластин 3.5 см; длина шнура питания 2.4 м; 5 температурных режимов; 2 режима скорости; холодный обдув; выбор сушки - влажные волосы или сухие. В основе работы выпрямителя - технология, использующая воздушный поток, направленный под углом 45°, что создает оптимальное натяжение для гладкой укладки, минимизируя при этом повреждения и пересушивание прядей. Выпрямитель позволяет работать как с мокрыми, так и с сухими волосами различных типов и дает возможность не только сушить локоны с одновременным выравниванием, но и освежить готовую укладку на сухих волосах. Преимущества выпрямителя для волос Быстрый нагрев: всего за 60 секунд утюжок готов к работе, что экономит ваше время. Эргономичный дизайн: удобно лежит в руке, не скользит и не вызывает усталости даже при длительном использовании. Swivel-шнур: вращается на 360°, не спутывается и обеспечивает свободу движений. Защита от перегрева: автоматически отключает прибор при достижении критической температуры, что обеспечивает безопасность использования. Стайлер оснащен интеллектуальным датчиком контроля температуры, который автоматически регулирует температуру воздушного потока, предотвращая чрезмерное термическое воздействие на волосы. После выпрямления или создания локонов волосы будут блестеть и на ощупь станут более шелковистыми.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3676</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_9.jpg</picture>
+        <param name="Гарантийный срок">3</param>
+        <param name="Вес">1</param>
+        <param name="Потребляемая мощность">1300</param>
+        <param name="Длина сетевого шнура">2.4</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Количество насадок">1</param>
+        <param name="Количество режимов работы">2</param>
+        <param name="Количество температурных режимов">5</param>
+        <param name="Индикатор работы">Да</param>
+        <param name="Насадка для выпрямления волос">Да</param>
+        <param name="Индикатор нагрева">Да</param>
+        <param name="Тип питания">Сеть 220 В</param>
+        <param name="Цвет корпуса">Синий</param>
+        <param name="Петелька для подвешивания">Нет</param>
+        <param name="Поворот шнура на 360 градусов">Да</param>
+        <param name="Пластины для гофрирования">Нет</param>
+        <param name="Терморегулятор">Да</param>
+        <param name="Функция автоотключения">Да</param>
+        <param name="Ширина пластин">35</param>
+        <param name="Выбор типа волос">Нет</param>
       </offer>
       <offer id="f11_HP-20-1_HP-20-1" available="true">
         <name>Набор столовых приборов на 6 персон с деревянными ручками на подставке столовые приборы 24 шт Серебро HP-20-1</name>
@@ -46987,6 +47008,46 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4444/podstilka_pod_palatku_240_240_sm_alyuminievyy_kovrik_podlozhka_dlya_kempinga_vlagozashchitnyy_lu_023_7.png</picture>
         <param name="Длина">24</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_LU-025GR_LU-025GR" available="true">
+        <name>Палатка двухместная 200×150×120 (см) кемпинговая туристическая для рыбалки LU-025GR Хаки</name>
+        <price>1249.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>149</categoryId>
+        <vendor>Lugi</vendor>
+        <vendorCode>f11_LU-025GR_LU-025GR</vendorCode>
+        <description>Эта палатка создана для тех, кто ценит надежность, функциональность и минимализм. Купольная форма придаёт конструкции устойчивость, а продуманный дизайн делает её идеальным выбором для недолгих путешествий, кемпинга или музыкальных фестивалей. Изготовленная из прочного материала Oxford, палатка эффективно защищает от ветра и осадков. Внутренний и внешний слой выполнены из водоотталкивающей ткани, благодаря чему вы будете чувствовать себя комфортно даже при переменчивой погоде. Усиленное дно обеспечивает дополнительную изоляцию от холода и влаги. Основные характеристики палатки для туризма: Количество спальных мест: 2 ; Внешний размер палатки: 200×150×120 см; Внутренний размер палатки: 190×130×100 см; Размер в сложенном состоянии: 56 ×14 ×14 см; Внешний материал: оксфорд; Материал пола: оксфорд; Внутренний материал палатки: оксфорд; Плотность материала: 180T; Материал каркаса: фибергласс, диаметр 6.9 мм; Тип входа: D-образный на молнии; Форма: полусфера; Система раскладывания: ручная (установка с помощью дуг); Сезонность: лето; Наличие чехла: есть; Комплектация: палатка, дуги, 4 колышка, сумка-чехол для транспортировки. Инструкция по эксплуатации палатки Этапы установки палатки: Отстегните крепежный ремень и положите палатку основанием на землю или фут-принт. Найдите верхнюю часть каркаса, поставьте ее вертикально, затем последовательно разверните четыре угла палатки. Найдите две симметричные дуги и поднимите их, чтобы купол палатки полностью раскрылся. Прижмите до характерного щелчка. Вбейте грунтовые колышки по периметру палатки и натяните ветрозащитные шнуры. Палатка готова к использованию. Этапы складывания палатки: Извлеките грунтовые колышки и снимите ветрозащитные шнуры. Найдите перпендикулярные дуги, потяните обеими руками вверх и закройте каркас. Сложите верхнюю часть каркаса Найдите места соединения элементов дуги, разъедините их и поочередно сложите в направлении к центру. Равномерно сложите углы палатки по швам и зафиксируйте ее ремнем. Это необходимо, чтобы на материале не появлялись заломы. Сложите палатку и аксессуары в упаковку. Обратите внимание Проверяйте целостность тент палатки и элементов конструкции перед каждым использованием для обеспечения собственной безопасности. Устанавливайте палатку на ровном участке без камней, веток и острых предметов, которые могут повредить ткань. Устанавливайте тент палатку на безопасном расстоянии от костра. Для того, чтобы избежать дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкопайте дренажную канаву вокруг палатки для отведения воды. Канава должна располагаться максимально близко ко внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт. Уход за палаткой Очистка палатки от загрязнений после использования - важный аспект, который непосредственно влияет на срок и качество ее службы. Чтобы сохранить снаряжение: Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Во избежание появления плесени не складывайте палатку до полного высыхания или просушите ткань при первом удобном случае. Не используйте моющие средства для очистки во избежание утраты водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4446</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/58554/4446/palatka_dvuhmestnaya_200_150_120_sm_kempingovaya_turisticheskaya_dlya_rybalki_lu_025gr_haki_9.jpg</picture>
+        <param name="Высота">120</param>
+        <param name="Вес">1.2</param>
+        <param name="Тип изделия">Палатка</param>
+        <param name="Диаметр">6.9</param>
+        <param name="Сезон">Лето</param>
+        <param name="Количество спальных мест">2</param>
+        <param name="Ширина">150</param>
+        <param name="Количество входов">1</param>
+        <param name="Количество комнат">1</param>
+        <param name="Цвет">Хаки</param>
+        <param name="Длина">200</param>
+        <param name="Каркас палатки/тента">Внешний</param>
+        <param name="Особенности палатки/тента">Внутренние карманы</param>
+        <param name="Дуги">Фиберглас</param>
+        <param name="Материал дна">Оксфорд</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Длина в упаковке">56</param>
+        <param name="Ширина в упаковке">14</param>
+        <param name="Высота в упаковке">14</param>
       </offer>
       <offer id="f11_LU-026_LU-026" available="true">
         <name>Самонадувной матрас походный в палатку 190×65×3 см туристический с подголовником LU-026 Бежевый</name>
@@ -71822,26 +71883,6 @@
         <param name="Длина">19.5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_64486-83_64486-83" available="true">
-        <name>Набор стеклянных трубочек с щеточкой, многоразовые соломинки для коктейлей и напитков (8+1) 64486-83</name>
-        <price>109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>45</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_64486-83_64486-83</vendorCode>
-        <description>Набор стеклянных трубочек для напитков &amp;mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &amp;mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола. Характеристики набора стеклянных трубочек: &amp;bull; Вес: 0.200 кг; &amp;bull; Длина трубочек: 19.5 см; &amp;bull; Материалы: стекло, металл; &amp;bull; Комплектация: 8 стеклянных трубочек в наборе; &amp;bull; Дополнительные элементы: щёточка для очистки; &amp;bull; Диаметр трубочек: 5 мм. Преимущества набора трубочек из стекла: &amp;bull; Экологичность &amp;mdash; многоразовое использование без вреда для природы; &amp;bull; Гигиеничность &amp;mdash; легко очищаются и не впитывают запахи; &amp;bull; Универсальность &amp;mdash; подходят для холодных и горячих напитков; &amp;bull; Эстетичность &amp;mdash; прозрачное стекло выглядит стильно и современно; &amp;bull; Практичность &amp;mdash; щёточка в комплекте облегчает уход.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5849</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5849/nabor_steklyannyh_trubochek_s_shchetochkoy_mnogorazovye_solominki_dlya_kokteyley_i_napitkov_8_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5849/nabor_steklyannyh_trubochek_s_shchetochkoy_mnogorazovye_solominki_dlya_kokteyley_i_napitkov_8_1_1.jpg</picture>
-        <param name="Материал">Боросиликатное стекло</param>
-        <param name="Вес">200</param>
-        <param name="Диаметр">5</param>
-        <param name="Количество в упаковке">8</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Длина">195</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-32-1_HP-32-1" available="true">
         <name>Ваза стеклянная прозрачная прямоугольная, декоративная ваза для дома стильная для цветов HP-32-1</name>
         <price>969.0</price>
@@ -75510,36 +75551,6 @@
         <param name="Назначение формы">Для пирога|Для бисквита|Для лазаньи|Для птицы|Для мяса|Для рыбы</param>
         <param name="Тип духовки">Газовая или электрическая</param>
         <param name="Тип формы">Круглая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HM05-10_HM05-10" available="true">
-        <name>Форма для запекания Vintage 28×17×5 (см) прямоугольная форма для выпекания в духовке с ручками Зеленая HM05-10</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>59</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HM05-10_HM05-10</vendorCode>
-        <description>Фарфоровая форма для запекания создана для тех, кто ценит удобство и красоту на кухне. Ее стильное оформление с нежным растительным орнаментом делает подачу блюд особенно эффектной. Основные характеристики формы для запекания: Материал: фарфор; Размер: 28&amp;times;17&amp;times;5 см; Объем: 1.3 л. Особенности формы для выпечки: равномерно распределяет тепло и сохраняет его длительное время; подходит для запекания мяса, рыбы, овощей и десертов; оснащена удобными ручками для безопасного переноса; можно использовать в духовке и микроволновке. Такая форма станет незаменимой помощницей на вашей кухне &amp;mdash; в ней удобно готовить как повседневные, так и праздничные блюда. Благодаря стильному дизайну, она идеально подходит для сервировки: готовое блюдо можно подавать прямо на стол, не перекладывая в другую посуду.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6070</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6070/forma_dlya_zapekaniya_vintage_28_17_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_zelenaya_9.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота стенок">50</param>
-        <param name="Ширина">170</param>
-        <param name="Цвет">Зелёный</param>
-        <param name="Длина">280</param>
-        <param name="Общий объем формы">1300</param>
-        <param name="Назначение формы">Для пирога|Для лазаньи|Для птицы|Для мяса|Для рыбы</param>
-        <param name="Тип духовки">Газовая или электрическая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HM05-01_HM05-01" available="true">
@@ -80342,40 +80353,6 @@
         <param name="Форма">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_YY78-3A_YY78-3A" available="true">
-        <name>Столовый набор посуды тарелок и чашек 32 предмета на 6 персон "Бордовый Меандр" фарфоровый YY78-3A</name>
-        <price>10169.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>66</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_YY78-3A_YY78-3A</vendorCode>
-        <description>Совместите современную форму и классическую элегантность на вашем столе! Этот большой столовый сервиз из 32 предметов &amp;ndash; готовое решение для роскошной сервировки обеда или ужина на 6 человек. Сервиз изготовлен из качественного белого фарфора. Края посуды украшены изысканным геометрическим орнаментом (грецкий узор) благородного бордового цвета, что добавляет набору торжественности и теплоты. Подробная комплектация набора: Тарелка обеденная (большая): 6 шт. &amp;mdash; &amp;Oslash; 26 см; Тарелка суповая (глубокая): 6 шт. - &amp;Oslash; 21 см (Объем ~500 мл); Тарелка десертная: 6 шт. &amp;mdash; &amp;Oslash; 17 см; Чашка чайна: 6 шт. &amp;ndash; &amp;Oslash; 10 см (Объем 300 мл); Блюдце: 6 шт. &amp;mdash; &amp;Oslash; 14.5 см; Большое сервировочное блюдо: 2 шт. - 36 х 20 см; Материал: Фарфор; Вес набора: 14.5 кг. Идеальная комплектация (32 предмета): Набор продуман до мелочей. Помимо персональных тарелок и чашек для каждого гостя, он включает в себя два больших овальных блюда, что позволяет подать основное блюдо (мясо, птицу) и закуски в едином стиле. Это отличный выбор для большой семьи, а также презентабельный и ценный подарок на свадьбу или новоселье.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6381</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6381/stolovyy_nabor_posudy_tarelok_i_chashek_32_predmeta_na_6_person_bordovyy_meandr_farforovyy_obedennyy_stolovyy_serviz_tarelok_8.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Количество персон">6</param>
-        <param name="Количество предметов">32</param>
-        <param name="Использование в микроволновке">Да</param>
-        <param name="Тарелка обеденная">6</param>
-        <param name="Блюдо">2</param>
-        <param name="Тарелка десертная">6</param>
-        <param name="Хранение в холодильнике">Да</param>
-        <param name="Блюдце чайное">6</param>
-        <param name="Цвет">Белый</param>
-        <param name="Тарелка суповая">6</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Чашка чайная">6</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_YY78-4A_YY78-4A" available="true">
         <name>Столовый набор посуды тарелок и чашек 32 предмета на 6 персон Pearl фарфоровый YY78-4A</name>
         <price>11299.0</price>
@@ -83195,6 +83172,34 @@
         <param name="Цвет">Синий</param>
         <param name="Диаметр под крышку">22</param>
         <param name="Толщина дна">5</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-1-11-BLACK_HP-1-11-BLACK" available="true">
+        <name>Гусятница чугунная с крышкой 3л Ø22см черная, утятница казан для тушения запекания кухонная посуда HP-1-11-BLACK</name>
+        <price>2339.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_820ae604ffd5c784f3</vendorCode>
+        <description>Чугунная гусятница объемом 3 литра создана для медленного тушения, запекания и приготовления насыщенных блюд. Чугун обеспечивает равномерное распределение тепла, а эмаль защищает от пригорания и упрощает уход. Основные характеристики: Размер: 35х22х15 (длина без ручек 27) см; Объем: 3 л; Диаметр дна: 21.5 см; Высота без крышки: 10.5 см; Высота с крышкой: 15 см; Толщина стенок и дна: 4 мм; Материал: чугун. Диаметр дна 21.5 см гарантирует стабильный нагрев, а толщина стенок 4 мм помогает дольше сохранять тепло. Вместительная и прочная, она идеально подходит для приготовления крупных порций мяса, овощных рагу и ароматных запеканок. Литые ручки делают использование удобным, а классический дизайн впишется в любую кухню. Такая гусятница &amp;mdash; надежный выбор для тех, кто ценит вкус и качество домашних блюд.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6541</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6541/gusyatnitsa_chugunnaya_s_kryshkoy_3l_22sm_chernaya_utyatnitsa_kazan_dlya_tusheniya_zapekaniya_kuhonnaya_posuda.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6541/gusyatnitsa_chugunnaya_s_kryshkoy_3l_22sm_chernaya_utyatnitsa_kazan_dlya_tusheniya_zapekaniya_kuhonnaya_posuda_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6541/gusyatnitsa_chugunnaya_s_kryshkoy_3l_22sm_chernaya_utyatnitsa_kazan_dlya_tusheniya_zapekaniya_kuhonnaya_posuda_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6541/gusyatnitsa_chugunnaya_s_kryshkoy_3l_22sm_chernaya_utyatnitsa_kazan_dlya_tusheniya_zapekaniya_kuhonnaya_posuda_3.png</picture>
+        <param name="Материал">Чугун</param>
+        <param name="Вес">4.9</param>
+        <param name="Внутреннее покрытие">без покрытия</param>
+        <param name="Внешнее покрытие">без покрытия</param>
+        <param name="Материал крышки">Чугун</param>
+        <param name="Ширина">220</param>
+        <param name="Объем">3</param>
+        <param name="Высота с крышкой">150</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">350</param>
+        <param name="Высота без крышки">105</param>
+        <param name="Форма">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-47BL_HP-42-47BL" available="true">
@@ -87893,6 +87898,34 @@
         <param name="Тип емкости">Лимонадница</param>
         <param name="Нижний диаметр">170</param>
       </offer>
+      <offer id="f11_HP-19-293_HP-19-293" available="true">
+        <name>Лимонадница с краном стеклянная 3 л диспенсер для напитков лимонадник с краном HP-19-293</name>
+        <price>1129.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-19-293_HP-19-293</vendorCode>
+        <description>Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики: Объём: 3 л; Высота: 50 см; Материал: стекло; Верхний диаметр : 17 см. Особенности: Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых. Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6778</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">500</param>
+        <param name="Верхний диаметр">170</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Декоративное оформление">Гравировка</param>
+        <param name="Объем">3000</param>
+        <param name="Наличие ручки">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тематика декора, рисунка">Без декора</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Тип емкости">Лимонадница</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-19-294_HP-19-294" available="true">
         <name>Лимонадница Topaz Crystal 5л с краном HP-19-294 кувшин диспенсер для напитков прозрачный</name>
         <price>1489.0</price>
@@ -88066,6 +88099,27 @@
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Лимонадница</param>
         <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-19-303_HP-19-303" available="true">
+        <name>Лимонадница Crystal Trinity 5 литров с краном для мохито малока сока напитков HP-19-303</name>
+        <price>1789.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-19-303_HP-19-303</vendorCode>
+        <description>Вместительная лимонадница из толстого стекла для подачи холодных напитков подходит для больших компаний, праздников на свежем воздухе или использования в кафе. Благодаря объему в 5 литров, напитка хватит на всех, а кран позволит гостям наливать его самостоятельно. Особенности Объем 5 литров: Идеальный размер для вечеринок, свадеб или семейных посиделок &amp;mdash; не придется постоянно доливать напиток. Легко заправлять: Через широкое горлышко удобно засыпать лед, добавлять целые дольки фруктов или ягоды. Устойчивость: Массивное квадратное основание гарантирует, что диспенсер не опрокинется. Материал: Прочное стекло, кран из пищевого пластика с металлизированным покрытием. Назначение: Для лимонада, морса, сока, воды с лимоном или холодного чая. Крышка: Достаточно тяжелая стеклянная крышка защищает напиток от пыли и насекомых. Характеристики: Материал: стекло Объем: 5 л Диаметр: 19см Высота: 52 см Материал краника: пластик Вес: 5,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6787</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6787/limonadnitsa_crystal_trinity_5_litrov_s_kranom_dlya_mohito_maloka_soka_napitkov_3.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Функциональное назначение">Для пива|Для кваса|Для газированных напитков|Для сока/фреша|Для молока</param>
+        <param name="Тип оборудования по мобильности">Передвижной</param>
+        <param name="Количество кранов">1</param>
+        <param name="Сфера использования">HoReCa|Уличная торговля</param>
+        <param name="Тип установки оборудования">Настольный</param>
       </offer>
       <offer id="f11_HP-19-304_HP-19-304" available="true">
         <name>Лимонадница Fractal с краном для сока мохито молока напитков 1,8 литра HP-19-304</name>
