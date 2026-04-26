@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-26 17:59">
+<yml_catalog date="2026-04-26 19:18">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="118">Сумки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="65">Креманки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="184">Бульонницы</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="283">Подносы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="6">LED ленты</category>
-      <category id="56">Бокалы</category>
-      <category id="77">Пылесосы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="271">Товары для уборки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="111">Портативные колонки</category>
-      <category id="81">Капучинаторы</category>
-      <category id="292">Столовая посуда</category>
-      <category id="182">Блюда</category>
-      <category id="62">Ковши</category>
-      <category id="87">Соковыжималки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="142">Посуда для детей</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="89">Миксеры</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="63">Кастрюли</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="186">Тостеры</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="261">Терки</category>
-      <category id="68">Тарелки</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="14">Стайлеры</category>
-      <category id="193">Доски для подачи</category>
-      <category id="66">Сервизы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="262">Термосумки</category>
-      <category id="13">Триммеры</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="140">Крышки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="212">Мебель</category>
-      <category id="284">Новогодний декор</category>
-      <category id="187">Слайсеры</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="96">Вакууматоры</category>
-      <category id="149">Палатки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="90">Мясорубки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="23">Фены</category>
-      <category id="114">Повербанки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="122">Аксессуары</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="150">Спальные мешки</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="224">Гамаки</category>
-      <category id="103">Проекторы</category>
-      <category id="61">Сковородки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="53">Кувшины</category>
-      <category id="15">Плойки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="125">Мангалы</category>
-      <category id="60">Мармиты</category>
-      <category id="42">Термосы для детей</category>
-      <category id="55">Рюмки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="117">Рюкзаки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="278">Косметички</category>
-      <category id="21">Электробритвы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="33">Пепельницы</category>
-      <category id="316">Туристические плиты</category>
-      <category id="194">Менажницы</category>
-      <category id="287">Банты на елку</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="93">Электрочайники</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="126">Ланч боксы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="145">Смарт-часы</category>
-      <category id="34">Подсвечники</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="144">Вентиляторы</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="98">Блендеры</category>
-      <category id="128">Органайзеры</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="75">Утюги</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="124">Решетки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="133">Масленки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="166">Тортовницы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="132">Конфетницы</category>
-      <category id="298">Брелки</category>
-      <category id="318">Кусторезы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="57">Чашки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="279">Зонты</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="141">Салатницы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="76">Отпариватели</category>
-      <category id="29">Салфетницы</category>
-      <category id="31">Часы настенные</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
       <category id="104">Ручки для чистки наушников</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="17">Воскоплавы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="72">Весы напольные</category>
-      <category id="54">Стаканы</category>
+      <category id="65">Креманки</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="278">Косметички</category>
+      <category id="128">Органайзеры</category>
+      <category id="31">Часы настенные</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="47">Наборы для специй</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="134">Бутылки для масла</category>
       <category id="59">Все для выпечки</category>
-      <category id="221">Туристические души</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="35702">Обувь для Взрослых</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="23">Фены</category>
+      <category id="61">Сковородки</category>
+      <category id="269">Подарочные пакеты</category>
       <category id="297">Детские сумки и кошельки</category>
-      <category id="92">Кофеварки и кофемолки</category>
+      <category id="93">Электрочайники</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="144">Вентиляторы</category>
+      <category id="126">Ланч боксы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="145">Смарт-часы</category>
+      <category id="60">Мармиты</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="212">Мебель</category>
+      <category id="15">Плойки</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="117">Рюкзаки</category>
+      <category id="76">Отпариватели</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="89">Миксеры</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="110">Наушники</category>
+      <category id="53">Кувшины</category>
+      <category id="122">Аксессуары</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="125">Мангалы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="75">Утюги</category>
+      <category id="57">Чашки</category>
+      <category id="261">Терки</category>
+      <category id="283">Подносы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="133">Масленки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="56">Бокалы</category>
+      <category id="300">Подушки для спины</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="114">Повербанки</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="284">Новогодний декор</category>
+      <category id="72">Весы напольные</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="33">Пепельницы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="279">Зонты</category>
+      <category id="298">Брелки</category>
+      <category id="140">Крышки</category>
+      <category id="63">Кастрюли</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="90">Мясорубки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="68">Тарелки</category>
+      <category id="54">Стаканы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="21">Электробритвы</category>
+      <category id="13">Триммеры</category>
+      <category id="20">Эпиляторы</category>
+      <category id="194">Менажницы</category>
+      <category id="182">Блюда</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="81">Капучинаторы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="141">Салатницы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="318">Кусторезы</category>
+      <category id="184">Бульонницы</category>
+      <category id="287">Банты на елку</category>
+      <category id="6">LED ленты</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="195">Разделочные доски</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="187">Слайсеры</category>
+      <category id="98">Блендеры</category>
+      <category id="132">Конфетницы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="142">Посуда для детей</category>
+      <category id="193">Доски для подачи</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="62">Ковши</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="186">Тостеры</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="317">Садовое освещение</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="66">Сервизы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="221">Туристические души</category>
+      <category id="262">Термосумки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="34">Подсвечники</category>
       <category id="82">Другая мелкая техника</category>
+      <category id="124">Решетки</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="87">Соковыжималки</category>
+      <category id="77">Пылесосы</category>
+      <category id="110">Наушники</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="224">Гамаки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="166">Тортовницы</category>
+      <category id="29">Салфетницы</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="118">Сумки</category>
+      <category id="55">Рюмки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="111">Портативные колонки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="149">Палатки</category>
+      <category id="14">Стайлеры</category>
+      <category id="103">Проекторы</category>
+      <category id="292">Столовая посуда</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="67">Столовые приборы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -23892,7 +23892,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3294/vinnyy_stolik_iz_dereva_35_sm_kruglyy_menazhnitsa_na_nozhkah_dub_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3294/vinnyy_stolik_iz_dereva_35_sm_kruglyy_menazhnitsa_na_nozhkah_dub_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3294/vinnyy_stolik_iz_dereva_35_sm_kruglyy_menazhnitsa_na_nozhkah_dub_8.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Дуб</param>
         <param name="Высота">18 см</param>
         <param name="Количество секций">9</param>
         <param name="Диаметр">35 см</param>
@@ -23921,7 +23921,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3295/vinnyy_stolik_iz_dereva_50_30_sm_pryamougolnyy_menazhnitsa_na_nozhkah_dub_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3295/vinnyy_stolik_iz_dereva_50_30_sm_pryamougolnyy_menazhnitsa_na_nozhkah_dub_8.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3295/vinnyy_stolik_iz_dereva_50_30_sm_pryamougolnyy_menazhnitsa_na_nozhkah_dub_9.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Дуб</param>
         <param name="Высота">18 см</param>
         <param name="Количество секций">6</param>
         <param name="Количество ярусов">1</param>
@@ -23944,7 +23944,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3296/kruglaya_servirovochnaya_doska_30_sm_dlya_podachi_narezok_shashlyka_steyka_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3296/kruglaya_servirovochnaya_doska_30_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3296/kruglaya_servirovochnaya_doska_30_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Диаметр">30 см</param>
         <param name="Крышка">нет</param>
@@ -23970,7 +23970,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3297/menazhnitsa_derevyannaya_25_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3297/menazhnitsa_derevyannaya_25_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3297/menazhnitsa_derevyannaya_25_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Диаметр">25 см</param>
         <param name="Декоративное оформление">Без декора</param>
@@ -23997,7 +23997,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3298/menazhnitsa_derevyannaya_35_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3298/menazhnitsa_derevyannaya_35_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3298/menazhnitsa_derevyannaya_35_sm_kruglaya_na_3_sektsii_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Диаметр">35 см</param>
         <param name="Декоративное оформление">Без декора</param>
@@ -24024,7 +24024,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3299/menazhnitsa_derevyannaya_40h25_sm_ovalnaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3299/menazhnitsa_derevyannaya_40h25_sm_ovalnaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3299/menazhnitsa_derevyannaya_40h25_sm_ovalnaya_na_3_sektsii_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
@@ -24052,7 +24052,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3300/ovalnaya_servirovochnaya_doska_35_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3300/ovalnaya_servirovochnaya_doska_35_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3300/ovalnaya_servirovochnaya_doska_35_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Крышка">нет</param>
         <param name="Ширина">25 см</param>
@@ -24078,7 +24078,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3301/menazhnitsa_derevyannaya_30_sm_kruglaya_na_6_sektsiy_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3301/menazhnitsa_derevyannaya_30_sm_kruglaya_na_6_sektsiy_doska_dlya_podachi_zakusok_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3301/menazhnitsa_derevyannaya_30_sm_kruglaya_na_6_sektsiy_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">6</param>
         <param name="Диаметр">30 см</param>
         <param name="Декоративное оформление">Без декора</param>
@@ -24105,7 +24105,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/T31W200/T31W200-4%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/T31W200/T31W200-3%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/T31W200/T31W200-2%281%29.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
@@ -24133,7 +24133,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3303/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3303/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3303/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
@@ -24161,7 +24161,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3304/menazhnitsa_derevyannaya_25_sm_kruglaya_na_2_sektsii_doska_dlya_podachi_zakusok_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3304/menazhnitsa_derevyannaya_25_sm_kruglaya_na_2_sektsii_doska_dlya_podachi_zakusok_2.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3304/menazhnitsa_derevyannaya_25_sm_kruglaya_na_2_sektsii_doska_dlya_podachi_zakusok_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">2</param>
         <param name="Диаметр">25 см</param>
         <param name="Декоративное оформление">Без декора</param>
@@ -24188,16 +24188,16 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3305/menazhnitsa_derevyannaya_30_20_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3305/menazhnitsa_derevyannaya_30_20_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3305/menazhnitsa_derevyannaya_30_20_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_3.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Крышка">нет</param>
-        <param name="Ширина">200</param>
+        <param name="Ширина">20</param>
         <param name="Хранение в холодильнике">Нет</param>
         <param name="Хранение в морозильной камере">Нет</param>
-        <param name="Длина">300</param>
+        <param name="Длина">30</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Прямоугольная</param>
         <param name="Гарантия">14 дней</param>
@@ -24215,7 +24215,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3306/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3306/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3306/menazhnitsa_derevyannaya_35_25_sm_pryamougolnaya_na_3_sektsii_doska_dlya_podachi_zakusok_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Количество секций">3</param>
         <param name="Декоративное оформление">Без декора</param>
         <param name="Количество ярусов">1</param>
@@ -24242,7 +24242,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3310/razdelochnaya_derevyannaya_doska_pryamougolnaya_30_20_sm_kuhonnaya_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3310/razdelochnaya_derevyannaya_doska_pryamougolnaya_30_20_sm_kuhonnaya_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3310/razdelochnaya_derevyannaya_doska_pryamougolnaya_30_20_sm_kuhonnaya_yasen_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">нет</param>
         <param name="Ширина">20 см</param>
@@ -24269,7 +24269,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3312/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3312/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_yasen_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3312/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_yasen_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">25 см</param>
         <param name="Крышка">нет</param>
@@ -24294,7 +24294,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3313/razdelochnaya_derevyannaya_doska_kruglaya_20_sm_kuhonnaya_dlya_podachi_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3313/razdelochnaya_derevyannaya_doska_kruglaya_20_sm_kuhonnaya_dlya_podachi_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3313/razdelochnaya_derevyannaya_doska_kruglaya_20_sm_kuhonnaya_dlya_podachi_yasen_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">20 см</param>
         <param name="Крышка">нет</param>
@@ -24320,7 +24320,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3314/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_dlya_podachi_yasen_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3314/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_dlya_podachi_yasen_2.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3314/razdelochnaya_derevyannaya_doska_kruglaya_25_sm_kuhonnaya_dlya_podachi_yasen_3.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">25 см</param>
         <param name="Крышка">нет</param>
@@ -24346,7 +24346,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3315/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3315/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_2.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3315/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_3.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">30 см</param>
         <param name="Крышка">нет</param>
@@ -24371,7 +24371,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3316/razdelochnaya_derevyannaya_doska_kruglaya_35_sm_kuhonnaya_dlya_podachi_yasen.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3316/razdelochnaya_derevyannaya_doska_kruglaya_35_sm_kuhonnaya_dlya_podachi_yasen_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3316/razdelochnaya_derevyannaya_doska_kruglaya_35_sm_kuhonnaya_dlya_podachi_yasen_2.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">35 см</param>
         <param name="Крышка">нет</param>
@@ -24396,7 +24396,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3317/razdelochnaya_derevyannaya_doska_pryamougolnaya_35_25_sm_kuhonnaya_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3317/razdelochnaya_derevyannaya_doska_pryamougolnaya_35_25_sm_kuhonnaya_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3317/razdelochnaya_derevyannaya_doska_pryamougolnaya_35_25_sm_kuhonnaya_yasen_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">нет</param>
         <param name="Ширина">25 см</param>
@@ -24423,7 +24423,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3319/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3319/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3319/razdelochnaya_derevyannaya_doska_kruglaya_30_sm_kuhonnaya_dlya_podachi_yasen_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Диаметр">30 см</param>
         <param name="Крышка">нет</param>
@@ -24531,7 +24531,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3325/kruglaya_servirovochnaya_doska_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3325/kruglaya_servirovochnaya_doska_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/35094/3325/kruglaya_servirovochnaya_doska_25_sm_dlya_podachi_narezok_shashlyka_steyka_yasen_2.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Диаметр">25 см</param>
         <param name="Крышка">нет</param>
@@ -24633,7 +24633,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3330/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_chernaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3330/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_chernaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3330/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_chernaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24667,7 +24667,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3331/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_bezhevaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3331/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_bezhevaya_3.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3331/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_bezhevaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Назначение">Для кофе и чая</param>
         <param name="Диаметр">8 см</param>
@@ -24696,7 +24696,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3332/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_golubaya_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3332/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_golubaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3332/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_golubaya_3.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24730,7 +24730,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3333/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_kremovaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3333/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_kremovaya_3.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3333/kruzhka_keramicheskaya_400_ml_s_serebristym_obodkom_i_ruchkoy_kremovaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24764,7 +24764,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629BE-%282%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3334/kruzhka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_420_ml_bezhevaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629P-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24796,7 +24796,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629M-%283%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629M-%282%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629P-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24829,7 +24829,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629P-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3336/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_420_ml_rozovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629P-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24861,7 +24861,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629G-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629G-%285%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240629/RX-N240629P-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24893,7 +24893,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3338/kruzhka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_rozovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624W-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24925,7 +24925,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624W-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3339/kruzhka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_belaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624W-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24958,7 +24958,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624BE-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3340/kruzhka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_bezhevaya_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624W-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -24991,7 +24991,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624CR-%284%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3341/kruzhka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_kremovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/127/RX-N240624/RX-N240624W-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25024,7 +25024,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3342/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3342/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3342/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25060,7 +25060,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3343/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_seraya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3343/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_seraya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3343/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_seraya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25096,7 +25096,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3344/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_korichnevaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3344/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_korichnevaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3344/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_korichnevaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25132,7 +25132,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3345/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_sinyaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3345/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_sinyaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3345/keramicheskaya_kruzhka_400_ml_s_zolotym_obodkom_dlya_chaya_i_kofe_sinyaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">10.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25169,7 +25169,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3346/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_belaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3346/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_belaya_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3346/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_belaya_5.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">8 см</param>
         <param name="Диаметр">8.5 см</param>
         <param name="Ширина">8.5 см</param>
@@ -25194,7 +25194,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3347/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3347/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3347/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">8 см</param>
         <param name="Диаметр">8.5 см</param>
         <param name="Крышка">Нет</param>
@@ -25221,7 +25221,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3348/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_rozovaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3348/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_rozovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3348/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_rozovaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">8 см</param>
         <param name="Ширина">8.5 см</param>
         <param name="Количество в наборе">1</param>
@@ -25245,7 +25245,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139P-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3349/kruzhka_keramicheskaya_s_tsvetochnym_printom_400_ml_dlya_chaya_i_kofe_rozovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139P-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25279,7 +25279,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139BL-%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3350/kruzhka_keramicheskaya_s_tsvetochnym_printom_400_ml_dlya_chaya_i_kofe_golubaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139P-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25313,7 +25313,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139W-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3351/kruzhka_keramicheskaya_s_tsvetochnym_printom_400_ml_dlya_chaya_i_kofe_belaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139P-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25347,7 +25347,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139CR-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3352/kruzhka_keramicheskaya_s_tsvetochnym_printom_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240139/RX-N240139P-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25379,7 +25379,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147W-%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3353/kruzhka_keramicheskaya_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147WB-%286%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Назначение">Для кофе и чая</param>
         <param name="Диаметр">9 см</param>
@@ -25409,7 +25409,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147WB-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3354/kruzhka_keramicheskaya_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147WB-%286%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25442,7 +25442,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147G-%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3355/kruzhka_keramicheskaya_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147WB-%286%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Назначение">Для кофе и чая</param>
         <param name="Диаметр">9 см</param>
@@ -25472,7 +25472,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147R-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3356/kruzhka_keramicheskaya_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240147/RX-N240147WB-%286%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25506,7 +25506,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278YB-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3357/chashka_keramicheskaya_s_nadpisyami_450_ml_you_are_the_best_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278HD-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25540,7 +25540,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278YBOSS-%282%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3358/chashka_keramicheskaya_boss_450_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278HD-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25574,7 +25574,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278_7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3359/chashka_keramicheskaya_s_nadpisyami_450_ml_my_best_dad_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278HD-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25608,7 +25608,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278HD-%282%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3360/kruzhka_keramicheskaya_s_nadpisyami_450_ml_happy_holidays_dad_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240278/RX-N240278HD-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25643,7 +25643,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3361/kruzhka_keramicheskaya_s_risunkom_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472Y-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472BL-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25678,7 +25678,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3362/kruzhka_keramicheskaya_s_risunkom_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472BL-%289%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472BL-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25711,7 +25711,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3363/kruzhka_keramicheskaya_s_risunkom_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472BL-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25745,7 +25745,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3364/kruzhka_keramicheskaya_s_risunkom_400_ml_dlya_chaya_i_kofe_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472V-%281%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240472/RX-N240472BL-%281%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">9.5 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -25779,7 +25779,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546BL-%287%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3365/keramicheskiy_stakan_s_silikonovoy_kryshkoy_i_otverstiem_dlya_trubochki_420_ml_kruzhka_bez_ruchki_goluboy_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546CA-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -25815,7 +25815,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546HS-%288%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3366/keramicheskiy_stakan_s_silikonovoy_kryshkoy_i_otverstiem_dlya_trubochki_420_ml_kruzhka_bez_ruchki_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546CA-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -25851,7 +25851,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546CA-%286%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3367/keramicheskiy_stakan_s_silikonovoy_kryshkoy_i_otverstiem_dlya_trubochki_420_ml_kruzhka_bez_ruchki_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546CA-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -25888,7 +25888,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3368/keramicheskiy_stakan_s_silikonovoy_kryshkoy_i_otverstiem_dlya_trubochki_420_ml_kruzhka_bez_ruchki_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3368/keramicheskiy_stakan_s_silikonovoy_kryshkoy_i_otverstiem_dlya_trubochki_420_ml_kruzhka_bez_ruchki_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240546/RX-N240546CA-%288%29.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -25924,14 +25924,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143_8.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3369/chashka_keramicheskaya_400_ml_dlya_kofe_i_chaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GRE-2.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">95</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">9.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">400</param>
@@ -25958,14 +25958,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143PKV-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3370/kruzhka_keramicheskaya_400_ml_dlya_kofe_i_chaya_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GRE-2.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">95</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">9.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">400</param>
@@ -25992,7 +25992,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GKV-7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3371/kruzhka_keramicheskaya_400_ml_dlya_kofe_i_chaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GRE-2.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">95</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -26026,14 +26026,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GRE-3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3372/chashka_keramicheskaya_400_ml_dlya_kofe_i_chaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240143/RX-N240143GRE-2.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">95</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">9.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">400</param>
@@ -26059,13 +26059,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506G-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506G-6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506GR-1.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">85</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">320</param>
         <param name="Ситечко">Нет</param>
@@ -26091,13 +26091,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506GR-6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3374/chashka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_good_life_zelenaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506GR-1.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">85</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">320</param>
@@ -26124,13 +26124,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506W-8.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3375/chashka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_good_life_belaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506GR-1.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">85</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">320</param>
@@ -26157,14 +26157,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506BL-7.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3376/chashka_keramicheskaya_s_zolotym_obodkom_i_pozolochennoy_ruchkoy_320_ml_good_life_sinyaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N231506/RX-N231506GR-1.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">85</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8.5</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">320</param>
@@ -26224,13 +26224,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3378/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_bezhevaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3378/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_bezhevaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3378/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_bezhevaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">80</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">300</param>
@@ -26257,13 +26257,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3379/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_belaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3379/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_belaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3379/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_belaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">80</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">300</param>
@@ -26290,14 +26290,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3380/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_kremovaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3380/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_kremovaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3380/chashka_keramicheskaya_s_zolotym_obodkom_i_zolotoy_ruchkoy_300_ml_kremovaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">80</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">8</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">85</param>
+        <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Нет</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">85</param>
+        <param name="Ширина">8.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">300</param>
@@ -26323,7 +26323,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3381/stakan_kruzhka_keramicheskiy_420_ml_s_silikonovoy_kryshkoy_i_love_my_mommy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288HM-1.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -26358,7 +26358,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288TM-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3382/stakan_keramicheskiy_420_ml_s_silikonovoy_kryshkoy_thanks_momo_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288HM-1.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -26393,7 +26393,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288HM-5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3383/stakan_keramicheskiy_420_ml_s_silikonovoy_kryshkoy_i_have_the_best_mom_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288HM-1.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -26428,7 +26428,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288BM-6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3384/stakan_keramicheskiy_420_ml_s_silikonovoy_kryshkoy_blessed_to_be_mom_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N240288/RX-N240288HM-1.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">14 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
@@ -26463,15 +26463,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723GR-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3385/keramicheskaya_chashka_s_blyudtsem_250_ml_dlya_chaya_i_kofe_zelenaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723Y-6.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">70</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
         <param name="Блюдце">есть</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">250</param>
@@ -26498,15 +26498,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723Y-4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3386/keramicheskaya_chashka_s_blyudtsem_250_ml_dlya_chaya_i_kofe_zheltaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723Y-6.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">70</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
         <param name="Блюдце">есть</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">250</param>
@@ -26533,15 +26533,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723BL-5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3387/keramicheskaya_chashka_s_blyudtsem_250_ml_dlya_chaya_i_kofe_sinyaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723Y-6.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">70</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
         <param name="Блюдце">есть</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">250</param>
@@ -26568,15 +26568,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723P-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3388/keramicheskaya_chashka_s_blyudtsem_250_ml_dlya_chaya_i_kofe_rozovaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24723/RX-N24723Y-6.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">70</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7</param>
         <param name="Блюдце">есть</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">80</param>
+        <param name="Диаметр">8</param>
         <param name="Декоративное оформление">Роспись</param>
         <param name="Использование в микроволновке">Да</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">80</param>
+        <param name="Ширина">8</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">250</param>
@@ -26669,14 +26669,14 @@
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24708/RX-N24708B-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3391/keramicheskaya_chashka_s_blyudtsem_200_ml_dlya_chaya_i_kofe_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/128/RX-N24708/RX-N24708WH-3.jpg</picture>
-        <param name="Материал">Керамика</param>
-        <param name="Высота">72</param>
+        <param name="Материал">Фарфор</param>
+        <param name="Высота">7.2</param>
         <param name="Блюдце">есть</param>
         <param name="Назначение">Для кофе и чая</param>
-        <param name="Диаметр">75</param>
+        <param name="Диаметр">7.5</param>
         <param name="Использование в микроволновке">Да</param>
         <param name="Крышка">Нет</param>
-        <param name="Ширина">75</param>
+        <param name="Ширина">7.5</param>
         <param name="Количество в наборе">1</param>
         <param name="Ложечка">нет</param>
         <param name="Объем">200</param>
@@ -28389,7 +28389,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3469/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3469/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3469/kruzhka_keramicheskaya_350_ml_dlya_kofe_i_chaya_4.jpg</picture>
-        <param name="Материал">Керамика</param>
+        <param name="Материал">Фарфор</param>
         <param name="Высота">8 см</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Для кофе и чая</param>
@@ -51135,7 +51135,7 @@
         <param name="Единицы измерения">Грамм|Килограммы</param>
         <param name="Ширина">15 см</param>
         <param name="Компенсация тары">Да</param>
-        <param name="Материал корпуса">Пластик|Стекло</param>
+        <param name="Материал корпуса">Пластик/Стекло</param>
         <param name="Конструкция тары">платформа</param>
         <param name="Максимальный вес">5</param>
         <param name="Состояние">Новое</param>
@@ -51168,7 +51168,7 @@
         <param name="Ширина">15 см</param>
         <param name="Индикация перегрузки">Да</param>
         <param name="Компенсация тары">Да</param>
-        <param name="Материал корпуса">Пластик|Стекло</param>
+        <param name="Материал корпуса">Пластик/Стекло</param>
         <param name="Конструкция тары">платформа</param>
         <param name="Максимальный вес">5 кг</param>
         <param name="Состояние">Новое</param>
@@ -66491,7 +66491,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5575/servirovochnaya_doska_dlya_podachi_35_25_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_lugi_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5575/servirovochnaya_doska_dlya_podachi_35_25_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_lugi_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5575/servirovochnaya_doska_dlya_podachi_35_25_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_lugi_7.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">25 см</param>
@@ -66520,7 +66520,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5576/doska_dlya_podachi_40_20_sm_pryamougolnaya_servirovochnaya_dostochka_kuhonnaya_dlya_narezok_wood_lugi_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5576/doska_dlya_podachi_40_20_sm_pryamougolnaya_servirovochnaya_dostochka_kuhonnaya_dlya_narezok_wood_lugi_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5576/doska_dlya_podachi_40_20_sm_pryamougolnaya_servirovochnaya_dostochka_kuhonnaya_dlya_narezok_wood_lugi_7.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">25 см</param>
@@ -66945,7 +66945,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5597/kuhonnaya_razdelochnaya_doska_derevyannaya_35_20_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5597/kuhonnaya_razdelochnaya_doska_derevyannaya_35_20_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5597/kuhonnaya_razdelochnaya_doska_derevyannaya_35_20_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy_2.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">20 см</param>
@@ -66972,7 +66972,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5598/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5598/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5598/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_dostochka_dlya_narezki_s_pryamougolnoy_osnovoy_2.png</picture>
-        <param name="Материал">Дуб</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">25 см</param>
@@ -67003,7 +67003,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5599/vinnyy_kruglyy_stolik_iz_dereva_35h35h18_sm_menazhnitsa_na_nozhkah_5.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5599/vinnyy_kruglyy_stolik_iz_dereva_35h35h18_sm_menazhnitsa_na_nozhkah_6.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5599/vinnyy_kruglyy_stolik_iz_dereva_35h35h18_sm_menazhnitsa_na_nozhkah_7.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Дуб</param>
         <param name="Высота">18 см</param>
         <param name="Количество секций">5</param>
         <param name="Диаметр">35 см</param>
@@ -67305,7 +67305,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5612/razdelochnaya_doska_iz_duba_35_25_sm_domino_derevyannaya_kuhonnaya_doska_dlya_narezki_i_servirovki_blyud_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5612/razdelochnaya_doska_iz_duba_35_25_sm_domino_derevyannaya_kuhonnaya_doska_dlya_narezki_i_servirovki_blyud_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5612/razdelochnaya_doska_iz_duba_35_25_sm_domino_derevyannaya_kuhonnaya_doska_dlya_narezki_i_servirovki_blyud_4.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Дуб</param>
         <param name="Ширина">250</param>
         <param name="Количество в наборе">1</param>
         <param name="Ручка">Нет</param>
