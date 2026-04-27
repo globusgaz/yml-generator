@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-27 06:50">
+<yml_catalog date="2026-04-27 09:39">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="193">Доски для подачи</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="279">Зонты</category>
-      <category id="150">Спальные мешки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="283">Подносы</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="53">Кувшины</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="140">Крышки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="103">Проекторы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="54">Стаканы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="224">Гамаки</category>
-      <category id="182">Блюда</category>
-      <category id="317">Садовое освещение</category>
-      <category id="93">Электрочайники</category>
-      <category id="13">Триммеры</category>
-      <category id="316">Туристические плиты</category>
-      <category id="55">Рюмки</category>
-      <category id="57">Чашки</category>
-      <category id="184">Бульонницы</category>
-      <category id="77">Пылесосы</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="47">Наборы для специй</category>
-      <category id="187">Слайсеры</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="56">Бокалы</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="118">Сумки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="194">Менажницы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="42">Термосы для детей</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="23">Фены</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="96">Вакууматоры</category>
-      <category id="142">Посуда для детей</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="124">Решетки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="98">Блендеры</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="195">Разделочные доски</category>
-      <category id="90">Мясорубки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="97">Весы кухонные</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="72">Весы напольные</category>
-      <category id="14">Стайлеры</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="21">Электробритвы</category>
-      <category id="65">Креманки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="132">Конфетницы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="292">Столовая посуда</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="128">Органайзеры</category>
-      <category id="29">Салфетницы</category>
-      <category id="66">Сервизы</category>
-      <category id="125">Мангалы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="287">Банты на елку</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="34">Подсвечники</category>
-      <category id="262">Термосумки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="221">Туристические души</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="122">Аксессуары</category>
-      <category id="33">Пепельницы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="126">Ланч боксы</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="87">Соковыжималки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="186">Тостеры</category>
-      <category id="141">Салатницы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="111">Портативные колонки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="62">Ковши</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="133">Масленки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="278">Косметички</category>
-      <category id="75">Утюги</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="6">LED ленты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="31">Часы настенные</category>
-      <category id="166">Тортовницы</category>
-      <category id="63">Кастрюли</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="318">Кусторезы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="60">Мармиты</category>
-      <category id="300">Подушки для спины</category>
-      <category id="51">Заварочные чайники</category>
       <category id="145">Смарт-часы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="261">Терки</category>
-      <category id="61">Сковородки</category>
-      <category id="114">Повербанки</category>
-      <category id="149">Палатки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="15">Плойки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="294">Новогодние елки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="226">Детские игровые палатки</category>
+      <category id="316">Туристические плиты</category>
       <category id="268">Кухонные подставки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="212">Мебель</category>
+      <category id="35702">Обувь для Взрослых</category>
       <category id="76">Отпариватели</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="53">Кувшины</category>
       <category id="89">Миксеры</category>
-      <category id="110">Наушники</category>
+      <category id="62">Ковши</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="21">Электробритвы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="23">Фены</category>
+      <category id="166">Тортовницы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="124">Решетки</category>
+      <category id="140">Крышки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="283">Подносы</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="262">Термосумки</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="57">Чашки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="72">Весы напольные</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="142">Посуда для детей</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="63">Кастрюли</category>
+      <category id="54">Стаканы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="292">Столовая посуда</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="52">Лимонадницы</category>
+      <category id="104">Ручки для чистки наушников</category>
       <category id="48">Емкости для хранения</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="15">Плойки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="31">Часы настенные</category>
+      <category id="98">Блендеры</category>
+      <category id="56">Бокалы</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="77">Пылесосы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="55">Рюмки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="212">Мебель</category>
+      <category id="278">Косметички</category>
+      <category id="126">Ланч боксы</category>
       <category id="298">Брелки</category>
-      <category id="68">Тарелки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="117">Рюкзаки</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="42">Термосы для детей</category>
+      <category id="87">Соковыжималки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="114">Повербанки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="186">Тостеры</category>
+      <category id="287">Банты на елку</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="93">Электрочайники</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="118">Сумки</category>
+      <category id="132">Конфетницы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="294">Новогодние елки</category>
+      <category id="13">Триммеры</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="122">Аксессуары</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="193">Доски для подачи</category>
+      <category id="128">Органайзеры</category>
+      <category id="125">Мангалы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="279">Зонты</category>
+      <category id="317">Садовое освещение</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="194">Менажницы</category>
+      <category id="65">Креманки</category>
+      <category id="141">Салатницы</category>
+      <category id="103">Проекторы</category>
+      <category id="187">Слайсеры</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="182">Блюда</category>
+      <category id="20">Эпиляторы</category>
+      <category id="144">Вентиляторы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="61">Сковородки</category>
+      <category id="29">Салфетницы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="261">Терки</category>
+      <category id="149">Палатки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="285">Йогуртницы</category>
+      <category id="224">Гамаки</category>
       <category id="148">Туристические коврики</category>
+      <category id="17">Воскоплавы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="33">Пепельницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="75">Утюги</category>
+      <category id="90">Мясорубки</category>
+      <category id="68">Тарелки</category>
+      <category id="14">Стайлеры</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="34">Подсвечники</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="150">Спальные мешки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="318">Кусторезы</category>
+      <category id="300">Подушки для спины</category>
+      <category id="47">Наборы для специй</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="133">Масленки</category>
+      <category id="221">Туристические души</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="184">Бульонницы</category>
+      <category id="110">Наушники</category>
+      <category id="66">Сервизы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="6">LED ленты</category>
+      <category id="136">Дуршлаги</category>
+      <category id="60">Мармиты</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="43">Бутылки для воды</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -802,35 +802,6 @@
         <param name="Формат акустики">Стерео</param>
         <param name="Гарантия">3 мес</param>
         <param name="Чувствительность">40 дБ</param>
-      </offer>
-      <offer id="f11_SK450W_SK450W" available="true">
-        <name>Электрическая духовка Sokany настольная 50 л SK450W</name>
-        <price>13259.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>80</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK450W_SK450W</vendorCode>
-        <description>Представляем вам надежное и удобное решение для приготовления вкусных блюд в уюте вашей кухни - электрическую настольную духовку. Это мощное и эффективное устройство, которое превратит процесс готовки в удовольствие. С мощностью 1700 Вт и вместимостью 50 литров, она готова справиться с различными кулинарными задачами, обеспечивая достаточно места для ваших кулинарных фантазий. Встроенный таймер позволяет точно контролировать время приготовления, а простой механический контроль обеспечивает легкость в использовании. Характеристики: Мощность: 1700 Вт Вместимость: 50 литров Таймер: Встроенный для точного контроля Тип контроля: Механический Дизайн: Компактный и легкий, подходит для небольших кухонь Технология: Равномерное распределение тепла для отличных результатов Очистка: Поддон для крошек и съемные решетки Преимущества: Обеспечивает достаточную мощность и объем для разнообразных блюд Легкий в управлении благодаря механическому контролю Равномерный прогрев для отличного качества приготовления Простая очистка благодаря съемным компонентам Уход: После использования очистка духовки будет простой благодаря съемным решеткам и поддону для крошек. Регулярно очищайте эти части для поддержания чистоты и гигиены на кухне. Электрическая настольная духовка станет вашим надежным помощником в кухне, открывая множество возможностей для творческого приготовления. Откройте новые гастрономические горизонты с этой эффективной электропечью!</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=312</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_5.jpg</picture>
-        <param name="Внутреннее освещение">Да</param>
-        <param name="Защита от перегрева">Да</param>
-        <param name="Звуковой сигнал">Да</param>
-        <param name="Объем">50 л</param>
-        <param name="Поддержание температуры">Да</param>
-        <param name="Конвекция">Да</param>
-        <param name="Максимальная мощность печи">1700 Вт</param>
-        <param name="Цвет">Белый</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Гарантия">6 мес</param>
-        <param name="Таймер">Да</param>
-        <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="f11_1935414030_SK1772W" available="true">
         <name>Капучинатор Sokany аккумуляторный Белый SK1772W</name>
@@ -40199,33 +40170,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-4-13_HP-4-13" available="true">
-        <name>Подсвечник стеклянный на 3 свечи 37.5 см подсвечник декоративный прозрачный на ножке HP-4-13</name>
-        <price>1099.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>34</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-4-13_HP-4-13</vendorCode>
-        <description>Современный и элегантный подсвечник с трёхуровневой конструкцией станет эффектным элементом декора в любом интерьере. Прозрачные цилиндрические держатели для свечей расположены на разной высоте, создавая объёмную композицию и визуальную динамику. Зеркальное основание добавляет блеска и подчёркивает чистоту линий. Такой подсвечник станет ярким акцентом на праздничном столе или зоне отдыха. Основные характеристики подсвечника на ножке: Материал: стекло; Высота: 37.5 см; Диаметр: 12 см; Диаметр под свечу: 5.5 см. Особенности стеклянного подсвечника на 3 свечи: Три стеклянных держателя разной высоты Современный минималистичный дизайн; Подходит для классических или электронных свечей; Прочное и устойчивое основание; Универсальное применение &amp;ndash; интерьер, мероприятия, фотозоны; Легко вписывается в стиль лофт, модерн, сканди. Этот стеклянный подсвечник на три свечи &amp;mdash; воплощение элегантности и современного стиля. Он не только наполнит пространство мягким светом, но и станет выразительным элементом декора, подчёркивающим ваш вкус и любовь к изысканным деталям. Идеальное сочетание простоты форм и утончённости &amp;mdash; для дома, мероприятий и особых случаев.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4085</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4085/podsvechnik_steklyannyy_na_3_svechi_12_37_5_sm_podsvechnik_dekorativnyy_prozrachnyy_na_nozhke_4.jpg</picture>
-        <param name="Высота подсвечника">37.5 см</param>
-        <param name="Диаметр подсвечника">12 см</param>
-        <param name="Вес подсвечника">1 кг</param>
-        <param name="Количество мест для свечей">3</param>
-        <param name="Материал изготовления">Стекло</param>
-        <param name="Диаметр рекомендуемой свечи">5.5 см</param>
-        <param name="Тип подсвечника">настольный (каминный)</param>
-        <param name="Тип рекомендуемой свечи">длинная свеча цилиндрической формы|пеньковая свеча</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-4-14_HP-4-14" available="true">
         <name>Подсвечник стеклянный на 5 свечей 38 см подсвечник декоративный прозрачный на ножке HP-4-14</name>
         <price>1849.0</price>
@@ -75566,30 +75510,6 @@
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_LB-1573G_LB-1573G" available="true">
-        <name>Фруктовница фарфоровая на металлической подставке 25,5 см Золото LB-1573G</name>
-        <price>1099.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>132</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_LB-1573G_LB-1573G</vendorCode>
-        <description>Фарфоровая фруктовница на металлической подставке станет стильным украшением стола и удобным решением для подачи фруктов, сладостей или выпечки. Её изысканный дизайн придаст сервировке утончённость и гармонию, идеально вписываясь как в повседневную обстановку, так и в праздничный интерьер. Основные характеристики фруктовницы: Материал: фарфор, металл; Диаметр: 25 см; Высота: 10 см; Высота без подставки: 3 см; Объем: 500 мл. Особенности: не впитывает запахи и устойчива к царапинам; легко очищается и сохраняет блеск даже при регулярном использовании; металлическая подставка обеспечивает устойчивость и добавляет изящества; универсальна &amp;mdash; подходит для подачи фруктов, десертов, кондитерских изделий и закусок; сочетает практичность и декоративность, подчёркивая вкус и стиль Такая фруктовница станет практичным и эстетичным элементом сервировки, подходящим для дома, кафе или ресторана. Она подчеркнёт вкус хозяйки и создаст атмосферу уюта и изящества за столом.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6083</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6083/fruktovnitsa_farforovaya_na_metallicheskoy_podstavke_25_sm_kruglaya_vaza_konfetnitsa_dlya_fruktov_zoloto_2.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">100</param>
-        <param name="Диаметр">250</param>
-        <param name="Декоративное оформление">Гравировка</param>
-        <param name="Крышка">Нет</param>
-        <param name="Цвет">Золотистый</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Тип посуды">Фруктовница</param>
-        <param name="Форма">Круглая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_LB-1566G_LB-1566G" available="true">
         <name>Фарфоровое блюдо для сервировки на металлической подставке 25*10.5*9 см блюдо для подачи закусок LB-1566G</name>
         <price>829.0</price>
@@ -80330,26 +80250,6 @@
         <param name="Тип формы">Овальная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_LB-1570G_LB-1570G" available="true">
-        <name>Фруктовница фарфоровая на металлической подставке Ø20 (см) круглая Золото LB-1570G</name>
-        <price>959.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>132</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_LB-1570G_LB-1570G</vendorCode>
-        <description>Фарфоровая фруктовница на металлической подставке станет стильным украшением стола и удобным решением для подачи фруктов, сладостей или выпечки. Её изысканный дизайн придаст сервировке утончённость и гармонию, идеально вписываясь как в повседневную обстановку, так и в праздничный интерьер. Основные характеристики фруктовницы: Материал: фарфор, металл; Диаметр: 20 см; Высота: 9 см; Высота без подставки: 3 см; Объем: 250 мл. Особенности: не впитывает запахи и устойчива к царапинам; легко очищается и сохраняет блеск даже при регулярном использовании; металлическая подставка обеспечивает устойчивость и добавляет изящества; универсальна &amp;mdash; подходит для подачи фруктов, десертов, кондитерских изделий и закусок; сочетает практичность и декоративность, подчёркивая вкус и стиль Такая фруктовница станет практичным и эстетичным элементом сервировки, подходящим для дома, кафе или ресторана. Она подчеркнёт вкус хозяйки и создаст атмосферу уюта и изящества за столом.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6389</url>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">9</param>
-        <param name="Диаметр">20</param>
-        <param name="Крышка">Нет</param>
-        <param name="Цвет">Золотистый</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Форма">Круглая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-19-146GOLD_HP-19-146GOLD" available="true">
         <name>Чашка стеклянная 400 мл с бамбуковой крышкой и золотистой трубочкой HP-19-146GOLD</name>
         <price>169.0</price>
@@ -80593,32 +80493,6 @@
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_FM-47_FM-47" available="true">
-        <name>Набор чашек для кофе на металлической подставке 6 (шт) по 100 (мл) Черный с золотом FM-47</name>
-        <price>1569.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>66</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_FM-47_FM-47</vendorCode>
-        <description>Фарфоровый кофейный сервиз на стильной металлической подставке сочетает в себе красоту и удобство. В комплект входят шесть чашек и шесть блюдец, аккуратно размещенных на подставке, что позволяет экономно использовать пространство и создавать аккуратную сервировку. Основные характеристики кофейного сервиза на металлической подставке Объем чашки: 100 мл; Верхний диаметр чашки: 5 см; Нижний диаметр чашки: 5 см; Диаметр блюдца: 11 см; Материал чашек: фарфор; Материал подставки: металл. Металлическая подставка не только красиво выглядит, но и надежно фиксирует все элементы. Сервиз станет отличным выбором как для повседневного использования так и для праздничных случаев.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6402</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6402/nabor_chashek_dlya_kofe_na_metallicheskoy_podstavke_6_sht_po_100_ml_podarochnyy_kofeynyy_serviz_nabor_chashek_chernyy_s_zolotom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6402/nabor_chashek_dlya_kofe_na_metallicheskoy_podstavke_6_sht_po_100_ml_podarochnyy_kofeynyy_serviz_nabor_chashek_chernyy_s_zolotom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6402/nabor_chashek_dlya_kofe_na_metallicheskoy_podstavke_6_sht_po_100_ml_podarochnyy_kofeynyy_serviz_nabor_chashek_chernyy_s_zolotom_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6402/nabor_chashek_dlya_kofe_na_metallicheskoy_podstavke_6_sht_po_100_ml_podarochnyy_kofeynyy_serviz_nabor_chashek_chernyy_s_zolotom_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6402/nabor_chashek_dlya_kofe_na_metallicheskoy_podstavke_6_sht_po_100_ml_podarochnyy_kofeynyy_serviz_nabor_chashek_chernyy_s_zolotom_5.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Тип сервиза">Кофейный</param>
-        <param name="Количество персон">6</param>
-        <param name="Количество предметов">13</param>
-        <param name="Цвет">Черный</param>
-        <param name="Объем чашки кофейной">0.1</param>
-        <param name="Диаметр блюдца кофейного">11</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Чашка кофейная">6</param>
-        <param name="Блюдце кофейное">6</param>
       </offer>
       <offer id="f11_FM-54B_FM-54B" available="true">
         <name>Чашка фарфоровая с крышкой Labubu 400 (мл) Белый с коричневым FM-54B</name>
@@ -81276,34 +81150,6 @@
         <param name="Тип стиральной машины">Полуавтомат</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Белый</param>
-        <param name="Потребление воды">12</param>
-        <param name="Уровень шума при стирке">60</param>
-        <param name="Тип управления">Сенсорное</param>
-      </offer>
-      <offer id="f11_HP-35015-61BL_HP-35015-61BL" available="true">
-        <name>Портативная стиральная машина с отжимом 36 Вт 850 об/мин с баком на 12 литров Синяя HP-35015-61BL</name>
-        <price>1999.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>71</categoryId>
-        <vendor>ZhiyuClean</vendor>
-        <vendorCode>f11_ce1eda6824602bdfd4</vendorCode>
-        <description>Компактная мини-стиральная машина &amp;mdash; удобное решение для стирки небольшого количества вещей дома, в общежитии или в поездках. Модель отличается низким энергопотреблением (36 Вт) и экономным расходом воды, что делает её практичной для ежедневного использования. Вертикальная загрузка позволяет быстро и удобно добавлять вещи во время стирки. Устройство поддерживает два режима работы: стирка и отжим. Максимальная скорость отжима достигает 850 об/мин, чего достаточно для легкой одежды, нижнего белья и детских вещей. Объем бака до 12 литров оптимален для небольших загрузок. Для удобства предусмотрен скрытый нижний слив воды. Корпус выполнен из влагозащищённых материалов со степенью защиты IPX4, что позволяет безопасно использовать устройство во влажных помещениях, например в ванной комнате. Машина работает тихо, а прорезиненные элементы в нижней части обеспечивают устойчивость во время работы. Благодаря компактным размерам и верхней ручке для переноски мини-стиральную машину легко хранить и транспортировать. Съемная сливная корзина упрощает уход за устройством. Модель подходит для стирки носков, нижнего белья, детской одежды и других мелких вещей, когда важны мобильность и простота. Основные характеристики портативной мини стиральной машины с отжимом: Тип: Мини-стиральная машина с функцией отжима Мощность: 36 Вт Объем: 12 л Размер: 29&amp;times;29&amp;times;30 см Максимальная скорость отжима: 850 об/мин Материал: Пластик Тип загрузки: Вертикальная Корпус: Водонепроницаемый (IPX4) Метод дренажа: Нижний слив Режимы: Стирка, Отжим Таймер: Регулируемый для обоих режимов Комплектация: машинка корзина для отжима кабель сливная трубка Особенности портативной стиральной машинки : Съемная сливная корзина Тихая работа Прорезиненные опоры для устойчивости Скрытый слив воды Ручка для удобной переноски Мини-стиральная машина &amp;mdash; практичное решение для быстрой и бережной стирки небольшого количества вещей. Компактные размеры, экономичность и простота использования делают её удобным помощником дома и в поездках. Идеальный выбор там, где важны мобильность, тишина работы и экономия ресурсов.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6447</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6447/portativnaya_stiralnaya_mashina_s_otzhimom_36_vt_850_ob_min_s_bakom_na_12_litrov_mini_stiralnaya_mashinka_sinyaya.png</picture>
-        <param name="Высота">30</param>
-        <param name="Встраиваемая техника">Нет</param>
-        <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">2.2</param>
-        <param name="Глубина">29</param>
-        <param name="Особенности">Портативная|С разборным баком</param>
-        <param name="Ширина">29</param>
-        <param name="Сушка">Нет</param>
-        <param name="Материал бака">Пластик</param>
-        <param name="Тип загрузки">Вертикальная</param>
-        <param name="Тип стиральной машины">Полуавтомат</param>
-        <param name="Состояние">Новое</param>
-        <param name="Цвет корпуса">Синий</param>
         <param name="Потребление воды">12</param>
         <param name="Уровень шума при стирке">60</param>
         <param name="Тип управления">Сенсорное</param>
