@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-27 12:03">
+<yml_catalog date="2026-04-27 14:21">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="121">Туристические обогреватели</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="96">Вакууматоры</category>
-      <category id="187">Слайсеры</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="89">Миксеры</category>
-      <category id="117">Рюкзаки</category>
-      <category id="75">Утюги</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="77">Пылесосы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="81">Капучинаторы</category>
-      <category id="90">Мясорубки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="87">Соковыжималки</category>
-      <category id="186">Тостеры</category>
-      <category id="148">Туристические коврики</category>
-      <category id="62">Ковши</category>
-      <category id="140">Крышки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="141">Салатницы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="145">Смарт-часы</category>
-      <category id="128">Органайзеры</category>
-      <category id="271">Товары для уборки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="287">Банты на елку</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="34">Подсвечники</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="212">Мебель</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="262">Термосумки</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="31">Часы настенные</category>
-      <category id="55">Рюмки</category>
-      <category id="61">Сковородки</category>
-      <category id="114">Повербанки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="72">Весы напольные</category>
-      <category id="52">Лимонадницы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="29">Салфетницы</category>
-      <category id="184">Бульонницы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="42">Термосы для детей</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="278">Косметички</category>
-      <category id="149">Палатки</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="97">Весы кухонные</category>
-      <category id="124">Решетки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="17">Воскоплавы</category>
-      <category id="15">Плойки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="317">Садовое освещение</category>
-      <category id="68">Тарелки</category>
       <category id="43">Бутылки для воды</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="224">Гамаки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="23">Фены</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="98">Блендеры</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="53">Кувшины</category>
-      <category id="142">Посуда для детей</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="122">Аксессуары</category>
-      <category id="66">Сервизы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="111">Портативные колонки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="57">Чашки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="56">Бокалы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="182">Блюда</category>
-      <category id="280">Сушилки для посуды</category>
       <category id="166">Тортовницы</category>
+      <category id="4">Удлинители гирлянд</category>
       <category id="221">Туристические души</category>
-      <category id="60">Мармиты</category>
-      <category id="279">Зонты</category>
-      <category id="48">Емкости для хранения</category>
+      <category id="287">Банты на елку</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
       <category id="21">Электробритвы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="284">Новогодний декор</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="93">Электрочайники</category>
-      <category id="318">Кусторезы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="76">Отпариватели</category>
-      <category id="261">Терки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="126">Ланч боксы</category>
-      <category id="65">Креманки</category>
-      <category id="103">Проекторы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="118">Сумки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="125">Мангалы</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="54">Стаканы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="132">Конфетницы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="67">Столовые приборы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="283">Подносы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="110">Наушники</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="63">Кастрюли</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="294">Новогодние елки</category>
-      <category id="298">Брелки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="194">Менажницы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="29">Салфетницы</category>
+      <category id="62">Ковши</category>
       <category id="47">Наборы для специй</category>
-      <category id="13">Триммеры</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="33">Пепельницы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="133">Масленки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="6">LED ленты</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="267">Подушки-игрушки</category>
+      <category id="31">Часы настенные</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="212">Мебель</category>
+      <category id="77">Пылесосы</category>
+      <category id="89">Миксеры</category>
+      <category id="279">Зонты</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="262">Термосумки</category>
+      <category id="263">Аксессуары для кухни</category>
       <category id="144">Вентиляторы</category>
-      <category id="59">Все для выпечки</category>
+      <category id="318">Кусторезы</category>
+      <category id="66">Сервизы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="316">Туристические плиты</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="283">Подносы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="132">Конфетницы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="65">Креманки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="265">Хозяйственные товары</category>
       <category id="14">Стайлеры</category>
+      <category id="298">Брелки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="118">Сумки</category>
+      <category id="90">Мясорубки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="34">Подсвечники</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="285">Йогуртницы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="20">Эпиляторы</category>
+      <category id="182">Блюда</category>
+      <category id="56">Бокалы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="149">Палатки</category>
+      <category id="194">Менажницы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="126">Ланч боксы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="292">Столовая посуда</category>
+      <category id="93">Электрочайники</category>
+      <category id="140">Крышки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="28">Держатели для бумажных полотенец</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="98">Блендеры</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="300">Подушки для спины</category>
+      <category id="33">Пепельницы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="61">Сковородки</category>
+      <category id="13">Триммеры</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="68">Тарелки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="57">Чашки</category>
+      <category id="186">Тостеры</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="53">Кувшины</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="87">Соковыжималки</category>
+      <category id="63">Кастрюли</category>
+      <category id="97">Весы кухонные</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="184">Бульонницы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="59">Все для выпечки</category>
+      <category id="75">Утюги</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="114">Повербанки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="52">Лимонадницы</category>
+      <category id="133">Масленки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="141">Салатницы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="261">Терки</category>
+      <category id="278">Косметички</category>
+      <category id="15">Плойки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="60">Мармиты</category>
+      <category id="72">Весы напольные</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="23">Фены</category>
+      <category id="284">Новогодний декор</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="187">Слайсеры</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="125">Мангалы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="117">Рюкзаки</category>
+      <category id="122">Аксессуары</category>
+      <category id="55">Рюмки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="128">Органайзеры</category>
+      <category id="110">Наушники</category>
+      <category id="142">Посуда для детей</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="224">Гамаки</category>
+      <category id="317">Садовое освещение</category>
+      <category id="76">Отпариватели</category>
+      <category id="6">LED ленты</category>
       <category id="49">Наборы кухонных ножей и лопаток</category>
       <category id="293">Хвойные гирлянды</category>
-      <category id="193">Доски для подачи</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="16">Машинки для стрижки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="124">Решетки</category>
+      <category id="54">Стаканы</category>
+      <category id="103">Проекторы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -17482,41 +17482,6 @@
         <param name="Толщина стенки">5 мм</param>
         <param name="Многослойное дно">Да</param>
       </offer>
-      <offer id="f11_2358506317_HP-4-427B" available="true">
-        <name>Алюминиевая блинная сковорода с мраморным антипригарным покрытием Ø 22 см, толстое дно MGC Black HP-4-427B</name>
-        <price>1169.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>61</categoryId>
-        <vendor>MGC</vendor>
-        <vendorCode>f11_2358506317_HP-4-427B</vendorCode>
-        <description>Алюминиевая сковорода с антипригарным покрытием станет незаменимым помощником на кухне. Она имеет толстое дно для идеального распределения тепла. Удобная ручка с антипригарным покрытием защитит ваши руки от ожогов. Уникальная конструкция дна обеспечивает отличную теплопроводность и равномерное распределение температуры по всей поверхности. Основные характеристики сковороды Диаметр: 22 см Толщина дна: 5 мм Материал: алюминий с мраморным антипригарным покрытием Тип плиты: газовая, индукционная, электрическая Преимущества сковороды Подходит для газовых, электрических и индукционных плит; Безопасное антипригарное покрытие, не содержащее вредных соединений; Мраморное покрытие, которое предотвращает прилипание пищи и равномерно передает тепло; Эргономичная ручка, которая не нагревается во время приготовления пищи. Меры предосторожности Перед первым использованием вымойте сковороду в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла. Используйте силиконовые или деревянные столовые приборы, чтобы защитить поверхность от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки. Во избежание повреждений мойте сковороду после полного остывания. Не используйте жесткие губки, щетки, абразивные пасты, чистящие порошки и агрессивные вещества. Эта сковорода сочетает в себе высокую функциональность и стильный дизайн.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=2825</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-4-427B/HP-4-427B-1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-4-427B/HP-4-427B-2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-4-427B/HP-4-427B-3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-4-427B/HP-4-427B-4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-4-427B/HP-4-427B-5.jpg</picture>
-        <param name="Материал">Алюминий</param>
-        <param name="Антипригарное покрытие">Есть</param>
-        <param name="Верхний диаметр посуды">22 см</param>
-        <param name="Вес">0.7 кг</param>
-        <param name="Количество ручек">1</param>
-        <param name="Крышка">нет</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Съемная ручка">Нет</param>
-        <param name="Цвет">Черный</param>
-        <param name="Индикатор нагрева">Нет</param>
-        <param name="Тип посуды">Сковорода для блинов</param>
-        <param name="Состояние">Новое</param>
-        <param name="Материал ручек">Бакелит</param>
-        <param name="Подходит для индукционных плит">Да</param>
-        <param name="Форма">Круглая</param>
-        <param name="Толщина дна">5 мм</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Толщина стенки">5 мм</param>
-        <param name="Многослойное дно">Да</param>
-      </offer>
       <offer id="f11_2358506329_HP-4-430B" available="true">
         <name>Алюминиевая блинная сковорода с мраморным антипригарным покрытием Ø 28 см, толстое дно MGC Black HP-4-430B</name>
         <price>1579.0</price>
@@ -23588,50 +23553,6 @@
         <param name="Особенности">Ударопрочная</param>
         <param name="Объем">500 мл</param>
         <param name="Цвет">Белый</param>
-        <param name="Нижний диаметр">6.5 см</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_2394098933_HP-14-53BE" available="true">
-        <name>Термобутылка 500 мл бежевая HP-14-53BE</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>41</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_2394098933_HP-14-53BE</vendorCode>
-        <description>Термобутылка 500 мл изготовлена из высококачественной нержавеющей стали, что делает ее крепкой, долговечной и устойчивой к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов. Основные характеристики объем 500 мл; высота 22.5 см; диаметр td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 6.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов. Термос в виде бутылки – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3170</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3170/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_bezhevaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3170/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_bezhevaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3170/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_bezhevaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3170/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_bezhevaya_3.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">22.5 см</param>
-        <param name="Особенности">Ударопрочная</param>
-        <param name="Объем">500 мл</param>
-        <param name="Цвет">Бежевый</param>
-        <param name="Нижний диаметр">6.5 см</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_2394098934_HP-14-53Y" available="true">
-        <name>Термобутылка 500 мл желтая HP-14-53Y</name>
-        <price>549.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>41</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_2394098934_HP-14-53Y</vendorCode>
-        <description>Термобутылка 500 мл изготовлена из высококачественной нержавеющей стали, что делает ее крепкой, долговечной и устойчивой к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов. Основные характеристики объем 500 мл; высота 22.5 см; диаметр 6.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов. Термос в виде бутылки – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3171</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3171/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_zheltaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3171/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_zheltaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3171/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_zheltaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3171/termobutylka_500_ml_s_nerzhaveyushchey_stali_dlya_vody_i_chaya_thermo_termo_butylka_zheltaya_3.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Высота">22.5 см</param>
-        <param name="Особенности">Ударопрочная</param>
-        <param name="Объем">500 мл</param>
-        <param name="Цвет">Желтый</param>
         <param name="Нижний диаметр">6.5 см</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -79843,16 +79764,15 @@
         <categoryId>53</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-19-FX7_HP-19-FX7</vendorCode>
-        <description>Этот стильный набор посуды цвета "графит" станет элегантной деталью вашего ежедневного или праздничного стола. Лаконичный дизайн, гладкое дымчатое стекло и современные формы идеально подходят для красивой подачи прохладительных напитков: воды со льдом, соков, домашних лимонадов или компотов. Центральный элемент набора &amp;ndash; кувшин объемом 1,5 литра. Он оснащен большой удобной ручкой и аккуратным носиком, позволяющим разливать напитки, не проливая ни капли. Горловина закрывает стильная плоская крышка (золотистого цвета), которая не только защищает содержимое от пыли, но и придает изделию завершенный вид. В комплект входят 6 одинаковых стаканов. Благодаря полупрозрачному темному оттенку стекла, набор выглядит дорого и изысканно, гармонично вписываясь в интерьеры стиля лофт, хай-тек или минимализм. Характеристики питьевого набора и кувшина со стаканами: Тип изделия: набор для воды и напитков; Материал: стекло; Цвет: графит (полупрозрачный серый); Количество предметов в наборе: 7 штук; Объем кувшина: 1,5 л (1500 мл); Объем стаканов: 120 мл; Особенности: кувшин с крышкой и ручкой, утолщенное дно; Назначение: для безалкогольных напитков, воды, сока. Комплектация: Кувшин с крышкой - 1 шт Склянки &amp;mdash; 6 шт.</description>
+        <description>Этот стильный набор посуды цвета "графит" станет элегантной деталью вашего ежедневного или праздничного стола. Лаконичный дизайн, гладкое дымчатое стекло и современные формы идеально подходят для красивой подачи прохладительных напитков: воды со льдом, соков, домашних лимонадов или компотов. Центральный элемент набора – кувшин объемом 2 литра. Он оснащен большой удобной ручкой и аккуратным носиком, позволяющим разливать напитки, не проливая ни капли. Горловина закрывает стильная плоская крышка (золотистого цвета), которая не только защищает содержимое от пыли, но и придает изделию завершенный вид. В комплект входят 6 одинаковых стаканов. Благодаря полупрозрачному темному оттенку стекла, набор выглядит дорого и изысканно, гармонично вписываясь в интерьеры стиля лофт, хай-тек или минимализм. Характеристики питьевого набора и кувшина со стаканами: Тип изделия: набор для воды и напитков; Материал: стекло; Цвет: графит (полупрозрачный серый); Количество предметов в наборе: 7 штук; Объем кувшина: 2 л; Объем стаканов: 240 мл; Особенности: кувшин с крышкой и ручкой, утолщенное дно; Назначение: для безалкогольных напитков, воды, сока. Комплектация: Кувшин с крышкой - 1 шт Склянки — 6 шт.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6365</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6365/nabor_dlya_napitkov_7_predmetov_grafit_steklyannyy_kuvshin_1_5_l_s_kryshkoy_i_6_stakanov.png</picture>
         <param name="Материал">Стекло</param>
         <param name="Количество стаканов/рюмок/бокалов/стопок">6</param>
         <param name="Назначение">Универсальное</param>
-        <param name="Объем">1.5</param>
+        <param name="Объем">2</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Графин</param>
-        <param name="Объем стакана/рюмки/бокала/стопки">0.12</param>
+        <param name="Объем стакана/рюмки/бокала/стопки">0.24</param>
         <param name="Гарантия">14 дней</param>
         <param name="Комплектация">Стаканы</param>
       </offer>
@@ -83054,38 +82974,6 @@
         <param name="Объем">8</param>
         <param name="Максимальная температура">200</param>
         <param name="Максимальная температура нагрева">200</param>
-      </offer>
-      <offer id="f11_SK-6004-Black_SK-6004-Black" available="true">
-        <name>Газовая плита настольная на 4 конфорки Sokany кемпинговая SK-6004-Black</name>
-        <price>1899.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>94</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_688749f0d3c19861f9</vendorCode>
-        <description>Настольная газовая плита Sokany - это компактная и переносная плита, идеальная для кемпинга, походов или использования в небольших помещениях. Плита имеет 4 конфорки, что позволяет готовить несколько блюд одновременно. Пламя на каждой конфорке можно регулировать для обеспечения точного контроля над температурой. Плита компактная и легкая, что делает ее удобной для транспортировки и хранения. природному газу. Основные характеристики: Количество конфорок - 4 шт. Размер 48х48х8 см. Тип управления - механическое. Материал корпуса - сталь с термостойким покрытием. Настольная газовая плита совместима с баллонным газом, что делает ее идеальной для использования в местах, где нет доступа к природному газу. Благодаря компактному размеру, она легко транспортируется и устанавливается. Подходит для приготовления разнообразных блюд, обеспечивая стабильное пламя и удобную регулировку интенсивности нагрева. Модель Sokany SK-6004 создана с учетом современных требований безопасности и надежности. Ее конструкция выполнена из крепких материалов, которые легко чистить после использования. Это сочетание практичности, долговечности и доступности, которое пригодится для вашего комфорта во время приготовления пищи.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6559</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6559/gazovaya_plita_nastolnaya_na_4_konforki_sokany_chernaya_mini_dlya_dachi_portativnaya_perenosnaya_varochnaya_panel_kempingovaya_9.jpg</picture>
-        <param name="Высота">80</param>
-        <param name="Варочная поверхность">газовая</param>
-        <param name="Гарантийный срок">3</param>
-        <param name="Вес">4.2</param>
-        <param name="Глубина">480</param>
-        <param name="Количество газовых конфорок">4</param>
-        <param name="Ширина">480</param>
-        <param name="Тип нагревательных элементов">Газовые</param>
-        <param name="Общее количество конфорок">4</param>
-        <param name="Покрытие варочной поверхности">эмаль</param>
-        <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="f11_SK-1032B_SK-1032B" available="true">
         <name>Электрочайник Sokany 1.7 л дисковый с автоотключением 2200 Вт Черный SK-1032B</name>
@@ -90785,64 +90673,6 @@
         <param name="Объем">1</param>
         <param name="Тип крышки">Съемная</param>
         <param name="Длина">28</param>
-        <param name="Форм-фактор">Переносной</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_SG-428-13_SG-428-13" available="true">
-        <name>Мармитница фарфоровая Tiffany 1.5 л на подставке с подогревом 34х26х7 см SG-428-13</name>
-        <price>1749.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_SG-428-13_SG-428-13</vendorCode>
-        <description>Мармитница фарфоровая Tiffany объемом 1.5 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 1.5 л Высота: 7 см Ширина: 26 см Длина: 34 см Вес: 2.5 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6953</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6953/marmitnitsa_farforovaya_tiffany_1_5_l_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_34h26h7_sm_marmit_dlya_pervyh_blyud_4.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">7</param>
-        <param name="Вид оборудования">Мармит</param>
-        <param name="Назначение">Для первых блюд</param>
-        <param name="Материал изготовления подставки">Сталь</param>
-        <param name="Количество емкостей">1</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">26</param>
-        <param name="Расположение">Настольное</param>
-        <param name="Объем">1.5</param>
-        <param name="Тип крышки">Съемная</param>
-        <param name="Длина">34</param>
-        <param name="Форм-фактор">Переносной</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Форма">Прямоугольная</param>
-      </offer>
-      <offer id="f11_SG-428-15_SG-428-15" available="true">
-        <name>Мармитница фарфоровая Tiffany 2 л на металлической подставке с подогревом 38х30х7 см SG-428-15</name>
-        <price>1999.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>60</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_SG-428-15_SG-428-15</vendorCode>
-        <description>Мармитница фарфоровая Tiffany объемом 2 л предназначена для поддержания температуры готовых блюд во время подачи. Благодаря конструкции с металлической подставкой и возможностью использования свечей-таблеток, он позволяет сохранять тепло без подключения к электросети. Такой формат удобен для сервировки стола дома, на праздничных мероприятиях или в заведениях общественного питания. Основная емкость изготовлена из фарфора, что обеспечивает устойчивость к температурным изменениям и простоту в уходе. Стеклянная крышка позволяет контролировать содержимое без необходимости открывания, что помогает минимизировать потерю тепла. Металлическая подставка выполняет функцию держателя и обеспечивает место для размещения источника подогрева, равномерно поддерживающего температуру блюда. Конструкция мармита предусматривает компактные габариты, что делает его удобным для размещения даже на небольших столах. Сочетание материалов &amp;ndash; фарфор, стекла и металла &amp;ndash; обеспечивает практичность в использовании и совместимость с различными форматами сервировки. Подходит для подачи первых и вторых блюд, гарниров или соусов. Характеристики: Тип: мармит Коллекция: Tiffany Материал емкости: фарфор Крышка: стеклянная Подставка: металлическая Источник подогрева: свечи-таблетки Объем: 2 л Высота: 7 см Ширина: 30 см Длина: 38 см Вес: 3.5 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6954</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6954/marmitnitsa_farforovaya_tiffany_2_l_so_steklyannoy_kryshkoy_na_metallicheskoy_podstavke_s_podogrevom_38h30h7_sm_marmit_dlya_pervyh_blyud_3.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">7</param>
-        <param name="Вид оборудования">Мармит</param>
-        <param name="Назначение">Для первых блюд</param>
-        <param name="Количество емкостей">1</param>
-        <param name="Материал крышки">Стекло</param>
-        <param name="Ширина">30</param>
-        <param name="Расположение">Настольное</param>
-        <param name="Объем">2</param>
-        <param name="Тип крышки">Съемная</param>
-        <param name="Длина">38</param>
         <param name="Форм-фактор">Переносной</param>
         <param name="Цвет корпуса">Белый</param>
         <param name="Форма">Прямоугольная</param>
