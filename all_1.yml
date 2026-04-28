@@ -1,173 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-28 06:58">
+<yml_catalog date="2026-04-28 09:42">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="264">Мягкие игрушки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="124">Решетки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="66">Сервизы</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="279">Зонты</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="144">Вентиляторы</category>
-      <category id="298">Брелки</category>
-      <category id="194">Менажницы</category>
-      <category id="56">Бокалы</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="287">Банты на елку</category>
-      <category id="29">Салфетницы</category>
-      <category id="93">Электрочайники</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="98">Блендеры</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="184">Бульонницы</category>
-      <category id="21">Электробритвы</category>
-      <category id="13">Триммеры</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="166">Тортовницы</category>
-      <category id="65">Креманки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="52">Лимонадницы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="292">Столовая посуда</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="96">Вакууматоры</category>
-      <category id="318">Кусторезы</category>
-      <category id="59">Все для выпечки</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="262">Термосумки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="122">Аксессуары</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="261">Терки</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="54">Стаканы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="284">Новогодний декор</category>
-      <category id="125">Мангалы</category>
-      <category id="114">Повербанки</category>
-      <category id="6">LED ленты</category>
-      <category id="77">Пылесосы</category>
-      <category id="140">Крышки</category>
-      <category id="103">Проекторы</category>
-      <category id="187">Слайсеры</category>
-      <category id="62">Ковши</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="89">Миксеры</category>
-      <category id="186">Тостеры</category>
-      <category id="320">Светодиодные фонари</category>
       <category id="105">Зарядные устройства</category>
-      <category id="90">Мясорубки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="42">Термосы для детей</category>
-      <category id="148">Туристические коврики</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="76">Отпариватели</category>
-      <category id="17">Воскоплавы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="60">Мармиты</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="23">Фены</category>
-      <category id="63">Кастрюли</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="285">Йогуртницы</category>
-      <category id="68">Тарелки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="136">Дуршлаги</category>
-      <category id="142">Посуда для детей</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="221">Туристические души</category>
-      <category id="133">Масленки</category>
-      <category id="57">Чашки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="128">Органайзеры</category>
-      <category id="87">Соковыжималки</category>
       <category id="70">Увлажнители воздуха</category>
-      <category id="15">Плойки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="53">Кувшины</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="278">Косметички</category>
-      <category id="121">Туристические обогреватели</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="21">Электробритвы</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="117">Рюкзаки</category>
+      <category id="68">Тарелки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="187">Слайсеры</category>
+      <category id="194">Менажницы</category>
+      <category id="279">Зонты</category>
+      <category id="54">Стаканы</category>
+      <category id="262">Термосумки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="52">Лимонадницы</category>
+      <category id="23">Фены</category>
+      <category id="184">Бульонницы</category>
+      <category id="284">Новогодний декор</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="287">Банты на елку</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="96">Вакууматоры</category>
+      <category id="77">Пылесосы</category>
+      <category id="93">Электрочайники</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="6">LED ленты</category>
+      <category id="34">Подсвечники</category>
       <category id="81">Капучинаторы</category>
       <category id="88">Мультиварки и скороварки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="72">Весы напольные</category>
-      <category id="4">Удлинители гирлянд</category>
+      <category id="144">Вентиляторы</category>
+      <category id="90">Мясорубки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="67">Столовые приборы</category>
       <category id="118">Сумки</category>
-      <category id="61">Сковородки</category>
-      <category id="111">Портативные колонки</category>
-      <category id="34">Подсвечники</category>
-      <category id="71">Стиральные машинки</category>
+      <category id="124">Решетки</category>
+      <category id="62">Ковши</category>
+      <category id="72">Весы напольные</category>
+      <category id="65">Креманки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="317">Садовое освещение</category>
       <category id="35">Вазы для цветов</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="182">Блюда</category>
-      <category id="145">Смарт-часы</category>
-      <category id="102">Микрофоны петличные</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="57">Чашки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="56">Бокалы</category>
+      <category id="261">Терки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="125">Мангалы</category>
+      <category id="103">Проекторы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="66">Сервизы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="140">Крышки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="292">Столовая посуда</category>
+      <category id="29">Салфетницы</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="111">Портативные колонки</category>
+      <category id="318">Кусторезы</category>
+      <category id="48">Емкости для хранения</category>
       <category id="132">Конфетницы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="33">Пепельницы</category>
-      <category id="283">Подносы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="53">Кувшины</category>
+      <category id="20">Эпиляторы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="114">Повербанки</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="271">Товары для уборки</category>
+      <category id="278">Косметички</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="150">Спальные мешки</category>
+      <category id="61">Сковородки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="148">Туристические коврики</category>
+      <category id="55">Рюмки</category>
+      <category id="31">Часы настенные</category>
+      <category id="89">Миксеры</category>
+      <category id="221">Туристические души</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="122">Аксессуары</category>
+      <category id="15">Плойки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
       <category id="316">Туристические плиты</category>
-      <category id="110">Наушники</category>
-      <category id="224">Гамаки</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="149">Палатки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="264">Мягкие игрушки</category>
       <category id="217">Кемпинговые фонари</category>
       <category id="73">Наборы для груминга</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="28">Держатели для бумажных полотенец</category>
-      <category id="149">Палатки</category>
-      <category id="75">Утюги</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="55">Рюмки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="43">Бутылки для воды</category>
+      <category id="76">Отпариватели</category>
+      <category id="17">Воскоплавы</category>
+      <category id="186">Тостеры</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="283">Подносы</category>
       <category id="94">Газовые плиты и электроплиты</category>
-      <category id="212">Мебель</category>
-      <category id="97">Весы кухонные</category>
-      <category id="31">Часы настенные</category>
-      <category id="141">Салатницы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="14">Стайлеры</category>
       <category id="300">Подушки для спины</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="133">Масленки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="75">Утюги</category>
+      <category id="182">Блюда</category>
+      <category id="13">Триммеры</category>
+      <category id="60">Мармиты</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="63">Кастрюли</category>
+      <category id="298">Брелки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="110">Наушники</category>
+      <category id="14">Стайлеры</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="281">Коврики для йоги</category>
       <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="142">Посуда для детей</category>
+      <category id="128">Органайзеры</category>
+      <category id="126">Ланч боксы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="224">Гамаки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="166">Тортовницы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="141">Салатницы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="33">Пепельницы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="195">Разделочные доски</category>
+      <category id="87">Соковыжималки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="212">Мебель</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="59">Все для выпечки</category>
+      <category id="98">Блендеры</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="280">Сушилки для посуды</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -22898,6 +22897,32 @@
         <param name="Тип термоса">Питьевой</param>
         <param name="Нижний диаметр">8 см</param>
       </offer>
+      <offer id="f11_2394098888_HP-14-29B" available="true">
+        <name>Термос Vacuum Sports 1 л из нержавеющей стали черный HP-14-29B</name>
+        <price>619.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>41</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_2394098888_HP-14-29B</vendorCode>
+        <description>Термос 1 литр изготовлен из высококачественной нержавеющей стали, что делает его крепким, долговечным и устойчивым к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов. Характеристики термоса объем 1000 мл; высота 26.5 см; диаметр 8 см; материал - нержавеющая сталь; сохранение тепла до 6 часов; дополнительные функции: эргономичная ручка. Термос – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3125</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3125/termos_s_indikatorom_temperatury_1_l_metallicheskiy_nerzhaveyka_chernyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3125/termos_s_indikatorom_temperatury_1_l_metallicheskiy_nerzhaveyka_chernyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3125/termos_s_indikatorom_temperatury_1_l_metallicheskiy_nerzhaveyka_chernyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3125/termos_s_indikatorom_temperatury_1_l_metallicheskiy_nerzhaveyka_chernyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3125/termos_s_indikatorom_temperatury_1_l_metallicheskiy_nerzhaveyka_chernyy_4.jpg</picture>
+        <param name="Высота">26.5 см</param>
+        <param name="Время сохранения тепла">6 ч</param>
+        <param name="Вес">460 г</param>
+        <param name="Время сохранения холода">12 ч</param>
+        <param name="Материал колбы">Нержавеющая сталь</param>
+        <param name="Объем">1000 мл</param>
+        <param name="Цвет">Черный</param>
+        <param name="Тип термоса">Питьевой</param>
+        <param name="Нижний диаметр">8 см</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_2394098889_HP-14-29R" available="true">
         <name>Термос с широким горлом 1л красный HP-14-29R</name>
         <price>619.0</price>
@@ -41810,43 +41835,6 @@
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Нет</param>
       </offer>
-      <offer id="f11_HP-11-11W_HP-11-11W" available="true">
-        <name>Перкуссионный ручной массажер аккумуляторный 17 Вт зарядка от USB до 3200 об/мин Белый HP-11-11W</name>
-        <price>1119.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>219</categoryId>
-        <vendor>Huizhou Shunzhou Technology</vendor>
-        <vendorCode>f11_HP-11-11W_HP-11-11W</vendorCode>
-        <description>Портативный ручной перкуссионный массажер предназначен для локального массажа мышц с целью снятия напряжения, улучшения кровообращения и ускорения восстановления после физических нагрузок. Устройство весит всего 900 г и имеет компактные размеры 22&amp;times;5&amp;times;35 см, что делает его удобным для повседневного использования дома, в офисе или в поездке. Массажер оснащён мощным аккумулятором ёмкостью 2000 mAh, обеспечивающим продолжительную автономную работу. Зарядка осуществляется через USB Type-C кабель длиной 0.75 м. Основные характеристики: Размер: 22&amp;times;5&amp;times;35 см; Вес: 900 г; Материал корпуса: прочный высококачественный пластик; Питание: встроенный аккумулятор 2000 mAh; Зарядка: USB Type-C (длина кабеля &amp;mdash; 0.75 м); Мощность: до 17 Вт; Скорость вибрации: до 3200 об/мин; Режимы работы: 3 уровня интенсивности; Насадки: 4 сменных массажных головки для различных зон. Комплектация: перкуссионный массажер; 4 насадки (круглая, плоская, U-образная, цилиндрическая); USB Type-C кабель; руководство пользователя. Преимущества: Длительная автономность &amp;ndash; мощный аккумулятор обеспечивает несколько часов работы без подзарядки; Компактность и мобильность &amp;ndash; легко помещается в сумку или рюкзак; Персонализированный подход &amp;ndash; выбор из 3 скоростных режимов и 4 насадок для любых потребностей; Глубокое воздействие &amp;ndash; проработка глубоких мышечных слоёв и снятие напряжения; Привлекательный внешний вид &amp;ndash; стильный дизайн делает массажер отличным подарком. Идеально подходит для: восстановления после тренировок; снятия напряжения после долгого рабочего дня; массажа в дороге или офисе; использования в спортивных и массажных центрах; Функциональные возможности: Эффективное расслабление мышц и устранение боли; Улучшение кровообращения и восстановление тканей; Повышение гибкости суставов и снижение риска травм; Ускоренное выведение молочной кислоты после физической активности; Самостоятельный массаж труднодоступных участков &amp;mdash; спины, шеи, поясницы. Откройте для себя комфорт и расслабление, где бы вы ни находились. Этот массажер &amp;mdash; не просто гаджет, а полноценный инструмент для заботы о теле.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4189</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_10.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_13.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_14.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4189/perkussionnyy_ruchnoy_massazher_akkumulyatornyy_17_vt_zaryadka_ot_usb_do_3200_ob_min_belyy_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-11-11/hp1111w_9.jpg</picture>
-        <param name="Высота">350</param>
-        <param name="Вес">0.9</param>
-        <param name="Потребляемая мощность">17</param>
-        <param name="Ширина">50</param>
-        <param name="Количество насадок">4</param>
-        <param name="Количество режимов работы">3</param>
-        <param name="Индикатор заряда элементов питания">Да</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Максимальная скорость вращения">3200</param>
-        <param name="Длина">22</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Петелька для подвешивания">Нет</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Чехол для хранения и транспортировки">Нет</param>
-      </offer>
       <offer id="f11_HP-S-1NDP_HP-S-1NDP" available="true">
         <name>Детская игровая палатка домик для девочек 125×100×120 см палатка домик для детей Розовая HP-S-1NDP</name>
         <price>859.0</price>
@@ -55983,34 +55971,6 @@
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Овальная</param>
         <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HB-40-10_HB-40-10" available="true">
-        <name>Держатель для бумажных полотенец 15.5×15.5×32 (см) подставка деревянная HB-40-10</name>
-        <price>209.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>28</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HB-40-10_HB-40-10</vendorCode>
-        <description>Держатель для бумажных полотенец на квадратной основе из бамбука - практичный и стильный аксессуар для кухни или столовой. Натуральный бамбук отличается прочностью, экологичностью и приятной фактурой, а компактная квадратная основа обеспечивает устойчивость при использовании. Характеристики подставки для полотенец: Размер:15.5&amp;times;15.5&amp;times;32 см; Материал: бамбук. Преимущества деревянного держателя для бумажных полотенец: Стильный внешний вид . Прочное и устойчивое основание. Универсальное применение на кухне, в кафе или кейтеринге. Простой уход &amp;mdash; легко протирать и поддерживать в чистоте. Хороший подарок для ценителей красивых и полезных вещей. Высокая центральная стойка с фиксирующим элементом удерживает рулон на месте, а дополнительная боковая планка помогает легко отрывать полотенца одной рукой. Такой держатель сочетает функциональность и эстетику, создавая порядок и уют в пространстве."</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4863</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4863/derzhatel_dlya_bumazhnyh_polotenets_15_5_15_5_32_sm_podstavka_derevyannaya_dlya_bumazhnyh_polotenets.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4863/derzhatel_dlya_bumazhnyh_polotenets_15_5_15_5_32_sm_podstavka_derevyannaya_dlya_bumazhnyh_polotenets_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4863/derzhatel_dlya_bumazhnyh_polotenets_15_5_15_5_32_sm_podstavka_derevyannaya_dlya_bumazhnyh_polotenets_2.jpg</picture>
-        <param name="Тип">Держатель для бумажных полотенец</param>
-        <param name="Материал">Дерево</param>
-        <param name="Высота">32 см</param>
-        <param name="Вместимость рулонов">1</param>
-        <param name="Вес">300 г</param>
-        <param name="Размещение рулона">Вертикальное</param>
-        <param name="Подставка для запасного рулона">Нет</param>
-        <param name="Способ установки">Настольный</param>
-        <param name="Ширина">15.5 см</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Длина">15.5 см</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Гарантия">14 дней</param>
-        <param name="Тип крепления">Универсальное</param>
       </offer>
       <offer id="f11_HB-40-11_HB-40-11" available="true">
         <name>Подставка для тарелок и крышек деревянная на кухню 16×12.5×10 (см) HB-40-11</name>
@@ -93485,24 +93445,6 @@ premium якість,&lt;br /&gt;
         <url>https://prom.ua/pA000010</url>
         <picture>https://images.prom.ua/6776312509_vans-x-dime.jpg, https://images.prom.ua/6776312998_vans-x-dime.jpg, https://images.prom.ua/6776312995_vans-x-dime.jpg, https://images.prom.ua/6776312996_vans-x-dime.jpg, https://images.prom.ua/6776312999_vans-x-dime.jpg, https://images.prom.ua/6776312997_vans-x-dime.jpg, https://images.prom.ua/6776313000_vans-x-dime.jpg</picture>
       </offer>
-      <offer id="my_A000021" available="true">
-        <name>Подарунковий зіп-пакет у формі рюкзака для солодощів та подарунків, асорті</name>
-        <price>14.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>0</quantity>
-        <categoryId>2302</categoryId>
-        <vendor>My Store</vendor>
-        <vendorCode>A000021</vendorCode>
-        <description>&lt;p&gt;
- &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
- &lt;/style&gt;
- Подарунковий зіп-пакет у формі рюкзака &amp;mdash; ідеальне рішення для упаковки солодощів, маленьких подарунків чи сувенірів. Виріб виготовлений із щільного пластику, оснащений застібкою zip-lock і зручною ручкою для перенесення. Яскравий сучасний дизайн, різноманітні кольори та малюнки (асорті). Підходить для дитячих свят, днів народження, випускних чи колективних подарунків. Розмір приблизно 21&amp;times;18 см. У комплекті &amp;mdash; випадковий дизайн із серії &amp;ldquo;Рюкзак&amp;rdquo;.&lt;/p&gt;
- 
- &lt;p&gt;Рюкзак червоний - 17*16&lt;/p&gt;
- 
- &lt;p&gt;Оранжевий та фіолетовий 18*21&lt;/p&gt;</description>
-        <url>https://prom.ua/pA000021</url>
-      </offer>
       <offer id="my_A000022" available="true">
         <name>Зіп пакети у формі машинок, чудово підійдуть для пакування солодощів
 Розмір
@@ -93526,6 +93468,54 @@ premium якість,&lt;br /&gt;
  
  &lt;p&gt;Рекс 15.5*22.5&lt;/p&gt;</description>
         <url>https://prom.ua/pA000022</url>
+      </offer>
+      <offer id="my_A000023" available="true">
+        <name>Зіп пакети у формі машинок, чудово підійдуть для пакування солодощів
+Розмір
+Поліція 28х19,5
+Пожежна 28х18
+Екскаватор 26х17,5
+Автобус 29х18,5
+Вантажівка 28,5х18</name>
+        <price>14.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>100</quantity>
+        <categoryId>2302</categoryId>
+        <vendor>My Store</vendor>
+        <vendorCode>A000023</vendorCode>
+        <description>&lt;p&gt;
+ &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+ &lt;/style&gt;
+ Подарунковий зіп-пакет у формі сумки для солодощів та подарунків, асорті&lt;/p&gt;
+ 
+ &lt;p&gt;Розміри&lt;/p&gt;
+ 
+ &lt;p&gt;Рекс 15.5*22.5&lt;/p&gt;</description>
+        <url>https://prom.ua/pA000023</url>
+      </offer>
+      <offer id="my_A000024" available="true">
+        <name>Зіп пакети у формі машинок, чудово підійдуть для пакування солодощів
+Розмір
+Поліція 28х19,5
+Пожежна 28х18
+Екскаватор 26х17,5
+Автобус 29х18,5
+Вантажівка 28,5х18</name>
+        <price>14.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>100</quantity>
+        <categoryId>2302</categoryId>
+        <vendor>My Store</vendor>
+        <vendorCode>A000024</vendorCode>
+        <description>&lt;p&gt;
+ &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+ &lt;/style&gt;
+ Подарунковий зіп-пакет у формі сумки для солодощів та подарунків, асорті&lt;/p&gt;
+ 
+ &lt;p&gt;Розміри&lt;/p&gt;
+ 
+ &lt;p&gt;Рекс 15.5*22.5&lt;/p&gt;</description>
+        <url>https://prom.ua/pA000024</url>
       </offer>
     </offers>
   </shop>
