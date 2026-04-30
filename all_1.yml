@@ -1,172 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-30 09:33">
+<yml_catalog date="2026-04-30 11:58">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="111">Портативные колонки</category>
       <category id="34">Подсвечники</category>
-      <category id="140">Крышки</category>
-      <category id="221">Туристические души</category>
-      <category id="76">Отпариватели</category>
-      <category id="42">Термосы для детей</category>
-      <category id="87">Соковыжималки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="47">Наборы для специй</category>
-      <category id="66">Сервизы</category>
-      <category id="278">Косметички</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="262">Термосумки</category>
-      <category id="56">Бокалы</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="61">Сковородки</category>
-      <category id="75">Утюги</category>
-      <category id="114">Повербанки</category>
-      <category id="65">Креманки</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="77">Пылесосы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="148">Туристические коврики</category>
-      <category id="261">Терки</category>
-      <category id="103">Проекторы</category>
-      <category id="55">Рюмки</category>
-      <category id="72">Весы напольные</category>
-      <category id="194">Менажницы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="63">Кастрюли</category>
-      <category id="186">Тостеры</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="15">Плойки</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="149">Палатки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="187">Слайсеры</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="6">LED ленты</category>
-      <category id="294">Новогодние елки</category>
-      <category id="62">Ковши</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="292">Столовая посуда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="81">Капучинаторы</category>
-      <category id="184">Бульонницы</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="144">Вентиляторы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="29">Салфетницы</category>
-      <category id="117">Рюкзаки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="285">Йогуртницы</category>
-      <category id="110">Наушники</category>
-      <category id="133">Масленки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="141">Салатницы</category>
-      <category id="182">Блюда</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="298">Брелки</category>
-      <category id="125">Мангалы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="96">Вакууматоры</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="128">Органайзеры</category>
-      <category id="89">Миксеры</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="318">Кусторезы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="150">Спальные мешки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="13">Триммеры</category>
-      <category id="316">Туристические плиты</category>
-      <category id="67">Столовые приборы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="54">Стаканы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="59">Все для выпечки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="90">Мясорубки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="57">Чашки</category>
       <category id="71">Стиральные машинки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="33">Пепельницы</category>
-      <category id="23">Фены</category>
-      <category id="145">Смарт-часы</category>
-      <category id="21">Электробритвы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="283">Подносы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="126">Ланч боксы</category>
-      <category id="124">Решетки</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="118">Сумки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="195">Разделочные доски</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="281">Коврики для йоги</category>
       <category id="193">Доски для подачи</category>
-      <category id="31">Часы настенные</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="68">Тарелки</category>
-      <category id="279">Зонты</category>
-      <category id="53">Кувшины</category>
-      <category id="14">Стайлеры</category>
-      <category id="271">Товары для уборки</category>
-      <category id="98">Блендеры</category>
-      <category id="122">Аксессуары</category>
-      <category id="300">Подушки для спины</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="17">Воскоплавы</category>
-      <category id="317">Садовое освещение</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="93">Электрочайники</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="287">Банты на елку</category>
-      <category id="212">Мебель</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="60">Мармиты</category>
       <category id="156">Столовые сервизы</category>
-      <category id="179">Мебель для кемпинга</category>
+      <category id="150">Спальные мешки</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="134">Бутылки для масла</category>
       <category id="224">Гамаки</category>
-      <category id="132">Конфетницы</category>
+      <category id="89">Миксеры</category>
+      <category id="261">Терки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="292">Столовая посуда</category>
+      <category id="148">Туристические коврики</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="194">Менажницы</category>
+      <category id="61">Сковородки</category>
+      <category id="87">Соковыжималки</category>
+      <category id="279">Зонты</category>
+      <category id="60">Мармиты</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="62">Ковши</category>
+      <category id="14">Стайлеры</category>
+      <category id="54">Стаканы</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="145">Смарт-часы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="77">Пылесосы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="316">Туристические плиты</category>
+      <category id="140">Крышки</category>
+      <category id="13">Триммеры</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="66">Сервизы</category>
+      <category id="110">Наушники</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="90">Мясорубки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="63">Кастрюли</category>
+      <category id="15">Плойки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="33">Пепельницы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="124">Решетки</category>
+      <category id="6">LED ленты</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="128">Органайзеры</category>
+      <category id="186">Тостеры</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="75">Утюги</category>
+      <category id="187">Слайсеры</category>
+      <category id="141">Салатницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="126">Ланч боксы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="96">Вакууматоры</category>
+      <category id="114">Повербанки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="42">Термосы для детей</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="72">Весы напольные</category>
       <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="184">Бульонницы</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="76">Отпариватели</category>
+      <category id="103">Проекторы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="221">Туристические души</category>
+      <category id="111">Портативные колонки</category>
+      <category id="182">Блюда</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="57">Чашки</category>
+      <category id="262">Термосумки</category>
+      <category id="283">Подносы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="53">Кувшины</category>
+      <category id="29">Салфетницы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="67">Столовые приборы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="55">Рюмки</category>
+      <category id="31">Часы настенные</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="91">Кухонные комбайны</category>
       <category id="166">Тортовницы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="317">Садовое освещение</category>
+      <category id="47">Наборы для специй</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="81">Капучинаторы</category>
+      <category id="125">Мангалы</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="278">Косметички</category>
+      <category id="98">Блендеры</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="136">Дуршлаги</category>
+      <category id="21">Электробритвы</category>
+      <category id="117">Рюкзаки</category>
+      <category id="212">Мебель</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="149">Палатки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="93">Электрочайники</category>
+      <category id="133">Масленки</category>
+      <category id="144">Вентиляторы</category>
+      <category id="132">Конфетницы</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="142">Посуда для детей</category>
+      <category id="195">Разделочные доски</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="318">Кусторезы</category>
+      <category id="122">Аксессуары</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="23">Фены</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="68">Тарелки</category>
+      <category id="118">Сумки</category>
+      <category id="287">Банты на елку</category>
+      <category id="271">Товары для уборки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="56">Бокалы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="284">Новогодний декор</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="294">Новогодние елки</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="65">Креманки</category>
+      <category id="298">Брелки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -35585,16 +35585,16 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3853/shkatulka_dlya_naruchnyh_chasov_35_5_11_5_8_sm_keys_dlya_hraneniya_chasov_na_6_otsekov_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3853/shkatulka_dlya_naruchnyh_chasov_35_5_11_5_8_sm_keys_dlya_hraneniya_chasov_na_6_otsekov_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3853/shkatulka_dlya_naruchnyh_chasov_35_5_11_5_8_sm_keys_dlya_hraneniya_chasov_na_6_otsekov_4.jpg</picture>
-        <param name="Высота">80</param>
+        <param name="Высота">8</param>
         <param name="Внутренняя отделка">Кожа искусственная</param>
-        <param name="Вес">1100</param>
+        <param name="Вес">1.1</param>
         <param name="Назначение">Для хранения часов</param>
-        <param name="Ширина">115</param>
+        <param name="Ширина">11.5</param>
         <param name="Вместимость">6</param>
         <param name="Количество мест для неподвижного хранения часов">6</param>
-        <param name="Материал корпуса">Эко-кожа</param>
+        <param name="Материал корпуса">МДФ</param>
         <param name="Цвет">Черный</param>
-        <param name="Длина">355</param>
+        <param name="Длина">35.5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-5-10_HP-5-10" available="true">
@@ -36891,10 +36891,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_3_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_3_3.jpg</picture>
         <param name="Тип">Бутылка для напитков</param>
-        <param name="Материал">Пластик</param>
-        <param name="Высота">165</param>
+        <param name="Материал">Поликарбонат</param>
+        <param name="Высота">16.5</param>
         <param name="Вес">200</param>
-        <param name="Диаметр">90</param>
+        <param name="Диаметр">9</param>
         <param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
         <param name="Объем">700</param>
         <param name="Цвет">Черный</param>
@@ -36917,10 +36917,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_4_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_4_4.jpg</picture>
         <param name="Тип">Бутылка для напитков</param>
-        <param name="Материал">Пластик</param>
-        <param name="Высота">165</param>
+        <param name="Материал">Поликарбонат</param>
+        <param name="Высота">16.5</param>
         <param name="Вес">200</param>
-        <param name="Диаметр">90</param>
+        <param name="Диаметр">9</param>
         <param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
         <param name="Объем">700</param>
         <param name="Цвет">Фиолетовый</param>
@@ -36943,9 +36943,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_2_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_2_4.jpg</picture>
         <param name="Тип">Бутылка для напитков</param>
-        <param name="Высота">165</param>
+        <param name="Высота">16.5</param>
         <param name="Вес">200</param>
-        <param name="Диаметр">90</param>
+        <param name="Диаметр">9</param>
         <param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
         <param name="Объем">700</param>
         <param name="Цвет">Оранжевый</param>
@@ -36968,9 +36968,9 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_1_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-32/1432_1_2.jpg</picture>
         <param name="Тип">Бутылка для напитков</param>
-        <param name="Высота">165</param>
+        <param name="Высота">16.5</param>
         <param name="Вес">200</param>
-        <param name="Диаметр">90</param>
+        <param name="Диаметр">9</param>
         <param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
         <param name="Объем">700</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
@@ -38680,7 +38680,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00000000000/LYQ-1/LYQ1_9.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00000000000/LYQ-1/LYQ1_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00000000000/LYQ-1/LYQ1_3.jpg</picture>
-        <param name="Материал">ПВХ</param>
+        <param name="Материал">ABS-пластик</param>
         <param name="Вес">650</param>
         <param name="Сезон">Всесезонный</param>
         <param name="Особенности душа">Насос</param>
@@ -38727,7 +38727,7 @@
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4023</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/HP-35-554S_1.jpg</picture>
         <param name="Тип">Мешок кондитерский</param>
-        <param name="Материал">Полиэтилен</param>
+        <param name="Материал">Пищевой полиэтилен</param>
         <param name="Высота">17 см</param>
         <param name="Ширина">26 см</param>
         <param name="Количество в наборе">100</param>
@@ -38750,7 +38750,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/HP-35-554M_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/HP-35-554M_2.jpg</picture>
         <param name="Тип">Мешок кондитерский</param>
-        <param name="Материал">Полиэтилен</param>
+        <param name="Материал">Пищевой полиэтилен</param>
         <param name="Высота">21 см</param>
         <param name="Ширина">32 см</param>
         <param name="Количество в наборе">100</param>
@@ -38773,7 +38773,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/HP-35-554L_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/000/HP-35-554L_2.jpg</picture>
         <param name="Тип">Мешок кондитерский</param>
-        <param name="Материал">Полиэтилен</param>
+        <param name="Материал">Пищевой полиэтилен</param>
         <param name="Высота">40 см</param>
         <param name="Ширина">24 см</param>
         <param name="Количество в наборе">100</param>
@@ -38885,7 +38885,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_21.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_22.jpg</picture>
-        <param name="Материал столешницы">Фанера</param>
+        <param name="Материал столешницы">МДФ</param>
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">6</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
@@ -38921,15 +38921,15 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/8812-4/8812-4_20.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/8812-4/8812-4_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000000000/8812-4/8812-4_8.jpg</picture>
-        <param name="Материал столешницы">Фанера</param>
+        <param name="Материал столешницы">МДФ</param>
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
         <param name="Материал сиденья">Ткань</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Нет</param>
-        <param name="Ширина стула">260</param>
+        <param name="Ширина стула">26</param>
         <param name="Цвет">Белый с серым</param>
-        <param name="Высота сиденья стула">360</param>
+        <param name="Высота сиденья стула">36</param>
         <param name="Допустимая нагрузка на стол">30</param>
         <param name="Глубина стула">310</param>
         <param name="Длина стола">860</param>
@@ -39440,7 +39440,7 @@
         <param name="Время заряда аккумулятора">3</param>
         <param name="Тип фонаря">Налобный</param>
         <param name="Особенности фонаря">Сменный аккумулятор</param>
-        <param name="Материал корпуса">Металл и пластик</param>
+        <param name="Материал корпуса">Металл/пластик</param>
         <param name="Длина">160</param>
         <param name="Тип питания">Аккумулятор</param>
         <param name="Крепление">Ремешок</param>
@@ -39679,8 +39679,8 @@
         <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
         <param name="Вес">2.1 кг</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Текстиль</param>
-        <param name="Материал спинки">Текстиль</param>
+        <param name="Материал сиденья">Оксфорд</param>
+        <param name="Материал спинки">Оксфорд</param>
         <param name="Откидной столик на подлокотнике">Нет</param>
         <param name="Складная конструкция для хранения и транспортировки">Да</param>
         <param name="Ширина стула">51 см</param>
@@ -39714,8 +39714,8 @@
         <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
         <param name="Вес">2.1 кг</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Текстиль</param>
-        <param name="Материал спинки">Текстиль</param>
+        <param name="Материал сиденья">Оксфорд</param>
+        <param name="Материал спинки">Оксфорд</param>
         <param name="Откидной столик на подлокотнике">Нет</param>
         <param name="Складная конструкция для хранения и транспортировки">Да</param>
         <param name="Ширина стула">51 см</param>
@@ -39748,8 +39748,8 @@
         <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
         <param name="Вес">2.4 кг</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
-        <param name="Материал спинки">Ткань</param>
+        <param name="Материал сиденья">Оксфорд</param>
+        <param name="Материал спинки">Оксфорд</param>
         <param name="Откидной столик на подлокотнике">Нет</param>
         <param name="Складная конструкция для хранения и транспортировки">Да</param>
         <param name="Ширина стула">53 см</param>
@@ -42245,12 +42245,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-9/167889_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4209/slayser_ruchnoy_dlya_narezki_nozh_15_sm_lomterezka_dlya_doma_iz_nerzhaveyushchey_stali_9.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/00000000/16788-9/167889_8.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Материал">Нержавеющая сталь/Пластик</param>
         <param name="Высота">70</param>
         <param name="Вес">1.2</param>
         <param name="Глубина">380</param>
         <param name="Затачивающее устройство">Нет</param>
-        <param name="Ширина">135</param>
+        <param name="Ширина">13.5</param>
         <param name="Материал направляющей пластины">металл</param>
         <param name="Нож волнообразной формы">Нет</param>
         <param name="Сфера использования">HoReCa|Fast-food|Уличная торговля|Торговые магазины</param>
@@ -43458,7 +43458,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-28/HP-34-28_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/0000/000/HP-34-28/HP-34-28_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4300/limonadnitsa_steklyannaya_3v1_na_podstavke_s_zolotymi_kranami_5_5_l_tri_emkosti_s_kryshkami_dlya_napitkov_6.jpg</picture>
-        <param name="Материал">Стекло</param>
+        <param name="Материал">Стекло/Бамбук</param>
         <param name="Высота">40 см</param>
         <param name="Верхний диаметр">21 см</param>
         <param name="Назначение">Универсальное</param>
@@ -44173,7 +44173,7 @@
         <param name="Длина сетевого шнура">0.65 м</param>
         <param name="Ширина">23 см</param>
         <param name="Ширина рабочей поверхности">12.5 см</param>
-        <param name="Материал корпуса">Пластик</param>
+        <param name="Материал корпуса">Термостойкий пластик</param>
         <param name="Индикатор работы">Да</param>
         <param name="Хранение дополнительных плиток на корпусе">Нет</param>
         <param name="Индикатор нагрева">Да</param>
@@ -44215,7 +44215,7 @@
         <param name="Особенности">Антипригарное покрытие</param>
         <param name="Ширина">13 см</param>
         <param name="Количество выпеченных изделий">4</param>
-        <param name="Материал корпуса">Пластик</param>
+        <param name="Материал корпуса">Термостойкий пластик</param>
         <param name="Длина">17 см</param>
         <param name="Форма рабочей поверхности">Круглая</param>
         <param name="Сфера использования">Для дома|Профессиональные</param>
@@ -44294,7 +44294,7 @@
         <param name="Защита от перегрева">Да</param>
         <param name="Ширина">13 см</param>
         <param name="Ширина рабочей поверхности">11 см</param>
-        <param name="Материал корпуса">Металл|Пластик</param>
+        <param name="Материал корпуса">Термостойкий пластик</param>
         <param name="Ненагревающиеся ручки">Нет</param>
         <param name="Лоток для жира">Нет</param>
         <param name="Индикатор работы">Да</param>
@@ -44344,7 +44344,7 @@
         <param name="Особенности">Антипригарное покрытие</param>
         <param name="Ширина">20 см</param>
         <param name="Количество выпеченных изделий">4</param>
-        <param name="Материал корпуса">Пластик</param>
+        <param name="Материал корпуса">Термостойкий пластик</param>
         <param name="Длина">27 см</param>
         <param name="Форма рабочей поверхности">Круглая</param>
         <param name="Сфера использования">Для дома</param>
@@ -44384,7 +44384,7 @@
         <param name="Защита от перегрева">Да</param>
         <param name="Ширина">22.5 см</param>
         <param name="Ширина рабочей поверхности">12.5 см</param>
-        <param name="Материал корпуса">Пластик</param>
+        <param name="Материал корпуса">ABS-пластик</param>
         <param name="Лоток для жира">Нет</param>
         <param name="Хранение дополнительных плиток на корпусе">Нет</param>
         <param name="Индикатор нагрева">Да</param>
@@ -44421,7 +44421,7 @@
         <param name="Длина сетевого шнура">0.7 м</param>
         <param name="Ширина">23 см</param>
         <param name="Ширина рабочей поверхности">13 см</param>
-        <param name="Материал корпуса">Пластик</param>
+        <param name="Материал корпуса">Термостойкий пластик</param>
         <param name="Лоток для жира">Нет</param>
         <param name="Хранение дополнительных плиток на корпусе">Нет</param>
         <param name="Индикатор нагрева">Да</param>
@@ -44460,7 +44460,7 @@
         <param name="Защита от перегрева">Да</param>
         <param name="Ширина">27 см</param>
         <param name="Ширина рабочей поверхности">17 см</param>
-        <param name="Материал корпуса">Металл|Пластик</param>
+        <param name="Материал корпуса">Нержавеющая сталь/Пластик</param>
         <param name="Лоток для жира">Нет</param>
         <param name="Хранение дополнительных плиток на корпусе">Нет</param>
         <param name="Индикатор нагрева">Да</param>
@@ -44497,7 +44497,7 @@
         <param name="Длина сетевого шнура">0.7 м</param>
         <param name="Ширина">35 см</param>
         <param name="Ширина рабочей поверхности">21.5 см</param>
-        <param name="Материал корпуса">Металл</param>
+        <param name="Материал корпуса">Сталь</param>
         <param name="Индикатор работы">Да</param>
         <param name="Индикатор нагрева">Да</param>
         <param name="Наличие антипригарного покрытия">Нет</param>
@@ -44533,7 +44533,7 @@
         <param name="Длина сетевого шнура">0.8</param>
         <param name="Ширина">205</param>
         <param name="Ширина рабочей поверхности">200</param>
-        <param name="Материал корпуса">Металл</param>
+        <param name="Материал корпуса">Сталь</param>
         <param name="Индикатор работы">Да</param>
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
@@ -44570,7 +44570,7 @@
         <param name="Длина сетевого шнура">0.8 м</param>
         <param name="Ширина">20.5 см</param>
         <param name="Ширина рабочей поверхности">20 см</param>
-        <param name="Материал корпуса">Металл</param>
+        <param name="Материал корпуса">Сталь</param>
         <param name="Индикатор работы">Да</param>
         <param name="Индикатор нагрева">Да</param>
         <param name="Терморегулятор">Да</param>
@@ -47543,7 +47543,7 @@
         <param name="Основное назначение">Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
         <param name="Ширина">12.5 см</param>
         <param name="Ручка">Есть</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Материал ручки">нержавеющая сталь/Резина</param>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет">Черный</param>
         <param name="Длина">12.5 см</param>
@@ -47569,7 +47569,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4488/terka_ruchnaya_chetyrehstoronnyaya_12_12_22_sm_kuhonnaya_mnogofunktsionalnaya_terka_dlya_ovoshchey_i_fruktov_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4488/terka_ruchnaya_chetyrehstoronnyaya_12_12_22_sm_kuhonnaya_mnogofunktsionalnaya_terka_dlya_ovoshchey_i_fruktov_5.jpg</picture>
         <param name="Тип">Терка-пирамида</param>
-        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Материал">Сталь с электрофоретическим покрытием</param>
         <param name="Высота">22 см</param>
         <param name="Количество трущих/режущих поверхностей">4</param>
         <param name="Вес">300 г</param>
@@ -47577,7 +47577,7 @@
         <param name="Основное назначение">Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
         <param name="Ширина">12 см</param>
         <param name="Ручка">Есть</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Материал ручки">Сталь</param>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет">Черный</param>
         <param name="Длина">12 см</param>
@@ -47678,7 +47678,7 @@
         <param name="Основное назначение">Для цедры цитрусовых|Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
         <param name="Ширина">6 см</param>
         <param name="Ручка">Есть</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Материал ручки">нержавеющая сталь/Резина</param>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет">Черный</param>
         <param name="Длина">12 см</param>
@@ -47711,7 +47711,7 @@
         <param name="Основное назначение">Для цедры цитрусовых|Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
         <param name="Ширина">4 см</param>
         <param name="Ручка">Есть</param>
-        <param name="Материал ручки">нержавеющая сталь</param>
+        <param name="Материал ручки">нержавеющая сталь/Резина</param>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет">Черный</param>
         <param name="Длина">8 см</param>
@@ -48131,7 +48131,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4515/press_dlya_chesnoka_11_5_5_7_sm_chesnokodavka_chesnochnyy_press_ruchnoy_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4515/press_dlya_chesnoka_11_5_5_7_sm_chesnokodavka_chesnochnyy_press_ruchnoy_5.jpg</picture>
         <param name="Тип">Прессы для чеснока</param>
-        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Материал">Нержавеющая сталь,PP</param>
         <param name="Очиститель">Нет</param>
         <param name="Ширина">5.5 см</param>
         <param name="Цвет">Черный</param>
@@ -48820,7 +48820,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4546/rolikovyy_nozh_slayser_dlya_zeleni_6_lezviy_nozh_izmelchitel_dlya_zeleni_15_6_8_sm_salatovyy_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4546/rolikovyy_nozh_slayser_dlya_zeleni_6_lezviy_nozh_izmelchitel_dlya_zeleni_15_6_8_sm_salatovyy_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4546/rolikovyy_nozh_slayser_dlya_zeleni_6_lezviy_nozh_izmelchitel_dlya_zeleni_15_6_8_sm_salatovyy_6.jpg</picture>
-        <param name="Материал">Пластик</param>
+        <param name="Материал">Нержавеющая сталь/Пластик</param>
         <param name="Высота">80</param>
         <param name="Количество трущих/режущих поверхностей">6</param>
         <param name="Ширина">60</param>
@@ -49709,7 +49709,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -49748,7 +49748,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -49787,7 +49787,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -49826,7 +49826,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -50255,7 +50255,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -50284,7 +50284,7 @@
         <param name="Состав комплекта">Стол + стулья без спинки</param>
         <param name="Количество персон">4</param>
         <param name="Материал каркаса (опор)">Алюминий</param>
-        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал сиденья">Оксфорд 600D</param>
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
@@ -50314,7 +50314,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4600/servirovochnaya_doska_dlya_podachi_25_20_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4600/servirovochnaya_doska_dlya_podachi_25_20_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_5.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4600/servirovochnaya_doska_dlya_podachi_25_20_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_6.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">20 см</param>
@@ -50344,7 +50344,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4602/servirovochnaya_doska_dlya_podachi_50_30_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4602/servirovochnaya_doska_dlya_podachi_50_30_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4602/servirovochnaya_doska_dlya_podachi_50_30_sm_dostochka_dlya_narezki_kuhonnaya_pryamougolnaya_wood_6.png</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Да</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">30 см</param>
@@ -50402,7 +50402,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4604/kuhonnaya_razdelochnaya_doska_derevyannaya_35_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4604/kuhonnaya_razdelochnaya_doska_derevyannaya_35_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4604/kuhonnaya_razdelochnaya_doska_derevyannaya_35_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_8.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">25 см</param>
@@ -50462,7 +50462,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4606/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4606/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_6.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4606/kuhonnaya_razdelochnaya_doska_derevyannaya_40_25_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_8.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">25 см</param>
@@ -50522,7 +50522,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4608/kuhonnaya_razdelochnaya_doska_derevyannaya_45_30sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4608/kuhonnaya_razdelochnaya_doska_derevyannaya_45_30sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4608/kuhonnaya_razdelochnaya_doska_derevyannaya_45_30sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_3.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">30 см</param>
@@ -50582,7 +50582,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4610/kuhonnaya_razdelochnaya_doska_derevyannaya_50_30_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4610/kuhonnaya_razdelochnaya_doska_derevyannaya_50_30_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4610/kuhonnaya_razdelochnaya_doska_derevyannaya_50_30_sm_pryamougolnaya_dostochka_dlya_narezki_iz_yasenya_wood_6.jpg</picture>
-        <param name="Материал">Дерево</param>
+        <param name="Материал">Ясень</param>
         <param name="Желобок по периметру рабочей поверхности">Нет</param>
         <param name="Крышка">Нет</param>
         <param name="Ширина">30 см</param>
@@ -50750,7 +50750,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4632/myagkaya_igrushka_pled_sobachka_120_160_sm_detskiy_pled_igrushka_2_v_1_pled_v_igrushke_seryy.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4632/myagkaya_igrushka_pled_sobachka_120_160_sm_detskiy_pled_igrushka_2_v_1_pled_v_igrushke_seryy_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4632/myagkaya_igrushka_pled_sobachka_120_160_sm_detskiy_pled_igrushka_2_v_1_pled_v_igrushke_seryy_2.jpg</picture>
-        <param name="Материал">Плюш</param>
+        <param name="Материал">Плюш-велюр / коралловый флис</param>
         <param name="Высота">28 см</param>
         <param name="Тип игрушки">Подушка-игрушка</param>
         <param name="Вес">500 г</param>
@@ -50776,7 +50776,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4634/myagkaya_igrushka_pled_podushka_3_v_1_kapibara_pled_v_igrushke_43_sm_detskiy_pled_igrushka_korichnevyy_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4634/myagkaya_igrushka_pled_podushka_3_v_1_kapibara_pled_v_igrushke_43_sm_detskiy_pled_igrushka_korichnevyy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/60682/4634/myagkaya_igrushka_pled_podushka_3_v_1_kapibara_pled_v_igrushke_43_sm_detskiy_pled_igrushka_korichnevyy_3.jpg</picture>
-        <param name="Материал">Плюш</param>
+        <param name="Материал">Плюш / коралловый флис</param>
         <param name="Высота">43 см</param>
         <param name="Тип игрушки">Подушка-игрушка</param>
         <param name="Вес">1 кг</param>
@@ -52460,22 +52460,6 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4740/zazhim_dlya_musora_s_dlinnoy_ruchkoy_rezinovaya_kromka_professionalnyy_inventar_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4740/zazhim_dlya_musora_s_dlinnoy_ruchkoy_rezinovaya_kromka_professionalnyy_inventar_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4740/zazhim_dlya_musora_s_dlinnoy_ruchkoy_rezinovaya_kromka_professionalnyy_inventar_5.jpg</picture>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-35015-40_HP-35015-40" available="true">
-        <name>Захват для мусора с длинной ручкой, резиновый край, инвентарь для уборки HP-35015-40</name>
-        <price>189.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>265</categoryId>
-        <vendor>Household</vendor>
-        <vendorCode>f11_d97ac5561e11311ab7</vendorCode>
-        <description>Захват для сбора мусора с длинной ручкой: Вес, кг: 0.300; Габариты, см: длина 90; Материал ручки: пластик + нержавеющая сталь; Материал механизма зажимания: пластик + нержавеющая сталь. Описание инструмента для захвата с длинной ручкой: Рукоятка: выполнена в синем цвете, оснащена удобным триггером для управления захватом; Штанга: удлинённая, металлическая, серебристая, обеспечивает лёгкий доступ к предметам, расположенным на расстоянии; Захватные элементы: красные &amp;laquo;когти&amp;raquo; с прорезиненными наконечниками для надёжного и бережного удержания вещей; Назначение: используется для поднятия предметов с пола, извлечения вещей с верхних полок и работы в труднодоступных местах. Применение инструмента &amp;laquo;граббер&amp;raquo; для дома и работы: Бытовое использование: незаменим для пожилых людей и людей с ограниченной подвижностью, позволяя доставать вещи без необходимости наклоняться или использовать стремянку; Уборка помещений: помогает легко собирать мусор и предметы с пола без лишней нагрузки на спину; Складская работа: облегчает доступ к товарам и предметам, расположенным на верхних стеллажах.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4741</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4741/zahvat_dlya_musora_s_dlinnoy_ruchkoy_rezinovyy_kray_inventar_dlya_uborki_3.jpg</picture>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-35015-41_HP-35015-41" available="true">
@@ -66951,11 +66935,11 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5610/zavarnik_steklyannyy_dlya_chaya_0_8_l_chaynik_dlya_zavarivaniya_s_derevyannoy_ruchkoy_prozrachnyy_1.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5610/zavarnik_steklyannyy_dlya_chaya_0_8_l_chaynik_dlya_zavarivaniya_s_derevyannoy_ruchkoy_prozrachnyy_2.png</picture>
         <param name="Материал">Боросиликатное стекло</param>
-        <param name="Высота">130</param>
-        <param name="Диаметр">120</param>
+        <param name="Высота">13</param>
+        <param name="Диаметр">12</param>
         <param name="Пресс-фильтр">Нет</param>
-        <param name="Материал крышки">Металл</param>
-        <param name="Ширина">120</param>
+        <param name="Материал крышки">Дерево</param>
+        <param name="Ширина">12</param>
         <param name="Объем">800</param>
         <param name="Ситечко">Есть</param>
         <param name="Материал ручки">Дерево</param>
