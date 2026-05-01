@@ -1,172 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-01 09:20">
+<yml_catalog date="2026-05-01 11:27">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="269">Подарочные пакеты</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="224">Гамаки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="298">Брелки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
       <category id="55">Рюмки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="133">Масленки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="110">Наушники</category>
-      <category id="141">Салатницы</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="124">Решетки</category>
-      <category id="76">Отпариватели</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="81">Капучинаторы</category>
-      <category id="62">Ковши</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="148">Туристические коврики</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="89">Миксеры</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="96">Вакууматоры</category>
-      <category id="144">Вентиляторы</category>
-      <category id="318">Кусторезы</category>
-      <category id="90">Мясорубки</category>
-      <category id="150">Спальные мешки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="29">Салфетницы</category>
-      <category id="118">Сумки</category>
-      <category id="294">Новогодние елки</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="93">Электрочайники</category>
-      <category id="316">Туристические плиты</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="72">Весы напольные</category>
-      <category id="317">Садовое освещение</category>
-      <category id="56">Бокалы</category>
-      <category id="221">Туристические души</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="111">Портативные колонки</category>
-      <category id="125">Мангалы</category>
-      <category id="15">Плойки</category>
-      <category id="61">Сковородки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="75">Утюги</category>
-      <category id="53">Кувшины</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="31">Часы настенные</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="47">Наборы для специй</category>
-      <category id="145">Смарт-часы</category>
-      <category id="57">Чашки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="128">Органайзеры</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="66">Сервизы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="184">Бульонницы</category>
-      <category id="63">Кастрюли</category>
-      <category id="193">Доски для подачи</category>
-      <category id="279">Зонты</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="23">Фены</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="54">Стаканы</category>
-      <category id="65">Креманки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="103">Проекторы</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="52">Лимонадницы</category>
-      <category id="13">Триммеры</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="284">Новогодний декор</category>
-      <category id="17">Воскоплавы</category>
-      <category id="261">Терки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="292">Столовая посуда</category>
-      <category id="149">Палатки</category>
       <category id="293">Хвойные гирлянды</category>
-      <category id="117">Рюкзаки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="77">Пылесосы</category>
-      <category id="212">Мебель</category>
-      <category id="194">Менажницы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="87">Соковыжималки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="98">Блендеры</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="6">LED ленты</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="182">Блюда</category>
-      <category id="300">Подушки для спины</category>
-      <category id="42">Термосы для детей</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="68">Тарелки</category>
+      <category id="292">Столовая посуда</category>
       <category id="92">Кофеварки и кофемолки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="14">Стайлеры</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="140">Крышки</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="13">Триммеры</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="318">Кусторезы</category>
+      <category id="317">Садовое освещение</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="54">Стаканы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="300">Подушки для спины</category>
+      <category id="93">Электрочайники</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="193">Доски для подачи</category>
+      <category id="298">Брелки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="221">Туристические души</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="166">Тортовницы</category>
+      <category id="29">Салфетницы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="125">Мангалы</category>
+      <category id="103">Проекторы</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="141">Салатницы</category>
+      <category id="67">Столовые приборы</category>
       <category id="43">Бутылки для воды</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="82">Другая мелкая техника</category>
+      <category id="117">Рюкзаки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="261">Терки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="60">Мармиты</category>
+      <category id="136">Дуршлаги</category>
+      <category id="195">Разделочные доски</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="53">Кувшины</category>
+      <category id="75">Утюги</category>
+      <category id="42">Термосы для детей</category>
+      <category id="61">Сковородки</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="145">Смарт-часы</category>
       <category id="187">Слайсеры</category>
-      <category id="59">Все для выпечки</category>
-      <category id="21">Электробритвы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="128">Органайзеры</category>
       <category id="186">Тостеры</category>
+      <category id="20">Эпиляторы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="149">Палатки</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="89">Миксеры</category>
+      <category id="194">Менажницы</category>
+      <category id="224">Гамаки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="6">LED ленты</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="124">Решетки</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="144">Вентиляторы</category>
+      <category id="90">Мясорубки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="63">Кастрюли</category>
+      <category id="283">Подносы</category>
+      <category id="77">Пылесосы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="255">Сита и дуршлаги</category>
       <category id="262">Термосумки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="56">Бокалы</category>
+      <category id="118">Сумки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="33">Пепельницы</category>
+      <category id="279">Зонты</category>
+      <category id="57">Чашки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="284">Новогодний декор</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="87">Соковыжималки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="132">Конфетницы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="278">Косметички</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="97">Весы кухонные</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="47">Наборы для специй</category>
+      <category id="111">Портативные колонки</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="23">Фены</category>
+      <category id="68">Тарелки</category>
+      <category id="62">Ковши</category>
+      <category id="122">Аксессуары</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="148">Туристические коврики</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="316">Туристические плиты</category>
+      <category id="15">Плойки</category>
+      <category id="14">Стайлеры</category>
+      <category id="81">Капучинаторы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="150">Спальные мешки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="184">Бульонницы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="182">Блюда</category>
+      <category id="104">Ручки для чистки наушников</category>
       <category id="74">Машинки для удаления катышек</category>
+      <category id="72">Весы напольные</category>
       <category id="114">Повербанки</category>
       <category id="34">Подсвечники</category>
-      <category id="283">Подносы</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="195">Разделочные доски</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="122">Аксессуары</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="278">Косметички</category>
+      <category id="98">Блендеры</category>
       <category id="268">Кухонные подставки</category>
-      <category id="33">Пепельницы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="140">Крышки</category>
-      <category id="287">Банты на елку</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="166">Тортовницы</category>
-      <category id="132">Конфетницы</category>
+      <category id="65">Креманки</category>
       <category id="223">Колбасные шприцы</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="60">Мармиты</category>
+      <category id="96">Вакууматоры</category>
+      <category id="271">Товары для уборки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="31">Часы настенные</category>
+      <category id="110">Наушники</category>
+      <category id="287">Банты на елку</category>
+      <category id="133">Масленки</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="17">Воскоплавы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="217">Кемпинговые фонари</category>
       <category id="285">Йогуртницы</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="97">Весы кухонные</category>
+      <category id="59">Все для выпечки</category>
+      <category id="21">Электробритвы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="294">Новогодние елки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="212">Мебель</category>
+      <category id="66">Сервизы</category>
+      <category id="76">Отпариватели</category>
+      <category id="105">Зарядные устройства</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -29543,45 +29543,6 @@
         <param name="Функция автоотключения">Да</param>
         <param name="Сухая глажка">Да</param>
       </offer>
-      <offer id="f11_SK-3071W_SK-3071W" available="true">
-        <name>Отпариватель ручной 1200 Вт Белый Sokany SK-3071W</name>
-        <price>1279.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>76</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK-3071W_SK-3071W</vendorCode>
-        <description>Будьте безупречны в любом месте &amp;mdash; с дорожным утюгом SK-3071 ваша одежда всегда будет выглядеть аккуратно, где бы вы ни находились. Этот миниатюрный утюг обладает всем необходимым для быстрой и качественной глажки в дороге. Несмотря на свои скромные размеры, устройство выдает 1200 Вт мощности, обеспечивая быстрый нагрев и мощный паровой удар для разглаживания даже стойких складок. Подошва из металлокерамики обеспечивает отличное скольжение и равномерное распределение тепла, не повреждая ткань. Съёмный резервуар для воды на 125 мл позволяет обойтись без частых доливов, а регулятор температуры помогает адаптировать утюг под любые типы тканей &amp;mdash; от тонкого шёлка до плотного денима. Благодаря весу всего 800 г и габаритам 20 &amp;times; 8 &amp;times; 10 см, он легко помещается в чемодан, не занимая много места. Основные преимущества: Идеален для поездок и командировок; Быстрый разогрев и высокая мощность; Эффективный паровой удар; Удобный размер и лёгкий вес; Регулируемая температура и экономичный расход воды. Характеристики: Мощность: 1200 Вт; Объём резервуара: 125 мл; Подошва: металлокерамическая; Вес: 0.8 кг; Длина шнура: 1.3 м; Размеры: 20 &amp;times; 8 &amp;times; 10 см; Материал корпуса: пластик.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3525</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy_3.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy_4.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3525/otparivatel_ruchnoy_parovoy_mini_utyug_sokany_1200_vt_parootparivatel_gorizontalnyy_i_vertikalnyy_belyy_5.png</picture>
-        <param name="Высота">10 см</param>
-        <param name="Возможность долива воды">Да</param>
-        <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">0.8 кг</param>
-        <param name="Глубина">20 см</param>
-        <param name="Потребляемая мощность">1200 Вт</param>
-        <param name="Длина сетевого шнура">1.3 м</param>
-        <param name="Защита от перегрева">Да</param>
-        <param name="Ширина">8 см</param>
-        <param name="Кнопка вкл./выкл.">Да</param>
-        <param name="Материал подошвы утюга">Металлокерамика</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Материал парового утюжка">нержавеющая сталь</param>
-        <param name="Состояние">Новое</param>
-        <param name="Мерная чаша">Да</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Объем котла (бака для воды)">0.125 л</param>
-        <param name="Парковка">горизонтальная</param>
-        <param name="Терморегулятор">Да</param>
-        <param name="Регулировка силы пара">Нет</param>
-        <param name="Съемный бак для воды">Нет</param>
-        <param name="Тип управления">Механическое</param>
-      </offer>
       <offer id="f11_SK-3071R_SK-3071R" available="true">
         <name>Отпариватель ручной 1200 Вт Оранжевый Sokany SK-3071R</name>
         <price>1279.0</price>
@@ -38220,44 +38181,6 @@
         <param name="Толщина дна">0.5 см</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-1-4_HP-1-4" available="true">
-        <name>Набор чугунной посуды для приготовления 3 кастрюли и сковорода с эмалированным покрытием Красный HP-1-4</name>
-        <price>9569.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>63</categoryId>
-        <vendor>Yongkang Jiaqi</vendor>
-        <vendorCode>f11_HP-1-4_HP-1-4</vendorCode>
-        <description>Набор чугунной посуды создан для тех, кто ценит качество и удобство в приготовлении пищи. В него входят три кастрюли объемом 2, 3 и 4 литров, а также компактная сковорода на 1 литр. Такой набор позволяет с легкостью готовить супы, рагу, мясные и овощные блюда, обеспечивая идеальное распределение тепла. Чугун отличается высокой теплоемкостью, что способствует равномерному прогреву продуктов и сохранению их естественного вкуса. Толстые стенки и дно предотвращают перегрев и обеспечивают стабильную температуру во время готовки. Литые ручки удобны в использовании и устойчивы к высоким температурам. Основные характеристики набора чугунной посуды с эмалированным покрытием Кастрюля на 2 литра Диаметр дна: 16,5 см; Высота кастрюли без крышки: 9,5 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 3 литра Диаметр дна: 19 см; Высота кастрюли без крышки: 9 см; Высота кастрюли с крышкой: 16 см. Кастрюля на 4 литра Диаметр дна 21 см; Высота кастрюли без крышки: 11 см; Высота кастрюли с крышкой: 16 см. Сковорода на 1 литр Диаметр дна: 22 см; Высота сковороды с крышкой: 4 см. Посуда подходит для газовых и электрических плит, а также для приготовления на открытом огне, что делает ее отличным выбором как для кухни, так и для кулинарных экспериментов на природе. При правильном уходе чугун служит десятилетиями, не теряя своих свойств. Этот набор станет незаменимым помощником для любителей вкусных и насыщенных блюд, обеспечивая удобство и долговечность на долгие годы.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3997</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/HP-1-4/hp14_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/3997/nabor_chugunnoy_posudy_dlya_prigotovleniya_3_kastryuli_i_skovoroda_s_emalirovannym_pokrytiem_krasnyy_8.jpg</picture>
-        <param name="Материал">Чугун</param>
-        <param name="Антипригарное покрытие">Нет</param>
-        <param name="Количество предметов в наборе">4</param>
-        <param name="Внутреннее покрытие">эмаль</param>
-        <param name="Внешнее покрытие">эмаль</param>
-        <param name="Ручки">Чугун</param>
-        <param name="Кастрюля">3</param>
-        <param name="Тип плиты">Электрическая|Газовая</param>
-        <param name="Сковорода">1</param>
-        <param name="Толщина стенок посуды">0.5 см</param>
-        <param name="Мерная шкала">Нет</param>
-        <param name="Крышки">Чугун</param>
-        <param name="Цвет">Красный</param>
-        <param name="Способ крепления ручек">Литые (цельнолитые)</param>
-        <param name="Тип дна">Однослойное</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Отверстие для выхода пара в крышках">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-1-7_HP-1-7" available="true">
         <name>Набор чугунной посуды для приготовления 3 кастрюли и сковорода с эмалированным покрытием Голубой HP-1-7</name>
         <price>9569.0</price>
@@ -43057,6 +42980,100 @@
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Цвет">Зелёный</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-34-9W_HP-34-9W" available="true">
+        <name>Бутылка для подсолнечного масла с гравитационной крышкой 500 мл бутылка для масла с дозатором Белый HP-34-9W</name>
+        <price>409.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>134</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-9W_HP-34-9W</vendorCode>
+        <description>Функциональная стеклянная бутылка-дозатор для масла и уксуса с автоматическим гравитационным открыванием и закрыванием предназначена для дозирования масла или уксуса. Оборудована автоматическим механизмом открывания и закрывания: носик-дозатор открывается под наклоном во время наливания, а при возвращении в вертикальное положение автоматически закрывается. Такая конструкция защищает содержимое от пыли и контакта с воздухом, сохраняя свежесть продукта. Благодаря прозрачному корпусу удобно контролировать количество жидкости внутри. Носик обеспечивает точное дозирование без капель, что уменьшает риск загрязнения поверхностей. Корпус изготовлен из стекла, крышка - из пластика. Бутылка удобно ложится в руку и легко вписывается в повседневное использование на кухне. Подходит как для кулинарной подготовки, так и для сервировки стола. Основные характеристики: Объем: 500 мл; Высота: 23.5 см; Диаметр: 7 см; Материал: стекло, пластик. Особенности: Автоматический гравитационный механизм &amp;mdash; носик-дозатор открывается и закрывается под действием силы тяжести, обеспечивая легкое наливание без капель и подтеков. Защита от загрязнений &amp;mdash; при вертикальном положении носик автоматически закрывается, предотвращая попадание пыли и окисление продукта. Удобство использования &amp;mdash; можно наливать одной рукой, что особенно удобно при готовке и сервировке. Легкая очистка &amp;mdash; внутренняя часть бутылки доступна для чистки щеткой, что помогает поддерживать гигиену и свежесть. Многофункциональность &amp;mdash; идеально подходит для оливкового, подсолнечного масел, уксуса, соевого соуса и других жидкостей. Экологичные и безопасные материалы &amp;mdash; корпус из прочного стекла, крышка из безопасного пластика. Эргономичный дизайн &amp;mdash; бутылка удобно ложится в руку и гармонично вписывается в интерьер любой кухни. Используйте эту бутылку-дозатор с автоматическим гравитационным механизмом, чтобы сделать процесс приготовления пищи и сервировки максимально удобным и аккуратным. Забудьте о каплях и пятнах масла &amp;mdash; теперь ваша кухня всегда будет чистой, а продукты сохранят свежесть и аромат.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4279</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4279/butylka_dlya_podsolnechnogo_masla_s_gravitatsionnoy_kryshkoy_500_ml_butylka_dlya_masla_s_dozatorom_belyy_5.jpg</picture>
+        <param name="Тип">Бутылка</param>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">235</param>
+        <param name="Количество предметов в наборе">1</param>
+        <param name="Диаметр">70</param>
+        <param name="Использование в микроволновке">Нет</param>
+        <param name="Применение">Для жидких продуктов</param>
+        <param name="Объем">500</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Хранение в морозильной камере">Нет</param>
+        <param name="Цвет">Белый</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-34-10GR_HP-34-10GR" available="true">
+        <name>Бутылка для масла с распылителем 250 мл бутылка для подсолнечного, оливкового масла с пульверизатором Зеленый HP-34-10GR</name>
+        <price>409.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>134</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-10GR_HP-34-10GR</vendorCode>
+        <description>Стеклянная бутылка предназначена для удобного распыления масла во время приготовления и сервировки блюд. Оснащена распылителем, что позволяет равномерно наносить тонкий слой масла на сковороду, салат или запеканку, уменьшая его расход. Прозрачный корпус обеспечивает визуальный контроль за уровнем жидкости, а компактная форма удобна для держания в руке во время использования. Крышка изготовлена из пластика и имеет отверстие с защитой от протекания, что предотвращает случайное вытекание жидкости и обеспечивает безопасное хранение. Основные характеристики бутылки для масла: Объем: 250 мл; Высота: 20.5 см; Диаметр: 6.5 см; Материал: стекло, пластик. Особенности бутылки с распылителем для масла: Равномерное распыления масла - распыляет масло мелкодисперсным слоем без капель, как аэрозоль. Экономный расход - позволяет уменьшить количество масла в блюдах без потери вкуса. Прозрачный резервуар - виден остаток масла, легко контролировать пополнение. Современный дизайн - стильный аксессуар для любой кухни. Универсальность - подходит для оливкового, подсолнечного, кунжутного масла и даже уксуса или соевого соуса. Применение: При жарке - слегка сбрызгивайте сковороду для минимального использования масла. На гриле или барбекю - равномерное нанесение масла на овощи, рыбу, мясо. Перед выпеканием - сбрызгивайте формы для теста, пирогов, кексов. В приготовлении салатов - легко сбрызнуть салат тонким слоем масла или уксуса. Для здорового питания - контроль за количеством масла, уменьшение калорийности блюд. Для фритюрницы с горячим воздухом (air fryer) - распыление масла на продукты для равномерной хрустящей корочки без избытка жира. Благодаря герметичной конструкции бутылка сохраняет содержимое без посторонних запахов и загрязнений. Подходит для различных видов масел, а также для уксуса или других жидких приправ. Эта бутылка для масла - идеальный помощник на кухне. Она обеспечивает равномерное распыление, удобна в использовании и легко моется. Стильно, практично и полезно для здорового приготовления пищи!</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4280</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4280/butylka_dlya_masla_s_raspylitelem_250_ml_butylka_dlya_podsolnechnogo_olivkovogo_masla_s_pulverizatorom_zelenyy_6.jpg</picture>
+        <param name="Тип">Бутылка</param>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">205</param>
+        <param name="Количество предметов в наборе">1</param>
+        <param name="Диаметр">65</param>
+        <param name="Использование в микроволновке">Нет</param>
+        <param name="Применение">Для жидких продуктов</param>
+        <param name="Объем">250</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Хранение в морозильной камере">Нет</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-34-11GR_HP-34-11GR" available="true">
+        <name>Банка для масла с кисточкой 300 мл диспенсер с кисточкой для оливкового, подсолнечного масла Зеленый HP-34-11GR</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>134</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-11GR_HP-34-11GR</vendorCode>
+        <description>Стеклянная банка для масла 2 в 1 с силиконовой кисточкой и герметичной крышкой Банка для масла объединяет функцию хранения и нанесения благодаря интегрированной силиконовой кисточке, которая совмещена с крышкой. Такой формат позволяет быстро открыть бутылку, набрать необходимое количество масла и нанести его кисточкой без необходимости в дополнительной посуде. Силиконовая головка с гибкими щетинками устойчива к температурам до 230°C, поэтому удобно использовать ее во время жарки, запекания или смазывания формы для выпекания. Характеристики банки для подсолнечного масла с силиконовой кисточкой объем: 300 мл; высота: 19 см; диаметр: 6.5 см; материал: стекло, пластик, силикон. Особенности диспенсера для оливкового масла Удобная силиконовая кисть — позволяет равномерно наносить масло или соус на сковороду, противень, мясо или выпечку без капель и разбрызгивания. Герметичная крышка с двойным уплотнением — предотвращает протекание и сохраняет содержимое чистым. Плотное прилегание кисти — защищает от попадания пыли и загрязнений. Можно использовать в микроволновке — удобно для растапливания масла прямо в баночке. Простота в уходе — легко разбирается и подходит для мытья в посудомоечной машине. Безопасные материалы — изготовлена из пищевого пластика и силикона, не впитывает запахов и не влияет на вкус продуктов. Компактный размер — не занимает много места, всегда под рукой возле плиты. Применение емкости для масла с кисточкой-дозатором Смазывание сковороды или противня — нанесите нужное количество масла на поверхность без лишнего расхода и капель. Идеально для жарки яиц, оладий, блинов и других блюд. Маринование мяса и овощей — с помощью кисточки легко и равномерно распределить маринад по продуктам, не пачкая руки и посуду. Приготовление выпечки — удобно наносить взбитое яйцо, молоко или сливки на булочки, слойки и пироги перед выпеканием для красивой золотистой корочки. Гриль и барбекю — при нанесении масла или маринада на стейки, курицу или овощи на решетке гриля, кисть обеспечивает равномерное покрытие без капель и ожогов. Использование на детской кухне — удобно при приготовлении детского питания, где важна точность дозировки и чистота. Стеклянная основа не впитывает запахов и позволяет контролировать уровень жидкости, а пластиковая крышка со встроенной силиконовой кисточкой плотно закрывается. Двойное силиконовое кольцо создает герметичное уплотнение, предотвращая протекание даже при наклоне. Бутылка удобна для бытового использования на кухне, особенно во время приготовления блюд на сковороде или гриле.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4282</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4282/banka_dlya_masla_s_kistochkoy_300_ml_dispenser_s_kistochkoy_dlya_olivkovogo_podsolnechnogo_masla_zelenyy_6.jpg</picture>
+        <param name="Тип">Банка</param>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">190</param>
+        <param name="Количество предметов в наборе">1</param>
+        <param name="Диаметр">65</param>
+        <param name="Ширина">65</param>
+        <param name="Применение">Для жидких продуктов</param>
+        <param name="Объем">300</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Хранение в морозильной камере">Нет</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Длина">65</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Форма">Цилиндрическая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-34-12_HP-34-12" available="true">
@@ -52474,29 +52491,6 @@
         <param name="Материал насадки">Микрофибра</param>
         <param name="Наличие механизма отжима">Нет</param>
         <param name="Материал ручки">Нержавеющая сталь</param>
-        <param name="Комплектация ведром">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-35015-44_HP-35015-44" available="true">
-        <name>Швабра для мытья пола универсальная швабра для уборки круглая Синий HP-35015-44</name>
-        <price>319.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>265</categoryId>
-        <vendor>Household</vendor>
-        <vendorCode>f11_ffedbe49f5a6922e37</vendorCode>
-        <description>Эта швабра предназначена для влажной уборки твердых поверхностей в бытовых условиях. Она имеет длинную металлическую штангу с пластиковой ручкой, которая оснащена отверстием для вертикального хранения. Поверхность ручки рельефная, что способствует надежному удержанию во время работы. Насадка состоит из закрученных волокон, собранных в круглую форму и закрепленных у основания штанги с помощью пластикового кольца. Волокна имеют среднюю длину и плотное переплет, что обеспечивает охват большой площади и эффективное поглощение влаги. Такая структура позволяет убирать пыль, мелкий мусор и остатки жидкости из гладких поверхностей. Насадка пригодна для ручной или машинной стирки. Основные характеристики круглой палубной швабры для уборки: Вес: 0,3 кг; Габариты товара: высота 124 см; Материал: пластик + нержавеющая сталь. Особенности веревочной швабры для мытья полов: Подходит для разных поверхностей &amp;ndash; кафель, камень, лестницы, углы и труднодоступные места. Гибкость и маневренность &amp;ndash; легко проникает в углы и щели, обеспечивая тщательную уборку. Экономия времени &amp;ndash; благодаря высокой впитывающей способности уборка занимает всего несколько минут. Простота использования &amp;ndash; классическая форма и лёгкий вес делают уборку комфортной. Долговечность &amp;ndash; сменная насадка выдерживает многократное использование и стирку. Инструмент легко чистится после использования, а насадка снимается без дополнительных инструментов. Благодаря универсальной форме и стандартному диаметру крепежа, швабра совместима с большинством бытовых ведер с прессом. Она подходит для ежедневного ухода за полом в жилых помещениях, офисах или небольших коммерческих объектах.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4745</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4745/shvabra_dlya_mytya_pola_universalnaya_shvabra_dlya_uborki_kruglaya_siniy.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4745/shvabra_dlya_mytya_pola_universalnaya_shvabra_dlya_uborki_kruglaya_siniy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4745/shvabra_dlya_mytya_pola_universalnaya_shvabra_dlya_uborki_kruglaya_siniy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4745/shvabra_dlya_mytya_pola_universalnaya_shvabra_dlya_uborki_kruglaya_siniy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4745/shvabra_dlya_mytya_pola_universalnaya_shvabra_dlya_uborki_kruglaya_siniy_4.jpg</picture>
-        <param name="Материал">Сталь</param>
-        <param name="Длина ручки">124</param>
-        <param name="Наличие механизма отжима">Нет</param>
-        <param name="Материал ручки">металл</param>
-        <param name="Цвет">Синий</param>
         <param name="Комплектация ведром">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -66345,6 +66339,58 @@
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
+      <offer id="f11_SJ-0015-2_SJ-0015-2" available="true">
+        <name>Стол для пикника складной 95*55*50 см Черный SJ-0015-2</name>
+        <price>1129.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>TS Kitchen</vendor>
+        <vendorCode>f11_SJ-0015-2_SJ-0015-2</vendorCode>
+        <description>Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении Характеристики стола Размеры в разложенном виде: 95*55*50 см Размеры в сложенном виде: 55*20*15 см Металлический каркас и столешница Максимальная нагрузка: 40 кг В разложенном виде стол имеет размеры 95*55*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 55*20*15 см, что значительно облегчает транспортировку и хранение. Максимальная нагрузка стола составляет 40 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5585</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/2919900d5d85c4c0aee1129f426136d6-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/59441567fb1c9506d9afc8f1538f1fc4-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_9.jpg</picture>
+        <param name="Размер в разложенном виде">95*55*50 см</param>
+        <param name="Размер в сложенном виде">55*20*15 см</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал каркаса">Металл</param>
+        <param name="Вес стола">3.5 кг</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_SJ-0065O_SJ-0065O" available="true">
+        <name>Кресло туристическое для ребенка 34х58х65 см с подстаканником Оранжевый SJ-0065O</name>
+        <price>959.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Lugi</vendor>
+        <vendorCode>f11_SJ-0065O_SJ-0065O</vendorCode>
+        <description>Складное кемпинговое кресло имеет стальной каркас, который обеспечивает прочность и устойчивость. Оно оснащено подголовником, что добавляет комфорта во время отдыха. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии:34х58х65 см; Размер в сложенном состоянии: 65х15х15 см; Ширина сиденья: 65 см; Рекомендуемая нагрузка: 30 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Этот материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в частности во время кемпинга или на пикниках. Легкость в использовании и складывании делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5586</url>
+        <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
+        <param name="Вес">1.2 кг</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Оксфорд</param>
+        <param name="Материал спинки">Оксфорд</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Подстаканник">1</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Ширина стула">58 см</param>
+        <param name="Максимально допустимая нагрузка">30 кг</param>
+        <param name="Цвет">Оранжевый</param>
+        <param name="Высота стула с учетом спинки">65 см</param>
+        <param name="Состояние">Новое</param>
+        <param name="Глубина стула">34 см</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
       <offer id="f11_HP-1301_HP-1301" available="true">
         <name>Банки для сыпучих продуктов набор из 4 шт пластиковые с бамбуковыми крышками 0.7 л /1.7 л /2.7 л /3.7 л HP-1301</name>
         <price>1329.0</price>
@@ -80027,6 +80073,33 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
+      <offer id="f11_SJ-0065P_SJ-0065P" available="true">
+        <name>Кресло туристическое для ребенка 34х58х65 см с подстаканником Розовый SJ-0065P</name>
+        <price>959.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0065P_SJ-0065P</vendorCode>
+        <description>Это не просто кресло &amp;mdash; это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Несмотря на игрушечный вид, кресло имеет прочную стальную раму, способную выдержать нагрузку вплоть до 75 кг! Оно легко складывается "парасолью" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Тип: Кресло сложное детское, туристическое Каркас: Міцна сталева рама Максимальная нагрузка: 75 кг Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6397</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_6.jpg</picture>
+        <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
+        <param name="Вес">1.2</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Максимально допустимая нагрузка">75</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
       <offer id="f11_SCT-661_SCT-661" available="true">
         <name>Набор керамических банок для сыпучих на подставке (3 шт.) Зеленый мрамор SCT-661</name>
         <price>709.0</price>
@@ -82135,24 +82208,6 @@
         <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_120-YH-HG041_120-YH-HG041" available="true">
-        <name>Тортовница фарфоровая на ножке 20×20 (см) квадратная 120-YH-HG041</name>
-        <price>369.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_a1f3b0c10c8df1de5d</vendorCode>
-        <description>Тортовница на ножке &amp;mdash; изысканный элемент праздничной сервировки, который сочетает стиль и практичность. Благодаря устойчивой ножке и широкой поверхности, на ней удобно подавать торты, пироги, десерты или фрукты. Она станет центральным украшением стола и подчеркнёт торжественную атмосферу праздника. Основные характеристики тортовницы на ножке: Рахмер: 20&amp;times;20&amp;times;8 см; Материал: фарфор. Особенности тортовницы: Устойчивое и надёжное основание; Идеальный размер для подачи тортов, пирожных, капкейков, фруктов и других десертов; Подходит как для домашнего использования, так и для торжественных мероприятий, свадеб и банкетов. Изготовленная из высококачественного фарфора, тортовница имеет гладкую, блестящую поверхность, устойчива к царапинам и не впитывает запахи. Материал легко очищается и сохраняет первозданный блеск даже при частом использовании. Тортовница добавит утончённости вашему застолью и поможет создать по-настоящему праздничное настроение &amp;mdash; каждое угощение на ней будет выглядеть как из витрины кондитерской!</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6517</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6517/tortovnitsa_farforovaya_na_nozhke_20_20_sm_kvadratnaya_podstavka_dlya_torta_kapkeykov_pirozhnyh_blyudo_dlya_desertov_prazdnichnaya_posuda.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Ширина">200</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">200</param>
-        <param name="Форма">Квадратная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_120-YH-HG015_120-YH-HG015" available="true">
         <name>Менажница фарфоровая на 4 секции для закусок 25×25×4 см Белая 120-YH-HG015</name>
         <price>429.0</price>
@@ -82211,6 +82266,24 @@
         <param name="Цвет">Белый</param>
         <param name="Длина">200</param>
         <param name="Форма">Прямоугольная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_120-YH-HG033_120-YH-HG033" available="true">
+        <name>Менажница фарфоровая на 4 секции для закусок Ø27 (см) тарелка менажница круглая для сервировки Белая 120-YH-HG033</name>
+        <price>419.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_62022940800e806834</vendorCode>
+        <description>Эта изысканная менажница создана для эффектной подачи закусок, фруктов, орешков или сладостей. Благодаря разделению на секции, вы сможете красиво разместить разные угощения в одной посуде. Менажница станет украшением любого стола и отличным подарком для ценителей стильной сервировки. Основные характеристики менажницы на 4 секции: Диаметр: 27 см; Количество секций: 4 шт; Объем секции: 120 мл; Материал: фарфор. Преимущества фарфоровой менажницы: Элегантный дизайн с позолотой; Удобное разделение на секции; Подходит для праздничной и повседневной сервировки; Отличный подарок и стильный элемент интерьера. Менажница из фарфора выглядит элегантно и подойдёт как для повседневного стола, так и для праздничных случаев. Прочная, устойчивая к высоким температурам и легко моющаяся &amp;mdash; она станет незаменимым элементом вашей посуды.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6521</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6521/menazhnitsa_farforovaya_na_4_sektsii_dlya_zakusok_27_sm_tarelka_menazhnitsa_kruglaya_dlya_servirovki_belaya.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество секций">4</param>
+        <param name="Диаметр">27</param>
+        <param name="Количество ярусов">1</param>
+        <param name="Цвет">Белый</param>
+        <param name="Форма">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_120-YH-HG023_120-YH-HG023" available="true">
@@ -82511,6 +82584,30 @@
         <param name="Длина">350</param>
         <param name="Высота без крышки">105</param>
         <param name="Форма">Овальная</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-1-20-RED_HP-1-20-RED" available="true">
+        <name>Кастрюля чугунная Томат 2.5 л эмалированная с крышкой посуда для тушения запекания томления кухонная Красная HP-1-20-RED</name>
+        <price>4999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Premium Cookware</vendor>
+        <vendorCode>f11_114af104b54f39af8c</vendorCode>
+        <description>Стильная чугунная кастрюля в оригинальном дизайне в форме томата &amp;mdash; это не только функциональная посуда, но и эффектное украшение кухни. Идеально подходит для тушения, запекания и медленного томления блюд, сохраняя насыщенный вкус и аромат ингредиентов. Чугунная основа равномерно распределяет тепло и долго удерживает его, создавая оптимальные условия для приготовления. Эмалированное покрытие защищает металл от окисления и упрощает уход за посудой. Основные характеристики чугунной кастрюли кокотницы: Объем: 2.5 л; Размер: 27&amp;times;21&amp;times;19 см; Внутренний диаметр: 15-24 см; Высота без крышки: 9 см; Толщина стенок 5 мм; Материал: чугун; Покрытие: эмаль; Тип крепления ручек: литий; Тип плиты: все типы плит. Преимущества кастрюли жаровни: Эмалированное покрытие защищает от окисления, предотвращает пригорание и упрощает уход. Чугунная конструкция сохраняет тепло дольше, обеспечивая равномерное приготовление без резких перепадов температуры. Подходит для всех типов плит: газовых, электрических, индукционных, а также для использования в духовке. Прочные литые ручки удобны для переноски и устойчивы к высоким температурам. Классический дизайн и функциональность делают эту кастрюлю незаменимой на кухне, помогая создавать блюда ресторанного уровня в домашних условиях. Чугунная кастрюля &amp;laquo;Томат&amp;raquo; &amp;mdash; это сочетание практичности, долговечности и яркого дизайна. Она станет надежной помощницей на кухне и позволит готовить вкусные, ароматные блюда с эффектной подачей прямо к столу.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6545</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6545/kastryulya_chugunnaya_tomat_2_5_l_emalirovannaya_s_kryshkoy_posuda_dlya_tusheniya_zapekaniya_tomleniya_kuhonnaya_krasnaya.png</picture>
+        <param name="Материал">Чугун</param>
+        <param name="Вес">5.9</param>
+        <param name="Внешнее покрытие">эмаль</param>
+        <param name="Крышка">чугун</param>
+        <param name="Толщина стенок посуды">5</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Чугун</param>
+        <param name="Высота кастрюли без крышки">9</param>
+        <param name="Высота кастрюли с крышкой">19</param>
+        <param name="Цвет">Красный</param>
+        <param name="Толщина дна">5</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-42-47BL_HP-42-47BL" available="true">
@@ -92002,6 +92099,40 @@
         <param name="Тип ворса">Средней жесткости</param>
         <param name="Применение">Универсальное</param>
         <param name="Цвет">Серый</param>
+      </offer>
+      <offer id="f11_SJ-0030B_SJ-0030B" available="true">
+        <name>Складной детский туристический стул 42x41x72 см, черный SJ-0030B</name>
+        <price>479.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0030B_SJ-0030B</vendorCode>
+        <description>Компактная и выносливая модель, созданная специально для детей. Стул полностью повторяет конструкцию взрослого кемпингового снаряжения, обеспечивая ребенку собственное полноценное место для отдыха на рыбалке, пикнике или походе. Благодаря компактному размеру в сложенном виде и малому весу, ребенок сможет сам отвечать за свое снаряжение и помогать взрослым при обустройстве лагеря. Преимущества: Усиленная стойкость: Металлический каркас с перекрестной рамой разработан с учетом детской активности. Конструкция надежная и устойчивая к опрокидыванию на природном рельефе (трава, песок). Практичный Оксфорд: Сиденье выполнено из плотной износостойкой ткани Oxford. Она обладает водоотталкивающими свойствами, не впитывает грязь и легко очищается, сохраняя опрятный вид даже после активного использования на природе. Продуманная эргономика: Высокая спинка обеспечивает поддержку позвоночника, что позволяет ребенку комфортно сидеть длительное время. Функциональный карман: На боковой части сиденья расположен подвесной карман, в который удобно положить телефон, перекусывание или мелкие находки из леса. Безопасные опоры: Ножки снабжены широкими пластиковыми наконечниками. Характеристики: Размеры в разложенном состоянии: 42*41*72 см Размеры в сложенном состоянии: 15*15*75 см Максимальная нагрузка: 50 кг Материал сиденья: ткань Оксфорд</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7031</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7031/stul_turisticheskiy_skladnoy_detskiy_42x41x72_sm_chernyy_kreslo_dlya_kempinga_turizma_piknika_dachi_prirody_7.png</picture>
+        <param name="Тип туристической мебели">Стул со спинкой</param>
+        <param name="Вес">1.2</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Оксфорд</param>
+        <param name="Материал спинки">Оксфорд</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Регулируемые опоры">Нет</param>
+        <param name="Ширина стула">410</param>
+        <param name="Максимально допустимая нагрузка">50</param>
+        <param name="Цвет">Черный</param>
+        <param name="Высота стула с учетом спинки">720</param>
+        <param name="Состояние">Новое</param>
+        <param name="Глубина стула">420</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
       <offer id="f11_SJ-0030BL_SJ-0030BL" available="true">
         <name>Стул туристический складной детский 42x41x72 см кресло для кемпинга туризма пикника дачи природы SJ-0030BL</name>
