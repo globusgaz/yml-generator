@@ -1,172 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-06 06:49">
+<yml_catalog date="2026-05-06 09:43">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="81">Капучинаторы</category>
-      <category id="187">Слайсеры</category>
-      <category id="42">Термосы для детей</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="221">Туристические души</category>
-      <category id="294">Новогодние елки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="194">Менажницы</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="75">Утюги</category>
-      <category id="149">Палатки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="23">Фены</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="140">Крышки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="114">Повербанки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="60">Мармиты</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="284">Новогодний декор</category>
-      <category id="90">Мясорубки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="125">Мангалы</category>
       <category id="126">Ланч боксы</category>
-      <category id="14">Стайлеры</category>
-      <category id="77">Пылесосы</category>
-      <category id="166">Тортовницы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="117">Рюкзаки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="292">Столовая посуда</category>
-      <category id="212">Мебель</category>
-      <category id="278">Косметички</category>
-      <category id="15">Плойки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="21">Электробритвы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="55">Рюмки</category>
-      <category id="224">Гамаки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="122">Аксессуары</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="65">Креманки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="145">Смарт-часы</category>
-      <category id="34">Подсвечники</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="118">Сумки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="141">Салатницы</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="195">Разделочные доски</category>
-      <category id="59">Все для выпечки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="20">Эпиляторы</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="57">Чашки</category>
-      <category id="31">Часы настенные</category>
-      <category id="128">Органайзеры</category>
-      <category id="72">Весы напольные</category>
-      <category id="262">Термосумки</category>
-      <category id="186">Тостеры</category>
-      <category id="66">Сервизы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="110">Наушники</category>
-      <category id="76">Отпариватели</category>
-      <category id="150">Спальные мешки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="261">Терки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="29">Салфетницы</category>
-      <category id="279">Зонты</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="182">Блюда</category>
-      <category id="184">Бульонницы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="62">Ковши</category>
-      <category id="316">Туристические плиты</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="6">LED ленты</category>
-      <category id="13">Триммеры</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="318">Кусторезы</category>
-      <category id="53">Кувшины</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="54">Стаканы</category>
-      <category id="61">Сковородки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="87">Соковыжималки</category>
-      <category id="93">Электрочайники</category>
-      <category id="17">Воскоплавы</category>
-      <category id="133">Масленки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="33">Пепельницы</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="103">Проекторы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="317">Садовое освещение</category>
-      <category id="68">Тарелки</category>
-      <category id="287">Банты на елку</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="144">Вентиляторы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="193">Доски для подачи</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="89">Миксеры</category>
-      <category id="148">Туристические коврики</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="98">Блендеры</category>
-      <category id="35">Вазы для цветов</category>
       <category id="96">Вакууматоры</category>
-      <category id="56">Бокалы</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="111">Портативные колонки</category>
-      <category id="63">Кастрюли</category>
-      <category id="298">Брелки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="320">Светодиодные фонари</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="87">Соковыжималки</category>
+      <category id="61">Сковородки</category>
+      <category id="125">Мангалы</category>
+      <category id="145">Смарт-часы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="195">Разделочные доски</category>
       <category id="27">Декоративные подносы</category>
-      <category id="124">Решетки</category>
-      <category id="132">Конфетницы</category>
-      <category id="16">Машинки для стрижки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="62">Ковши</category>
+      <category id="298">Брелки</category>
+      <category id="29">Салфетницы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="90">Мясорубки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="76">Отпариватели</category>
+      <category id="285">Йогуртницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="93">Электрочайники</category>
+      <category id="6">LED ленты</category>
+      <category id="15">Плойки</category>
+      <category id="114">Повербанки</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="316">Туристические плиты</category>
+      <category id="17">Воскоплавы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="75">Утюги</category>
+      <category id="56">Бокалы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="261">Терки</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="141">Салатницы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="182">Блюда</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="184">Бульонницы</category>
+      <category id="55">Рюмки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="292">Столовая посуда</category>
+      <category id="14">Стайлеры</category>
+      <category id="144">Вентиляторы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="140">Крышки</category>
+      <category id="60">Мармиты</category>
+      <category id="166">Тортовницы</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="221">Туристические души</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="13">Триммеры</category>
+      <category id="224">Гамаки</category>
+      <category id="21">Электробритвы</category>
+      <category id="149">Палатки</category>
+      <category id="187">Слайсеры</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="111">Портативные колонки</category>
+      <category id="77">Пылесосы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="31">Часы настенные</category>
+      <category id="72">Весы напольные</category>
+      <category id="63">Кастрюли</category>
+      <category id="117">Рюкзаки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="136">Дуршлаги</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="212">Мебель</category>
+      <category id="291">Новогодние чашки</category>
       <category id="300">Подушки для спины</category>
+      <category id="67">Столовые приборы</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="34">Подсвечники</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="59">Все для выпечки</category>
+      <category id="103">Проекторы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="98">Блендеры</category>
+      <category id="287">Банты на елку</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="133">Масленки</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="23">Фены</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="317">Садовое освещение</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="68">Тарелки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="110">Наушники</category>
+      <category id="65">Креманки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="150">Спальные мешки</category>
+      <category id="33">Пепельницы</category>
+      <category id="47">Наборы для специй</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="194">Менажницы</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="66">Сервизы</category>
+      <category id="54">Стаканы</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="278">Косметички</category>
+      <category id="42">Термосы для детей</category>
+      <category id="89">Миксеры</category>
+      <category id="128">Органайзеры</category>
+      <category id="53">Кувшины</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="262">Термосумки</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="57">Чашки</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="132">Конфетницы</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="124">Решетки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="122">Аксессуары</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="186">Тостеры</category>
+      <category id="97">Весы кухонные</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="52">Лимонадницы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="279">Зонты</category>
+      <category id="284">Новогодний декор</category>
+      <category id="118">Сумки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="318">Кусторезы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -683,35 +683,6 @@
         <param name="Время зарядки">6 ч</param>
         <param name="Гарантия">6 мес</param>
         <param name="Потребляємая мощность">20 Вт</param>
-      </offer>
-      <offer id="f11_1892806117_SKYM7034WST" available="true">
-        <name>Чоппер измельчитель Sokany SKYM7034WST с чашей 2,5 литра 800 Вт</name>
-        <price>2379.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>83</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_c740caa6472ded4c13</vendorCode>
-        <description>Измельчитель Sokany - это мощный и универсальный кухонный прибор, предназначенный для быстрого и эффективного измельчения различных продуктов. С его помощью вы сможете легко измельчить мясо, овощи, фрукты, орехи, травы и другие ингредиенты. Благодаря мощности 800 Вт и шестью лезвиям, измельчитель обеспечивает быструю и равномерную обработку продуктов, сохраняя их текстуру и питательные свойства. Основные характеристики измельчителя мощность 800 Вт; объем чаши 2,5 литра; количество лезвий 6 штук; материал лезвий - нержавеющая сталь; материал чаши - стекло. Чоппер оснащен двумя режимами скорости, которые позволяют вам выбрать оптимальный режим в зависимости от типа продуктов и требуемой текстуры. Объем чаши позволяет обрабатывать большие порции продуктов за один раз, что особенно удобно при готовке для семьи или на вечеринках. Кроме того, мясорубка с 6 лезвиями позволяет измельчить мясо и создать фарш нужной текстуры. Вы сможете приготовить свои собственные бургеры, колбасу, мясные фарши и другие блюда. Мясорубка чоппер Sokany - это надежный и удобный инструмент, который поможет вам сэкономить время и усилия при приготовлении пищи. Он станет незаменимым помощником на вашей кухне, позволяя вам быстро и легко приготовить разнообразные блюда с минимальными усилиями.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=189</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/SKYM7034WST/snapedit_1715767835616-1200x1200.jpeg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/189/chopper_elektricheskiy_800_vt_izmelchitel_s_chashey_3_litra_sokany_myasorubka_na_6_lezviy_i_2_rezhima_skorosti_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/189/chopper_elektricheskiy_800_vt_izmelchitel_s_chashey_3_litra_sokany_myasorubka_na_6_lezviy_i_2_rezhima_skorosti_2.jpg</picture>
-        <param name="Вес">2.9 кг</param>
-        <param name="Защита от перегрузок">Да</param>
-        <param name="Потребляемая мощность">800 Вт</param>
-        <param name="Назначение">Бытовое</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Материал корпуса">Пластик|Нержавеющая сталь</param>
-        <param name="Цвет">Белый</param>
-        <param name="Материал чаши">Стекло</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Состояние">Новое</param>
-        <param name="Объем чаши">2,5 л</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Гарантия">6 мес</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Тип прибора">Универсальный измельчитель</param>
       </offer>
       <offer id="f11_1896639305_SK1027CST" available="true">
         <name>Электрочайник Sokany SK1027CST 2.2 литра стеклянный 2000 Вт с подсветкой</name>
@@ -50817,111 +50788,6 @@
         <param name="Точность измерения">1</param>
         <param name="Тип элементов питания">CR2032</param>
       </offer>
-      <offer id="f11_SK-6003B_SK-6003B" available="true">
-        <name>Настольная газовая плита на 3 конфорки Sokany 5.5 кВт Черная Lugi SK-6003B</name>
-        <price>1619.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>94</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK-6003B_SK-6003B</vendorCode>
-        <description>Настольная газовая плита SK-6003 &amp;ndash; это удобное и мощное устройство для приготовления пищи, предназначенное для использования в любых условиях. Благодаря трем конфоркам плита обеспечивает эффективное и быстрое приготовление пищи, даже если вам нужно готовить несколько блюд одновременно. Ее конструкция позволяет использовать устройство как дома, так и на даче или при выезде на природу. Основные характеристики газовой плиты размеры 57.5х27.5х8 см; мощность 5.5 кВт; количество конфорок 3 шт; тип управления - механическое; материал корпуса - металл; совместима с баллонным газом. Настольная плита совместима с баллонным газом, что делает ее идеальной для использования в местах, где нет доступа к природному газу. Она имеет компактный размер и прочный корпус, что обеспечивает легкую транспортировку, долговечность и стойкость к механическим повреждениям. Поверхность плиты легко очищается, что упрощает уход за ней после приготовления пищи. Настольная плита SK-6003 сочетает в себе функциональность, мобильность и высокую производительность. Она станет отличным выбором для тех, кто ищет практичное и надежное устройство для приготовления пищи в любых условиях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4654</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4654/nastolnaya_gazovaya_plita_na_3_konforki_sokany_mini_gazovaya_plita_5_5_kvt_dlya_ballonnogo_gaza_chernaya_lugi_8.jpg</picture>
-        <param name="Высота">8 см</param>
-        <param name="Варочная поверхность">Газовая</param>
-        <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">2.82 кг</param>
-        <param name="Вид плиты">Настольная</param>
-        <param name="Потребляемая мощность">5500 Вт</param>
-        <param name="Дисплей">Нет</param>
-        <param name="Защита от перегрева">Нет</param>
-        <param name="Крышка">эмалированная</param>
-        <param name="Ширина">57.5 см</param>
-        <param name="Звуковой сигнал">Нет</param>
-        <param name="Индикатор остаточного тепла">Нет</param>
-        <param name="Материал решетки">Чугун</param>
-        <param name="Защита от детей">Нет</param>
-        <param name="Общее количество конфорок">3</param>
-        <param name="Покрытие варочной поверхности">эмаль</param>
-        <param name="Состояние">Новое</param>
-        <param name="Конфорка-гриль">Нет</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Подсветка дисплея">Нет</param>
-        <param name="Расположение конфорок">центральное</param>
-        <param name="Газ-контроль конфорок">Нет</param>
-        <param name="Таймер">Нет</param>
-        <param name="Фритюрница">Нет</param>
-        <param name="Терморегулятор">Нет</param>
-        <param name="Функция автоотключения">Нет</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Автоматика закипания">Нет</param>
-        <param name="Часы">Нет</param>
-        <param name="Секция для посуды">Нет</param>
-        <param name="Электроподжиг">Нет</param>
-        <param name="Возможность встраивания">Нет</param>
-      </offer>
-      <offer id="f11_SK-6003W_SK-6003W" available="true">
-        <name>Настольная газовая плита на 3 конфорки Sokany 5.5 кВт Белая Lugi SK-6003W</name>
-        <price>1619.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>94</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK-6003W_SK-6003W</vendorCode>
-        <description>Настольная газовая плита SK-6003 &amp;ndash; это удобное и мощное устройство для приготовления пищи, предназначенное для использования в любых условиях. Благодаря трем конфоркам плита обеспечивает эффективное и быстрое приготовление пищи, даже если вам нужно готовить несколько блюд одновременно. Ее конструкция позволяет использовать устройство как дома, так и на даче или при выезде на природу. Основные характеристики газовой плиты размеры 57.5х27.5х8 см; мощность 5.5 кВт; количество конфорок 3 шт; тип управления - механическое; материал корпуса - металл; совместима с баллонным газом. Настольная плита совместима с баллонным газом, что делает ее идеальной для использования в местах, где нет доступа к природному газу. Она имеет компактный размер и прочный корпус, что обеспечивает легкую транспортировку, долговечность и стойкость к механическим повреждениям. Поверхность плиты легко очищается, что упрощает уход за ней после приготовления пищи. Настольная плита SK-6003 сочетает в себе функциональность, мобильность и высокую производительность. Она станет отличным выбором для тех, кто ищет практичное и надежное устройство для приготовления пищи в любых условиях.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4655</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4655/nastolnaya_gazovaya_plita_na_3_konforki_sokany_5_5_kvt_mini_gazovaya_plita_dlya_dachi_belaya_lugi_9.jpg</picture>
-        <param name="Высота">8 см</param>
-        <param name="Варочная поверхность">Газовая</param>
-        <param name="Гарантийный срок">3 мес</param>
-        <param name="Вес">2.82 кг</param>
-        <param name="Вид плиты">Настольная</param>
-        <param name="Потребляемая мощность">5500 Вт</param>
-        <param name="Дисплей">Нет</param>
-        <param name="Защита от перегрева">Нет</param>
-        <param name="Крышка">эмалированная</param>
-        <param name="Ширина">57.5 см</param>
-        <param name="Звуковой сигнал">Нет</param>
-        <param name="Индикатор остаточного тепла">Нет</param>
-        <param name="Материал решетки">Чугун</param>
-        <param name="Защита от детей">Нет</param>
-        <param name="Общее количество конфорок">3</param>
-        <param name="Покрытие варочной поверхности">эмаль</param>
-        <param name="Состояние">Новое</param>
-        <param name="Конфорка-гриль">Нет</param>
-        <param name="Цвет корпуса">Белый</param>
-        <param name="Подсветка дисплея">Нет</param>
-        <param name="Расположение конфорок">центральное</param>
-        <param name="Газ-контроль конфорок">Нет</param>
-        <param name="Таймер">Нет</param>
-        <param name="Фритюрница">Нет</param>
-        <param name="Терморегулятор">Нет</param>
-        <param name="Функция автоотключения">Нет</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Автоматика закипания">Нет</param>
-        <param name="Часы">Нет</param>
-        <param name="Секция для посуды">Нет</param>
-        <param name="Электроподжиг">Нет</param>
-        <param name="Возможность встраивания">Нет</param>
-      </offer>
       <offer id="f11_SK-3027B_SK-3027B" available="true">
         <name>Кофемолка электрическая Sokany 150 Вт Черная Lugi SK-3027B</name>
         <price>709.0</price>
@@ -60052,28 +59918,6 @@
         <param name="Длина">52</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-45-17BL_HP-45-17BL" available="true">
-        <name>Сушилка для зелени и листьев салата 22×21×16 (см) ручная мойка сушилка для зелени, овощей и ягод Синий HP-45-17BL</name>
-        <price>249.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>255</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-45-17BL_HP-45-17BL</vendorCode>
-        <description>Мойка-сушка для зелени &amp;mdash; удобное и функциональное устройство, которое позволяет быстро вымыть та просушить зелень, фрукты и овощи без лишних усилий. Это решение экономит воду, время и пространство на кухне, избавляя от необходимости вручную отряхивать зелень или выкладывать её на полотенце. Благодаря продуманной конструкции с прозрачной чашей объёмом вы можете обрабатывать большие порции продуктов за один раз. После мойки достаточно покрутить ручку &amp;mdash; центробежная сила удаляет влагу, не повреждая листья. Для удобства на крышке предусмотрены специальные отверстия &amp;mdash; воду можно сливать или добавлять, не снимая крышку. Основные характеристики сушилка для зелени: Материал: пластик; Размер: 22&amp;times;21&amp;times;16 см; Механизм: ручка для вращения на крышке; Отверстия в крышке: да, для слива/долива воды. Преимущества центрифуги для сушки зелени: Простое управление одной рукой; Возможность добавлять или сливать воду без снятия крышки; Удобная ручка для вращения; Прозрачная чаша и съёмная корзина &amp;mdash; можно использовать для хранения продуктов; Изготовлена из качественного пищевого пластика. Ручная сушилка для зелени &amp;mdash; это практичный и незаменимый помощник на кухне для тех, кто ценит чистоту, удобство и бережное обращение с продуктами. Она помогает сократить время на подготовку овощей, зелени и фруктов, избавляя от лишней влаги и упрощая последующую обработку. Эргономичная конструкция, вместимость и лёгкость в уходе делают эту модель отличным выбором как для ежедневного использования, так и для хранения продуктов.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5190</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5190/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_siniy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5190/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_siniy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5190/sushilka_dlya_zeleni_i_listev_salata_22_21_16_sm_ruchnaya_moyka_sushilka_dlya_zeleni_ovoshchey_i_yagod_siniy_2.jpg</picture>
-        <param name="Высота">16</param>
-        <param name="Вес">0.3</param>
-        <param name="Глубина">21</param>
-        <param name="Количество секций">1</param>
-        <param name="Ширина">22</param>
-        <param name="Объем">3</param>
-        <param name="Цвет корпуса">Синий</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-45-18W_HP-45-18W" available="true">
         <name>Мусорное ведро на дверцу 6 (л) ведро для мусора пластиковое навесное Белый HP-45-18W</name>
         <price>329.0</price>
@@ -66120,6 +65964,31 @@
         <param name="Глубина стула">47 см</param>
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
+      <offer id="f11_SJ-0015-2_SJ-0015-2" available="true">
+        <name>Стол для пикника складной 95*55*50 см Черный SJ-0015-2</name>
+        <price>1069.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>TS Kitchen</vendor>
+        <vendorCode>f11_SJ-0015-2_SJ-0015-2</vendorCode>
+        <description>Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении Характеристики стола Размеры в разложенном виде: 95*55*50 см Размеры в сложенном виде: 55*20*15 см Металлический каркас и столешница Максимальная нагрузка: 40 кг В разложенном виде стол имеет размеры 95*55*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 55*20*15 см, что значительно облегчает транспортировку и хранение. Максимальная нагрузка стола составляет 40 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5585</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/2919900d5d85c4c0aee1129f426136d6-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/59441567fb1c9506d9afc8f1538f1fc4-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_9.jpg</picture>
+        <param name="Размер в разложенном виде">95*55*50 см</param>
+        <param name="Размер в сложенном виде">55*20*15 см</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал каркаса">Металл</param>
+        <param name="Вес стола">3.5 кг</param>
+        <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-1301_HP-1301" available="true">
         <name>Банки для сыпучих продуктов набор из 4 шт пластиковые с бамбуковыми крышками 0.7 л /1.7 л /2.7 л /3.7 л HP-1301</name>
@@ -89630,27 +89499,6 @@
         <param name="Тарелка суповая">6</param>
         <param name="Чашка чайная">6</param>
       </offer>
-      <offer id="f11_ML2044_ML2044" available="true">
-        <name>Тортовница фарфоровая на ножке 25х25х10.5 см квадратная ML2044</name>
-        <price>889.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Fiora</vendor>
-        <vendorCode>f11_ML2044_ML2044</vendorCode>
-        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6939</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6939/tortovnitsa_farforovaya_na_nozhke_25h25h10_5_sm_kvadratnaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda.png</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">10.5</param>
-        <param name="Ширина">25</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">25</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Квадратная</param>
-      </offer>
       <offer id="f11_ML2049_ML2049" available="true">
         <name>Тортовница фарфоровая на ножке 25х16.5х10 см прямоугольная ML2049</name>
         <price>669.0</price>
@@ -89690,28 +89538,6 @@
         <param name="Ширина">20</param>
         <param name="Цвет">Белый</param>
         <param name="Длина">20</param>
-        <param name="Многоуровневая">Нет</param>
-        <param name="Наличие крышки">Нет</param>
-        <param name="Форма">Круглая</param>
-      </offer>
-      <offer id="f11_ML2047_ML2047" available="true">
-        <name>Тортовница фарфоровая на ножке 25х25х10 см круглая ML2047</name>
-        <price>889.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>166</categoryId>
-        <vendor>Fiora</vendor>
-        <vendorCode>f11_ML2047_ML2047</vendorCode>
-        <description>Фарфоровая тортивница на ножке сочетает классическую элегантность с функциональностью. Белый фарфоровый корпус обеспечивает чистоту и легкость визуального восприятия, а декоративный ободок с золотой отделкой подчеркивает форму и добавляет четкости линиям. Узор на ободке состоит из мелких рельефных элементов, напоминающих бусины или листочки, создавая утонченный акцент без чрезмерной помпезности. Ножка тортовницы массивная, золотого цвета, с плавными, расширяющимися книзу линиями. Она обеспечивает устойчивость изделия и надежную опору для блюд различного веса. Такая конструкция делает тортовницу практичной для ежедневного использования, а одновременно добавляет столу элегантности при сервировке десертов или праздничных блюд. Сочетание белой фарфоровой основы и золотых акцентов делает тортовницу декоративным элементом в любом интерьере. Орнамент из мелких рельефных деталей создает стильную композицию, которая выглядит органично и подчеркивает внимание к деталям в сервировке, не перегружая общий дизайн. Характеристики: Материал: фарфор Декор: рельефный ободок с мелкими элементами, золотая окантовка Форма: круглая, на ножке</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6945</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6945/tortovnitsa_farforovaya_na_nozhke_25h25h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6945/tortovnitsa_farforovaya_na_nozhke_25h25h10_sm_kruglaya_podstavka_dlya_torta_kapkeykov_pirozhnye_deserty_prazdnichnaya_posuda_3.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">10</param>
-        <param name="Диаметр">25</param>
-        <param name="Ширина">25</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">25</param>
         <param name="Многоуровневая">Нет</param>
         <param name="Наличие крышки">Нет</param>
         <param name="Форма">Круглая</param>
@@ -92732,6 +92558,1053 @@
         <param name="Вес изделия">0.9</param>
         <param name="Цвет">Серебристый</param>
         <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-25_HP-7-25" available="true">
+        <name>Подсвечник стеклянный Crystal Pillar 27 см на круглой основе HP-7-25</name>
+        <price>449.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>34</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-25_HP-7-25</vendorCode>
+        <description>Подсвечник из прозрачного стекла отличается сдержанным внешним видом и продуманной конструкцией, что позволяет использовать его в различных интерьерах без перегрузки пространства. Круглое основание обеспечивает устойчивость, а тонкая вертикальная ножка плавно переходит в чашу в форме бутона, предназначенную для установки свечи. Гранированная поверхность верхней части способствует равномерному рассеиванию света, создавая мягкое освещение при использовании. Дополнительную визуальную глубину изделия формирует ножка, заполненная мелкими декоративными кристаллами. Они усиливают отражение света и создают легкий световой эффект без чрезмерной яркости. Основа выполнена из гладкого пластика, что повышает устойчивость подсвечника на разных поверхностях. Прозрачная структура стекла добавляет конструкции визуальной легкости, благодаря чему изделие органично сочетается с другими элементами декора. Подсвечник можно использовать для сервировки стола, оформления полок, консолей или декоративных зон в помещении. Его форма и нейтральный дизайн позволяют комбинировать его с разными стилями интерьера. Гладкая поверхность стекла упрощает уход, что делает изделие удобным для регулярного использования в быту. Характеристики: Тип: подсвечник Материал: стекло, пластик Конструкция: стеклянный подсвечник на пластиковой основе Высота: 27 см Диаметр основания: 8 см Вес: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7120</url>
+        <param name="Высота подсвечника">27</param>
+        <param name="Диаметр подсвечника">8</param>
+        <param name="Вес подсвечника">0.4</param>
+        <param name="Количество мест для свечей">1</param>
+        <param name="Тип подсвечника">настольный (каминный)</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-26_HP-7-26" available="true">
+        <name>Стеклянный подсвечник Crystal Pillar 22см на стол высокий декоративный HP-7-26</name>
+        <price>429.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>34</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-26_HP-7-26</vendorCode>
+        <description>Подсвечник из прозрачного стекла отличается сдержанным внешним видом и продуманной конструкцией, что позволяет использовать его в различных интерьерах без перегрузки пространства. Круглое основание обеспечивает устойчивость, а тонкая вертикальная ножка плавно переходит в чашу в форме бутона, предназначенную для установки свечи. Гранированная поверхность верхней части способствует равномерному рассеиванию света, создавая мягкое освещение при использовании. Дополнительную визуальную глубину изделия формирует ножка, заполненная мелкими декоративными кристаллами. Они усиливают отражение света и создают легкий световой эффект без чрезмерной яркости. Основа выполнена из гладкого пластика, что повышает устойчивость подсвечника на разных поверхностях. Прозрачная структура стекла добавляет конструкции визуальной легкости, благодаря чему изделие органично сочетается с другими элементами декора. Подсвечник можно использовать для сервировки стола, оформления полок, консолей или декоративных зон в помещении. Его форма и нейтральный дизайн позволяют комбинировать его с разными стилями интерьера. Гладкая поверхность стекла упрощает уход, что делает изделие удобным для регулярного использования в быту. Характеристики: Тип: подсвечник Материал: стекло, пластик Конструкция: стеклянный подсвечник на пластиковой основе Высота: 22 см Диаметр основания: 8 см Вес: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7121</url>
+        <param name="Высота подсвечника">22</param>
+        <param name="Диаметр подсвечника">8</param>
+        <param name="Вес подсвечника">0.3</param>
+        <param name="Количество мест для свечей">1</param>
+        <param name="Тип подсвечника">настольный (каминный)</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-27_HP-7-27" available="true">
+        <name>Стеклянный подсвечник Crystal Pillar 17 см на стол декоративный HP-7-27</name>
+        <price>409.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>34</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-27_HP-7-27</vendorCode>
+        <description>Подсвечник из прозрачного стекла отличается сдержанным внешним видом и продуманной конструкцией, что позволяет использовать его в различных интерьерах без перегрузки пространства. Круглое основание обеспечивает устойчивость, а тонкая вертикальная ножка плавно переходит в чашу в форме бутона, предназначенную для установки свечи. Гранированная поверхность верхней части способствует равномерному рассеиванию света, создавая мягкое освещение при использовании. Дополнительную визуальную глубину изделия формирует ножка, заполненная мелкими декоративными кристаллами. Они усиливают отражение света и создают легкий световой эффект без чрезмерной яркости. Основа выполнена из гладкого пластика, что повышает устойчивость подсвечника на разных поверхностях. Прозрачная структура стекла добавляет конструкции визуальной легкости, благодаря чему изделие органично сочетается с другими элементами декора. Подсвечник можно использовать для сервировки стола, оформления полок, консолей или декоративных зон в помещении. Его форма и нейтральный дизайн позволяют комбинировать его с разными стилями интерьера. Гладкая поверхность стекла упрощает уход, что делает изделие удобным для регулярного использования в быту. Характеристики: Тип: подсвечник Материал: стекло, пластик Конструкция: стеклянный подсвечник на пластиковой основе Высота: 17 см Диаметр основания: 8 см Вес: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7122</url>
+        <param name="Высота подсвечника">17</param>
+        <param name="Диаметр подсвечника">8</param>
+        <param name="Вес подсвечника">0.3</param>
+        <param name="Количество мест для свечей">1</param>
+        <param name="Тип подсвечника">настольный (каминный)</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-17-2_HP-17-2" available="true">
+        <name>Набор стаканов для напитков Old Fashioned 6 шт по 300 мл HP-17-2</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-2_HP-17-2</vendorCode>
+        <description>Набор из 6 стаканов изготовлен из стекла и сочетает классический рельефный узор с практичностью для ежедневного использования. Поверхность с глубокой резьбой формирует характерную игру света и при этом обеспечивает надежное удержание в руке без скольжения. Утолщенное дно повышает устойчивость стаканов на различных поверхностях, что уменьшает риск опрокидывания при использовании. Стаканчики имеют универсальный объем, позволяющий использовать их для воды, соков, лимонадов и других холодных напитков. Благодаря нейтральному дизайну они подходят как для повседневной сервировки, так и для использования во время встреч или праздничных событий. Закаленное стекло отличается устойчивостью к царапинам и сохраняет прозрачность без помутнения даже при длительном использовании. Набор не требует сложного ухода: гладкая внутренняя поверхность легко очищается, а сами стаканы совместимы с мытьем в посудомоечной машине. Практичная форма и сбалансированные характеристики делают этот комплект удобным вариантом для регулярного использования в домашних условиях. Характеристики: Количество стаканов: 6 Материал: Стекло Объем: 300 мл Высота: 14 см Верхний диаметр: 7 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7123</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7123/nabor_stakanov_dlya_napitkov_old_fashioned_6_sht_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7123/nabor_stakanov_dlya_napitkov_old_fashioned_6_sht_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7123/nabor_stakanov_dlya_napitkov_old_fashioned_6_sht_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14</param>
+        <param name="Верхний диаметр">7</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.3</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-16_HP-17-16" available="true">
+        <name>Набор стаканов для виски Vidivi Honey 6 штук по 140 мл с толстыми стенками HP-17-16</name>
+        <price>159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-16_HP-17-16</vendorCode>
+        <description>Набор из 6 стаканов для виски привлекает внимание сочетанием сдержанного дизайна и функциональности, подходящей для ежедневного использования. Компактная форма с ровными стенками и удобным ободком обеспечивает комфорт при удержании, а прозрачное стекло позволяет четко видеть цвет и текстуру напитка. Благодаря этому стаканы подходят для подачи напитков, где важно визуальное восприятие. Дополнительный акцент создает рельефный узор в виде &amp;laquo;сот&amp;raquo;, который формирует геометрическую текстуру на поверхности. Такая обработка способствует лучшему захвату и создает умеренную игру света в напитки. Дизайн сочетает современную простоту с элементами ретро-стиля, что позволяет использовать стаканы в различных вариантах сервировки без привязки к конкретному интерьеру. Стеклянки изготовлены из прозрачного стекла с утолщенным дном, что повышает их устойчивость на поверхности и добавляет удобства при использовании. Объем и форма оптимальны для подачи виски, других крепких напитков или напитков со льдом. Изделия легко очищаются и подходят для регулярного использования как в домашних условиях, так и для сервировки стола. Характеристики: Тип: стаканы для виски Количество в наборе: 6 Материал: стекло Объем: 140 мл Высота: 6,4 см Диаметр дна: 5,5 см Верхний диаметр: 7,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7125</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7125/nabor_stakanov_dlya_viski_vidivi_honey_6_shtuk_po_140_ml_stakany_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7125/nabor_stakanov_dlya_viski_vidivi_honey_6_shtuk_po_140_ml_stakany_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7125/nabor_stakanov_dlya_viski_vidivi_honey_6_shtuk_po_140_ml_stakany_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6.4</param>
+        <param name="Верхний диаметр">7.1</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.14</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Низкий</param>
+        <param name="Нижний диаметр">5.5</param>
+      </offer>
+      <offer id="f11_HP-17-17_HP-17-17" available="true">
+        <name>Набор стаканов для напитков Textured Tumbler 6 штук по 140 мл HP-17-17</name>
+        <price>159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-17_HP-17-17</vendorCode>
+        <description>Стакан для напитков объемом 140 мл привлекает внимание за счет рельефной поверхности, имитирующей текстуру замерзшей воды. Такой узор создает характерную игру света в напитки и добавляет изделию выразительной фактурности. Поверхность также менее заметно собирает отпечатки пальцев, что позволяет дольше сохранять опрятный вид при использовании. Форма перевернутого срезанного конуса обеспечивает удобство в пользовании и стабильность на поверхности. Благодаря продуманным пропорциям стакан комфортно лежит в руке, а расширенный верх способствует лучшему раскрытию аромата напитка. Такая конструкция подходит для различных типов напитков — от прочных до безалкогольных. Компактные размеры делают стакан практичным вариантом для ежедневного использования дома, в заведениях или при сервировке стола. Лаконичный дизайн легко сочетается с другой посудой, а рельефная текстура добавляет визуального акцента даже простой подачи. Характеристики: Тип: стакан для напитков Объем: 140 мл Высота: 6,4 см Диаметр дна: 5,5 см Верхний диаметр: 7,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7126</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7126/nabor_stakanov_dlya_napitkov_textured_tumbler_6_shtuk_po_140_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7126/nabor_stakanov_dlya_napitkov_textured_tumbler_6_shtuk_po_140_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7126/nabor_stakanov_dlya_napitkov_textured_tumbler_6_shtuk_po_140_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6.4</param>
+        <param name="Верхний диаметр">7.1</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.14</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">5.5</param>
+      </offer>
+      <offer id="f11_HP-17-18_HP-17-18" available="true">
+        <name>Набор стаканов для напитков Royal Style 3 штуки по 325 мл HP-17-18</name>
+        <price>139.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-18_HP-17-18</vendorCode>
+        <description>Набор из 3 стаканов объемом 325 мл привлекает внимание текстурированной поверхностью стекла, напоминающей хаотические волны. Такой рельеф создает выразительную игру света внутри напитка, подчеркивая его цвет и добавляя визуальную глубину. Поверхность выглядит фактурно и при этом практична в использовании, поскольку менее заметно собирает отпечатки пальцев. Форма стаканов расширена вверх, что обеспечивает удобство при удержании и использовании. Благодаря продуманным пропорциям и высоте 9,5 см стакана подходят для различных напитков &amp;ndash; воды, соков, коктейлей или крепких напитков. Расширенный верх способствует комфортному питью и удобной подаче, что делает их универсальным вариантом для сервировки. Набор подходит как для ежедневного использования, так и для оформления стола во время событий. Современный дизайн легко сочетается с разными стилями посуды, а рельефная текстура добавляет выразительности даже простой подачи. Стаканчики удобны в уходе и рассчитаны на регулярное использование. Характеристики: Количество: 3 шт Объем: 325 мл Высота: 9,5 см Верхний диаметр: 8,9 см Диаметр дна: 5,5 см Форма: расширенная кверху</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7127</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7127/nabor_stakanov_dlya_napitkov_royal_style_3_shtuki_po_325_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7127/nabor_stakanov_dlya_napitkov_royal_style_3_shtuki_po_325_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7127/nabor_stakanov_dlya_napitkov_royal_style_3_shtuki_po_325_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9.5</param>
+        <param name="Верхний диаметр">8.9</param>
+        <param name="Количество в наборе">3</param>
+        <param name="Объем">325</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">5.5</param>
+      </offer>
+      <offer id="f11_HP-17-21_HP-17-21" available="true">
+        <name>Набор стаканов для напитков Crystal Spiral 3 штуки по 470 мл HP-17-21</name>
+        <price>179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-21_HP-17-21</vendorCode>
+        <description>Набор из 3-х стаканов Crystal Spiral объемом 470 мл привлекает внимание рельефной фактурой в виде спирали, которая формирует выразительную игру света в напитки. Такая текстура не только создает визуальный эффект, но и улучшает сцепление с рукой, уменьшая вероятность скольжения при использовании. Прозрачное стекло позволяет оценить цвет и насыщенность напитка, что особенно важно для подачи различных видов напитков. Конусообразная форма с увеличенным верхом обеспечивает удобство в обращении и способствует лучшему раскрытию аромата. Благодаря высоте 13,9 см и сбалансированным пропорциям стаканы подходят для подачи воды, соков, коктейлей или крепких напитков. Эргономичная форма делает их комфортными для ежедневного использования как дома, так и при сервировке стола. Стаканчики сочетают практичность и универсальность: их можно использовать в повседневной жизни или во время событий. Рельефная поверхность помогает скрывать следы от прикосновения, сохраняя опрятный вид даже при активном использовании. Лаконичный дизайн легко сочетается с разными стилями посуды и сервировки. Характеристики: Количество: 3 шт Объем: 470 мл Высота: 13,9 см Верхний диаметр: 8,8 см Диаметр дна: 6 см Форма: конусообразная, расширенная вверх Поверхность: рельефная, спиральная текстура</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7128</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7128/nabor_stakanov_dlya_napitkov_crystal_spiral_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7128/nabor_stakanov_dlya_napitkov_crystal_spiral_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7128/nabor_stakanov_dlya_napitkov_crystal_spiral_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">13.9</param>
+        <param name="Верхний диаметр">8.8</param>
+        <param name="Количество в наборе">3</param>
+        <param name="Объем">47</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-22_HP-17-22" available="true">
+        <name>Набор стаканов для напитков Morning Dew 3 штуки по 470 мл HP-17-22</name>
+        <price>179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-22_HP-17-22</vendorCode>
+        <description>Набор из трех стаканов для напитков Morning Dew объемом 470 мл отличается рельефной поверхностью с эффектом «застывших капель», которая улучшает сцепление при использовании и уменьшает скольжение. Такая текстура удобна в повседневном пользовании, особенно когда на поверхности образуется конденсат, и при этом добавляет выразительности внешнему виду стекла. Форма каждого стакана рассчитана для комфортного использования: высота 13,9 см, верхний диаметр 8,8 см и диаметр дна 6 см обеспечивают удобное удерживание и устойчивость на различных поверхностях. Объем 470 мл подходит для подачи воды, соков, лимонадов, коктейлей и других напитков, позволяя использовать стаканы в различных ситуациях без ограничений. Набор из трех стаканов удобен для ежедневного использования дома или для сервировки стола. Рельефная поверхность помогает скрывать следы от прикосновений, что облегчает уход и поддержание опрятного вида. Оптимальное количество предметов подходит для небольшой компании или семейного использования. Характеристики: Количество: 3 штуки Объем: 470 мл Высота: 13,9 см Верхний диаметр: 8,8 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7129</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7129/nabor_stakanov_dlya_napitkov_morning_dew_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7129/nabor_stakanov_dlya_napitkov_morning_dew_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7129/nabor_stakanov_dlya_napitkov_morning_dew_3_shtuki_po_470_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">13.9</param>
+        <param name="Верхний диаметр">8.8</param>
+        <param name="Количество в наборе">3</param>
+        <param name="Объем">47</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-24_HP-17-24" available="true">
+        <name>Набор стаканов для напитков Iceberg 6 штук по 300 мл HP-17-24</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-24_HP-17-24</vendorCode>
+        <description>Набор из шести стаканов для напитков Iceberg объемом 300 мл привлекает внимание геометрической формой с выраженными гранями, сужаются книзу. Такая конструкция создает эффект преломления света, благодаря чему напиток выглядит более насыщенным и глубоким по цвету. Рельефная поверхность также улучшает сцепление, что делает использование более удобным в повседневных условиях. Форма стаканов продумана с учетом практичности: высота 13,3 см, верхний диаметр 7,6 см и диаметр дна 5,3 см обеспечивают комфортное удержание и устойчивость на различных поверхностях. Зауженный книзу корпус в сочетании с утолщенным дном уменьшает риск опрокидывания и добавляет ощущение надежности при использовании. Объем 300 мл подходит для подачи воды, соков, коктейлей и других напитков. Набор из шести стаканов удобен для ежедневного использования и сервировки стола. Грани помогают частично скрывать следы от прикосновений, что упрощает уход и поддержание опрятного вида. Количество из шести предметов позволяет использовать стаканы как в быту, так и во время приема гостей. Характеристики: Количество: 6 штук Объем: 300 мл Высота: 13,3 см Верхний диаметр: 7,6 см Диаметр дна: 5,3 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7130</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7130/nabor_stakanov_dlya_napitkov_iceberg_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7130/nabor_stakanov_dlya_napitkov_iceberg_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7130/nabor_stakanov_dlya_napitkov_iceberg_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">13.3</param>
+        <param name="Верхний диаметр">7.6</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.3</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">5.3</param>
+      </offer>
+      <offer id="f11_HP-17-26_HP-17-26" available="true">
+        <name>Набор стаканов для напитков Chesss Set 6 штук по 306 мл HP-17-26</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-26_HP-17-26</vendorCode>
+        <description>Набор из шести стаканов для напитков Chesss Set объемом 306 мл каждая отличается сложной «плетеной» текстурой. Глубокий рельефный узор напоминает переплетение хрустальных нитей или мозаики, создавая эффектную игру света - лучи переломляются в каждом квадратике, благодаря чему напиток выглядит ярко и искристо. Глубокий рельеф придает стаканам четкую фактури и комфортного тактильного ощущения, делая их надежными в использовании. Конструкция с толстым дном и стенками обеспечивает стабильность на поверхности стола и долговечность изделия. Стаканчики Chess Set подходят для ежедневного использования дома, а также для сервировки праздничного стола, добавляя элегантности и выразительности любому напитку. Их дизайн сочетает практичность и декоративность, подчеркивая красоту подаваемого напитка. Характеристики: Количество: 6 штук Объем: 306 мл Высота: 14,3 см Верхний диаметр: 6,8 см Диаметр дна: 6,3 см Форма: классическая, прямые стенки Дно и стенки: толстые</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7131</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7131/nabor_stakanov_dlya_napitkov_chesss_set_6_shtuk_po_306_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7131/nabor_stakanov_dlya_napitkov_chesss_set_6_shtuk_po_306_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7131/nabor_stakanov_dlya_napitkov_chesss_set_6_shtuk_po_306_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.3</param>
+        <param name="Верхний диаметр">6.8</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">306</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6.3</param>
+      </offer>
+      <offer id="f11_HP-17-27_HP-17-27" available="true">
+        <name>Набор стаканов для напитков Retro Classic 6 штук по 306 мл HP-17-27</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-27_HP-17-27</vendorCode>
+        <description>Набор из шести стаканов для напитков Retro Classic объемом 306 мл каждая отличается строгим геометрическим дизайном из вертикальных и горизонтальных линий, формирующих высокие прямоугольные грани. Вертикальные желобки визуально удлиняют стакан, а сочетание широких граней в нижней части и сетчатого рельефа в верхней обеспечивает интересную игру света внутри напитка. Такой дизайн подчеркивает прозрачность напитка и создает благородное сияние, особенно если подавать его со льдом или в виде прозрачных коктейлей. Глубокий рельеф делает стакан удобным для удержания в руке и придает ощущение стабильности. Стеклянки Retro Classic сочетают практичность и эстетику, подходят для ежедневного использования и для сервировки праздничного стола. Толстое дно и стенки обеспечивают долговечность изделия и устойчивость на поверхности, а четкий рельеф добавляет выразительности каждому напитку. Характеристики: Количество: 6 штук Объем: 306 мл Высота: 14,3 см Верхний диаметр: 6,8 см Диаметр дна: 6,3 см Форма: классическая, прямые стенки Дно и стенки: толстые</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7132</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7132/nabor_stakanov_dlya_napitkov_retro_classic_6_shtuk_po_306_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7132/nabor_stakanov_dlya_napitkov_retro_classic_6_shtuk_po_306_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.3</param>
+        <param name="Верхний диаметр">6.8</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">306</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6.3</param>
+      </offer>
+      <offer id="f11_HP-17-30_HP-17-30" available="true">
+        <name>Набор стаканов для виски Crystal Star 6 штук по 280 мл HP-17-30</name>
+        <price>319.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-30_HP-17-30</vendorCode>
+        <description>Набор из шести стаканов для виски объемом 280 мл отличается изящным орнаментом, напоминающим традиционную хрустальную резьбу. Узор состоит из перекрестных линий, которые образуют стилизованные звезды и формируют большое количество граней. Благодаря этому свет активно преломляется на поверхности стекла, создавая выразительную игру бликов. Резьбленая фактура подчеркивает цвет напитка и создает более глубокие тени и световые переливы внутри стакана. Такой рельеф придает стаканам четкую фактурность и делает их удобными в использовании, так как поверхность помогает более надежно удерживать стакан в руке. Стаканы изготовлены из прочного прозрачного стекла, устойчивого к царапинам и пригодного для регулярного использования. Классические пропорции делают их удобными для подачи виски и других крепких напитков при ежедневном использовании или сервировке стола. Характеристики: Количество: 6 штук Тип: стаканы для виски Материал: прозрачное стекло Объем: 280 мл Высота: 8,1 см Верхний диаметр: 7,9 см Диаметр дна: 7,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7135</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7135/nabor_stakanov_dlya_viski_crystal_star_6_shtuk_po_280_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7135/nabor_stakanov_dlya_viski_crystal_star_6_shtuk_po_280_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">8.1</param>
+        <param name="Верхний диаметр">7.9</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.28</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Низкий</param>
+        <param name="Нижний диаметр">7.5</param>
+      </offer>
+      <offer id="f11_HP-17-34_HP-17-34" available="true">
+        <name>Набор рюмок для виски Shot glass 6 штук по 75 мл HP-17-34</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-34_HP-17-34</vendorCode>
+        <description>Набор из шести рюмок для крепких напитков объемом 75 мл сочетает классическую форму с рельефной текстурой. Внешняя поверхность украшена объемным узором, напоминающим плетение. Такой рельеф создает интересную игру света на поверхности стекла и подчеркивает прозрачность напитка. Рюмки выглядят массивно и устойчиво благодаря толстому стеклу и выразительной фактуре. Рельефная поверхность делает их удобными в использовании, позволяя надежно держать рюмку в руке. Классическая цилиндрическая форма, которая слегка сужается книзу, обеспечивает удобство при подаче крепких напитков. Компактные размеры делают рюмки практичными для ежедневного использования и для сервировки стола во время встреч или праздничных событий. Рельефный дизайн добавляет посуде выразительности и хорошо сочетается с разными стилями сервировки. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Материал: стекло Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7136</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7136/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7136/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7136/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5.2</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-35_HP-17-35" available="true">
+        <name>Набор рюмок для крепких напитков Crystal Shots 6 штук по 75 мл HP-17-35</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-35_HP-17-35</vendorCode>
+        <description>Набор из шести рюмок объемом 75 мл имеет рельефный декор из четких вертикальных и горизонтальных насечек, образующих классический узор &amp;laquo;клетка&amp;raquo;. Такая геометрическая структура создает выразительную игру света на поверхности стекла и подчеркивает прозрачность напитка. Прямые линии граней интенсивно преломляют свет, благодаря чему стекло выглядит ярким и фактурным. Рельефная поверхность также делает рюмку удобной в использовании, помогая более надежно удерживать ее в руке. Компактная цилиндрическая форма со стойким дном обеспечивает стабильность на поверхности стола и удобство при подаче крепких напитков. Благодаря сдержанному геометрическому дизайну рюмки хорошо сочетаются с разными стилями сервировки и подходят для ежедневного использования или праздничных событий. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7137</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7137/nabor_ryumok_dlya_krepkih_napitkov_crystal_shots_6_shtuk_po_75_ml_stakana_dlya_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7137/nabor_ryumok_dlya_krepkih_napitkov_crystal_shots_6_shtuk_po_75_ml_stakana_dlya_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7137/nabor_ryumok_dlya_krepkih_napitkov_crystal_shots_6_shtuk_po_75_ml_stakana_dlya_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5.2</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-36_HP-17-36" available="true">
+        <name>Набор рюмок для крепких напитков Shot glass 6 штук по 75 мл HP-17-36</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-36_HP-17-36</vendorCode>
+        <description>Набор из шести рюмок для крепких напитков объемом 75 мл отличается классическим рельефным узором, который часто ассоциируется с винтажным хрусталем. Текстура состоит из перекрестных ромбов и звездчатых граней, формирующих многогранную поверхность и подчеркивающих прозрачность стекла. Благодаря большому количеству граней свет активно преломляется на поверхности рюмок, создавая выразительные блики и переливы. Такой рельеф подчеркивает цвет напитка и придает глубины его облик при подаче. Глубокая фактура делает рюмки приятными на ощупь и удобными в использовании, позволяя надежно держать их в руке. Компактная форма и устойчивое дно обеспечивают стабильность на поверхности стола и практичность при ежедневном использовании или праздничной сервировке. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7138</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7138/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_stakan_dlya_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7138/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_stakan_dlya_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7138/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_stakan_dlya_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5.2</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-37_HP-17-37" available="true">
+        <name>Набор рюмок для крепких напитков Shot glass 6 штук по 75 мл коричневый HP-17-37</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-37_HP-17-37</vendorCode>
+        <description>Набор из шести рюмок для крепких напитков объемом 75 мл сочетает классическую форму с рельефной текстурой. Внешняя поверхность украшена объемным узором, напоминающим плетение. Такой рельеф создает интересную игру света на поверхности стекла и подчеркивает прозрачность напитка. Рюмки выглядят массивно и устойчиво благодаря толстому стеклу и выразительной фактуре. Рельефная поверхность делает их удобными в использовании, позволяя надежно держать рюмку в руке. Классическая цилиндрическая форма, которая слегка сужается книзу, обеспечивает удобство при подаче крепких напитков. Компактные размеры делают рюмки практичными для ежедневного использования и для сервировки стола во время встреч или праздничных событий. Рельефный дизайн добавляет посуде выразительности и хорошо сочетается с разными стилями сервировки. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Материал: стекло Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7139</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7139/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_viski_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7139/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_viski_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7139/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_viski_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5.2</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-39_HP-17-39" available="true">
+        <name>Набор рюмок для виски Shot glass 6 штук по 75 мл коричневый HP-17-39</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-39_HP-17-39</vendorCode>
+        <description>Набор из шести рюмок для крепких напитков объемом 75 мл отличается классическим рельефным узором, который часто ассоциируется с винтажным хрусталем. Текстура состоит из перекрестных ромбов и звездчатых граней, формирующих многогранную поверхность и подчеркивающих прозрачность стекла. Благодаря большому количеству граней свет активно преломляется на поверхности рюмок, создавая выразительные блики и переливы. Такой рельеф подчеркивает цвет напитка и придает глубины его облик при подаче. Глубокая фактура делает рюмки приятными на ощупь и удобными в использовании, позволяя надежно держать их в руке. Компактная форма и устойчивое дно обеспечивают стабильность на поверхности стола и практичность при ежедневном использовании или праздничной сервировке. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7141</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7141/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7141/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7141/nabor_ryumok_dlya_viski_shot_glass_6_shtuk_po_75_ml_korichnevyy_stakan_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5.2</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-40_HP-17-40" available="true">
+        <name>Набор рюмок для виски Pure Square 6 штук по 78 мл HP-17-40</name>
+        <price>159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-40_HP-17-40</vendorCode>
+        <description>Набор из шести рюмок для крепких напитков объемом 78 мл имеет лаконичный дизайн без рельефного декора. Стекло абсолютно гладкое и прозрачное, что позволяет полностью видеть цвет и текстуру напитка внутри. Такой минималистичный вид подходит для различных стилей сервировки стола. Рюмки имеют квадратную форму с мягко закругленными углами, что придает им аккуратный и современный вид. Гладкая поверхность обеспечивает простой уход, а прозрачное стекло подчеркивает вид напитка при подаче. Компактные размеры и продуманные пропорции делают рюмки удобными в использовании. Они подходят для подачи различных крепких напитков во время ежедневного использования или праздничных событий. Характеристики: Количество: 6 штук Тип: рюмки для крепких напитков Объем: 78 мл Высота: 6 см Верхний диаметр: 5 см Диаметр дна: 5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7142</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7142/nabor_ryumok_dlya_viski_pure_square_6_shtuk_po_78_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7142/nabor_ryumok_dlya_viski_pure_square_6_shtuk_po_78_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7142/nabor_ryumok_dlya_viski_pure_square_6_shtuk_po_78_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">6</param>
+        <param name="Верхний диаметр">5</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.8</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-41_HP-17-41" available="true">
+        <name>Набор стаканов для напитков Frozen Cube 6 штук по 195 мл HP-17-41</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-41_HP-17-41</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 195 мл отличается поверхностью с мелкозернистым рельефом, напоминающим замерзший лед. Такая текстура создает выразительный визуальный эффект &amp;laquo;запотевшего стакана&amp;raquo; даже тогда, когда напиток имеет комнатную температуру. Рельеф добавляет посуде фактурности и делает подачу напитков более заметной. Стаканчики имеют квадратный профиль с четкими вертикальными гранями, благодаря чему выглядят массивно и устойчиво на поверхности стола. Такая форма сочетает геометрическую четкость и удобство при использовании. Шероховатая текстура стекла меняет способ прохождения света: оно не просто проходит сквозь стекло, а мягко рассеивается, создавая спокойное свечение вокруг напитка. Благодаря этому стаканы подходят как для ежедневного использования, так и для сервировки во время встреч или праздничных событий. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 195 мл Высота: 9 см Верхний диаметр: 6 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7143</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7143/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7143/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7143/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7143/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">195</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-42_HP-17-42" available="true">
+        <name>Набор стаканов для напитков Matrix Glass 6 штук по 195 мл HP-17-42</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-42_HP-17-42</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 195 мл имеет поверхность, покрытую густой сеткой хаотических рельефных линий, напоминающей переплетение нитей. Такая текстура создает выразительную динамику и игру теней на поверхности стекла, подчеркивая прозрачность и цвет напитка. Стаканчики имеют квадратный силуэт, который формирует четкую геометрию и создает контраст с хаотичным рельефным узором на стенках. Сочетание прямолинейной формы и фактурной поверхности делает дизайн заметным и при этом практичным в использовании. Рельефная структура меняет способ прохождения света через стекло, создавая мягкие блики и тени внутри напитка. Благодаря компактным размерам стаканы подходят для ежедневного использования и для сервировки стола во время различных событий. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 195 мл Высота: 9 см Верхний диаметр: 6 см Диаметр дна: 6 см Форма: квадратная</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7144</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7144/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7144/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7144/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7144/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_195_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_vody_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Высота (см)">9</param>
+        <param name="Объем емкости">195</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-43_HP-17-43" available="true">
+        <name>Набор стаканов для напитков Frozen Cube 12 штук по 195 мл коричневый HP-17-43</name>
+        <price>729.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-43_HP-17-43</vendorCode>
+        <description>Набор из двенадцати стаканов стаканов для напитков объемом 195 мл отличается поверхностью с мелкозернистым рельефом, напоминающей замерзший лед. Такая текстура создает выразительный визуальный эффект «запотевшего стакана» даже тогда, когда напиток имеет комнатную температуру. Рельеф добавляет посуде фактурности и делает подачу напитков более заметной. Стаканчики имеют квадратный профиль с четкими вертикальными гранями, благодаря чему выглядят массивно и устойчиво на поверхности стола. Такая форма сочетает геометрическую четкость и удобство при использовании. Шероховатая текстура стекла меняет способ прохождения света: оно не просто проходит сквозь стекло, а мягко рассеивается, создавая спокойное свечение вокруг напитка. Благодаря этому стаканы подходят как для ежедневного использования, так и для сервировки во время встреч или праздничных событий. Характеристики: Количество: 12 штук Тип: стаканы для напитков Объем: 195 мл Высота: 9 см Верхний диаметр: 6 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7145</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7145/nabor_stakanov_dlya_napitkov_frozen_cube_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7145/nabor_stakanov_dlya_napitkov_frozen_cube_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7145/nabor_stakanov_dlya_napitkov_frozen_cube_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7145/nabor_stakanov_dlya_napitkov_frozen_cube_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">12</param>
+        <param name="Объем">195</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-44_HP-17-44" available="true">
+        <name>Набор стаканов для напитков Matrix Glass 12 штук по 195 мл коричневый HP-17-44</name>
+        <price>729.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-44_HP-17-44</vendorCode>
+        <description>Набор из двенадцати стаканов для напитков объемом 195 мл имеет поверхность, покрытую густой сеткой хаотических рельефных линий, напоминающей переплетение нитей. Такая текстура создает выразительную динамику и игру теней на поверхности стекла, подчеркивая прозрачность и цвет напитка. Стаканчики имеют квадратный силуэт, который формирует четкую геометрию и создает контраст с хаотичным рельефным узором на стенках. Сочетание прямолинейной формы и фактурной поверхности делает дизайн заметным и при этом практичным в использовании. Рельефная структура меняет способ прохождения света через стекло, создавая мягкие блики и тени внутри напитка. Благодаря компактным размерам стаканы подходят для ежедневного использования и для сервировки стола во время различных событий. Характеристики: Количество: 12 штук Тип: стаканы для напитков Объем: 195 мл Высота: 9 см Верхний диаметр: 6 см Диаметр дна: 6 см Форма: квадратная</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7146</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7146/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7146/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7146/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7146/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_195_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">12</param>
+        <param name="Объем">195</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-45_HP-17-45" available="true">
+        <name>Набор стаканов для напитков Frozen Cube 6 штук по 245 мл HP-17-45</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-45_HP-17-45</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 245 мл отличается поверхностью с мелкозернистым рельефом, напоминающим замерзший лед. Такая текстура создает выразительный визуальный эффект «запотевшего стакана» даже тогда, когда напиток имеет комнатную температуру. Рельеф добавляет посуде фактурности и делает подачу напитков более заметной. Стаканчики имеют квадратный профиль с четкими вертикальными гранями, благодаря чему выглядят массивно и устойчиво на поверхности стола. Такая форма сочетает геометрическую четкость и удобство при использовании. Шероховатая текстура стекла меняет способ прохождения света: оно не просто проходит сквозь стекло, а мягко рассеивается, создавая спокойное свечение вокруг напитка. Благодаря этому стаканы подходят как для ежедневного использования, так и для сервировки во время встреч или праздничных событий. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 245 мл Высота: 11 см Верхний диаметр: 6 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7147</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7147/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_245_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7147/nabor_stakanov_dlya_napitkov_frozen_cube_6_shtuk_po_245_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">11</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">245</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-46_HP-17-46" available="true">
+        <name>Набор стаканов для напитков Matrix Glass 6 штук по 245 мл HP-17-46</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-46_HP-17-46</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 245 мл имеет поверхность, покрытую густой сеткой хаотических рельефных линий, напоминающей переплетение нитей. Такая текстура создает выразительную динамику и игру теней на поверхности стекла, подчеркивая прозрачность и цвет напитка. Стаканчики имеют квадратный силуэт, который формирует четкую геометрию и создает контраст с хаотичным рельефным узором на стенках. Сочетание прямолинейной формы и фактурной поверхности делает дизайн заметным и при этом практичным в использовании. Рельефная структура меняет способ прохождения света через стекло, создавая мягкие блики и тени внутри напитка. Благодаря компактным размерам стаканы подходят для ежедневного использования и для сервировки стола во время различных событий. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 245 мл Высота: 11 см Верхний диаметр: 6 см Диаметр дна: 6 см Форма: квадратная</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7148</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7148/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_245_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7148/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_245_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7148/nabor_stakanov_dlya_napitkov_matrix_glass_6_shtuk_po_245_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">11</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">245</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-48_HP-17-48" available="true">
+        <name>Набор стаканов для напитков Matrix Glass 12 штук по 245 мл коричневый HP-17-48</name>
+        <price>949.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-48_HP-17-48</vendorCode>
+        <description>Набор из двенадцати стаканов для напитков объемом 245 мл имеет поверхность, покрытую густой сеткой хаотичных рельефных линий, напоминающих переплетение нитей. Такая текстура создает выразительную динамику и игру теней на поверхности стекла, подчеркивая прозрачность и цвет напитка. Стаканы имеют квадратный силуэт, который формирует четкую геометрию и создает контраст с хаотичным рельефным узором на стенках. Сочетание прямолинейной формы и фактурной поверхности делает дизайн заметным и в то же время практичным в использовании. Рельефная структура изменяет способ прохождения света через стекло, создавая мягкие блики и тени внутри напитка. Благодаря компактным размерам стаканы подходят для повседневного использования и для сервировки стола во время различных мероприятий. Характеристики: Количество: 12 штук Тип: стаканы для напитков Объем: 245 мл Высота: 11 см Верхний диаметр: 6 см Диаметр дна: 6 см Форма: квадратная</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7150</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7150/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_245_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7150/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_245_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7150/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_245_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7150/nabor_stakanov_dlya_napitkov_matrix_glass_12_shtuk_po_245_ml_korichnevyy_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">11</param>
+        <param name="Верхний диаметр">6</param>
+        <param name="Количество в наборе">12</param>
+        <param name="Объем">245</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-50_HP-17-50" available="true">
+        <name>Набор стаканов для виски бурбона Grand Rocks 6 штук по 355 мл HP-17-50</name>
+        <price>429.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-50_HP-17-50</vendorCode>
+        <description>Набор из шести стаканов для виски объемом 355 мл выполнен в классическом &amp;laquo;барном&amp;raquo; стиле. Верхняя часть стакана гладкая, а нижняя &amp;mdash; рельефная, украшена вертикальными широкими гранями, напоминающими хрустальную колонну. Такая конструкция создает эффектную игру света внутри напитка и подчеркивает его цвет. Толстое и тяжелое основание обеспечивает устойчивость на поверхности стола и позволяет надежно держать стакан в руке. Рельефная нижняя часть придает фактурность и эргономичность, делая использование стаканов удобным и безопасным. Стаканы подходят для подачи виски и других крепких напитков дома или в баре. Сочетание классического дизайна и практичной конструкции делает их универсальными для повседневного использования и праздничных мероприятий. Характеристики: Количество: 6 штук Тип: стаканы для виски Объем: 355 мл Высота: 9,6 см Верхний диаметр: 8,5 см Диаметр дна: 8,3 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7151</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7151/nabor_stakanov_dlya_viski_burbona_grand_rocks_6_shtuk_po_355_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7151/nabor_stakanov_dlya_viski_burbona_grand_rocks_6_shtuk_po_355_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7151/nabor_stakanov_dlya_viski_burbona_grand_rocks_6_shtuk_po_355_ml_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9.6</param>
+        <param name="Верхний диаметр">8.5</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">355</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">8.3</param>
+      </offer>
+      <offer id="f11_HP-17-51_HP-17-51" available="true">
+        <name>Набор стаканов для напитков Grand Rocks 6 штук по 430 мл HP-17-51</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-51_HP-17-51</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 430 мл выполнен в классическом &amp;laquo;барном&amp;raquo; стиле. Верхняя часть стакана гладкая, а нижняя &amp;mdash; рельефная, украшена вертикальными широкими гранями, напоминающими хрустальную колонну. Такая конструкция создает эффектную игру света внутри напитка и подчеркивает его цвет. Толстое и тяжелое основание обеспечивает устойчивость на поверхности стола и позволяет надежно держать стакан в руке. Рельефная нижняя часть придает фактурность и эргономичность, делая использование стаканов удобным и безопасным. Стаканы подходят для подачи виски и других крепких напитков дома или в баре. Сочетание классического дизайна и практичной конструкции делает их универсальными для повседневного использования и праздничных мероприятий. Характеристики: Количество: 6 штук Объем: 430 мл Высота: 14,6 см Верхний диаметр: 7,4 см Диаметр дна: 7,2 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7152</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7152/nabor_stakanov_dlya_napitkov_grand_rocks_6_shtuk_po_430_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7152/nabor_stakanov_dlya_napitkov_grand_rocks_6_shtuk_po_430_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.6</param>
+        <param name="Верхний диаметр">7.4</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.43</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">7.2</param>
+      </offer>
+      <offer id="f11_HP-17-53_HP-17-53" available="true">
+        <name>Набор креманок на ножке Dessert Bowl 6 штук по 180 мл HP-17-53</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-53_HP-17-53</vendorCode>
+        <description>Набор элегантных креманок на ножке объемом 180 мл предназначен для подачи десертов, мороженого или фруктов. Чаша изготовлена из прозрачного стекла и украшена рельефным фасетным узором. Большие углубления круглой формы создают эффект линзы, благодаря чему свет преломляется внутри стакана, подчеркивая прозрачность и вид десерта. Форма чаши конусообразная и расширяется к верху, что позволяет комфортно сервировать десерт и раскрывать его аромат и текстуру. Короткая, но массивная ножка переходит в широкое плоское основание, обеспечивая стабильность на столе и удобство в использовании. Креманки сочетают эстетику и практичность, подходят как для повседневного использования дома, так и для сервировки праздничного стола. Рельефный фасетный дизайн добавляет декоративности и делает подачу десертов более выразительной. Характеристики: Количество: 6 штук Тип: креманка на ножке Объем: 180 мл Высота: 8,1 см Верхний диаметр: 8,8 см Нижний диаметр: 6,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7153</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7153/nabor_kremanok_na_nozhke_dessert_bowl_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7153/nabor_kremanok_na_nozhke_dessert_bowl_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7153/nabor_kremanok_na_nozhke_dessert_bowl_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">8.1</param>
+        <param name="Вилочка">Нет</param>
+        <param name="Диаметр">8.8</param>
+        <param name="Крышка">Нет</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Ложечка">нет</param>
+        <param name="Объем">0.18</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
+      </offer>
+      <offer id="f11_HP-17-54_HP-17-54" available="true">
+        <name>Набор креманок на ножке Fluted Sundae 6 штук по 180 мл HP-17-54</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-54_HP-17-54</vendorCode>
+        <description>Набор из шести креманок на ножке объемом 180 мл имеет чашу, украшенную вертикальными гранями, расходящимися от центра к краям. Такая геометрия создает эффект лучей, визуально &amp;laquo;вытягивая&amp;raquo; креманку вверх и придавая ей изящный вид. Вертикальные грани работают как призмы, раскладывая свет на четкие полосы и придавая стеклу особый блеск. Гладкий верхний край обеспечивает комфортное использование, а расширенная форма чаши позволяет красиво сервировать десерты, добавляя топпинги, мяту или орехи. Короткая ножка переходит в широкую плоскую платформу, что обеспечивает стабильность на столе. Креманки сочетают эстетику и практичность, подходят как для повседневного использования, так и для сервировки праздничных десертов. Эффектный рельеф и игра света делают подачу сладостей более выразительной и привлекательной. Характеристики: Количество: 6 штук Тип: креманка на ножке Объем: 180 мл Высота: 8,1 см Верхний диаметр: 8,8 см Нижний диаметр: 6,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7154</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7154/nabor_kremanok_na_nozhke_fluted_sundae_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7154/nabor_kremanok_na_nozhke_fluted_sundae_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7154/nabor_kremanok_na_nozhke_fluted_sundae_6_shtuk_po_180_ml_dlya_desertov_morozhenogo_kremanki_v_forme_butona_dlya_zhele_fruktov_yagod_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">8.1</param>
+        <param name="Диаметр">8.8</param>
+        <param name="Крышка">Нет</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.18</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
+      </offer>
+      <offer id="f11_HP-17-56_HP-17-56" available="true">
+        <name>Набор бокалов для мартини Martini Glass 6 штук по 215 мл коктейльные HP-17-56</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>56</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-56_HP-17-56</vendorCode>
+        <description>Набор из шести бокалов для мартини объемом 215 мл имеет конусную чашу, полностью покрытую мелким сетчатым рельефом, напоминающим огранку драгоценных камней. Такая текстура создает выразительную игру бликов в напитке, особенно при вечернем освещении, подчеркивая прозрачность и цвет мартини. Классический силуэт &amp;laquo;V-shape&amp;raquo; с широким раскрытием чаши позволяет аромату напитка полностью раскрыться, обеспечивая максимально яркое и приятное ощущение при дегустации. Рельефная поверхность добавляет бокалам декоративности и делает их удобными для удержания в руке. Бокалы подходят для подачи мартини и других коктейлей, а эффектная игра света и прозрачное стекло делают сервировку стола элегантной и выразительной. Они сочетают практичность с декоративностью, подчеркивая стиль любого события. Характеристики: Количество: 6 штук Тип: бокалы для мартини Объем: 215 мл Высота: 14,7 см Верхний диаметр: 11,7 см Нижний диаметр: 7 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7156</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7156/nabor_bokalov_dlya_martini_martini_glass_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7156/nabor_bokalov_dlya_martini_martini_glass_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7156/nabor_bokalov_dlya_martini_martini_glass_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.7</param>
+        <param name="Верхний диаметр">11.7</param>
+        <param name="Назначение">Для коктейлей</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">215</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-57_HP-17-57" available="true">
+        <name>Набор бокалов для мартини Classic Elegance 6 штук по 215 мл коктейльные HP-17-57</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>56</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-57_HP-17-57</vendorCode>
+        <description>Набор из шести бокалов для мартини объемом 215 мл имеет конусную чашу, полностью покрытую мелким сетчатым рельефом, напоминающим огранку драгоценных камней. Такая текстура создает выразительную игру бликов в напитке, особенно при вечернем освещении, подчеркивая прозрачность и цвет мартини. Классический силуэт &amp;laquo;V-shape&amp;raquo; с широким раскрытием чаши позволяет аромату напитка полностью раскрыться, обеспечивая максимально яркое и приятное ощущение при дегустации. Рельефная поверхность добавляет бокалам декоративности и делает их удобными для удержания в руке. Бокалы подходят для подачи мартини и других коктейлей, а эффектная игра света и прозрачное стекло делают сервировку стола элегантной и выразительной. Они сочетают практичность с декоративностью, подчеркивая стиль любого события. Характеристики: Количество: 6 штук Тип: бокалы для мартини Объем: 215 мл Высота: 14,7 см Верхний диаметр: 11,7 см Нижний диаметр: 7 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7157</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7157/nabor_bokalov_dlya_martini_classic_elegance_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7157/nabor_bokalov_dlya_martini_classic_elegance_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7157/nabor_bokalov_dlya_martini_classic_elegance_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.7</param>
+        <param name="Верхний диаметр">11.7</param>
+        <param name="Назначение">Для коктейлей</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">215</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-58_HP-17-58" available="true">
+        <name>Набор бокалов для мартини Golden Martini 6 штук по 215 мл коктейльные HP-17-58</name>
+        <price>569.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>56</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-58_HP-17-58</vendorCode>
+        <description>Набор из шести бокалов для мартини объемом 215 мл отличается изящной золотистой каймой по верхнему краю чаши, что придает изделию элегантность и праздничный вид. Стенки конусной чаши украшены рельефным узором из мелких ромбов, который создает эффект &amp;laquo;скреления&amp;raquo; напитка, отражая свет и формируя интересные тени внутри прозрачного стекла. Классический широкий конусный силуэт позволяет аромату напитка полностью раскрыться, подчеркивая вкус и внешний вид мартини. Рельефный декор сочетает декоративность с практичностью, делая бокалы удобными для держания в руке. Бокалы подходят для сервировки как на каждый день, так и во время праздничных или вечерних мероприятий. Игра света на рельефной поверхности и золотистая кайма создают роскошный и элегантный эффект на столе. Характеристики: Количество: 6 штук Тип: бокалы для мартини Объем: 215 мл Высота: 14,7 см Верхний диаметр: 11,7 см Нижний диаметр: 7 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7158</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7158/nabor_bokalov_dlya_martini_golden_martini_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7158/nabor_bokalov_dlya_martini_golden_martini_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7158/nabor_bokalov_dlya_martini_golden_martini_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14.7</param>
+        <param name="Верхний диаметр">11.7</param>
+        <param name="Назначение">Для коктейлей</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">215</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-59_HP-17-59" available="true">
+        <name>Набор кружек для пива Glass Mug стеклянных 2 штуки по 420 мл HP-17-59</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>57</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-59_HP-17-59</vendorCode>
+        <description>Набор из двух стеклянных кружек для пива Glass Mug объемом 420 мл каждый подходит для подачи различных напитков – от светлого лагера до крафтового эля. Прозрачное стекло с рельефными вертикальными гранями, обладающие легким спиральным поворотом, меняет восприятие напитка: свет заломляется под разными углами, подчеркивая цвет и структуру пива. Такая форма делает кружку заметной на столе и добавляет визуальной глубины без лишних декоративных элементов. Силуэт кружки расширяется вверх, что способствует удобному наливанию и комфортному использованию во время питья. Большая ручка обеспечивает надежное удержание даже при полном объеме, уменьшая контакт ладони с холодным стеклом. Утолщенное дно равномерно распределяет вес и повышает устойчивость на поверхности, что важно при ежедневном использовании дома или при сервировке стола. Форма и размеры позволяют использовать кружки не только для пива, но и для других прохладительных напитков. Благодаря продуманным пропорциям они легко размещаются в руке и на столе, а универсальный дизайн сочетается с разной посудой. Практичное решение для повседневного использования или встреч в небольшой компании. Характеристики: Количество: 2 штуки Объем: 420 мл Высота: 16,4 см Верхний диаметр: 8 см Нижний диаметр: 6,5 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7159</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7159/nabor_kruzhek_dlya_piva_glass_mug_steklyannyh_2_shtuki_po_420_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7159/nabor_kruzhek_dlya_piva_glass_mug_steklyannyh_2_shtuki_po_420_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7159/nabor_kruzhek_dlya_piva_glass_mug_steklyannyh_2_shtuki_po_420_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7159/nabor_kruzhek_dlya_piva_glass_mug_steklyannyh_2_shtuki_po_420_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">16.4</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Назначение">Для пива</param>
+        <param name="Количество в наборе">2</param>
+        <param name="Объем">0.42</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-60_HP-17-60" available="true">
+        <name>Набор кружек для пива Beer Stein стеклянных 2 штуки по 530 мл HP-17-60</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>57</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-60_HP-17-60</vendorCode>
+        <description>Набор из двух стеклянных кружек для пива Beer Stein объемом 530 мл каждый подходит для подачи светлого, темного и нефильтрованного пива. Цилиндрическая форма со стенками, оформленными широкими вертикальными гранями, создает четкий рельеф и меняет восприятие напитка за счет преломления света. Прозрачное стекло позволяет оценить цвет и насыщенность, что важно для различных сортов пива. Конструкция кружки предусматривает большую прочную ручку, которая обеспечивает надежное удержание даже при полном наполнении. Толстое стекло в нижней части вместе с широкой основой повышает устойчивость на поверхности и уменьшает риск случайного переворачивания. Такое сочетание формы и материала обеспечивает удобство в повседневном использовании. Размеры и объем позволяют использовать кружки для разных напитков, не ограничиваясь только пивом. Они подходят для использования дома, в заведениях или во время отдыха на природе. Благодаря простой геометрии кружки легко сочетаются с другой посудой и не занимают много места при хранении. Характеристики: Количество: 2 штуки Объем: 530 мл Высота: 15,2 см Верхний диаметр: 8,3 см Нижний диаметр: 7,7 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7160</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">15.2</param>
+        <param name="Верхний диаметр">8.3</param>
+        <param name="Назначение">Для пива</param>
+        <param name="Количество в наборе">2</param>
+        <param name="Объем">0.53</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-61_HP-17-61" available="true">
+        <name>Набор кружек для пива Patterned Stein стеклянных 2 штуки по 530 мл HP-17-61</name>
+        <price>199.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>57</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-61_HP-17-61</vendorCode>
+        <description>Набор из двух стеклянных кружек для пива Patterned Stein объемом 530 мл каждый подходит для подачи различных видов пива и прохладных напитков. Верхняя часть кружки имеет гладкую поверхность, позволяющую отчетливо видеть цвет и прозрачность напитка, в то время как нижняя часть оформлена рельефным узором в виде &amp;laquo;алмазной грани&amp;raquo;. Такая комбинация создает контраст текстур и меняет восприятие напитка благодаря преломлению света. Форма кружки предусматривает прямую конструкцию с плавным переходом к основанию, что обеспечивает удобство при наливании и использовании. Прямоугольная ручка имеет достаточный размер для надежного удержания даже при полном объеме. Рельеф в нижней части дополнительно улучшает хват, уменьшая скольжение, а утолщенное дно способствует устойчивости на поверхности стола. Благодаря универсальным размерам кружки можно использовать как в повседневном быту, так и во время встреч в компании. Они подходят не только для пива, но и для других холодных напитков. Сочетание гладкой и фактурной поверхности делает их практичными в использовании и удобными для сочетания с разной посудой. Характеристики: Количество: 2 штуки Объем: 530 мл Высота: 15,2 см Верхний диаметр: 8,3 см Нижний диаметр: 7,7 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7161</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7161/nabor_kruzhek_dlya_piva_patterned_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7161/nabor_kruzhek_dlya_piva_patterned_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7161/nabor_kruzhek_dlya_piva_patterned_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7161/nabor_kruzhek_dlya_piva_patterned_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">15.2</param>
+        <param name="Верхний диаметр">8.3</param>
+        <param name="Назначение">Для пива</param>
+        <param name="Количество в наборе">2</param>
+        <param name="Объем">0.53</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-17-62_HP-17-62" available="true">
+        <name>Набор стаканов для напитков Crinkle Glass 6 штук по 270 мл HP-17-62</name>
+        <price>423.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-62_HP-17-62</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 270 мл подходит для воды, сока, лимонада и других холодных напитков. Стенки имеют неровную, &amp;laquo;змятую&amp;raquo; текстуру, которая создает разнонаправленные блики и усиливает визуальную глубину напитка. Прозрачное стекло позволяет четко видеть содержимое, а необычная форма добавляет выразительности без использования дополнительного декора. Форма стаканов сочетает компактные размеры с продуманной геометрией для ежедневного использования. Утолщенное дно повышает устойчивость на поверхности стола и уменьшает риск опрокидывания. Благодаря фактурной поверхности стакан удобно удерживается в руке, а изгибы стекла обеспечивают лучший хват даже при наличии конденсата. Размеры позволяют использовать стаканы как в повседневном быту, так и при сервировке стола для небольшой компании. Они легко сочетаются с разной посудой и не занимают много места при хранении. Подходят для подачи напитков в домашних условиях или во время встреч. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 270 мл Высота: 12,3 см Верхний диаметр: 7,5 см Нижний диаметр: 6,8 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7162</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7162/nabor_stakanov_dlya_napitkov_crinkle_glass_6_shtuk_po_270_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7162/nabor_stakanov_dlya_napitkov_crinkle_glass_6_shtuk_po_270_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7162/nabor_stakanov_dlya_napitkov_crinkle_glass_6_shtuk_po_270_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">12.3</param>
+        <param name="Верхний диаметр">7.5</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.27</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6.8</param>
+      </offer>
+      <offer id="f11_HP-17-63_HP-17-63" available="true">
+        <name>Набор стаканов для напитков Luna Glasses 6 штук по 270 мл HP-17-63</name>
+        <price>423.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-63_HP-17-63</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 270 мл подходит для воды, сока, лимонада и других холодных напитков. Поверхность имеет ярко выраженный волнистый рельеф с неровными изгибами, создающий разнонаправленное преломление света и усиливающий визуальную глубину напитка. Прозрачное стекло позволяет четко видеть содержимое, а текстурированная форма добавляет выразительности при подаче. Конструкция предусматривает сочетание компактных размеров и массивной нижней части. Утолщенное дно повышает устойчивость на поверхности стола и уменьшает риск опрокидывания при использовании. Рельефные стенки способствуют удобному удержанию в руке, обеспечивая лучший хват даже при наличии конденсата на стекле. Стаканчики подходят для ежедневного использования дома или при сервировке стола для небольшой компании. Благодаря универсальным размерам они легко сочетаются с другой посудой и не занимают много места при хранении. Практичное решение для подачи напитков в разных условиях. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 270 мл Высота: 12,3 см Верхний диаметр: 7,5 см Нижний диаметр: 6,8 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7163</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7163/nabor_stakanov_dlya_napitkov_luna_glasses_6_shtuk_po_270_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7163/nabor_stakanov_dlya_napitkov_luna_glasses_6_shtuk_po_270_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Верхний диаметр">7.5</param>
+        <param name="Высота (см)">12.3</param>
+        <param name="Объем емкости">0.27</param>
+        <param name="Нижний диаметр">6.8</param>
+      </offer>
+      <offer id="f11_HP-17-65_HP-17-65" available="true">
+        <name>Набор стаканов для напитков Glacier Set 6 штук по 236 мл стеклянные HP-17-65</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-65_HP-17-65</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 236 мл подходит для воды, сока, лимонада и других холодных напитков. Стенки имеют текстуру, имитирующую тонкий лед, благодаря чему свет преломляется под разными углами и подчеркивает цвет и прозрачность содержимого. Такая поверхность создает выразительный визуальный эффект без дополнительного декора и делает подачу напитков более заметной. Форма стаканов сочетает компактность и удобство в использовании. Неровности на поверхности улучшают хват и уменьшают скольжение в руке, особенно при наличии конденсата. Утолщенное дно обеспечивает устойчивость на поверхности стола и способствует равномерному распределению веса при ежедневном использовании. Размеры позволяют использовать стаканы как в повседневном быту, так и для сервировки стола во время встреч или праздничных событий. Они легко сочетаются с другой посудой и занимают минимум места при хранении. Практичное решение для подачи различных напитков в домашних условиях. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 236 мл Высота: 7,8 см Верхний диаметр: 8,4 см Нижний диаметр: 7,3 см Материал: стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7164</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7164/nabor_stakanov_dlya_napitkov_glacier_set_6_shtuk_po_236_ml_steklyannye_dlya_viski_burbona_krepkih_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7164/nabor_stakanov_dlya_napitkov_glacier_set_6_shtuk_po_236_ml_steklyannye_dlya_viski_burbona_krepkih_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7164/nabor_stakanov_dlya_napitkov_glacier_set_6_shtuk_po_236_ml_steklyannye_dlya_viski_burbona_krepkih_napitkov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">7.8</param>
+        <param name="Верхний диаметр">8.4</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">236</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Низкий</param>
+        <param name="Нижний диаметр">7.3</param>
+      </offer>
+      <offer id="f11_HP-17-1_HP-17-1" available="true">
+        <name>Набор стаканов для напитков BRIT 6 штук по 300 мл HP-17-1</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-1_HP-17-1</vendorCode>
+        <description>Набор из 6 стаканов предназначен для подачи воды, соков, лимонадов и других холодных напитков в повседневном использовании и при сервировке стола. Конусообразная форма обеспечивает удобство в обращении и универсальность для разных ситуаций &amp;mdash; от ежедневных приемов пищи до подачи напитков во время встреч в компании. Прозрачное стекло позволяет видеть напиток и контролировать его объем при использовании. Поверхность стаканов выполнена с рельефным орнаментом в виде плетеной структуры, что создает выразительную текстуру на стекле. Такой дизайн формирует дополнительную глубину восприятия и влияет на преломление света, подчеркивая содержимое. Рельеф также способствует более надежному удержанию стакана в руке, уменьшая скольжение во время использования. Стаканчики подходят для регулярного использования дома и легко сочетаются с различными видами посуды при сервировке. Утолщенное дно добавляет устойчивости на поверхности стола, а простая форма облегчает уход и мытье после использования. Практичное решение для ежедневной подачи напитков без лишних сложных элементов. Характеристики: Количество: 6 штук Материал: стекло Высота: 14 см Верхний диаметр: 7 см Диаметр дна: 6 см Объем 300 мл</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7166</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7166/nabor_stakanov_dlya_napitkov_brit_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7166/nabor_stakanov_dlya_napitkov_brit_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7166/nabor_stakanov_dlya_napitkov_brit_6_shtuk_po_300_ml_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">14</param>
+        <param name="Верхний диаметр">7</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.3</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Высокий</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-3_HP-17-3" available="true">
+        <name>Набор стаканов Geometric Glass 6 штук по 300 мл с рельефным узором HP-17-3</name>
+        <price>399.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-3_HP-17-3</vendorCode>
+        <description>Набор из 6 стаканов предназначен для подачи воды, соков, лимонадов и других холодных напитков в ежедневном использовании или при сервировке стола. Стаканчики имеют универсальную форму, что позволяет использовать их в различных ситуациях — от повседневных приемов пищи до подачи напитков во время встреч в компании. Прозрачное стекло обеспечивает четкую видимость напитка и его цвета. Поверхность оформлена глубоким геометрическим тиснением с вертикальными и горизонтальными линиями, формирующими рельефную структуру. Такой дизайн создает эффект преломления света и добавляет выразительности напитка внутри. Рельеф также улучшает хват, уменьшая скольжение стакана в руке во время использования. Утолщенное дно обеспечивает устойчивость на поверхности стола и повышает удобство в ежедневном пользовании. Стаканчики подходят для регулярного использования, легко очищаются и сохраняют прозрачность после многократного мытья. Практичный вариант для разных типов напитков в домашних условиях. Характеристики: Количество: 6 штук Материал: стекло Высота: 14 см Объем: 300 мл Верхний диаметр:7 см Диаметр дна: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7167</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7167/nabor_stakanov_geometric_glass_6_shtuk_po_300_ml_s_relefnym_uzorom_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7167/nabor_stakanov_geometric_glass_6_shtuk_po_300_ml_s_relefnym_uzorom_dlya_limonadov_soka_vody_kokteyley_stakana_steklyannye_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Верхний диаметр">7</param>
+        <param name="Высота (см)">14</param>
+        <param name="Объем емкости">0.3</param>
+        <param name="Нижний диаметр">6</param>
+      </offer>
+      <offer id="f11_HP-17-4_HP-17-4" available="true">
+        <name>Набор стаканов для виски BRIT 6 штук по 300 мл с рельефным узором HP-17-4</name>
+        <price>319.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-4_HP-17-4</vendorCode>
+        <description>Набор из 6 стаканов для виски предназначен для подачи крепких напитков в чистом виде или со льдом. Широкая форма позволяет удобно добавлять большие кубики льда, а прозрачное толстостистое стекло подчеркивает цвет и структуру напитка. Благодаря универсальному объему стаканы подходят также для подачи коктейлей на основе виски или других крепких напитков. Поверхность имеет объемный рельеф в виде &amp;laquo;плетения&amp;raquo;, который создает выразительную игру света и добавляет напитку визуальной глубины. Такая текстура не только выполняет декоративную функцию, но и улучшает удержание стакана в руке, уменьшая скольжение во время использования. Утолщенные стенки повышают прочность изделия и устойчивость к ежедневной нагрузке. Массивное дно обеспечивает стабильность на поверхности стола и способствует сохранению температуры напитка в течение длительного времени. Стаканчики подходят как для домашнего использования, так и для сервировки в барной подаче. Благодаря лаконичной форме и рельефному дизайну они легко сочетаются с разными стилями посуды. Характеристики: Количество: 6 штук Материал: стекло Объем: 300 мл Высота: 9 см Верхний диаметр: 8 см Нижний диаметр: 7 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7168</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7168/nabor_stakanov_dlya_viski_brit_6_shtuk_po_300_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7168/nabor_stakanov_dlya_viski_brit_6_shtuk_po_300_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Стакан</param>
+      </offer>
+      <offer id="f11_HP-17-5_HP-17-5" available="true">
+        <name>Набор стаканов для виски Old Fashioned 6 штук по 300 мл с хрустальным узором HP-17-5</name>
+        <price>319.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-5_HP-17-5</vendorCode>
+        <description>Набор из 6 стаканов для виски предназначен для подачи прочных напитков в домашних условиях или при сервировке стола. Форма с широким верхом обеспечивает удобство при добавлении льда и использования, а массивная нижняя часть добавляет стабильности при размещении на поверхности. Объем 300 мл подходит для подачи виски в чистом виде или с кубиками льда, а также для коктейлей. Стенки стаканов оформлены глубоким рельефным орнаментом с кристаллическими гранями, создающим выразительное преломление света. Такая текстура усиливает визуальное восприятие напитка, подчеркивая его цвет и прозрачность. Рельефная поверхность также улучшает хват, уменьшая скольжение стакана в руке во время использования. Утолщенное дно обеспечивает устойчивость на столе и способствует более медленному нагреву напитка, что важно при использовании льда. Стаканчики подходят для ежедневного использования, легко сочетаются с другой посудой и сохраняют практичность при регулярном мытье. Оптимальный вариант для подачи напитков в разных условиях. Характеристики: Количество: 6 штук Материал: стекло Объем: 300 мл Высота: 9 см Верхний диаметр: 8 см Диаметр дна: 7 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7169</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7169/nabor_stakanov_dlya_viski_old_fashioned_6_shtuk_po_300_ml_s_hrustalnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7169/nabor_stakanov_dlya_viski_old_fashioned_6_shtuk_po_300_ml_s_hrustalnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9</param>
+        <param name="Верхний диаметр">8</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.3</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Низкий</param>
+        <param name="Нижний диаметр">7</param>
+      </offer>
+      <offer id="f11_HP-17-8_HP-17-8" available="true">
+        <name>Набор рюмок для настоек Rocks Glass 6 штук по 75 мл с рельефным узором HP-17-8</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-8_HP-17-8</vendorCode>
+        <description>Набор из 6 рюмок для крепких напитков предназначен для подачи водки, настоек и других крепких напитков при сервировке стола или домашнего использования. Слегка расширяющаяся кверху конусообразная форма обеспечивает удобство удержания и подачи напитка, в том числе в сочетании со льдом. Такая геометрия также способствует более равномерному раскрытию аромата во время дегустации. На дне и нижней части стенок размещен рельефный орнамент &amp;laquo;Звезда&amp;raquo;, выполненный в виде многолучевой композиции. Сочетание вертикальных и диагональных граней формирует выразительную игру света внутри стекла, создавая эффект калейдоскопа при наличии жидкости или льда. Прозрачное стекло позволяет четко видеть цвет и текстуру напитка, усиливая визуальное восприятие подачи. Утолщенное дно обеспечивает устойчивость на поверхности стола и уменьшает воздействие температуры на напиток. Скругленный верхний ободок повышает комфорт использования и снижает риск сколов во время мытья или ежедневной эксплуатации. Прочное прозрачное стекло подходит для регулярного использования и сохраняет свой вид на протяжении длительного времени. Характеристики: Количество: 6 рюмок Материал: стекло Объем: 75 мл Высота: 5,5 см Верхний диаметр: 5 см Нижний диаметр: 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7170</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7170/nabor_ryumok_dlya_nastoek_rocks_glass_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7170/nabor_ryumok_dlya_nastoek_rocks_glass_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7170/nabor_ryumok_dlya_nastoek_rocks_glass_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">5.5</param>
+        <param name="Верхний диаметр">5</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">0.75</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-9_HP-17-9" available="true">
+        <name>Набор рюмок для напитков Praajbo Geometric 6 штук по 75 мл с рельефным узором HP-17-9</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>55</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-9_HP-17-9</vendorCode>
+        <description>Набор из 6 рюмок для крепких напитков предназначен для подачи водки, настоек и других крепких напитков при сервировке стола. Классическая цилиндрическая форма с ровными стенками обеспечивает удобство содержания и комфортное использование при подаче напитков в небольших порциях. Прозрачное стекло позволяет четко видеть цвет и чистоту напитка. Поверхность декорирована геометрическим рельефным орнаментом, образованным сечением вертикальных и горизонтальных линий под прямым углом. Такая структура создает выразительную игру света на поверхности стекла и придает визуальную глубину. Рельеф также способствует более надежному хвату, уменьшая скольжение во время использования. Утолщенное дно обеспечивает устойчивость на поверхности стола и повышает практичность в ежедневном использовании. Лаконичный дизайн позволяет легко сочетать рюмки с различными типами посуды при сервировке, сохраняя аккуратный вид подачи напитков. Характеристики: Количество: 6 рюмок Материал: стекло Объем: 75 мл Высота: 5,5 см Верхний диаметр: 5 см Диаметр дна: 4 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7171</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7171/nabor_ryumok_dlya_napitkov_praajbo_geometric_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7171/nabor_ryumok_dlya_napitkov_praajbo_geometric_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7171/nabor_ryumok_dlya_napitkov_praajbo_geometric_6_shtuk_po_75_ml_s_relefnym_uzorom_stakana_dlya_krepkih_napitkov_s_tolstymi_stenkami_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">5.5</param>
+        <param name="Верхний диаметр">5</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">7.5</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Рюмка</param>
+      </offer>
+      <offer id="f11_HP-17-11_HP-17-11" available="true">
+        <name>Графин для напитков Vertical Stripes 700 мл со стаканом из толстого стекла HP-17-11</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>53</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-11_HP-17-11</vendorCode>
+        <description>Графин для напитков со стаканом предназначен для удобной подачи воды, сока и других холодных напитков в домашних условиях или на рабочем столе. Компактная конструкция сочетает графин и стакан, который в перевернутом виде выполняет функцию крышки и плотно закрывает горлышко. Это позволяет хранить напиток в защищенном состоянии и удобно размещать набор даже на небольшой поверхности. Графин имеет цилиндрическую форму с легким расширением в верхней части, что облегчает наливание и использование. Стакан точно прилегает к горлышку, обеспечивая базовую защиту от пыли и посторонних частиц. Такая конструкция делает набор практичным для ежедневного использования без лишних элементов. Изделие выполнено из толстого стекла, рассчитанного на регулярную эксплуатацию. Вертикальное хранение экономит пространство, а простой минималистичный дизайн позволяет легко сочетать графин с разной посудой и интерьером кухни или рабочего места. Характеристики: Тип: графин со стаканом Количество предметов: 2 Материал: стекло Объем: 700 мл Высота: 25 см Верхний диаметр: 4,4 см Диаметр дна: 7,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7172</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7172/grafin_dlya_napitkov_vertical_stripes_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7172/grafin_dlya_napitkov_vertical_stripes_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7172/grafin_dlya_napitkov_vertical_stripes_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">25</param>
+        <param name="Верхний диаметр">44</param>
+        <param name="Количество стаканов/рюмок/бокалов/стопок">1</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">0.7</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Тип емкости">Графин</param>
+        <param name="Нижний диаметр">7.5</param>
+      </offer>
+      <offer id="f11_HP-17-12_HP-17-12" available="true">
+        <name>Графин для напитков Quince Blossom 700 мл со стаканом из толстого стекла HP-17-12</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>53</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-12_HP-17-12</vendorCode>
+        <description>Графин для напитков со стаканом сочетает компактность и практичность в использовании. Набор состоит из небольшого графина и стакана, который в перевернутом виде выполняет функцию крышки и плотно накрывает горлышко. Такая конструкция подходит для подачи воды, сока или других напитков и удобна для размещения на столе, тумбе или рабочем столе, обеспечивая аккуратное хранение без лишних элементов. Графин имеет лаконичную цилиндрическую форму с легким расширением в верхней части, что облегчает наливание напитка и делает использование удобным в повседневных условиях. Стакан точно устанавливается на горлышко графина, плотно прилегая и выполняя функцию защиты от пыли и посторонних частиц. Объем 700 мл позволяет использовать изделие для небольшого количества напитков в течение дня. Изделие выполнено из толстого стекла, которое подходит для регулярного использования и сохраняет прозрачность при ежедневном мытье. Вертикальное хранение экономит пространство, а минималистичный дизайн легко сочетается с разными стилями интерьера, не перегружая пространство. Характеристики: Тип: графин со стаканом Количество предметов: 2 Материал: стекло Объем: 700 мл Высота: 25 см Верхний диаметр: 4,4 см Диаметр дна: 7,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7173</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7173/grafin_dlya_napitkov_quince_blossom_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7173/grafin_dlya_napitkov_quince_blossom_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7173/grafin_dlya_napitkov_quince_blossom_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">25</param>
+        <param name="Верхний диаметр">4.4</param>
+        <param name="Количество стаканов/рюмок/бокалов/стопок">1</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">0.7</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Нижний диаметр">7.5</param>
+      </offer>
+      <offer id="f11_HP-17-13_HP-17-13" available="true">
+        <name>Графин для напитков Pearl Dots 700 мл со стаканом из толстого стекла HP-17-13</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>53</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-13_HP-17-13</vendorCode>
+        <description>Графин для напитков со стаканом сочетает компактность и практичность в использовании. Набор состоит из небольшого графина и стакана, который в перевернутом виде выполняет функцию крышки и плотно накрывает горлышко. Такая конструкция подходит для подачи воды, сока или других напитков и удобна для размещения на столе, тумбе или рабочей поверхности, обеспечивая аккуратное хранение без лишних элементов. Графин имеет лаконичную цилиндрическую форму с легким расширением в верхней части, что облегчает наливание напитка и делает использование удобным в повседневных условиях. Стакан точно устанавливается на горлышко графина, плотно прилегая и выполняя функцию защиты от пыли и посторонних частиц. Объем 700 мл делает изделие подходящим для индивидуального или небольшого семейного использования. Изделие выполнено из толстого стекла, которое рассчитано на регулярное использование и сохраняет прозрачность при ежедневном мытье. Вертикальное хранение позволяет экономить пространство, а минималистичный дизайн легко сочетается с разными стилями интерьера, не перегружая пространство и оставляя аккуратный вид сервировки. Характеристики: Тип: графин со стаканом Количество предметов: 2 Материал: стекло Объем: 700 мл Высота: 25 см Верхний диаметр: 4,4 см Диаметр дна: 7,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7174</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7174/grafin_dlya_napitkov_pearl_dots_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7174/grafin_dlya_napitkov_pearl_dots_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7174/grafin_dlya_napitkov_pearl_dots_700_ml_so_stakanom_iz_tolstogo_stekla_kuvshin_stilnaya_posuda_dlya_servirovki_2.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">25</param>
+        <param name="Верхний диаметр">4.4</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">0.7</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Объем стакана/рюмки/бокала/стопки">1</param>
+        <param name="Нижний диаметр">7.5</param>
+      </offer>
+      <offer id="f11_HP-17-14_HP-17-14" available="true">
+        <name>Набор креманок на ножке Sundae Dish 2 штуки по 300 мл с ручкой HP-17-14</name>
+        <price>169.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-14_HP-17-14</vendorCode>
+        <description>Набор из 2-х стеклянных креманок на ножке предназначен для подачи десертов, мороженого, фруктов или кремовых блюд во время сервировки стола. Широкая, расширяющаяся кверху форма позволяет удобно выкладывать порцию и обеспечивает хорошую визуальную подачу десерта. Объем 300 мл подходит для индивидуальной подачи различных сладких блюд. Поверхность креманок выполнена с рельефными вертикальными линиями в стиле гофрированного стекла, которые создают выразительную игру света и добавляют объема внешнему виду. Боковые элементы в виде небольших ручек-&amp;laquo;бусин&amp;raquo; облегчают удержание при использовании и подаче. Креманки установлены на короткой ножке с круглой основой, что обеспечивает устойчивость на столе и удобство при сервировке. Прозрачное стекло позволяет четко видеть структуру десерта, подчеркивая его слои и цвета. Характеристики: Количество: 2 креманки Материал: стекло Объем: 300 мл Высота: 9,5 см Верхний диаметр: 11 см Нижний диаметр: 6 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7175</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_4.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">9.5</param>
+        <param name="Диаметр">11</param>
+        <param name="Крышка">Нет</param>
+        <param name="Количество в наборе">2</param>
+        <param name="Объем">0.3</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
