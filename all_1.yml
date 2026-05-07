@@ -1,172 +1,174 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-07 12:08">
+<yml_catalog date="2026-05-07 14:41">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="35">Вазы для цветов</category>
-      <category id="34">Подсвечники</category>
-      <category id="15">Плойки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="6">LED ленты</category>
-      <category id="97">Весы кухонные</category>
-      <category id="66">Сервизы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="33">Пепельницы</category>
-      <category id="298">Брелки</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="42">Термосы для детей</category>
-      <category id="93">Электрочайники</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="287">Банты на елку</category>
-      <category id="221">Туристические души</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="318">Кусторезы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="87">Соковыжималки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="103">Проекторы</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="14">Стайлеры</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="194">Менажницы</category>
-      <category id="300">Подушки для спины</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="133">Масленки</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="149">Палатки</category>
-      <category id="110">Наушники</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="67">Столовые приборы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="186">Тостеры</category>
-      <category id="144">Вентиляторы</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="118">Сумки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="59">Все для выпечки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="96">Вакууматоры</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="81">Капучинаторы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="55">Рюмки</category>
-      <category id="61">Сковородки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="62">Ковши</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="72">Весы напольные</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="17">Воскоплавы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="212">Мебель</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="145">Смарт-часы</category>
-      <category id="114">Повербанки</category>
-      <category id="224">Гамаки</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="182">Блюда</category>
-      <category id="98">Блендеры</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="125">Мангалы</category>
-      <category id="141">Салатницы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="53">Кувшины</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="29">Салфетницы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="75">Утюги</category>
       <category id="294">Новогодние елки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="56">Бокалы</category>
-      <category id="21">Электробритвы</category>
-      <category id="140">Крышки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="166">Тортовницы</category>
-      <category id="126">Ланч боксы</category>
-      <category id="23">Фены</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="292">Столовая посуда</category>
-      <category id="195">Разделочные доски</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="65">Креманки</category>
-      <category id="261">Терки</category>
-      <category id="90">Мясорубки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="278">Косметички</category>
-      <category id="13">Триммеры</category>
-      <category id="293">Хвойные гирлянды</category>
       <category id="3221201">Детская обувь и одежда</category>
-      <category id="150">Спальные мешки</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="279">Зонты</category>
-      <category id="63">Кастрюли</category>
-      <category id="76">Отпариватели</category>
-      <category id="262">Термосумки</category>
-      <category id="124">Решетки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="68">Тарелки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="184">Бульонницы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="54">Стаканы</category>
-      <category id="136">Дуршлаги</category>
-      <category id="111">Портативные колонки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="77">Пылесосы</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="316">Туристические плиты</category>
-      <category id="128">Органайзеры</category>
-      <category id="60">Мармиты</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="132">Конфетницы</category>
-      <category id="187">Слайсеры</category>
-      <category id="31">Часы настенные</category>
-      <category id="57">Чашки</category>
-      <category id="89">Миксеры</category>
-      <category id="193">Доски для подачи</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="142">Посуда для детей</category>
-      <category id="156">Столовые сервизы</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="56">Бокалы</category>
       <category id="122">Аксессуары</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="55">Рюмки</category>
+      <category id="194">Менажницы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="34">Подсвечники</category>
+      <category id="128">Органайзеры</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="72">Весы напольные</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="166">Тортовницы</category>
+      <category id="53">Кувшины</category>
+      <category id="136">Дуршлаги</category>
+      <category id="140">Крышки</category>
+      <category id="103">Проекторы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="14">Стайлеры</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="114">Повербанки</category>
+      <category id="279">Зонты</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="186">Тостеры</category>
+      <category id="63">Кастрюли</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="221">Туристические души</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="21">Электробритвы</category>
+      <category id="298">Брелки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="182">Блюда</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="89">Миксеры</category>
+      <category id="133">Масленки</category>
+      <category id="132">Конфетницы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="97">Весы кухонные</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="68">Тарелки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="76">Отпариватели</category>
+      <category id="77">Пылесосы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="141">Салатницы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="261">Терки</category>
+      <category id="149">Палатки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="300">Подушки для спины</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="87">Соковыжималки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="90">Мясорубки</category>
+      <category id="60">Мармиты</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="75">Утюги</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="262">Термосумки</category>
+      <category id="193">Доски для подачи</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="292">Столовая посуда</category>
+      <category id="17">Воскоплавы</category>
+      <category id="66">Сервизы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="96">Вакууматоры</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="65">Креманки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="61">Сковородки</category>
+      <category id="278">Косметички</category>
+      <category id="324">Статуэтки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="33">Пепельницы</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="287">Банты на елку</category>
+      <category id="29">Салфетницы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="81">Капучинаторы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="57">Чашки</category>
+      <category id="184">Бульонницы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="110">Наушники</category>
+      <category id="318">Кусторезы</category>
+      <category id="111">Портативные колонки</category>
+      <category id="98">Блендеры</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="124">Решетки</category>
+      <category id="54">Стаканы</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="23">Фены</category>
+      <category id="117">Рюкзаки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="118">Сумки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="144">Вентиляторы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="15">Плойки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="93">Электрочайники</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="62">Ковши</category>
+      <category id="284">Новогодний декор</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="271">Товары для уборки</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="13">Триммеры</category>
+      <category id="47">Наборы для специй</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="212">Мебель</category>
+      <category id="31">Часы настенные</category>
+      <category id="317">Садовое освещение</category>
+      <category id="224">Гамаки</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="125">Мангалы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="187">Слайсеры</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="6">LED ленты</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -65911,31 +65913,6 @@
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
-      <offer id="f11_SJ-0015-2_SJ-0015-2" available="true">
-        <name>Стол для пикника складной 95*55*50 см Черный SJ-0015-2</name>
-        <price>1069.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>179</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_SJ-0015-2_SJ-0015-2</vendorCode>
-        <description>Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении Характеристики стола Размеры в разложенном виде: 95*55*50 см Размеры в сложенном виде: 55*20*15 см Металлический каркас и столешница Максимальная нагрузка: 40 кг В разложенном виде стол имеет размеры 95*55*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 55*20*15 см, что значительно облегчает транспортировку и хранение. Максимальная нагрузка стола составляет 40 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5585</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/2919900d5d85c4c0aee1129f426136d6-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/59441567fb1c9506d9afc8f1538f1fc4-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/SJ-0015-2/SJ-0015-2_9.jpg</picture>
-        <param name="Размер в разложенном виде">95*55*50 см</param>
-        <param name="Размер в сложенном виде">55*20*15 см</param>
-        <param name="Цвет">Черный</param>
-        <param name="Материал каркаса">Металл</param>
-        <param name="Вес стола">3.5 кг</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-1301_HP-1301" available="true">
         <name>Банки для сыпучих продуктов набор из 4 шт пластиковые с бамбуковыми крышками 0.7 л /1.7 л /2.7 л /3.7 л HP-1301</name>
         <price>1329.0</price>
@@ -86471,34 +86448,6 @@
         <param name="Тип емкости">Лимонадница</param>
         <param name="Нижний диаметр">170</param>
       </offer>
-      <offer id="f11_HP-19-290_HP-19-290" available="true">
-        <name>Лимонадница с краном стеклянная 3 л диспенсер для напитков лимонадник с краном HP-19-290</name>
-        <price>1239.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>52</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-19-290_HP-19-290</vendorCode>
-        <description>Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики: Объём: 3 л; Высота: 50 см; Материал: стекло; Верхний диаметр : 17 см. Особенности: Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых. Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6775</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6775/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6775/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6775/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6775/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">500</param>
-        <param name="Верхний диаметр">170</param>
-        <param name="Назначение">Универсальное</param>
-        <param name="Декоративное оформление">Гравировка</param>
-        <param name="Объем">3000</param>
-        <param name="Наличие ручки">Нет</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Способ закрывания">Крышка</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип емкости">Лимонадница</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-19-292_HP-19-292" available="true">
         <name>Лимонадница Topaz Crystal 2 литра с краном HP-19-292 кувшин диспенсер для воды и напитков прозрачный</name>
         <price>989.0</price>
@@ -91418,6 +91367,27 @@
         <param name="Материал спинки">Oxford 600D</param>
         <param name="Цвет">Коричневый</param>
       </offer>
+      <offer id="f11_SJ-0125-180_SJ-0125-180" available="true">
+        <name>Шезлонг-кровать раскладная регулируемая 180х60 см для дачи кемпинга серая SJ-0125-180</name>
+        <price>2679.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_e17a49f84ff0e208d5</vendorCode>
+        <description>Универсальное складное кресло-кровать для комфортного отдыха на природе, дачи или использования в качестве гостевого спального места. Модель сочетает в себе прочность стального каркаса и мягкость снимаемого матраса. Особенности: Прочный каркас: Основа выполнена из стальных трубок овального сечения с защитным порошковым покрытием. Конструкция выдерживает значительные нагрузки и устойчива к механическим повреждениям. Регулируемая спинка: Многопозиционный механизм позволяет фиксировать угол наклона в нескольких положениях - от горизонтального (для сна) до сидячего (режим шезлонга). Мягкий матрас с прострочкой фиксируется на раскладушку. Его легко снять для чистки или если нужно использовать без него шезлонг. Компактное складывание: Конструкция полностью собирается "книжкой" за несколько секунд. В сложенном виде плоская раскладушка, что удобно для хранения за шкафом или перевозки в багажнике. Устойчивые опоры: Ножки имеют широкое разнесение и оснащены пластиковыми накладками, чтобы раскладушка не скользила и не портила пол. Характеристики: Материал каркаса: сталь с порошковым покрытием. Материал спального места: Оксфорд 600D Размер спального места: 180*60 см Высота ножек: 30 см Максимальная нагрузка: 120 кг Габариты в сложенном состоянии: 70*60*15 см Вес: 5,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7043</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7043/shezlong_krovat_raskladnaya_reguliruemaya_180h60_sm_dlya_dachi_kempingu_seraya.png</picture>
+        <param name="Тип">Раскладной</param>
+        <param name="Материал">Сталь</param>
+        <param name="Наличие колесиков">Нет</param>
+        <param name="Материал изготовления">Сталь</param>
+        <param name="Ширина">60</param>
+        <param name="Максимально допустимая нагрузка">130</param>
+        <param name="Цвет">Серый</param>
+        <param name="Длина">180</param>
+        <param name="Материал каркаса">сталь</param>
+      </offer>
       <offer id="f11_SJ-0116_SJ-0116" available="true">
         <name>Палатка-шатро для кемпинга 3х3 м тент для пикника дачи отдыха на свежем воздухе SJ-0116</name>
         <price>5999.0</price>
@@ -92254,6 +92224,364 @@
         <param name="Цвет">Серый</param>
         <param name="Состояние">Новое</param>
       </offer>
+      <offer id="f11_HP-JW-1_HP-JW-1" available="true">
+        <name>Зонт кемпинговый 150 см надежная защита от дождя солнца HP-JW-1</name>
+        <price>1369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-1_HP-JW-1</vendorCode>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Ключевые характеристики: Размеры в сложенном состоянии &amp;mdash; 80*12*10 см Диаметр &amp;mdash; 150 см Высота &amp;mdash; 180 см Материал ножки &amp;mdash; алюминий Количество спиц &amp;mdash; 7</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7087</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0427.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0425-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0453-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0434-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0435-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Тип стойки зонта">центральная</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Количество спиц купола">7</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.5</param>
+        <param name="Длина купола зонта">1.5</param>
+        <param name="Высота зонта в разложенном виде">1.8</param>
+      </offer>
+      <offer id="f11_HP-JW-2_HP-JW-2" available="true">
+        <name>Зонт кемпинговый 150 см голубой прочный защита от дождя солнца HP-JW-2</name>
+        <price>1369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-2_HP-JW-2</vendorCode>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80&amp;times;12&amp;times;10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7088</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/_T5B0405-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/_T5B0410-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/_T5B0381-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Синий</param>
+        <param name="Количество спиц купола">7</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.5</param>
+        <param name="Длина купола зонта">1.5</param>
+        <param name="Высота зонта в разложенном виде">1.8</param>
+      </offer>
+      <offer id="f11_HP-JW-3_HP-JW-3" available="true">
+        <name>Зонт кемпинговый 150 см оранжевый зонт прочный защита от дождя солнца HP-JW-3</name>
+        <price>1369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-3_HP-JW-3</vendorCode>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80&amp;times;12&amp;times;10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7089</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/_T5B0493-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/_T5B0497-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/_T5B0472-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/_T5B0476-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Оранжевый</param>
+        <param name="Количество спиц купола">7</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.5</param>
+        <param name="Длина купола зонта">1.5</param>
+        <param name="Вес зонта">1.4</param>
+        <param name="Высота зонта в разложенном виде">1.8</param>
+      </offer>
+      <offer id="f11_HP-JW-4_HP-JW-4" available="true">
+        <name>Зонт кемпинговый 150 см зеленый прочный надежная защита от дождя солнца HP-JW-4</name>
+        <price>1369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-4_HP-JW-4</vendorCode>
+        <description>Элегантный солнцезащитный зонт в винтажном стиле, который станет главным украшением отдыха на побережье, в саду или на террасе. Сочетание классического дизайна с бахромой и современных защитных технологий. Преимущества: Премиальный дизайн: Декоративная бахрома придает зонту уникальный, свежий вид, создавая атмосферу уютного бунгало или элитного курорта прямо во дворе. Высокая степень защиты (UPF 50+): Материал купола блокирует более 98% ультрафиолетовых лучей, обеспечивая безопасное и комфортное пребывание в тени даже в пик солнечной активности. Прочная конструкция: Усиленный стальной стержень и 8 спиц обеспечивают необходимую жесткость и устойчивость конструкции при умеренном ветре. Практичность и удобство: Простая установка: Зонт быстро собирается без использования дополнительных инструментов. Мобильность: В комплект входит сумка-чехол для хранения, что делает зонт удобным для транспортировки на пляж или пикник. Характеристики: Материал: полиэстер, сталь Диаметр купола: 1,5 м Высота: 1,8 м Количество спиц: 8 Размеры в сложенном состоянии: 105*13*10 см Вес: 1,4 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7090</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/_T5B0666-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/_T5B0645-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/_T5B0654-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/_T5B0620-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Количество спиц купола">8</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.5</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.5</param>
+        <param name="Длина купола зонта">1.5</param>
+        <param name="Высота зонта в разложенном виде">1.8</param>
+      </offer>
+      <offer id="f11_HP-JW-5_HP-JW-5" available="true">
+        <name>Зонт для пляжа и кемпинга с фартуком 175 см прочная надежная защита от дождя солнца HP-JW-5</name>
+        <price>2589.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-5_HP-JW-5</vendorCode>
+        <description>Отличное решение для комфортного отдыха на природе, сочетающее в себе классический пляжный зонт и ветрозащитную палатку. Благодаря круговому фартуку на молнии, вы получаете персональную зону комфорта, защищенную от солнца, ветра и посторонних глаз. Преимущества: Трансформированная конструкция: используется как обычный зонт или с круговым "фартуком", который превращает его в уютное укрытие. Боковой экран крепится на молнии, что позволяет быстро адаптироваться к изменению погоды. Максимальная терморегуляция: Двухслойный купол с серебристым покрытием (Silver Coating) на внутренней стороне отображает до 99% ультрафиолета. Вентиляционная система: Двухуровневая конструкция купола обеспечивает свободную циркуляцию воздуха, предотвращая удушье внутри и минимизируя парусность при сильном ветру. Всепогодная защита: Материал купола - износостойкая ткань Оксфорд. Она не только не выгорает на солнце, но и обладает отличными водоотталкивающими свойствами, защищая от внезапного дождя. Особенности: Легкость и прочность: Стойка выполнена из алюминия, что делает зонт легким для переноски и устойчивым к коррозии в условиях морского климата. Регулировка под любым углом: Шарнирный механизм позволяет менять угол наклона купола, обеспечивая оптимальную тень в течение дня без необходимости перемещать основу. Усиленный каркас: Конструкция рассчитана на повышенные ветровые нагрузки, что критически для открытых пляжей и степевых зон. Характеристики: Материал: Оксфорд, алюминий Диаметр бани: 1,7 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии (парассолька/"фартук"): 177*13*13 см / 36*25*20 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7091</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7091/zont_dlya_plyazha_i_kempinga_s_fartukom_175_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/_T5B0511-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/_T5B0557-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/_T5B0550-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/_T5B0526-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Вариант установки">Напольный</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Синий</param>
+        <param name="Диаметр купола зонта">1.7</param>
+        <param name="Ширина купола зонта">1.7</param>
+        <param name="Длина купола зонта">1.7</param>
+        <param name="Высота зонта в разложенном виде">2.2</param>
+      </offer>
+      <offer id="f11_HP-JW-6_HP-JW-6" available="true">
+        <name>Зонт для пляжа и кемпинга с фартуком 190 см прочная надежная защита от дождя солнца HP-JW-6</name>
+        <price>2139.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-6_HP-JW-6</vendorCode>
+        <description>Инновационное решение для отдыха, сочетающее в себе преимущества пляжного зонта и защитной палатки. Модель оснащена круговым защитным экраном, который создает уединенную зону и обеспечивает защиту от солнца, ветра и песка. Преимущества: Система &amp;laquo;Трансформер&amp;raquo;: Благодаря съемному фартуку на молнии устройство легко превращается из обычного большого зонта в закрытый тент. Боковая панель позволяет полностью закрыться с подветренной стороны или создать отдельное пространство для переодевания и отдыха. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтиком комфортную прохладу даже в полдень. Двойной вентилируемый купол: Двухуровневая конструкция обеспечивает естественный отвод горячего воздуха и снижает парусность. Зонт остается устойчивым при резких порывах ветра, пропуская потоки воздуха через вентиляционный клапан. Премиальные материалы: Купол выполнен из износостойкой ткани Оксфорд, которая отличается высокой плотностью, не выгорает на солнце и обладает водоотталкивающими свойствами. Особенности: Легкость и долговечность: Стойка из алюминиевого сплава обеспечивает высокую прочность конструкции при минимальном весе, что упрощает транспортировку и защищает каркас от коррозии. Индивидуальная настройка: Встроенный механизм регулировки угла наклона позволяет мгновенно подстраивать тень под положение солнца, не перемещая саму основу. Усиленный каркас: Модель разработана с учетом повышенных ветровых нагрузок, что делает её идеальной для открытых пляжей и степных зон. Характеристики: Материал: Оксфорд, алюминий, стекловолокно Диаметр купола: 1,9 м Высота: 1,8 м Количество спиц: 6 Размеры в сложенном состоянии: 115*30*18 см Вес: 2,4 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7092</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7092/zont_dlya_plyazha_i_kempinga_s_fartukom_190_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0607-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0611-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0618-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0585-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.9</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.9</param>
+        <param name="Длина купола зонта">1.9</param>
+        <param name="Вес зонта">2</param>
+        <param name="Высота зонта в разложенном виде">1.8</param>
+      </offer>
+      <offer id="f11_HP-JW-7_HP-JW-7" available="true">
+        <name>Зонт для рыбалки и кемпинга 190 см с регулировкой наклона HP-JW-7</name>
+        <price>1599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-7_HP-JW-7</vendorCode>
+        <description>Профессиональный зонт премиум-класса, созданный специально для комфортной длительной рыбалки в любых погодных условиях. Уникальное сочетание гибких стекловолоконных спиц, полного винилового покрытия и специального выреза для удилища делает эту модель отличным выбором. Преимущества: Вырез для удилища: С одной стороны купола предусмотрен эргономичный вырез. Это позволяет комфортно разместить удочку или фидер прямо под зонтом. Удилище находится в тени и защищено от перегрева, а вы можете сидеть максимально близко к снастям, не задевая купол при подсечке. Технология полного затемнения: Внутренняя сторона купола покрыта черным винилом. Это напыление не просто создает густую тень, а блокирует 99,9% ультрафиолетовых лучей (UPF 50+). Под таким зонтиком температура на несколько градусов ниже, что критично при многочасовом ожидании поклевки на солнце. Всенаправленный карданный шарнир: Поворотный узел на стойке позволяет наклонять купол по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Особенности: Отличная гибкость (&amp;laquo;Антишторм&amp;raquo;): Зонт оснащен усиленными спицами из стекловолокна (fiberglass). Этот композитный материал обладает уникальной гибкостью: при сильных порывах ветра спицы пружинят, предотвращая поломку каркаса или выворачивание купола наизнанку. Материал купола: ткань Оксфорд 210T с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный металлический стержень: обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности. Характеристики: Материал: Оксфорд, металл, стекловолокно Диаметр купола: 1,9 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии: 120*12*10 см Вес: 2,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7093</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/_T5B0868-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/_T5B0844-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/_T5B0849-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/_T5B0830-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Тип стойки зонта">центральная</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Синий</param>
+        <param name="Диаметр купола зонта">1.9</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.9</param>
+        <param name="Длина купола зонта">1.9</param>
+        <param name="Высота зонта в разложенном виде">2.2</param>
+      </offer>
+      <offer id="f11_HP-JW-8_HP-JW-8" available="true">
+        <name>Парасолька кемпінгова 190х220 см сіра від дощу сонця HP-JW-8</name>
+        <price>1899.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-8_HP-JW-8</vendorCode>
+        <description>Кемпинговый зонт &amp;mdash; это надежная защита от солнца и дождя для комфортного отдыха на природе. Благодаря большому диаметру 190 см он создает просторную теневую зону, идеально подходящую для кемпинга, рыбалки, пикников или использования во дворе. Высота 220 см обеспечивает удобство в использовании, позволяя свободно разместиться под зонтом без ограничений. Прочная конструкция с 8 спицами диаметром 7 мм гарантирует устойчивость даже при ветреной погоде. Надежные материалы и продуманный дизайн обеспечивают долговечность и практичность в повседневном использовании. Это универсальное решение для тех, кто ценит комфорт и защиту в любых погодных условиях. Характеристики: Количество спиц - 8 Диаметр спиц - 7 мм Высота - 220 см Диаметр - 190 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7094</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1022-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1051-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1034-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1059-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Серый</param>
+        <param name="Количество спиц купола">8</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.9</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.9</param>
+        <param name="Длина купола зонта">1.9</param>
+        <param name="Высота зонта в разложенном виде">2.2</param>
+      </offer>
+      <offer id="f11_HP-JW-9_HP-JW-9" available="true">
+        <name>Зонт для рыбалки и кемпинга 190 см с регулировкой наклона HP-JW-9</name>
+        <price>1599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-9_HP-JW-9</vendorCode>
+        <description>Профессиональный зонт премиум-класса, созданный специально для комфортной длительной рыбалки в любых погодных условиях. Уникальное сочетание гибких стекловолоконных спиц, солнцезащитного покрытия и специального выреза для удилища делает эту модель отличным выбором. Преимущества: Вырез для удилища: С одной стороны купола предусмотрен эргономичный вырез. Это позволяет комфортно разместить удочку или фидер прямо под зонтом. Удилище находится в тени и защищено от перегрева, при этом можно сидеть максимально близко к снастям, не задевая купол при подсечке. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтом комфортную прохладу даже в полдень. Всенаправленный пружинный механизм: Пружина на стойке позволяет наклонять купол по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, не переставляя сам зонт. Особенности: Отличная гибкость (&amp;laquo;Антишторм&amp;raquo;): зонт оснащен усиленными спицами из стекловолокна (fiberglass). Этот композитный материал обладает уникальной гибкостью: при сильных порывах ветра спицы пружинят, предотвращая поломку каркаса или выворачивание купола наизнанку. Материал купола: Ткань Оксфорд 210T с влагозащитной пропиткой и внутренним светоотражающим слоем. Усиленный металлический стержень: Обеспечивает высокую прочность всей конструкции при минимальном весе и устойчивость к коррозии в условиях высокой влажности. Важно! Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: Оксфорд, сталь, фибергласс Диаметр купола: 1,9 м Высота: 2,4 м Количество спиц: 8 Размеры в сложенном состоянии: 115*15*10 см Вес: 1,8 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7095</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_7.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7095/zont_dlya_rybalki_i_kempinga_190_sm_s_regulirovkoy_naklona_prochnuyu_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_8.png</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Основание зонта">крестовина</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.9</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.9</param>
+        <param name="Длина купола зонта">1.9</param>
+        <param name="Высота зонта в разложенном виде">2.4</param>
+      </offer>
+      <offer id="f11_HP-JW-10_HP-JW-10" available="true">
+        <name>Зонт для рыбалки и пляжа 190 см с регулировкой наклона прочный HP-JW-10</name>
+        <price>1899.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-10_HP-JW-10</vendorCode>
+        <description>Профессиональный зонт премиум-класса, созданный специально для комфортной длительной рыбалки в любых погодных условиях. Уникальное сочетание гибких спиц из стекловолокна, полного винилового покрытия и специализированного выреза для удилища делает эту модель отличным выбором. Преимущества: Вырез для удилища: С одной стороны купола предусмотрен эргономичный вырез. Это позволяет комфортно разместить удочку или фидер прямо под зонтиком. Удилище находится в тени и защищено от перегрева, при этом можно сидеть максимально близко к снастям, не затрагивая купол при подсечении. Технология полного затемнения: Внутренняя сторона купола покрыта черным винилом. Это напыление не просто создает густую тень, а блокирует 99.9% ультрафиолетовых лучей (UPF 50+). Под таким зонтиком температура на несколько градусов ниже, что критически при многочасовом ожидании клея на солнце. Всенаправленный пружинный механизм: Пружина на стойке позволяет наклонять купол по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, не переставляя сам зонт. Особенности: Отличная гибкость («Антишторм»): Зонт оснащен усиленными спицами из стекловолокна (fiberglass). Этот композитный материал обладает уникальной гибкостью: при сильных порывах ветра спицы пружин, предотвращая поломки каркаса или выворачивание купола наизнанку. Материал купола: Полиэстер с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный металлический стержень: Обеспечивает высокую прочность всей конструкции при минимальном весе и устойчивость к коррозии в условиях высокой влажности. Важно! Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: полиэстер, сталь, фибеллас Диаметр купола: 1,9 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии: 115*15*10 см Вес: 1,8 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7096</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7096/zont_dlya_rybalki_i_plyazha_190_sm_s_regulirovkoy_naklona_prochnyy_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7096/zont_dlya_rybalki_i_plyazha_190_sm_s_regulirovkoy_naklona_prochnyy_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7096/zont_dlya_rybalki_i_plyazha_190_sm_s_regulirovkoy_naklona_prochnyy_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7096/zont_dlya_rybalki_i_plyazha_190_sm_s_regulirovkoy_naklona_prochnyy_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7096/zont_dlya_rybalki_i_plyazha_190_sm_s_regulirovkoy_naklona_prochnyy_nadezhnuyu_zashchitu_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka_4.png</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-JW-11_HP-JW-11" available="true">
+        <name>Зонт кемпинговый 200 см голубой прочный HP-JW-11</name>
+        <price>3299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-11_HP-JW-11</vendorCode>
+        <description>Профессиональный специализированный зонт премиум-класса, созданный для бескомпромиссного комфорта во время длительной рыбалки. Уникальное сочетание эргономичного дизайна, усиленного каркаса и передовых термозащитных технологий делает эту модель незаменимым помощником на берегу. Ключевые преимущества: Эргономичный вырез для удилища: С одной стороны купола предусмотрен специальный вырез, позволяющий разместить фидерное или карповое удилище прямо под зонтом. Это обеспечивает свободный доступ к снастям при подсечке, не задевая ткань, и позволяет рыбаку сидеть максимально близко к воде, оставаясь в тени. Технология полного затемнения (Black Vinyl): Внутренняя сторона купола покрыта многослойным черным винилом. Это напыление не просто создает густую тень, а полностью блокирует 99.9% вредных ультрафиолетовых лучей (UPF 50+). Под таким зонтом температура на 3&amp;ndash;5&amp;deg;C ниже, чем под обычным тканевым куполом, что критично в жаркий полдень. Двойная вентиляция (&amp;laquo;Антишторм&amp;raquo;): Уникальная двухуровневая конструкция купола обеспечивает естественную циркуляцию воздуха (под зонтом не бывает душно) и значительно снижает парусность. Потоки ветра проходят сквозь вентиляционные клапаны, предотвращая выворачивание зонта наизнанку. Всенаправленный карданный шарнир: Массивный поворотный узел на стойке позволяет наклонять купол на 360&amp;deg; по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Конструктивные особенности: Материал купола: Высокоплотная ткань Оксфорд (Oxford 210T) с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный алюминиевый стержень: Обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7097</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/_T5B0962-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/_T5B0998-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/_T5B0969-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Синий</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">2</param>
+        <param name="Ширина купола зонта">2</param>
+        <param name="Длина купола зонта">2</param>
+        <param name="Высота зонта в разложенном виде">2.2</param>
+      </offer>
+      <offer id="f11_HP-JW-12_HP-JW-12" available="true">
+        <name>Зонт кемпинговый 190 см, серый, прочный HP-JW-12</name>
+        <price>3299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-12_HP-JW-12</vendorCode>
+        <description>Кемпинговый зонт &amp;ndash; практичное решение для защиты от солнца и дождя во время отдыха на природе или во дворе. Благодаря большому куполу она создает комфортную тень и помогает избежать перегрева в жаркую погоду, а также надежно защищает от внезапных осадков. Сдержанный серый цвет выглядит универсально и легко сочетается с любой туристической или садовой экипировкой. Прочная конструкция обеспечивает стабильность и долговечность даже при активном использовании. Зонт легко устанавливается и удобен в транспортировке, что делает его отличным выбором для кемпинга, пикников, рыбалки или отдыха на даче. Это надежный аксессуар, который поможет создать комфортные условия в любых погодных условиях.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7098</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/_T5B0917-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/_T5B0932-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/_T5B0903-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/_T5B0876-600x600.jpg</picture>
+        <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+        <param name="Форма купола">круглый</param>
+        <param name="Механизм раскрывания купола">ручной</param>
+        <param name="Цвет">Серый</param>
+        <param name="Количество куполов в конструкции">1</param>
+        <param name="Диаметр купола зонта">1.9</param>
+        <param name="Состояние">Новое</param>
+        <param name="Ширина купола зонта">1.9</param>
+        <param name="Длина купола зонта">1.9</param>
+        <param name="Высота зонта в разложенном виде">2.2</param>
+      </offer>
+      <offer id="f11_HP-JW-13_HP-JW-13" available="true">
+        <name>Держатель для пляжного зонта металлический 21 см HP-JW-13</name>
+        <price>129.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-13_HP-JW-13</vendorCode>
+        <description>Трехзубая опора для пляжного зонта обеспечивает надежную фиксацию в песке или грунте, равномерно распределяет нагрузку, благодаря чему купол не кренится и не уносит тень при порывах ветра. Якорь изготовлен из стали, имеет небольшой вес, что упрощает его хранение и транспортировку. Характеристики: Материал: сталь Высота: 21 см Вес: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7099</url>
+        <param name="Высота (см)">21</param>
+        <param name="Вес изделия">0.3</param>
+      </offer>
+      <offer id="f11_HP-JW-14_HP-JW-14" available="true">
+        <name>Колышек для палатки металлический 21 см с ветрозащитным шнуром HP-JW-14</name>
+        <price>59.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-14_HP-JW-14</vendorCode>
+        <description>Грунтовый колышек отлично подходит для крепления палатки или тента на пляже и мягком грунте. Крючок позволяет надежно зафиксировать ветрозащитный шнур, а использованная для изготовления оцинкованная сталь обеспечивает защиту от коррозии. Характеристики: Материал: сталь Длина: 22 см Вес: 100 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7100</url>
+        <param name="Высота (см)">22</param>
+        <param name="Вес изделия">0.1</param>
+      </offer>
+      <offer id="f11_HP-JW-15_HP-JW-15" available="true">
+        <name>Металлическая подставка для зонта 50 см HP-JW-15</name>
+        <price>459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>323</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-JW-15_HP-JW-15</vendorCode>
+        <description>Металлическая тринога подходит для большинства пляжных и садовых зонтов. Подставка изготовлена из стали, имеет складную конструкцию, что делает ее удобной для хранения и транспортировки. Характеристики: Материал: металл, пластик Высота: 50 см Вес: 700 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7101</url>
+        <param name="Высота (см)">50</param>
+        <param name="Вес изделия">0.7</param>
+      </offer>
       <offer id="f11_HP-JW-16_HP-JW-16" available="true">
         <name>Шатер раздвижной усиленный для сада 3х3 м 420D тентHP-JW-16</name>
         <price>4999.0</price>
@@ -92305,6 +92633,75 @@
         <param name="Состояние">Новое</param>
         <param name="Форма">Прямоугольная</param>
       </offer>
+      <offer id="f11_HP-7-8_HP-7-8" available="true">
+        <name>Декоративная фигурка Horse 28х8.5х34 см металлическая HP-7-8</name>
+        <price>3499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-8_HP-7-8</vendorCode>
+        <description>Изысканный элемент декора, который воплощает в себе грацию, силу и стремление к победе. Эта статуэтка, выполненная в абстрактном стиле, станет центральным акцентом в интерьере гостиной, рабочего кабинета или библиотеки, подчеркивая на безупречном вкусе владельца. Преимущества: Арт-объект в стиле Neoclassic: Динамическая фигура ставшего брючина выполнена из литого металла с благородным золотистым покрытием. Рельефная, «живая» фактура металла красиво преломляет свет, создавая эффект движения. Символ успеха: Лошадь – классический символ удачи, высокого социального статуса, выносливости и процветания. Такая статуэтка - идеальный подарок для бизнесменов, руководителей или карьеристов. Универсальность в интерьере: Благодаря сочетанию золота и белого мрамора, статуэтка гармонично впишется как классический, так и современный интерьер (Modern, Art Deco, Loft). Характеристики: Материал: металл, искусственный мрамор Размеры: 28*8,5*34 см Вес: 1,9 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7105</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7105/dekorativnaya_figurka_horse_28h8_5h34_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_nastolnyy_dekor.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7105/dekorativnaya_figurka_horse_28h8_5h34_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_nastolnyy_dekor_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7105/dekorativnaya_figurka_horse_28h8_5h34_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_nastolnyy_dekor_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7105/dekorativnaya_figurka_horse_28h8_5h34_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_nastolnyy_dekor_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7105/dekorativnaya_figurka_horse_28h8_5h34_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_nastolnyy_dekor_4.png</picture>
+        <param name="Высота">28</param>
+        <param name="Глубина">34</param>
+        <param name="Ширина">8.5</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">1.9</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-9_HP-7-9" available="true">
+        <name>Декоративная фигурка Reindeer 30х8х29 см металлическая HP-7-9</name>
+        <price>3499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-9_HP-7-9</vendorCode>
+        <description>Авангардная интерьерная скульптура, воплощающая грацию и благородство лесного короля в стиле high-tech. Изготовлена из прочного металла с зеркальным хромированным покрытием, эта статуэтка станет ослепительным акцентом в современном интерьере, притягивая взгляды и отражая свет. Преимущества: Зеркальная завершенность: Поверхность статуэтки отполированная до зеркального блеска. Она буквально растворяется в интерьере, отражая окружающие окружающие предметы и цвета, адаптируясь под любую цветовую гамму комнаты и создавая уникальную игру бликов при любом освещении. Грация в металле: Скульптура сняла оленя в динамичной, благородной позе, придающей интерьеру энергию и жизнь. Детально проработанные листвистые рога подчеркивают статусность образа. Премиальный материал: Выполнена из металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Тяжелый металл обеспечивает надежность и статусность конструкции. Символ благополучия: Олень &amp;ndash; классический символ долголетия, мудрости, успеха и семейного счастья. Такая статуэтка - идеальный подарок для людей, которые ценят нестандартные решения и символизм в декоре. Характеристики: Материал: металл Размеры: 30*8*29 см Вес: 700 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7106</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7106/dekorativnaya_figurka_reindeer_30h8h29_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7106/dekorativnaya_figurka_reindeer_30h8h29_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7106/dekorativnaya_figurka_reindeer_30h8h29_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7106/dekorativnaya_figurka_reindeer_30h8h29_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_3.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">29</param>
+        <param name="Глубина">30</param>
+        <param name="Ширина">8</param>
+        <param name="Вес изделия">0.7</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-10_HP-7-10" available="true">
+        <name>Декоративная фигурка Elephant 25х10х25 см металлическая HP-7-10</name>
+        <price>3499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-10_HP-7-10</vendorCode>
+        <description>Авангардная интерьерная скульптура, которая переносит классический образ совершенного животного в эпоху киберпанка и хай-тек. Благодаря уникальной ажурной конструкции и зеркальному покрытию этот слон смотрится не просто декором, а объектом из будущего. Преимущества: Дизайн Cyber-Skeleton: Скульптура выполнена в уникальном стиле, что оставляет лишь ключевые анатомические линии и контуры животного. Эта ажурная, «прозрачная» конструкция создает эффект легкости и технологичности, идеально вписываясь в современные интерьеры. Зеркальный хром: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Грация в металле: Несмотря на футуристический вид, вне слона передает его природную мощь и благородство. Приподнятый вверх хобот символизирует удачу, благополучие и мудрость. Премиальный материал: Выполнена из металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Характеристики: Материал: металл Размеры: 25*10*25 см Вес: 600 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7107</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7107/dekorativnaya_figurka_elephant_25h10h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_poluprozrachnaya_dekor_na_kamin_hrom.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7107/dekorativnaya_figurka_elephant_25h10h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_poluprozrachnaya_dekor_na_kamin_hrom_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7107/dekorativnaya_figurka_elephant_25h10h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_poluprozrachnaya_dekor_na_kamin_hrom_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7107/dekorativnaya_figurka_elephant_25h10h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_poluprozrachnaya_dekor_na_kamin_hrom_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7107/dekorativnaya_figurka_elephant_25h10h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_poluprozrachnaya_dekor_na_kamin_hrom_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">25</param>
+        <param name="Глубина">25</param>
+        <param name="Ширина">10</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.6</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
       <offer id="f11_HP-7-11_HP-7-11" available="true">
         <name>Свечанок металлический Wildwood 37х10х14 см декоративный HP-7-11</name>
         <price>3499.0</price>
@@ -92324,6 +92721,79 @@
         <param name="Количество мест для свечей">5</param>
         <param name="Тип подсвечника">настольный (каминный)</param>
         <param name="Цвет">Золотистый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-13_HP-7-13" available="true">
+        <name>Декоративная фигурка Apple 11х10х18 см металлическая HP-7-13</name>
+        <price>1699.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-13_HP-7-13</vendorCode>
+        <description>Элегантный и символичный элемент декора, сочетающий в себе благородство натурального камня и утонченность позолоченного металла. Этот ажурный арт-объект станет изящным акцентом на комоде, рабочем столе или каминной полке, привнося в интерьер нотку роскоши и тепла. Преимущества: Арт дизайн в стиле Neoclassic: Фигура яблока выполнена в виде металлического ажурного контура. Фактурное, &amp;laquo;рваное&amp;raquo; литье создает игру света и тени, делая статуэтку легкой и воздушной, не перегружающей пространство. Премиальные материалы: Стойкая основа изготовлена из мрамора, который обеспечивает надежность конструкции и придает изделию солидный, статусный вид. Сама фигура имеет долговечное напыление. Символ благополучия и здоровья: Золотое яблоко &amp;ndash; классический символ бессмертия, молодости, процветания и семейного счастья. Это идеальный подарок с глубоким смыслом для близких и коллег. Универсальность в интерьере: Благодаря сочетанию золота и белого мрамора, статуэтка гармонично впишется как классический, так и современный интерьер (Art Deco, Neoclassic, Modern). Характеристики: Материал: металл, искусственный мрамор Размеры: 11*10*18 см Вес: 1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7109</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7109/dekorativnaya_figurka_apple_11h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_yabloko_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7109/dekorativnaya_figurka_apple_11h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_yabloko_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7109/dekorativnaya_figurka_apple_11h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_yabloko_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7109/dekorativnaya_figurka_apple_11h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_yabloko_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7109/dekorativnaya_figurka_apple_11h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_yabloko_dekor_na_kamin_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">18</param>
+        <param name="Глубина">11</param>
+        <param name="Ширина">10</param>
+        <param name="Тематика изделия">Растения</param>
+        <param name="Вес изделия">1</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-14_HP-7-14" available="true">
+        <name>Декоративная фигурка Lion 29х11х20 см металлическая HP-7-14</name>
+        <price>3999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-14_HP-7-14</vendorCode>
+        <description>Авангардная интерьерная скульптура, которая переносит классический образ царя зверей в эпоху киберпанка и хай-тек. Благодаря уникальной ажурной конструкции и зеркальному покрытию этот лев выглядит не просто декором, а объектом из будущего. Преимущества: Дизайн Cyber-Skeleton: Скульптура выполнена в уникальном стиле, что оставляет лишь ключевые анатомические линии и контуры животного. Эта ажурная, &amp;laquo;прозрачная&amp;raquo; конструкция создает эффект легкости и технологичности, идеально вписываясь в современные интерьеры. Зеркальное золото: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Мощность в металле: Несмотря на футуристический вид, вне льва передает его природную мощь и благородство. Детально проработанная грива и мускулатура подчеркивают статусность образа. Премиальный материал: Выполнена из ударопрочного металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Характеристики: Материал: металл Размеры: 29*11*20 см Вес: 800 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7110</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7110/dekorativnaya_figurka_lion_29h11h20_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_krasivoe_zhivotnoe_dekor_na_kamin_5.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">20</param>
+        <param name="Глубина">29</param>
+        <param name="Ширина">11</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.8</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-15_HP-7-15" available="true">
+        <name>Декоративная фигурка Eagle-owl 12х11х28 см металлическая HP-7-15</name>
+        <price>4299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-15_HP-7-15</vendorCode>
+        <description>Авангардная интерьерная скульптура, которая переносит классический образ символа мудрости в эпоху киберпанка и хай-тек. Благодаря уникальной ажурной конструкции и ослепительному зеркальному покрытию, эта сова выглядит не просто декором, а объектом из будущего. Преимущества: Дизайн Cyber-Skeleton: Скульптура выполнена в уникальном стиле, что оставляет лишь ключевые анатомические линии и контуры птицы. Эта ажурная, «прозрачная» конструкция создает эффект легкости и технологичности, идеально вписываясь в современные интерьеры. Зеркальное золото: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Символ мудрости и знаний: Несмотря на футуристический вид, образ пугача остается узнаваемым. Детализированные перья подчеркивают статусность образа. Премиальный материал: Выполнена из ударопрочного металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Характеристики: Материал: металл Размеры: 12*11*28 см Вес: 900 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7111</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7111/dekorativnaya_figurka_eagle_owl_12h11h28_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7111/dekorativnaya_figurka_eagle_owl_12h11h28_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7111/dekorativnaya_figurka_eagle_owl_12h11h28_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7111/dekorativnaya_figurka_eagle_owl_12h11h28_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7111/dekorativnaya_figurka_eagle_owl_12h11h28_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">28</param>
+        <param name="Глубина">11</param>
+        <param name="Ширина">12</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.9</param>
+        <param name="Цвет">Серебристый</param>
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="f11_HP-7-16_HP-7-16" available="true">
@@ -92347,6 +92817,172 @@
         <param name="Ширина">8</param>
         <param name="Тематика изделия">Животные</param>
         <param name="Вес изделия">0.9</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-17_HP-7-17" available="true">
+        <name>Декоративная фигурка Cougar 31х6х16 см металлическая HP-7-17</name>
+        <price>3499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-17_HP-7-17</vendorCode>
+        <description>Авангардная интерьерная скульптура, которая переносит классический образ дикого хищника в эпоху киберпанка и хай-тек. Благодаря уникальной ажурной конструкции и ослепительному зеркальному покрытию этот леопард выглядит не просто декором, а объектом из будущего. Преимущества: Дизайн Cyber-Skeleton: Скульптура выполнена в уникальном стиле, что оставляет лишь ключевые анатомические линии и контуры животного. Эта ажурная, &amp;laquo;прозрачная&amp;raquo; конструкция создает эффект легкости и технологичности, идеально вписываясь в современные интерьеры. Зеркальное золото: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Грация и сила: Несмотря на футуристический вид, вне пумы передает ее естественную грацию и хищную мощь. Детально проработанные мышцы подчеркивают статусность образа. Премиальный материал: Выполнена из ударопрочного металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Характеристики: Материал: металл Размеры: 31*6*16 см Вес: 500 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7113</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7113/dekorativnaya_figurka_cougar_31h6h16_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_5.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">16</param>
+        <param name="Глубина">31</param>
+        <param name="Ширина">6</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.5</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-18_HP-7-18" available="true">
+        <name>Декоративная фигурка Gold Fish 16x8x30 см металлическая HP-7-18</name>
+        <price>2999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-18_HP-7-18</vendorCode>
+        <description>Изысканный элемент декора, который воплощает в себе грацию, мудрость и стремление богатства. Эта статуэтка станет центральным акцентом в интерьере гостиной, рабочего кабинета или библиотеки, подчеркивая безупречный вкус владельца. Преимущества: Арт-объект в стиле Neoclassic: Динамическая фигура золотой рыбы, плывущей сквозь кораллы, изготовлена из литого металла с благородным покрытием. Рельефная, «живая» фактура металла красиво преломляет свет, создавая эффект движения. Премиальные материалы: Стойкая основа изготовлена из белого мрамора. Тяжелый материал обеспечивает надежность конструкции и придает изделию солидный, статусный вид. Сама фигура покрыта долговечным напылением. Символ успеха и богатства: Золотая рыба – классический символ удачи, высокого социального статуса, процветания и изобилия. Такая статуэтка - идеальный подарок для бизнесменов, руководителей или карьеристов. Универсальность в интерьере: Благодаря сочетанию золота и белого мрамора, статуэтка гармонично впишется как классический, так и современный интерьер (Art Deco, Neoclassic, Modern). Характеристики: Материал: металл, искусственный мрамор Размеры: 16*8*30 см Вес: 1,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7114</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7114/dekorativnaya_figurka_gold_fish_16x8x30_sm_metallicheskaya_statuetka_zolotoy_rybki_kollektsionnaya_dlya_doma_dekor_na_kamin_5.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">30</param>
+        <param name="Глубина">16</param>
+        <param name="Ширина">8</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">1.5</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-19_HP-7-19" available="true">
+        <name>Декоративная фигурка Calla Lilies 14х8х25 см металлическая HP-7-19</name>
+        <price>2599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-19_HP-7-19</vendorCode>
+        <description>Изысканная декоративная композиция, изображающая пару распускающихся цветов кала. Благодаря динамическим изогнутым стеблям и детальной ограждению соцветий, эта скульптура привносит в интерьер ощущение естественной гармонии и современной роскоши. Преимущества: Художественное исполнение: каждый цветок отображен в момент раскрытия. Внутри чаш расположены акцентные сердечники, которые подчеркивают натуралистичность и добавляют композиции завершенности. Зеркальный блеск: Глянцевое покрытие создает потрясающую игру бликов. Скульптура будет менять свой оттенок в зависимости от освещения в комнате, становясь ярким визуальным центром. Символизм: Калла считается символом чистоты, восхищения и семейного счастья. Пара цветов в одной композиции олицетворяет единство и гармонию. Премиальный материал: Полностью металлическая конструкция обеспечивает долговечность. Тяжелая основа делает скульптуру устойчивой. Характеристики: Материал: металл Размеры: 14*8*25 см Вес: 400 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7115</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7115/dekorativnaya_figurka_calla_lilies_14h8h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_tsvetok_kally_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7115/dekorativnaya_figurka_calla_lilies_14h8h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_tsvetok_kally_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7115/dekorativnaya_figurka_calla_lilies_14h8h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_tsvetok_kally_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7115/dekorativnaya_figurka_calla_lilies_14h8h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_tsvetok_kally_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7115/dekorativnaya_figurka_calla_lilies_14h8h25_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_tsvetok_kally_dekor_na_kamin_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">25</param>
+        <param name="Глубина">14</param>
+        <param name="Ширина">8</param>
+        <param name="Вес изделия">0.4</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-21_HP-7-21" available="true">
+        <name>Декоративная фигурка Modern Fish 25х10х18 см металлическая HP-7-21</name>
+        <price>2599.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-21_HP-7-21</vendorCode>
+        <description>Авангардная интерьерная скульптура, которая переносит классический образ речного хищника в эпоху киберпанка и хай-тек. Благодаря уникальной конструкции и глянцевому покрытию, эта рыба выглядит не просто декором, а объектом из будущего. Преимущества: Зеркальное золото: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Премиальный материал: Выполнена из ударопрочного металла с долговечным напылением, которое не тускнеет и не окисляется со временем. Характеристики: Материал: металл, искусственный мрамор Размеры: 25*10*18 см Вес: 900 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7116</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7116/dekorativnaya_figurka_modern_fish_25h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7116/dekorativnaya_figurka_modern_fish_25h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7116/dekorativnaya_figurka_modern_fish_25h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7116/dekorativnaya_figurka_modern_fish_25h10h18_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_3.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">18</param>
+        <param name="Глубина">25</param>
+        <param name="Ширина">10</param>
+        <param name="Тематика изделия">Абстракция</param>
+        <param name="Вес изделия">0.9</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-22_HP-7-22" available="true">
+        <name>Декоративная фигурка Rhinoceros 23х6х10 см металлическая HP-7-22</name>
+        <price>2299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-22_HP-7-22</vendorCode>
+        <description>Мощность, статус и безупречный стиль в одном объекте. Эта авангардная скульптура носорога, выполненная в технике ажурного металлического литья, станет ослепительным акцентом в интерьере, заявляя о силе и успехе своего владельца. Преимущества: Ажурная роскошь: Уникальный дизайн, оставляющий только ключевые линии силуэта. Эта &amp;laquo;прозрачная&amp;raquo; конструкция придает тяжелому животному невероятную легкость и футуристичность. Благородное золото: Глянцевое золотистое покрытие придает зеркальный блеск статуэтке. Оно устойчиво к истиранию, не тускнеет и красиво преломляет свет, создавая атмосферу роскоши. Символ силы и успеха: Носорог &amp;ndash; классический символ несокрушимой энергии, защиты и финансового благополучия. Это идеальный подарок для амбициозных людей и руководителей. Премиальный материал: Полностью металлическая конструкция обеспечивает долговечность и солидный вес. Характеристики: Материал: металл Размеры: 23*6*10 см Вес: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7117</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7117/dekorativnaya_figurka_rhinoceros_23h6h10_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7117/dekorativnaya_figurka_rhinoceros_23h6h10_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7117/dekorativnaya_figurka_rhinoceros_23h6h10_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7117/dekorativnaya_figurka_rhinoceros_23h6h10_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7117/dekorativnaya_figurka_rhinoceros_23h6h10_sm_metallicheskaya_statuetka_kollektsionnaya_dlya_doma_dekor_na_kamin_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">23</param>
+        <param name="Глубина">10</param>
+        <param name="Ширина">6</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.3</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-23_HP-7-23" available="true">
+        <name>Декоративная фигурка Rhinoceros 23x6x10 см металлическая HP-7-23</name>
+        <price>2299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-23_HP-7-23</vendorCode>
+        <description>Авангардный арт-объект, который переносит мощный образ дикого животного в эпоху киберпанка и высоких технологий. Эта скульптура носорога в хромированном покрытии смотрится не просто декором, а объектом из будущего. Преимущества: Дизайн Cyber-Skeleton: Уникальная техника ажурного литья создает эффект металлического экзоскелета. Прозрачная конструкция выглядит технологично и футуристично, идеально вписываясь в современные интерьеры. Зеркальный хром: поверхность отполированная до зеркального блеска. Статуэтка отображает окружающие цвета и свет, адаптируясь под любую цветовую гамму комнаты и создавая фантастическую игру бликов. Мощность в металле: Несмоть на ажурный вид, вне носорога передает его природную мощь и несокрушимость. Детально проработанные рог и мускулатура подчеркивают статусность образа. Премиальный материал: Полностью металлическая конструкция обеспечивает надежность и долговечность. Характеристики: Материал: металл Размеры: 23*6*10 см Вес: 300 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7118</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7118/dekorativnaya_figurka_rhinoceros_23x6x10_sm_metallicheskaya_statuetka_nosoroga_kollektsionnaya_dlya_doma_dekor.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7118/dekorativnaya_figurka_rhinoceros_23x6x10_sm_metallicheskaya_statuetka_nosoroga_kollektsionnaya_dlya_doma_dekor_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7118/dekorativnaya_figurka_rhinoceros_23x6x10_sm_metallicheskaya_statuetka_nosoroga_kollektsionnaya_dlya_doma_dekor_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7118/dekorativnaya_figurka_rhinoceros_23x6x10_sm_metallicheskaya_statuetka_nosoroga_kollektsionnaya_dlya_doma_dekor_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7118/dekorativnaya_figurka_rhinoceros_23x6x10_sm_metallicheskaya_statuetka_nosoroga_kollektsionnaya_dlya_doma_dekor_4.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">10</param>
+        <param name="Глубина">23</param>
+        <param name="Ширина">6</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.3</param>
+        <param name="Цвет">Серебристый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="f11_HP-7-24_HP-7-24" available="true">
+        <name>Декоративная фигурка Arovana 32х11х11 см металлическая HP-7-24</name>
+        <price>3499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>324</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-7-24_HP-7-24</vendorCode>
+        <description>Авангардная интерьерная скульптура, изображающая легендарную Рыбу-Дракона. Уникальное сочетание восточного символизма и современного стиля high-tech делает эту арированную настоящим арт-объектом, притягивающим взгляды и отражающим свет. Почему это стильно? Дизайн Cyber-Arowana: Скульптура выполнена в уникальном ажурном стиле, что оставляет только ключевые контуры тела, головы и роскошных пловцов рыбы. Эта &amp;laquo;прозрачная&amp;raquo; конструкция придает фигуре легкость, динамику и футуристичность. Золотой хром: поверхность отполированная до зеркального блеска. Глянцевое золотое покрытие красиво преломляет лучи солнца или ламп, создавая фантастическую игру бликов и адаптируясь под цветовую гамму комнаты. Мощный талисман фен-шуй: Арированная - классический и один из самых сильных символов богатства, процветания, успеха в бизнесе и удачи в Фен-Шуй. Она считается охранником благополучия дома. Такая статуэтка &amp;mdash; не просто декор, а подарок с глубоким смыслом. Универсальность и надежность: Скульптура полностью выполнена из металла, что гарантирует долговечность. Благодаря ажурности она не перегружает интерьер и подходит как для современного (Minimalsm, High-Tech, Art Deco), так и для классического стиля. Характеристики: Материал: металл Размеры: 32*11*11 см Вес: 700 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7119</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7119/dekorativnaya_figurka_arovana_32h11h11_sm_metallicheskaya_statuetka_kollektsionnaya_kitayskaya_ryba_drakon_dlya_doma_dekor_na_kamin.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7119/dekorativnaya_figurka_arovana_32h11h11_sm_metallicheskaya_statuetka_kollektsionnaya_kitayskaya_ryba_drakon_dlya_doma_dekor_na_kamin_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7119/dekorativnaya_figurka_arovana_32h11h11_sm_metallicheskaya_statuetka_kollektsionnaya_kitayskaya_ryba_drakon_dlya_doma_dekor_na_kamin_2.png</picture>
+        <param name="Материал">Металл</param>
+        <param name="Высота">11</param>
+        <param name="Глубина">32</param>
+        <param name="Ширина">11</param>
+        <param name="Тематика изделия">Животные</param>
+        <param name="Вес изделия">0.7</param>
         <param name="Цвет">Серебристый</param>
         <param name="Состояние">Новое</param>
       </offer>
