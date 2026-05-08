@@ -1,174 +1,174 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-08 17:40">
+<yml_catalog date="2026-05-08 19:44">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="264">Мягкие игрушки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="77">Пылесосы</category>
-      <category id="261">Терки</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="29">Салфетницы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="66">Сервизы</category>
-      <category id="15">Плойки</category>
-      <category id="224">Гамаки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="132">Конфетницы</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="284">Новогодний декор</category>
-      <category id="186">Тостеры</category>
-      <category id="324">Статуэтки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="124">Решетки</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="182">Блюда</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="65">Креманки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="93">Электрочайники</category>
-      <category id="195">Разделочные доски</category>
-      <category id="118">Сумки</category>
-      <category id="42">Термосы для детей</category>
-      <category id="117">Рюкзаки</category>
-      <category id="125">Мангалы</category>
-      <category id="57">Чашки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="56">Бокалы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="14">Стайлеры</category>
-      <category id="87">Соковыжималки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="76">Отпариватели</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="68">Тарелки</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="23">Фены</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="98">Блендеры</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="21">Электробритвы</category>
-      <category id="13">Триммеры</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="166">Тортовницы</category>
-      <category id="54">Стаканы</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="294">Новогодние елки</category>
-      <category id="96">Вакууматоры</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="31">Часы настенные</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="141">Салатницы</category>
-      <category id="133">Масленки</category>
-      <category id="75">Утюги</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="55">Рюмки</category>
-      <category id="6">LED ленты</category>
-      <category id="90">Мясорубки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="221">Туристические души</category>
-      <category id="61">Сковородки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="298">Брелки</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="194">Менажницы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="111">Портативные колонки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="72">Весы напольные</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="114">Повербанки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="148">Туристические коврики</category>
-      <category id="103">Проекторы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="145">Смарт-часы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="41">Термосы и термочашки</category>
       <category id="128">Органайзеры</category>
-      <category id="140">Крышки</category>
-      <category id="97">Весы кухонные</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="33">Пепельницы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="62">Ковши</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="122">Аксессуары</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="17">Воскоплавы</category>
-      <category id="184">Бульонницы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="149">Палатки</category>
-      <category id="262">Термосумки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="144">Вентиляторы</category>
-      <category id="318">Кусторезы</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="136">Дуршлаги</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="110">Наушники</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="63">Кастрюли</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="60">Мармиты</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="142">Посуда для детей</category>
-      <category id="212">Мебель</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="34">Подсвечники</category>
       <category id="187">Слайсеры</category>
-      <category id="53">Кувшины</category>
-      <category id="81">Капучинаторы</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="150">Спальные мешки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="278">Косметички</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="298">Брелки</category>
+      <category id="118">Сумки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="42">Термосы для детей</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="126">Ланч боксы</category>
+      <category id="124">Решетки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="63">Кастрюли</category>
+      <category id="41">Термосы и термочашки</category>
       <category id="279">Зонты</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="89">Миксеры</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="20">Эпиляторы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="68">Тарелки</category>
+      <category id="184">Бульонницы</category>
       <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="61">Сковородки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="93">Электрочайники</category>
+      <category id="285">Йогуртницы</category>
+      <category id="132">Конфетницы</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="75">Утюги</category>
+      <category id="194">Менажницы</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="148">Туристические коврики</category>
+      <category id="87">Соковыжималки</category>
+      <category id="149">Палатки</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="262">Термосумки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="125">Мангалы</category>
+      <category id="294">Новогодние елки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="186">Тостеры</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="280">Сушилки для посуды</category>
+      <category id="52">Лимонадницы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="103">Проекторы</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="318">Кусторезы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="15">Плойки</category>
+      <category id="57">Чашки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="90">Мясорубки</category>
+      <category id="54">Стаканы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="29">Салфетницы</category>
+      <category id="77">Пылесосы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="14">Стайлеры</category>
+      <category id="17">Воскоплавы</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="278">Косметички</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="72">Весы напольные</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="122">Аксессуары</category>
+      <category id="55">Рюмки</category>
+      <category id="31">Часы настенные</category>
+      <category id="136">Дуршлаги</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="13">Триммеры</category>
+      <category id="317">Садовое освещение</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="261">Терки</category>
+      <category id="76">Отпариватели</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="110">Наушники</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="53">Кувшины</category>
       <category id="83">Чопперы и измельчители</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="271">Товары для уборки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="6">LED ленты</category>
+      <category id="56">Бокалы</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="89">Миксеры</category>
+      <category id="166">Тортовницы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="65">Креманки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="212">Мебель</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="66">Сервизы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="34">Подсвечники</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="114">Повербанки</category>
+      <category id="111">Портативные колонки</category>
+      <category id="224">Гамаки</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="324">Статуэтки</category>
+      <category id="59">Все для выпечки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="23">Фены</category>
+      <category id="133">Масленки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="150">Спальные мешки</category>
+      <category id="221">Туристические души</category>
+      <category id="98">Блендеры</category>
+      <category id="145">Смарт-часы</category>
+      <category id="33">Пепельницы</category>
       <category id="287">Банты на елку</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="117">Рюкзаки</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="60">Мармиты</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="141">Салатницы</category>
+      <category id="140">Крышки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="284">Новогодний декор</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="96">Вакууматоры</category>
+      <category id="21">Электробритвы</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="144">Вентиляторы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="62">Ковши</category>
+      <category id="81">Капучинаторы</category>
+      <category id="182">Блюда</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="195">Разделочные доски</category>
+      <category id="147">Наборы для пикника</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -3297,7 +3297,7 @@
         <param name="Тип">Набор для специй</param>
         <param name="Количество емкостей">6</param>
         <param name="Объем">120 мл</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром</param>
       </offer>
       <offer id="f11_HP531FS1030Y_HP531FS1030Y" available="true">
         <name>Банки для сыпучих продуктов набор из 3 шт на металической подставке HP531FS1030Y</name>
@@ -3319,7 +3319,7 @@
         <param name="Ширина">7.5 см</param>
         <param name="Применение">Для сыпучих продуктов</param>
         <param name="Длина">7.5 см</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP531FS1034Y_HP531FS1034Y" available="true">
@@ -3344,7 +3344,7 @@
         <param name="Ширина">7.5 см</param>
         <param name="Применение">Для сыпучих продуктов</param>
         <param name="Длина">7.5 см</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -8884,7 +8884,7 @@
         <param name="Форма спальника">Кокон</param>
         <param name="Ширина">75 см</param>
         <param name="Длина">220 см</param>
-        <param name="Наполнитель">Синтетический Хлопок</param>
+        <param name="Наполнитель">Бесклеевой Хлопок</param>
         <param name="Цвет">Серый</param>
         <param name="Материал подкладки">Полиэстер</param>
         <param name="Материал верха">Полиэстер 180T</param>
@@ -9204,7 +9204,7 @@
         <param name="Количество в наборе">6</param>
         <param name="Объем">350 мл</param>
         <param name="Тип стакана">Высокий</param>
-        <param name="Цвет">Прозрачный</param>
+        <param name="Цвет">Хамелеон</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Нижний диаметр">7 см</param>
         <param name="Гарантия">14 дней</param>
@@ -10155,7 +10155,7 @@
         <param name="Количество персон">4</param>
         <param name="Кастрюля">1</param>
         <param name="Сковорода">1</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Серый</param>
         <param name="Чайник">1</param>
         <param name="Состояние">Новое</param>
         <param name="Упаковка">Сумка</param>
@@ -10218,7 +10218,7 @@
         <param name="Материал">Стекло</param>
         <param name="Количество емкостей">12</param>
         <param name="Объем">120 мл</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром с золотом</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP1356_HP1356" available="true">
@@ -10242,7 +10242,7 @@
         <param name="Материал">Стекло</param>
         <param name="Количество емкостей">12</param>
         <param name="Объем">120 мл</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Черный под мрамор</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP39580C_HP39580C" available="true">
@@ -10340,7 +10340,7 @@
         <param name="Солонка">2</param>
         <param name="Объем">120 мл</param>
         <param name="Тематика декора, рисунка">Абстракция</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Черный под мрамор</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -10434,7 +10434,7 @@
         <param name="Подставка для набора">1</param>
         <param name="Солонка">2</param>
         <param name="Объем">120</param>
-        <param name="Цвет">Серый</param>
+        <param name="Цвет">Хром с золотом</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -10534,7 +10534,7 @@
         <param name="Материал">Стекло</param>
         <param name="Количество емкостей">6</param>
         <param name="Объем">120 мл</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром с золотом</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP39572C_HP39572C" available="true">
@@ -10848,7 +10848,7 @@
         <param name="Количество емкостей">6</param>
         <param name="Объем">120</param>
         <param name="Тематика декора, рисунка">Абстракция</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Черный под мрамор</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP39569W_HP39569W" available="true">
@@ -11116,7 +11116,7 @@
         <param name="Количество персон">4</param>
         <param name="Кастрюля">1</param>
         <param name="Сковорода">1</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Серый</param>
         <param name="Чайник">1</param>
         <param name="Состояние">Новое</param>
         <param name="Упаковка">Сумка</param>
@@ -11142,7 +11142,7 @@
         <param name="Материал">Стекло</param>
         <param name="Количество емкостей">12</param>
         <param name="Объем">120</param>
-        <param name="Цвет">Серебристый</param>
+        <param name="Цвет">Хром</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP39574B_HP39574B" available="true">
@@ -24314,20 +24314,20 @@
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-UR-2/HP-UR-2-%283%29.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/129/HP-UR-2/HP-UR-2-%2827%29.jpg</picture>
         <param name="Тип">С парогенератором</param>
-        <param name="Высота">165</param>
+        <param name="Высота">16.5</param>
         <param name="Беспроводная технология">Да</param>
         <param name="Гарантийный срок">3</param>
         <param name="Вес">1.4</param>
         <param name="Вертикальное отпаривание">Да</param>
         <param name="Потребляемая мощность">2400</param>
         <param name="Длина сетевого шнура">1.57</param>
-        <param name="Ширина">130</param>
+        <param name="Ширина">13</param>
         <param name="Защита от накипи">Да</param>
         <param name="Желобок для пуговиц">Да</param>
         <param name="Материал подошвы утюга">керамика</param>
         <param name="Мерный стакан">Да</param>
         <param name="Цвет">Фиолетовый</param>
-        <param name="Объем резервуара для воды">0.36</param>
+        <param name="Объем резервуара для воды">0.45</param>
         <param name="Паровой носик">Да</param>
         <param name="Постоянная подача пара">Да</param>
         <param name="Состояние">Новое</param>
@@ -24428,7 +24428,7 @@
         <param name="Ширина">8 см</param>
         <param name="Количество в наборе">1</param>
         <param name="Объем">400 мл</param>
-        <param name="Цвет">Бежевый</param>
+        <param name="Цвет">Белый</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Кружка</param>
@@ -25580,7 +25580,7 @@
         <param name="Ложечка">нет</param>
         <param name="Объем">420 мл</param>
         <param name="Ситечко">Нет</param>
-        <param name="Цвет">Разные цвета</param>
+        <param name="Цвет">Белый</param>
         <param name="Тематика декора, рисунка">Абстракция</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Кружка</param>
@@ -25616,7 +25616,7 @@
         <param name="Ложечка">нет</param>
         <param name="Объем">420 мл</param>
         <param name="Ситечко">Нет</param>
-        <param name="Цвет">Разные цвета</param>
+        <param name="Цвет">Белый</param>
         <param name="Тематика декора, рисунка">Надписи</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип емкости">Кружка</param>
@@ -29266,7 +29266,7 @@
         <param name="Минимальная температура нагрева">120</param>
         <param name="Терморегулятор">Да</param>
         <param name="Тип терморегулятора">Ступенчатый</param>
-        <param name="Ширина пластин">35</param>
+        <param name="Ширина пластин">3.5</param>
       </offer>
       <offer id="f11_SK-15009_SK-15009" available="true">
         <name>Утюжок для волос 50 Вт Розовый Sokany SK-15009</name>
@@ -30337,7 +30337,7 @@
         <param name="Единицы измерения">Килограммы</param>
         <param name="Ширина">26</param>
         <param name="Материал платформы">Закаленное стекло</param>
-        <param name="Максимальный вес">18</param>
+        <param name="Максимальный вес">180</param>
         <param name="Состояние">Новое</param>
         <param name="Система диагностики">Да</param>
         <param name="Тип весов">Электронные</param>
@@ -45916,7 +45916,7 @@
         <param name="Вес">1080</param>
         <param name="Ширина">150</param>
         <param name="Толщина">2</param>
-        <param name="Цвет">Зелёный</param>
+        <param name="Цвет">Хаки</param>
         <param name="Длина">200</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -45984,7 +45984,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP34545BL_HP34545BL" available="true">
-        <name>Детский набор силиконовой посуды чашка / тарелка с тремя секциями / ложка Синий HP34545BL</name>
+        <name>Детский набор силиконовой посуды чашка / тарелка с тремя секциями / ложка Темно-синий HP34545BL</name>
         <price>609.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -46008,7 +46008,7 @@
         <param name="Ложка чайная">1</param>
         <param name="Хранение в холодильнике">Да</param>
         <param name="Тарелка мелкая">1</param>
-        <param name="Цвет">Синий</param>
+        <param name="Цвет">Темно-синий</param>
         <param name="Стакан">1</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Состояние">Новое</param>
@@ -47782,7 +47782,7 @@
         <param name="Поверхность">Глянцевая</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Состояние">Новое</param>
-        <param name="Упаковка">Полиэтиленовый пакет</param>
+        <param name="Упаковка">Блистер</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-8-33_HP-8-33" available="true">
@@ -50562,7 +50562,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_AJ2205BL_AJ2205BL" available="true">
-        <name>Ручной отпариватель для одежды SOKANY 250 мл Голубой Lugi AJ2205BL</name>
+        <name>Ручной отпариватель для одежды SOKANY 250 мл Темно-синий Lugi AJ2205BL</name>
         <price>1679.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -50590,7 +50590,7 @@
         <param name="Ширина">10 см</param>
         <param name="Количество режимов работы">2</param>
         <param name="Кнопка вкл./выкл.">Да</param>
-        <param name="Цвет">Голубой</param>
+        <param name="Цвет">Темно-синий</param>
         <param name="Индикатор работы">Да</param>
         <param name="Максимальное давление пара">2</param>
         <param name="Состояние">Новое</param>
@@ -65629,7 +65629,7 @@
         <param name="Особенности спальника">Двойная молния|Анатомический капюшон|Спальник-одеяло</param>
         <param name="Цвет">Хаки</param>
         <param name="Длина">190 см</param>
-        <param name="Наполнитель">Синтетическое волокно</param>
+        <param name="Наполнитель">Синтетическое хлопок</param>
         <param name="Материал подкладки">Полиэстер</param>
         <param name="Материал верха">Полиэстер</param>
         <param name="Состояние">Новое</param>
@@ -69299,7 +69299,7 @@
         <param name="Материал емкостей">стекло</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Серебристый</param>
-        <param name="Общий объем">1.44</param>
+        <param name="Общий объем">1.26</param>
         <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="f11_SK-08017_SK-08017" available="true">
@@ -75960,7 +75960,7 @@
         <param name="Назначение">Универсальное</param>
         <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Крышка">Есть</param>
+        <param name="Крышка">Нет</param>
         <param name="Ложечка">есть</param>
         <param name="Объем">0.25</param>
         <param name="Ситечко">Нет</param>
@@ -75986,7 +75986,7 @@
         <param name="Назначение">Универсальное</param>
         <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Крышка">Есть</param>
+        <param name="Крышка">Нет</param>
         <param name="Ложечка">есть</param>
         <param name="Объем">0.25</param>
         <param name="Ситечко">Нет</param>
@@ -76012,7 +76012,7 @@
         <param name="Назначение">Универсальное</param>
         <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Крышка">Есть</param>
+        <param name="Крышка">Нет</param>
         <param name="Ложечка">есть</param>
         <param name="Объем">0.25</param>
         <param name="Ситечко">Нет</param>
@@ -76038,7 +76038,7 @@
         <param name="Назначение">Универсальное</param>
         <param name="Диаметр">8.5</param>
         <param name="Использование в микроволновке">Да</param>
-        <param name="Крышка">Есть</param>
+        <param name="Крышка">Нет</param>
         <param name="Ложечка">есть</param>
         <param name="Объем">0.25</param>
         <param name="Ситечко">Нет</param>
@@ -77155,13 +77155,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6200/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_rozovyy_s_golubym_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6200/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_rozovyy_s_golubym_4.jpg</picture>
         <param name="Материал">Фарфор</param>
-        <param name="Высота">100</param>
+        <param name="Высота">10</param>
         <param name="Блюдце">нет</param>
         <param name="Назначение">Универсальное</param>
-        <param name="Диаметр">90</param>
+        <param name="Диаметр">9</param>
         <param name="Крышка">Есть</param>
         <param name="Количество в наборе">2</param>
-        <param name="Ложечка">нет</param>
+        <param name="Ложечка">Есть</param>
         <param name="Объем">400</param>
         <param name="Ситечко">Нет</param>
         <param name="Цвет">Разные цвета</param>
@@ -81976,7 +81976,7 @@
         <param name="Количество трущих/режущих поверхностей">5</param>
         <param name="Наличие контейнера (поддона)">Не предусмотрен</param>
         <param name="Наличие плододержателя">Есть</param>
-        <param name="Цвет">Черный</param>
+        <param name="Цвет">Сталь</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Мощность, Вт">601-1000</param>
       </offer>
@@ -82172,7 +82172,7 @@
         <param name="Максимальный вес">180</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Фиолетовый</param>
-        <param name="Подсветка дисплея">Нет</param>
+        <param name="Подсветка дисплея">Да</param>
         <param name="Функция автоотключения">Да</param>
         <param name="Тип весов">Электронные</param>
         <param name="Точность измерения">50</param>
@@ -84985,7 +84985,7 @@
         <param name="Ширина">26</param>
         <param name="Цвет">Серый</param>
         <param name="Состояние">Новое</param>
-        <param name="Форма">Прямоугольная</param>
+        <param name="Форма">Квадратная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-7323-2_HP-7323-2" available="true">
@@ -89723,7 +89723,7 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_4.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6974/reshetka_dlya_grilya_i_barbekyu_glubokaya_38h26_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_5.jpg</picture>
         <param name="Материал">Нержавеющая сталь</param>
-        <param name="Назначение решетки">Для мяса|Для овощей|Для рыбы|Универсальная|Для сосисок, колбасок|Для пиццы</param>
+        <param name="Назначение решетки">Универсальная</param>
         <param name="Длина рабочей поверхности">38</param>
         <param name="Ширина рабочей поверхности">26</param>
       </offer>
@@ -89746,7 +89746,7 @@
         <param name="Назначение решетки">Для рыбы</param>
         <param name="Длина рабочей поверхности">37</param>
         <param name="Ширина рабочей поверхности">15</param>
-        <param name="Форма">Рыба</param>
+        <param name="Форма">Овальная</param>
       </offer>
       <offer id="f11_BQ-18_BQ-18" available="true">
         <name>Набор шампуров из нержавеющей стали 6 штук 60х1.2 см BQ-18</name>
