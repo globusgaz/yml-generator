@@ -1,174 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-11 04:21">
+<yml_catalog date="2026-05-11 08:42">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="102">Микрофоны петличные</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="42">Термосы для детей</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="132">Конфетницы</category>
-      <category id="285">Йогуртницы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="150">Спальные мешки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="14">Стайлеры</category>
-      <category id="6">LED ленты</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="196">Сетки и корзины для фри</category>
       <category id="179">Мебель для кемпинга</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="122">Аксессуары</category>
-      <category id="63">Кастрюли</category>
-      <category id="55">Рюмки</category>
-      <category id="298">Брелки</category>
-      <category id="77">Пылесосы</category>
       <category id="287">Банты на елку</category>
-      <category id="124">Решетки</category>
-      <category id="54">Стаканы</category>
-      <category id="76">Отпариватели</category>
-      <category id="23">Фены</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="21">Электробритвы</category>
-      <category id="300">Подушки для спины</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="52">Лимонадницы</category>
-      <category id="67">Столовые приборы</category>
-      <category id="34">Подсвечники</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="103">Проекторы</category>
-      <category id="68">Тарелки</category>
-      <category id="53">Кувшины</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="324">Статуэтки</category>
-      <category id="141">Салатницы</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="278">Косметички</category>
-      <category id="59">Все для выпечки</category>
-      <category id="187">Слайсеры</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="47">Наборы для специй</category>
-      <category id="145">Смарт-часы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="15">Плойки</category>
-      <category id="148">Туристические коврики</category>
-      <category id="62">Ковши</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="126">Ланч боксы</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="114">Повербанки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="262">Термосумки</category>
-      <category id="57">Чашки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="56">Бокалы</category>
-      <category id="133">Масленки</category>
-      <category id="111">Портативные колонки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="13">Триммеры</category>
-      <category id="291">Новогодние чашки</category>
       <category id="16">Машинки для стрижки</category>
-      <category id="29">Салфетницы</category>
-      <category id="87">Соковыжималки</category>
-      <category id="182">Блюда</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="187">Слайсеры</category>
+      <category id="118">Сумки</category>
+      <category id="56">Бокалы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="285">Йогуртницы</category>
+      <category id="15">Плойки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="166">Тортовницы</category>
+      <category id="184">Бульонницы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="262">Термосумки</category>
+      <category id="144">Вентиляторы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="53">Кувшины</category>
+      <category id="142">Посуда для детей</category>
       <category id="104">Ручки для чистки наушников</category>
-      <category id="125">Мангалы</category>
-      <category id="72">Весы напольные</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="117">Рюкзаки</category>
       <category id="33">Пепельницы</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="21">Электробритвы</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="117">Рюкзаки</category>
+      <category id="54">Стаканы</category>
+      <category id="132">Конфетницы</category>
+      <category id="318">Кусторезы</category>
+      <category id="76">Отпариватели</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="182">Блюда</category>
+      <category id="57">Чашки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="17">Воскоплавы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="110">Наушники</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="90">Мясорубки</category>
+      <category id="29">Салфетницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="72">Весы напольные</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="68">Тарелки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="125">Мангалы</category>
+      <category id="60">Мармиты</category>
+      <category id="122">Аксессуары</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="149">Палатки</category>
+      <category id="59">Все для выпечки</category>
+      <category id="77">Пылесосы</category>
+      <category id="20">Эпиляторы</category>
+      <category id="75">Утюги</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="140">Крышки</category>
+      <category id="103">Проекторы</category>
+      <category id="194">Менажницы</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="279">Зонты</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="316">Туристические плиты</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="97">Весы кухонные</category>
+      <category id="133">Масленки</category>
+      <category id="52">Лимонадницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="6">LED ленты</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="89">Миксеры</category>
+      <category id="271">Товары для уборки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="81">Капучинаторы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="96">Вакууматоры</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="150">Спальные мешки</category>
       <category id="212">Мебель</category>
-      <category id="93">Электрочайники</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="221">Туристические души</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="34">Подсвечники</category>
+      <category id="324">Статуэтки</category>
+      <category id="63">Кастрюли</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="42">Термосы для детей</category>
+      <category id="292">Столовая посуда</category>
+      <category id="294">Новогодние елки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="66">Сервизы</category>
+      <category id="224">Гамаки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="67">Столовые приборы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="61">Сковородки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
       <category id="199">Карематы и туристические коврики</category>
       <category id="281">Коврики для йоги</category>
-      <category id="184">Бульонницы</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="90">Мясорубки</category>
-      <category id="98">Блендеры</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="31">Часы настенные</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="97">Весы кухонные</category>
-      <category id="17">Воскоплавы</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="194">Менажницы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="75">Утюги</category>
-      <category id="118">Сумки</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="110">Наушники</category>
-      <category id="317">Садовое освещение</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="81">Капучинаторы</category>
-      <category id="140">Крышки</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="149">Палатки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="142">Посуда для детей</category>
-      <category id="186">Тостеры</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="60">Мармиты</category>
-      <category id="166">Тортовницы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="65">Креманки</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="144">Вентиляторы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="96">Вакууматоры</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="136">Дуршлаги</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="318">Кусторезы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="66">Сервизы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="224">Гамаки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="61">Сковородки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="261">Терки</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="221">Туристические души</category>
       <category id="284">Новогодний декор</category>
-      <category id="128">Органайзеры</category>
-      <category id="280">Сушилки для посуды</category>
-      <category id="279">Зонты</category>
+      <category id="317">Садовое освещение</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="31">Часы настенные</category>
+      <category id="55">Рюмки</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="264">Мягкие игрушки</category>
       <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="124">Решетки</category>
+      <category id="278">Косметички</category>
+      <category id="300">Подушки для спины</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="23">Фены</category>
+      <category id="65">Креманки</category>
+      <category id="268">Кухонные подставки</category>
       <category id="83">Чопперы и измельчители</category>
-      <category id="89">Миксеры</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="261">Терки</category>
+      <category id="98">Блендеры</category>
+      <category id="111">Портативные колонки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="136">Дуршлаги</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="93">Электрочайники</category>
+      <category id="141">Салатницы</category>
+      <category id="186">Тостеры</category>
+      <category id="114">Повербанки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="62">Ковши</category>
+      <category id="298">Брелки</category>
+      <category id="14">Стайлеры</category>
+      <category id="128">Органайзеры</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="126">Ланч боксы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="87">Соковыжималки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="13">Триммеры</category>
+      <category id="263">Аксессуары для кухни</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -12632,30 +12631,6 @@
         <param name="Материал">Стекло</param>
         <param name="Высота">20 см</param>
         <param name="Назначение">Для мартини</param>
-        <param name="Декоративное оформление">Позолота</param>
-        <param name="Количество в наборе">6</param>
-        <param name="Объем">300 мл</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_2350684521_HP-16-7" available="true">
-        <name>Набор из 6 бокалов с высокими тонкими ножками, 300 мл, для вина HP-16-7</name>
-        <price>2239.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>56</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_2350684521_HP-16-7</vendorCode>
-        <description>Набор бокалов для вина является воплощением изысканности и элегантности, что делает его идеальным выбором для любого стола. Каждый бокал имеет вместимость 300 мл, что обеспечивает достаточное количество напитка для наслаждения ароматом и вкусом вина. Прозрачное стекло позволяет оценить цвет напитка, а золотой ободок добавляет роскошного вида, создавая атмосферу праздничности. С высотой 23 см эти бокалы выглядят стильно и привлекательно, обеспечивая удобство в использовании. Они станут отличным дополнением к праздничным застольям или романтическим ужинам, подчеркивая ваш вкус и внимание к деталям. Этот набор также станет прекрасным подарком для любителей вина и тех, кто ценит стильную посуду. Характеристики: Количество: 6 штук Объем: 300 мл Высота: 23 см Материал: стекло Преимущества: Золотой ободок добавляет роскошности, что подходит для праздничных событий. Объем 300 мл идеально подходит для наслаждения ароматом и вкусом вина. Высота 23 см делает бокалы привлекательными и удобными в использовании. Позволяет оценить цвет напитка, подчеркивая его изысканность. Подходят для романтических ужинов, праздничных мероприятий и в качестве подарка. Уход: Рекомендуется мыть вручную с мягкими моющими средствами, чтобы сохранить блеск и целостность золотого ободка. Избегайте использования абразивных губок и посудомоечных машин, чтобы предотвратить повреждение декора. Храните бокалы в вертикальном положении, чтобы избежать царапин и сколов на поверхности.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=2599</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2599/nabor_bokalov_na_vysokoy_tonkoy_nozhke_6_shtuk_300_ml_dlya_vina_soka_vody_fuzhery_dlya_alkogolya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2599/nabor_bokalov_na_vysokoy_tonkoy_nozhke_6_shtuk_300_ml_dlya_vina_soka_vody_fuzhery_dlya_alkogolya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2599/nabor_bokalov_na_vysokoy_tonkoy_nozhke_6_shtuk_300_ml_dlya_vina_soka_vody_fuzhery_dlya_alkogolya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2599/nabor_bokalov_na_vysokoy_tonkoy_nozhke_6_shtuk_300_ml_dlya_vina_soka_vody_fuzhery_dlya_alkogolya_3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">23 см</param>
-        <param name="Назначение">Для вина</param>
         <param name="Декоративное оформление">Позолота</param>
         <param name="Количество в наборе">6</param>
         <param name="Объем">300 мл</param>
@@ -46577,7 +46552,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_LU-029M_LU-029M" available="true">
-        <name>Дождевик-пончо многоразовый туристический для охоты, рыбалки на липучке с капюшоном LU-029M Салатовый</name>
+        <name>Дождевик-пончо многоразовый туристический для охоты, рыбалки на липучке с капюшоном LU-029M</name>
         <price>749.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -46592,7 +46567,7 @@
         <param name="Ширина">220</param>
         <param name="Тип ткани">Оксфорд</param>
         <param name="Застежка">Липучка</param>
-        <param name="Цвет">Салатовый</param>
+        <param name="Цвет">Ярко-зеленый</param>
         <param name="Наличие капюшона">Да</param>
         <param name="Длина">140</param>
         <param name="Наличие карманов">Нет</param>
@@ -46661,13 +46636,13 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4453/kuvshin_1_2_litra_so_stakanami_6_shtuk_po_320_ml_grafin_dlya_kompota_soka_vody_limonada_kuvshin_dlya_napitkov_6.jpg</picture>
         <param name="Материал">Стекло</param>
         <param name="Высота">23 см</param>
-        <param name="Верхний диаметр">120</param>
+        <param name="Верхний диаметр">12</param>
         <param name="Количество стаканов/рюмок/бокалов/стопок">6</param>
         <param name="Назначение">Универсальное</param>
         <param name="Декоративное оформление">Гравировка</param>
-        <param name="Объем">1200 мл</param>
+        <param name="Объем">1.2</param>
         <param name="Наличие ручки">Да</param>
-        <param name="Цвет">Прозрачный</param>
+        <param name="Цвет">Rainbow</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Способ закрывания">Не закрывается</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
@@ -49449,7 +49424,7 @@
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
       <offer id="f11_JY-12060GR_JY-12060GR" available="true">
-        <name>Раскладной стол + 4 стула кемпинговый набор для пикника, рыбалки, отдыха, туризма Зеленый JY-12060GR</name>
+        <name>Раскладной стол + 4 стула кемпинговый набор для пикника, рыбалки, отдыха, туризма Хаки JY-12060GR</name>
         <price>3099.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -49476,7 +49451,7 @@
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
-        <param name="Цвет">Зелёный</param>
+        <param name="Цвет">Хаки</param>
         <param name="Высота сиденья стула">35 см</param>
         <param name="Состояние">Новое</param>
         <param name="Глубина стула">32 см</param>
@@ -49488,7 +49463,7 @@
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
       <offer id="f11_JY-12060BR_JY-12060BR" available="true">
-        <name>Раскладной стол + 4 стула кемпинговый набор для пикника, рыбалки, отдыха, туризма Коричневый JY-12060BR</name>
+        <name>Раскладной стол + 4 стула кемпинговый набор для пикника, рыбалки, отдыха, туризма Дерево JY-12060BR</name>
         <price>2609.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -49515,7 +49490,7 @@
         <param name="Количество стульев">4</param>
         <param name="Отверстие в столешнице для зонта">Да</param>
         <param name="Ширина стула">27 см</param>
-        <param name="Цвет">Коричневый</param>
+        <param name="Цвет">Дерево</param>
         <param name="Высота сиденья стула">35 см</param>
         <param name="Состояние">Новое</param>
         <param name="Глубина стула">32 см</param>
@@ -51603,7 +51578,7 @@
         <param name="Длина ручки">131</param>
         <param name="Материал насадки">Микрофибра</param>
         <param name="Материал ручки">Нержавеющая сталь</param>
-        <param name="Цвет">Оранжевый</param>
+        <param name="Цвет">Белый</param>
         <param name="Длина насадки">40</param>
         <param name="Ширина насадки">12</param>
         <param name="Объем ведра">8</param>
@@ -55287,30 +55262,6 @@
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Овальная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HB-40-11_HB-40-11" available="true">
-        <name>Подставка для тарелок и крышек деревянная на кухню 16×12.5×10 (см) HB-40-11</name>
-        <price>79.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>280</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HB-40-11_HB-40-11</vendorCode>
-        <description>Сушилка для тарелок из бамбука поможет поддерживать порядок на кухне, удобно размещая посуду в вертикальном положении. Она подходит не только для тарелок, но и для крышек, что делает её универсальным решением для хранения. Благодаря компактным размерам сушилку можно поставить на рабочую поверхность или разместить в сушильном шкафу. Конструкция из бамбука сочетает прочность, лёгкость и устойчивость, обеспечивая надёжное хранение посуды. Материал хорошо переносит влажность и легко очищается, что делает изделие практичным для ежедневного использования. Основные характеристики деревянной подставка для тарелок и крышек: Размер: 16&amp;times;12.5&amp;times;10 см; Материал: бамбук. Особенности подставки для тарелок на кухню: Подходит для хранения тарелок и крышек Компактная и удобная в использовании Можно разместить на рабочей поверхности или в сушильном шкафу Изготовлена из прочного и лёгкого бамбука Устойчивая конструкция, удобная для ежедневного применения Бамбуковая подставка-сушилка станет практичным помощником на кухне, обеспечивая порядок и экономию пространства. Она универсальна, долговечна и гармонично впишется в любой интерьер.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4864</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4864/podstavka_dlya_tarelok_i_kryshek_derevyannaya_na_kuhnyu_16_12_5_10_sm_podstavka_dlya_tarelok_iz_dereva_2.jpg</picture>
-        <param name="Тип">Подставка</param>
-        <param name="Материал">Бамбук</param>
-        <param name="Высота">10 см</param>
-        <param name="Количество отделов">3</param>
-        <param name="Особенности">Складная конструкция</param>
-        <param name="Ширина">12.5 см</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Длина">16 см</param>
-        <param name="Размещение">Горизонтальное</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-41-1_HP-41-1" available="true">
@@ -67658,7 +67609,7 @@
         <param name="Декоративное оформление">Гравировка</param>
         <param name="Крышка">Есть</param>
         <param name="Ширина">17</param>
-        <param name="Цвет">Прозрачный</param>
+        <param name="Цвет">Rainbow</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Тип посуды">Конфетница</param>
         <param name="Состояние">Новое</param>
@@ -67738,7 +67689,7 @@
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-153-6_HP-19-153-6" available="true">
-        <name>Ваза сумочка с ручкой 13×9.5×18 (см) декоративная стеклянная ваза для цветов 1.2 (л) Прозрачный HP-19-153-6</name>
+        <name>Ваза сумочка с ручкой 13×9.5×18 (см) декоративная стеклянная ваза для цветов 1.2 (л) Радужный HP-19-153-6</name>
         <price>979.0</price>
         <currencyId>UAH</currencyId>
         <quantity>1</quantity>
@@ -67753,11 +67704,11 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5695/vaza_sumochka_s_ruchkoy_13_9_5_18_sm_dekorativnaya_steklyannaya_vaza_dlya_tsvetov_1_2_l_prozrachnyy_3.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5695/vaza_sumochka_s_ruchkoy_13_9_5_18_sm_dekorativnaya_steklyannaya_vaza_dlya_tsvetov_1_2_l_prozrachnyy_4.jpg</picture>
         <param name="Материал">Стекло/Экокожа/Металл</param>
-        <param name="Высота вазы">180</param>
+        <param name="Высота вазы">18</param>
         <param name="Форма вазы">Фигурная</param>
-        <param name="Ширина вазы">90</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Глубина вазы">170</param>
+        <param name="Ширина вазы">9</param>
+        <param name="Цвет">Радужный</param>
+        <param name="Глубина вазы">17</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-19-154-1_HP-19-154-1" available="true">
@@ -68790,12 +68741,12 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5745/nabor_bokalov_dlya_vina_6_sht_po_bokaly_pod_vino_300_ml_na_nozhke_bokaly_vinnye.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5745/nabor_bokalov_dlya_vina_6_sht_po_bokaly_pod_vino_300_ml_na_nozhke_bokaly_vinnye_1.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">160</param>
-        <param name="Верхний диаметр">85</param>
+        <param name="Высота">16</param>
+        <param name="Верхний диаметр">8.5</param>
         <param name="Назначение">Для вина</param>
         <param name="Количество в наборе">6</param>
         <param name="Объем">300</param>
-        <param name="Цвет">Белый</param>
+        <param name="Цвет">Rainbow</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP7115BL_HP7115BL" available="true">
@@ -68852,11 +68803,11 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5748/nabo_stakanov_6_sht_steklyannye_stakany_400_ml_dlya_soka_limonada_kokteyley_stakany_dlya_napitkov.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5748/nabo_stakanov_6_sht_steklyannye_stakany_400_ml_dlya_soka_limonada_kokteyley_stakany_dlya_napitkov_1.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">125</param>
-        <param name="Верхний диаметр">75</param>
+        <param name="Высота">12.5</param>
+        <param name="Верхний диаметр">7.5</param>
         <param name="Количество в наборе">6</param>
         <param name="Объем">400</param>
-        <param name="Цвет">Голубой</param>
+        <param name="Цвет">Rainbow</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP7113BL_HP7113BL" available="true">
@@ -70725,10 +70676,10 @@
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5842/kuvshin_dlya_napitkov_steklyannyy_1_8_l_s_bambukovoy_kryshkoy_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5842/kuvshin_dlya_napitkov_steklyannyy_1_8_l_s_bambukovoy_kryshkoy_3.jpg</picture>
         <param name="Материал">Стекло</param>
-        <param name="Высота">230</param>
-        <param name="Верхний диаметр">80</param>
+        <param name="Высота">23</param>
+        <param name="Верхний диаметр">8</param>
         <param name="Назначение">Универсальное</param>
-        <param name="Цвет">Прозрачный</param>
+        <param name="Цвет">Серый</param>
         <param name="Способ закрывания">Крышка</param>
         <param name="Тип емкости">Кувшин</param>
         <param name="Гарантия">14 дней</param>
@@ -74515,27 +74466,6 @@
         <param name="Длина">250</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Многоуровневая">Нет</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_LB-1566S_LB-1566S" available="true">
-        <name>Фарфоровое блюдо для сервировки на металлической подставке 25*10.5*9 см блюдо для подачи закусок Белый с серебром LB-1566S</name>
-        <price>749.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>182</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_LB-1566S_LB-1566S</vendorCode>
-        <description>Сервировочное блюдо на металлической подставке &amp;mdash; это стильное и удобное решение для подачи фруктов, десертов или закусок как на праздничном, так и на повседневном столе. Комбинация фарфора и металла создаёт гармоничный дуэт практичности и элегантности, подчёркивая изысканность сервировки. Универсальный дизайн блюда позволяет ему органично вписаться в интерьер любой кухни или столовой &amp;mdash; от классики до современности. Основные характеристики блюда на подставке для сервировки стола: Материал: фарфор; Размер: 25&amp;times;10.5&amp;times;9 см; Высота без подставки 2.5 см; Объем: 200 мл. Такое сервировочное блюдо станет не только практичным помощником на кухне, но и стильным украшением вашего стола. Он подчеркнет вкус приготовленных угощений и добавит изюминку в атмосферу любого приема пищи &amp;mdash; от семейного ужина до праздничного банкета.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6085</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6085/farforovoe_blyudo_dlya_servirovki_na_metallicheskoy_podstavke_37_18_5_sm_blyudo_dlya_podachi_zakusok_belyy_s_serebrom_3.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">9/2.5 см</param>
-        <param name="Ширина">10.5</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">25</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_LB-1568S_LB-1568S" available="true">
@@ -81609,7 +81539,7 @@
         <param name="Материал расчески">Нейлон</param>
         <param name="Вес">200</param>
         <param name="Тип расчески">Гребень</param>
-        <param name="Цвет">Розовый</param>
+        <param name="Цвет">Фуксия</param>
         <param name="Стиль">Классический</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -82168,38 +82098,6 @@
         <param name="Состояние">Новое</param>
         <param name="Объем чаши">8.5</param>
         <param name="Цвет корпуса">Нержавеющая сталь</param>
-        <param name="Тип миксера">Стационарный</param>
-      </offer>
-      <offer id="f11_SK-05016_SK-05016" available="true">
-        <name>Планетарный миксер Sokany 1500 Вт с чашей 6 л 9 режимов скорости SK-05016</name>
-        <price>8109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>89</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK-05016_SK-05016</vendorCode>
-        <description>Миксер SOKANY SK-05016 &amp;mdash; это кухонный планетарный миксер предназначенный для смешивания, взбивания и замешивания различных ингредиентов. Он сочетает в себе мощный мотор, вместительную чашу и современные функции управления, что делает его полезным прибором для домашнего использования. Основные характеристики планетарного миксера Мощность: 1500 Вт; 9 режимов скорости; Объем чаши: 6 л; Количество насадок: 3 шт (венчик, крюк для теста, плоская насадка); Импульсный режим: есть; Материал чаши: нержавеющая сталь; Материал корпуса: пластик. Особенности планетарного тестомеса: Планетарная система смешивания обеспечивает равномерное распределение ингредиентов при взбивании и замесе. Наличие электронного таймера для точного контроля времени приготовления; &amp;bull; Функция ферментации для приготовления теста с длительным брожением; Большой объём чаши позволяет готовить большое количество теста или смеси за один раз. Сенсорное управление упрощает настройку режимов. Встроенные весы помогают точно дозировать ингредиенты без дополнительного оборудования. Миксер SK-05016 представляет собой мощный и функциональный стационарный кухонный миксер, который поможет с широким спектром кулинарных задач &amp;mdash; от взбивания кремов и белков до замеса теста. Он подойдет как для ежедневного использования дома, так и для интенсивной готовки больших объёмов.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6569</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6569/planetarnyy_mikser_sokany_1500_vt_s_chashey_6_l_9_rezhimov_skorosti_testomes_so_vstroennymi_vesami_kuhonnyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6569/planetarnyy_mikser_sokany_1500_vt_s_chashey_6_l_9_rezhimov_skorosti_testomes_so_vstroennymi_vesami_kuhonnyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6569/planetarnyy_mikser_sokany_1500_vt_s_chashey_6_l_9_rezhimov_skorosti_testomes_so_vstroennymi_vesami_kuhonnyy_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6569/planetarnyy_mikser_sokany_1500_vt_s_chashey_6_l_9_rezhimov_skorosti_testomes_so_vstroennymi_vesami_kuhonnyy_3.png</picture>
-        <param name="Венчики для взбивания">Да</param>
-        <param name="Гарантийный срок">12</param>
-        <param name="Потребляемая мощность">1500</param>
-        <param name="Защита от случайного отсоединения насадок">Да</param>
-        <param name="Защитная крышка на чашу">Да</param>
-        <param name="Интегрированные кухонные весы">Да</param>
-        <param name="Питание">Сеть 220В</param>
-        <param name="Количество насадок">3</param>
-        <param name="Кнопка для отсоединения насадок">Да</param>
-        <param name="Количество скоростей">9</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Материал чаши">Металл</param>
-        <param name="Насадки для замеса теста">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Объем чаши">6</param>
-        <param name="Цвет корпуса">Бежевый</param>
         <param name="Тип миксера">Стационарный</param>
       </offer>
       <offer id="f11_SK-272_SK-272" available="true">
@@ -83838,7 +83736,7 @@
         <param name="Декоративное оформление">Гравировка</param>
         <param name="Объем">1.2</param>
         <param name="Наличие ручки">Да</param>
-        <param name="Цвет">Оранжевый</param>
+        <param name="Цвет">Золотистый</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Способ закрывания">Не закрывается</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
@@ -86362,34 +86260,6 @@
         <param name="Тип емкости">Лимонадница</param>
         <param name="Нижний диаметр">17</param>
       </offer>
-      <offer id="f11_HP-19-296_HP-19-296" available="true">
-        <name>Лимонадница с краном стеклянная 3 л диспенсер для напитков лимонадник с краном HP-19-296</name>
-        <price>1279.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>52</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-19-296_HP-19-296</vendorCode>
-        <description>Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики: Объём: 3 л; Высота: 50 см; Материал: стекло; Верхний диаметр : 17 см. Особенности: Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых. Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6781</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6781/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6781/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6781/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6781/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_3.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">500</param>
-        <param name="Верхний диаметр">170</param>
-        <param name="Назначение">Универсальное</param>
-        <param name="Декоративное оформление">Гравировка</param>
-        <param name="Объем">3000</param>
-        <param name="Наличие ручки">Нет</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Тематика декора, рисунка">Без декора</param>
-        <param name="Способ закрывания">Крышка</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Тип емкости">Лимонадница</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-19-298_HP-19-298" available="true">
         <name>Лимонадница для напитков с краном 2л HP-19-298</name>
         <price>1019.0</price>
@@ -86942,7 +86812,7 @@
         <param name="Ширина">12.5</param>
         <param name="Объем">500</param>
         <param name="Ситечко">Есть</param>
-        <param name="Цвет">Зелёный</param>
+        <param name="Цвет">Серый</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -87008,35 +86878,6 @@
         <param name="Длина">140</param>
         <param name="Тематика декора, рисунка">Без декора</param>
         <param name="Пол">Унисекс</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_7230_7230" available="true">
-        <name>Мягкая игрушка большой плюшевый Медведь 120 (см) Коричневый 7230</name>
-        <price>1699.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>264</categoryId>
-        <vendor>Colorful Home</vendor>
-        <vendorCode>f11_7230_7230</vendorCode>
-        <description>Игрушка &amp;laquo;Большой плюшевый медведь&amp;raquo; &amp;mdash; это мягкий и уютный аксессуар, который можно использовать как игрушку или как декоративный элемент интерьера. Благодаря высоте 120 см медвежонок эффектно смотрится на кровати, диване или в детской комнате, при этом оставаясь удобным для повседневного использования. Медведь выполнен из приятного на ощупь плюша, который дарит комфорт при прикосновении. Отдельные детали оформлены акриловой пряжей &amp;mdash; это помогает игрушке сохранять форму и аккуратный внешний вид. Материалы подобраны так, чтобы медведь был мягким, но достаточно плотным, поэтому его можно использовать и как большую подушку для отдыха. Плюшевый медведь подойдёт и детям, и взрослым. Он станет уютным дополнением дома или приятным подарком на любой случай. Изделие не требует сложного ухода, а износостойкие материалы помогают надолго сохранить привлекательный внешний вид. Универсальный дизайн легко вписывается в разные стили интерьера. Основные характеристики большого плюшевого медведя: Размер игрушки: 50&amp;times;40&amp;times;120 см; Материал: плюш, акриловая пряжа. Большой плюшевый медведь &amp;mdash; это мягкая и уютная игрушка, которая подарит ребёнку радость и комфорт. Она станет верным другом для игр, обниманий и сна, а благодаря приятным материалам и продуманному дизайну будет безопасной и долговечной.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6828</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/70612/6828/myagkaya_igrushka_bolshoy_plyushevyy_medved_120_sm_mishka_teddi_plyushevyy_mishka_korichnevyy_6.jpg</picture>
-        <param name="Материал">Плюш</param>
-        <param name="Высота">120</param>
-        <param name="Тип игрушки">Животное</param>
-        <param name="Вес">3.1</param>
-        <param name="Ширина">50</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Длина">40</param>
-        <param name="Наполнитель">Синтепон</param>
-        <param name="Состояние">Новое</param>
-        <param name="Возрастная группа">Без ограничений</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_529-1GR_529-1GR" available="true">
