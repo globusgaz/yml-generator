@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-11 08:42">
+<yml_catalog date="2026-05-11 12:33">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="287">Банты на елку</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="187">Слайсеры</category>
-      <category id="118">Сумки</category>
-      <category id="56">Бокалы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="285">Йогуртницы</category>
-      <category id="15">Плойки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="166">Тортовницы</category>
-      <category id="184">Бульонницы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="262">Термосумки</category>
-      <category id="144">Вентиляторы</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="53">Кувшины</category>
-      <category id="142">Посуда для детей</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="33">Пепельницы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="21">Электробритвы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="54">Стаканы</category>
-      <category id="132">Конфетницы</category>
-      <category id="318">Кусторезы</category>
-      <category id="76">Отпариватели</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="182">Блюда</category>
-      <category id="57">Чашки</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="17">Воскоплавы</category>
-      <category id="193">Доски для подачи</category>
-      <category id="110">Наушники</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="90">Мясорубки</category>
-      <category id="29">Салфетницы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="72">Весы напольные</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="68">Тарелки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="125">Мангалы</category>
-      <category id="60">Мармиты</category>
-      <category id="122">Аксессуары</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="149">Палатки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="77">Пылесосы</category>
-      <category id="20">Эпиляторы</category>
-      <category id="75">Утюги</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="140">Крышки</category>
-      <category id="103">Проекторы</category>
-      <category id="194">Менажницы</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="279">Зонты</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="316">Туристические плиты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="97">Весы кухонные</category>
-      <category id="133">Масленки</category>
-      <category id="52">Лимонадницы</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="6">LED ленты</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="89">Миксеры</category>
-      <category id="271">Товары для уборки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="81">Капучинаторы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="96">Вакууматоры</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="150">Спальные мешки</category>
-      <category id="212">Мебель</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="221">Туристические души</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="34">Подсвечники</category>
-      <category id="324">Статуэтки</category>
-      <category id="63">Кастрюли</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="42">Термосы для детей</category>
-      <category id="292">Столовая посуда</category>
-      <category id="294">Новогодние елки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="66">Сервизы</category>
-      <category id="224">Гамаки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="67">Столовые приборы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="61">Сковородки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="284">Новогодний декор</category>
-      <category id="317">Садовое освещение</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="31">Часы настенные</category>
-      <category id="55">Рюмки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="124">Решетки</category>
-      <category id="278">Косметички</category>
-      <category id="300">Подушки для спины</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="23">Фены</category>
-      <category id="65">Креманки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="261">Терки</category>
-      <category id="98">Блендеры</category>
-      <category id="111">Портативные колонки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="136">Дуршлаги</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="93">Электрочайники</category>
-      <category id="141">Салатницы</category>
-      <category id="186">Тостеры</category>
-      <category id="114">Повербанки</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="223">Колбасные шприцы</category>
       <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="62">Ковши</category>
-      <category id="298">Брелки</category>
-      <category id="14">Стайлеры</category>
-      <category id="128">Органайзеры</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="126">Ланч боксы</category>
-      <category id="148">Туристические коврики</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="141">Салатницы</category>
+      <category id="31">Часы настенные</category>
+      <category id="111">Портативные колонки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="20">Эпиляторы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="186">Тостеры</category>
+      <category id="76">Отпариватели</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="317">Садовое освещение</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="33">Пепельницы</category>
+      <category id="285">Йогуртницы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="21">Электробритвы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
       <category id="87">Соковыжималки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="89">Миксеры</category>
+      <category id="140">Крышки</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="149">Палатки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="142">Посуда для детей</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="292">Столовая посуда</category>
+      <category id="47">Наборы для специй</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="42">Термосы для детей</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="318">Кусторезы</category>
+      <category id="125">Мангалы</category>
+      <category id="278">Косметички</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="59">Все для выпечки</category>
+      <category id="187">Слайсеры</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="298">Брелки</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="224">Гамаки</category>
+      <category id="54">Стаканы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="23">Фены</category>
+      <category id="61">Сковородки</category>
+      <category id="182">Блюда</category>
+      <category id="287">Банты на елку</category>
+      <category id="53">Кувшины</category>
+      <category id="324">Статуэтки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="117">Рюкзаки</category>
       <category id="2302">Подарункові коробки і пакети</category>
+      <category id="97">Весы кухонные</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="212">Мебель</category>
+      <category id="221">Туристические души</category>
       <category id="13">Триммеры</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="90">Мясорубки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="6">LED ленты</category>
+      <category id="194">Менажницы</category>
+      <category id="118">Сумки</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="262">Термосумки</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="60">Мармиты</category>
+      <category id="132">Конфетницы</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="57">Чашки</category>
+      <category id="128">Органайзеры</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="124">Решетки</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="271">Товары для уборки</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="72">Весы напольные</category>
+      <category id="12">Косметические зеркала</category>
       <category id="263">Аксессуары для кухни</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="261">Терки</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="193">Доски для подачи</category>
+      <category id="284">Новогодний декор</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="166">Тортовницы</category>
+      <category id="98">Блендеры</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="56">Бокалы</category>
+      <category id="184">Бульонницы</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="75">Утюги</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="81">Капучинаторы</category>
+      <category id="34">Подсвечники</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="136">Дуршлаги</category>
+      <category id="279">Зонты</category>
+      <category id="122">Аксессуары</category>
+      <category id="294">Новогодние елки</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="62">Ковши</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="63">Кастрюли</category>
+      <category id="17">Воскоплавы</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="148">Туристические коврики</category>
+      <category id="15">Плойки</category>
+      <category id="114">Повербанки</category>
+      <category id="77">Пылесосы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="65">Креманки</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="52">Лимонадницы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="103">Проекторы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="93">Электрочайники</category>
+      <category id="29">Салфетницы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="300">Подушки для спины</category>
+      <category id="144">Вентиляторы</category>
+      <category id="195">Разделочные доски</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="66">Сервизы</category>
+      <category id="55">Рюмки</category>
+      <category id="68">Тарелки</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="133">Масленки</category>
+      <category id="110">Наушники</category>
+      <category id="150">Спальные мешки</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="14">Стайлеры</category>
+      <category id="2">Уличные гирлянды</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -773,35 +773,6 @@
         <param name="Формат акустики">Стерео</param>
         <param name="Гарантия">3 мес</param>
         <param name="Чувствительность">40 дБ</param>
-      </offer>
-      <offer id="f11_SK450W_SK450W" available="true">
-        <name>Электрическая духовка Sokany настольная 50 л SK450W</name>
-        <price>13259.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>80</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK450W_SK450W</vendorCode>
-        <description>Представляем вам надежное и удобное решение для приготовления вкусных блюд в уюте вашей кухни - электрическую настольную духовку. Это мощное и эффективное устройство, которое превратит процесс готовки в удовольствие. С мощностью 1700 Вт и вместимостью 50 литров, она готова справиться с различными кулинарными задачами, обеспечивая достаточно места для ваших кулинарных фантазий. Встроенный таймер позволяет точно контролировать время приготовления, а простой механический контроль обеспечивает легкость в использовании. Характеристики: Мощность: 1700 Вт Вместимость: 50 литров Таймер: Встроенный для точного контроля Тип контроля: Механический Дизайн: Компактный и легкий, подходит для небольших кухонь Технология: Равномерное распределение тепла для отличных результатов Очистка: Поддон для крошек и съемные решетки Преимущества: Обеспечивает достаточную мощность и объем для разнообразных блюд Легкий в управлении благодаря механическому контролю Равномерный прогрев для отличного качества приготовления Простая очистка благодаря съемным компонентам Уход: После использования очистка духовки будет простой благодаря съемным решеткам и поддону для крошек. Регулярно очищайте эти части для поддержания чистоты и гигиены на кухне. Электрическая настольная духовка станет вашим надежным помощником в кухне, открывая множество возможностей для творческого приготовления. Откройте новые гастрономические горизонты с этой эффективной электропечью!</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=312</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/312/elektricheskaya_duhovka_nastolnaya_1700_vt_50_l_duhovoy_shkaf_elektricheskiy_nastolnyy_sokany_5.jpg</picture>
-        <param name="Внутреннее освещение">Да</param>
-        <param name="Защита от перегрева">Да</param>
-        <param name="Звуковой сигнал">Да</param>
-        <param name="Объем">50 л</param>
-        <param name="Поддержание температуры">Да</param>
-        <param name="Конвекция">Да</param>
-        <param name="Максимальная мощность печи">1700 Вт</param>
-        <param name="Цвет">Белый</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Гарантия">6 мес</param>
-        <param name="Таймер">Да</param>
-        <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="f11_1935414030_SK1772W" available="true">
         <name>Капучинатор Sokany аккумуляторный Белый SK1772W</name>
@@ -1840,49 +1811,6 @@
         <param name="Номинальное напряжение">220 В</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Сталь</param>
-        <param name="Гарантия">3 мес</param>
-        <param name="Тип установки оборудования">Настольный</param>
-        <param name="Толкатель">Да</param>
-        <param name="Реверс">Да</param>
-        <param name="Формовочная насадка для фарша">Да</param>
-        <param name="Тип управления">Электро-механическое</param>
-      </offer>
-      <offer id="f11_2014500106_SK090" available="true">
-        <name>Электромясорубка Sokany SK090 профессиональная 3500 Вт SK090</name>
-        <price>5299.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>90</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_2014500106_SK090</vendorCode>
-        <description>Профессиональная электрическая мясорубка Sokany - это мощное и многофункциональное устройство, спроектированное для обработки различных видов мяса и других продуктов. Мясорубка обладает высокой мощностью, что позволяет легко и эффективно измельчать продукты. Электромясорубка работает при стандартном напряжении 220 В, что делает его совместимым с большинством электрических систем. С этой мясорубкой вы можете обрабатывать продукты со скоростью до 3 кг в минуту. Основные характеристики и особенности мощность 3500 Вт; напряжение 220 В; производительность 3 кг/мин; защита от перегрузки; длина сетевого шнура 1 метр. Мясорубка оснащена системой реверса, которая помогает избежать заторов и обеспечивает равномерную обработку продуктов. Встроенная защита от перегрузки предотвращает повреждение машины в случае перегрузки или чрезмерного напряжения. Электромясорубка изготовлена из нержавеющей стали, что обеспечивает гигиеничность и долгий срок службы. В комплект поставки входят насадки для кеббе и для приготовления колбас, что делает мясорубку многофункциональной и подходящей для разнообразных задач в кухне. Профессиональная электрическая мясорубка Sokany идеально подходит для профессионального использования в ресторанах, кафе или других заведениях, где требуется быстрое и качественное приготовление пищи. Эта мясорубка обеспечивает высокую производительность и широкий спектр функций для разнообразных кулинарных задач.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=507</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/myasorubka_elektricheskaya_sokany_sk_090_s_nasadkami_stalnoy-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_2-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_3-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_4-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_5-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_6-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/090-11-600x600.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Вид оборудования">Мясорубка стандартная</param>
-        <param name="Вес">3.4 кг</param>
-        <param name="Защита от перегрузок">Да</param>
-        <param name="Длина сетевого шнура">1</param>
-        <param name="Количество решеток">3</param>
-        <param name="Особенности">Реверс</param>
-        <param name="Насадка для приготовления колбас">Да</param>
-        <param name="Минимальная производительность">3 кг/мин</param>
-        <param name="Материал ножа">Нержавеющая сталь</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Насадка-кеббе">Да</param>
-        <param name="Материал рабочей камеры">металл</param>
-        <param name="Номинальная потребляемая мощность">3500 Вт</param>
-        <param name="Сфера использования">Уличная торговля|HoReCa|Пищевая промышленность|Fast-food|Торговые магазины</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Состояние">Новое</param>
-        <param name="Отсек для хранения насадок">Да</param>
-        <param name="Цвет корпуса">Серый</param>
         <param name="Гарантия">3 мес</param>
         <param name="Тип установки оборудования">Настольный</param>
         <param name="Толкатель">Да</param>
@@ -6087,30 +6015,6 @@
         <param name="Количество в наборе">6</param>
         <param name="Объем">360 мл</param>
         <param name="Тип стакана">Высокий</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_2148787590_HP4166" available="true">
-        <name>Набор стаканов для виски 6 штук по 310 мл прозрачный HP4166</name>
-        <price>699.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>54</categoryId>
-        <vendor>TS Kitchen</vendor>
-        <vendorCode>f11_2148787590_HP4166</vendorCode>
-        <description>Набор стаканов для напитков изготовлен из высококачественного прочного стекла, что обеспечивает долговечность и надежность. Простой, но элегантный дизайн добавляет шарма любой сервировке, делая стаканы универсальным выбором для любого стола. Прозрачная структура стекла подчеркивает эстетику напитков, делая их прекрасным дополнением к вашему праздничному столу. Характеристики: Объем: 310 мл Материал: высококачественное прочное стекло Цвет: прозрачный Преимущества: Высокая долговечность и надежность Элегантный универсальный дизайн Можно мыть в посудомоечной машине Уход: Стаканы можно мыть в посудомоечной машине для легкого и удобного ухода.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=1625</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/00110/HP4166/nabor_stakanov_dlya_viski_rebristyh_iz_tolstogo_stekla_6_shtuk_po_310_ml_prozrachnyy-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00110/HP4166/4166_1-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00110/HP4166/4166_2-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/00110/HP4166/4166_3-600x600.jpg</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Назначение">Для виски</param>
-        <param name="Подходит для горячих напитков">Нет</param>
-        <param name="Количество в наборе">6</param>
-        <param name="Объем">310 мл</param>
-        <param name="Тип стакана">Низкий</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Подходит для мытья в посудомоечной машине">Да</param>
         <param name="Гарантия">14 дней</param>
@@ -14512,6 +14416,37 @@
         <param name="Хранение в холодильнике">Да</param>
         <param name="Хранение в морозильной камере">Нет</param>
         <param name="Длина">370 мм</param>
+        <param name="Цвет">Белый</param>
+        <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+        <param name="Форма">Круглая</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_2350684623_HP-1217" available="true">
+        <name>Менажница фарфоровая на вращающейся подставке 5 секций белая HP-1217</name>
+        <price>1889.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_2350684623_HP-1217</vendorCode>
+        <description>Эта менажница сочетает в себе натуральные материалы и элегантный дизайн: фарфоровая чаша с крышкой и бамбуковая подставка. Подставка изготовлена из высококачественного бамбука для прочности и долговечности. Основные характеристики набора для соусов и закусок Размер набора 30 x 30 x 10 см Объем одной секции 200 мл Материалы - фарфор и бамбук Этот набор - стильный элемент сервировки вашего стола. Вы сможете подавать разнообразные закуски, фрукты, соусы и десерты в изысканных композициях и удивлять своих гостей оригинальной посудой. Доставка осуществляется по всей Украине.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=2701</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2701/menazhnitsa_s_kryshkami_na_vrashchayushcheysya_bambukovoy_podstavke_5_sektsiy_nabor_dlya_podachi_sousov_i_zakusok_7.jpg</picture>
+        <param name="Материал">Керамика</param>
+        <param name="Высота">100 мм</param>
+        <param name="Количество секций">5</param>
+        <param name="Использование в микроволновке">Нет</param>
+        <param name="Крышка">есть</param>
+        <param name="Ширина">300 мм</param>
+        <param name="Хранение в холодильнике">Да</param>
+        <param name="Хранение в морозильной камере">Нет</param>
+        <param name="Длина">300 мм</param>
         <param name="Цвет">Белый</param>
         <param name="Подходит для мытья в посудомоечной машине">Нет</param>
         <param name="Форма">Круглая</param>
@@ -32849,35 +32784,6 @@
         <param name="Упаковка">Коробка</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-20-27_HP-20-27" available="true">
-        <name>Набор столовых приборов в футляре на 6 персон столовый набор 30 предметов в футляре Серебро HP-20-27</name>
-        <price>3369.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>67</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-20-27_HP-20-27</vendorCode>
-        <description>Набор столовых приборов в футляре рассчитан на 6 персон и содержит 30 предметов: 6 столовых ложек, 6 чайных ложек, 6 вилок, 6 столовых ножей и 6 ножей для стейков. Комплект обеспечивает полный набор необходимых приборов для сервировки стола, включая специальные ножи для удобной нарезки мяса. Благодаря удобному футляру все предметы хранятся в одном месте, что помогает поддерживать порядок и защищает их от повреждений. Основные характеристики: Количество предметов в наборе: 30 шт.; Количество персон: 6; Материал: нержавеющая сталь, кухонный нож (ручка) - пластик; Упаковка: коробка; Размеры приборов: длина столового ножа: 23 см; длина кухонного ножа: 23 см; длина столовой ложки: 20.5 см; длина столовой вилки: 21 см; длина чайной ложки: 14 см. Комплектация набора: столовый нож: 6 шт.; кухонный нож: 6 шт.; столовая ложка: 6 шт.; столовая вилка: 6 шт.; чайная ложка: 6 шт.. Приборы изготовлены из нержавеющей стали, что обеспечивает прочность, устойчивость к коррозии и долговечность. Полированная поверхность придает им привлекательный вид и облегчает очистку. Эргономичная форма обеспечивает удобный хват, а ножи для стейков имеют заостренные лезвия для легкого разрезания мясных блюд. Комплект идеально подходит как для ежедневного использования, так и для особых случаев. Футляр делает его удобным для хранения и транспортировки, что может быть полезным для выездов или подарочных наборов. Все предметы легко моются вручную или в посудомоечной машине, сохраняя свой вид и функциональность.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=3703</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0100100/HP-20-27/HP2027_3-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0100100/HP-20-27/HP2027_1-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0100100/HP-20-27/HP2027_2-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3703/nabor_stolovyh_priborov_v_futlyare_na_6_person_stolovyy_nabor_30_predmetov_v_futlyare_serebro_3.jpg</picture>
-        <param name="Материал">Нержавеющая сталь</param>
-        <param name="Вилка столовая">6</param>
-        <param name="Количество персон">6</param>
-        <param name="Количество предметов">30</param>
-        <param name="Ложка столовая">6</param>
-        <param name="Ложка чайная">6</param>
-        <param name="Материал ручки">нержавеющая сталь/пластик</param>
-        <param name="Цвет">Серебристый</param>
-        <param name="Нож столовый">6</param>
-        <param name="Поверхность">Зеркальная</param>
-        <param name="Подходит для мытья в посудомоечной машине">Да</param>
-        <param name="Упаковка">Коробка</param>
-        <param name="Нож для стейка">6</param>
-        <param name="Гарантия">14</param>
-      </offer>
       <offer id="f11_HP-20-29_HP-20-29" available="true">
         <name>Набор столовых приборов в футляре на 6 персон столовый набор 30 предметов Бронза HP-20-29</name>
         <price>3809.0</price>
@@ -39647,6 +39553,33 @@
         <param name="Тип рекомендуемой свечи">длинная свеча конусообразной формы|пеньковая свеча</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Глубина подсвечника">20 см</param>
+        <param name="Состояние">Новое</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
+      <offer id="f11_HP-4-13_HP-4-13" available="true">
+        <name>Подсвечник стеклянный на 3 свечи 37.5 см подсвечник декоративный прозрачный на ножке HP-4-13</name>
+        <price>1099.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>34</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-4-13_HP-4-13</vendorCode>
+        <description>Современный и элегантный подсвечник с трёхуровневой конструкцией станет эффектным элементом декора в любом интерьере. Прозрачные цилиндрические держатели для свечей расположены на разной высоте, создавая объёмную композицию и визуальную динамику. Зеркальное основание добавляет блеска и подчёркивает чистоту линий. Такой подсвечник станет ярким акцентом на праздничном столе или зоне отдыха. Основные характеристики подсвечника на ножке: Материал: стекло; Высота: 37.5 см; Диаметр: 12 см; Диаметр под свечу: 5.5 см. Особенности стеклянного подсвечника на 3 свечи: Три стеклянных держателя разной высоты Современный минималистичный дизайн; Подходит для классических или электронных свечей; Прочное и устойчивое основание; Универсальное применение &amp;ndash; интерьер, мероприятия, фотозоны; Легко вписывается в стиль лофт, модерн, сканди. Этот стеклянный подсвечник на три свечи &amp;mdash; воплощение элегантности и современного стиля. Он не только наполнит пространство мягким светом, но и станет выразительным элементом декора, подчёркивающим ваш вкус и любовь к изысканным деталям. Идеальное сочетание простоты форм и утончённости &amp;mdash; для дома, мероприятий и особых случаев.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4085</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4085/podsvechnik_steklyannyy_na_3_svechi_12_37_5_sm_podsvechnik_dekorativnyy_prozrachnyy_na_nozhke_4.jpg</picture>
+        <param name="Высота подсвечника">37.5 см</param>
+        <param name="Диаметр подсвечника">12 см</param>
+        <param name="Вес подсвечника">1 кг</param>
+        <param name="Количество мест для свечей">3</param>
+        <param name="Материал изготовления">Стекло</param>
+        <param name="Диаметр рекомендуемой свечи">5.5 см</param>
+        <param name="Тип подсвечника">настольный (каминный)</param>
+        <param name="Тип рекомендуемой свечи">длинная свеча цилиндрической формы|пеньковая свеча</param>
+        <param name="Цвет">Прозрачный</param>
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
@@ -50646,33 +50579,6 @@
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Черный</param>
       </offer>
-      <offer id="f11_SK-19016_SK-19016" available="true">
-        <name>Портативный кондиционер Sokany 75 Вт с пультом, ионизацией и баком 9 л SK-19016</name>
-        <price>6459.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>144</categoryId>
-        <vendor>Sokany</vendor>
-        <vendorCode>f11_SK-19016_SK-19016</vendorCode>
-        <description>Элегантный мобильный кондиционер с функцией ионизации воздуха &amp;mdash; это свежесть, комфорт и забота о здоровье в каждой комнате. Этот портативный воздухоохладитель обеспечивает приятную прохладу, увлажнение и очистку воздуха от аллергенов, пыли и запахов. Идеальное решение для дома, офиса или дачи в жаркий сезон. Характеристики охладителя воздуха тип: портативный воздухоохладитель с ионизацией и пультом управления; мощность охлаждения: 75 Вт; объём бака: 9 литров; режимы работы: 3 скорости, 3 режима обдува; скорость воздушного потока: 7.5 / 8.5 / 9.5 м/с; объём воздуха: до 5500 м&amp;sup3;/ч; функция таймера: до 15 часов; угол обдува: до 120&amp;deg; (авто-жалюзи влево-вправо, ручная настройка вверх-вниз); дисплей: LED + сенсорное управление; управление: пульт дистанционного управления; размеры: 75&amp;times;45&amp;times;35 см; в комплекте: пульт, 2 ёмкости для льда, 4 ролика, руководство пользователя. Преимущества портативного кондиционера Увлажнение и ионизация &amp;mdash; очищает воздух от аллергенов и мелкой пыли. Бак 9 литров и 2 ёмкости для льда &amp;mdash; долгое охлаждение и стабильная подача прохлады. Широкий угол обдува и высокая скорость воздуха &amp;mdash; равномерное охлаждение всей комнаты. Удобное управление &amp;mdash; сенсорная панель и пульт для максимального комфорта. Полная мобильность &amp;mdash; легко перемещается между комнатами благодаря роликам. Идеальное решение для дома, дачи или офиса при жаркой погоде или временном отключении стационарного кондиционера. Обеспечит свежий поток воздуха и комфорт даже без сложного монтажа и дорогостоящих установок. Купить мобильный воздухоохладитель можно с доставкой по всей Украине. Отправка в день заказа, надёжная упаковка, возможность оплаты наложенным платежом.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4658</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_6.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_7.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_8.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4658/mobilnyy_konditsioner_vozduhoohladitel_75_vt_s_ionizatsiey_taymerom_i_bakom_9_l_portativnyy_ohladitel_9.jpg</picture>
-        <param name="Назначение кондиционера">Бытовой</param>
-        <param name="Тип внутреннего блока">Мобильный</param>
-        <param name="Режим работы кондиционера">Охлаждение</param>
-        <param name="Мощность охлаждения">75 Вт</param>
-        <param name="Состояние">Новое</param>
-        <param name="Цвет корпуса">Белый</param>
-      </offer>
       <offer id="f11_SK-19017_SK-19017" available="true">
         <name>Портативный кондиционер Sokany 75 Вт с пультом, ионизацией и баком 5 л SK-19017</name>
         <price>3969.0</price>
@@ -55871,27 +55777,6 @@
         <param name="Количество отделений">1</param>
         <param name="Ширина">20 см</param>
         <param name="Цвет">Черный</param>
-        <param name="Количество органайзеров">1</param>
-        <param name="Длина">30 см</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-41-18HAKI_HP-41-18HAKI" available="true">
-        <name>Органайзер для хранения вещей 30×20×14 (см) Коричневый HP-41-18HAKI</name>
-        <price>139.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>274</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_5d24f9689098cd98f6</vendorCode>
-        <description>Удобный и стильный органайзер станет незаменимым помощником в хранении вещей. Благодаря компактной форме и ручкам по бокам его легко переносить и размещать в любом удобном месте &amp;mdash; на полке, в шкафу или в ванной комнате. Корзина выполнена из прочного текстиля, который держит форму и прост в уходе. Основные характеристики органайзера для белья в шкаф: Размер в разложенном состоянии: 30&amp;times;20&amp;times;14 см; Размер в сложенном состоянии: 30&amp;times;20&amp;times;5 см; Материал: текстиль. Особенности ящика для нижнего белья: Вместительный и компактный формат. Удобные ручки для переноса. Стильный дизайн. Прочный материал, устойчивый к износу. Легкость ухода &amp;mdash; достаточно протереть влажной тканью. Такой органайзер станет практичным решением для хранения белья, одежды или мелочей, а также гармонично впишется в любой интерьер дома.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4898</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4898/organayzer_dlya_belya_30_20_14_sm_korob_hraneniya_dlya_nizhnego_belya_korzina_dlya_belya_haki.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4898/organayzer_dlya_belya_30_20_14_sm_korob_hraneniya_dlya_nizhnego_belya_korzina_dlya_belya_haki_1.jpg</picture>
-        <param name="Тип">Коробка</param>
-        <param name="Высота">14 см</param>
-        <param name="Количество отделений">1</param>
-        <param name="Ширина">20 см</param>
-        <param name="Цвет">Хаки</param>
         <param name="Количество органайзеров">1</param>
         <param name="Длина">30 см</param>
         <param name="Гарантия">14 дней</param>
@@ -91895,7 +91780,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-1_HP-JW-1</vendorCode>
-        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Ключевые характеристики: Размеры в сложенном состоянии &amp;mdash; 80*12*10 см Диаметр &amp;mdash; 150 см Высота &amp;mdash; 180 см Материал ножки &amp;mdash; алюминий Количество спиц &amp;mdash; 7</description>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45° и прочным куполом — идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас — удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Ключевые характеристики: Размеры в сложенном состоянии — 80*12*10 см Диаметр — 150 см Высота — 180 см Материал ножки — алюминий Количество спиц — 7</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7087</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0427.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-1/_T5B0425-600x600.jpg</picture>
@@ -91923,7 +91808,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-2_HP-JW-2</vendorCode>
-        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80&amp;times;12&amp;times;10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45° и прочным куполом — идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас — удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80×12×10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7088</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-2/_T5B0405-600x600.jpg</picture>
@@ -91949,7 +91834,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-3_HP-JW-3</vendorCode>
-        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45&amp;deg; и прочным куполом &amp;mdash; идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас &amp;mdash; удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80&amp;times;12&amp;times;10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
+        <description>Зонт для пляжа и сада с легким алюминиевым каркасом, регулируемым наклоном до 45° и прочным куполом — идеально подходит для защиты от солнца и отдыха на свежем воздухе. Преимущества: Легкий алюминиевый каркас — удобная транспортировка. Регулируемый наклон обеспечивает защиту от солнца в разное время суток. Быстрая установка и надежная фиксация в грунте с помощью комплектных колышков. Рекомендации: Для устойчивости в ветреную погоду дополнительно закрепите анкерами или грузами. Просушите перед хранением. Чистите мягкой щеткой и теплой водой при необходимости. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Вес - 1,4 кг Размеры в сложенном состоянии - 80×12×10 см Диаметр - 150 см Высота - 180 см Количество спиц - 7 Материал - винил</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7089</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-3/_T5B0493-600x600.jpg</picture>
@@ -91977,7 +91862,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-4_HP-JW-4</vendorCode>
-        <description>Элегантный солнцезащитный зонт в винтажном стиле, который станет главным украшением отдыха на побережье, в саду или на террасе. Сочетание классического дизайна с бахромой и современных защитных технологий. Преимущества: Премиальный дизайн: Декоративная бахрома придает зонту уникальный, свежий вид, создавая атмосферу уютного бунгало или элитного курорта прямо во дворе. Высокая степень защиты (UPF 50+): Материал купола блокирует более 98% ультрафиолетовых лучей, обеспечивая безопасное и комфортное пребывание в тени даже в пик солнечной активности. Прочная конструкция: Усиленный стальной стержень и 8 спиц обеспечивают необходимую жесткость и устойчивость конструкции при умеренном ветре. Практичность и удобство: Простая установка: Зонт быстро собирается без использования дополнительных инструментов. Мобильность: В комплект входит сумка-чехол для хранения, что делает зонт удобным для транспортировки на пляж или пикник. Характеристики: Материал: полиэстер, сталь Диаметр купола: 1,5 м Высота: 1,8 м Количество спиц: 8 Размеры в сложенном состоянии: 105*13*10 см Вес: 1,4 кг</description>
+        <description>Элегантный солнцезащитный зонт в винтажном стиле, который станет главным украшением отдыха на побережье, в саду или на террасе. Сочетание классического дизайна с бахромой и современных защитных технологий. Преимущества: Премиальный дизайн: Декоративная бахрома придает зонту уникальный, свежий вид, создавая атмосферу уютного бунгало или элитного курорта прямо во дворе. Высокая степень защиты (UPF 50+): Материал купола блокирует более 98% ультрафиолетовых лучей, обеспечивая безопасное и комфортное пребывание в тени даже в пик солнечной активности. Прочная конструкция: Усиленный стальной стержень и 8 спиц обеспечивают необходимую жесткость и устойчивость конструкции при умеренном ветре. Практичность и удобство: Простая установка: Зонт быстро собирается без использования дополнительных инструментов. Мобильность: В комплект входит сумка-чехол для хранения, что делает зонт удобным для транспортировки на пляж или пикник. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: полиэстер, сталь Диаметр купола: 1,5 м Высота: 1,8 м Количество спиц: 8 Размеры в сложенном состоянии: 105*13*10 см Вес: 1,4 кг</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7090</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-4/_T5B0666-600x600.jpg</picture>
@@ -92004,7 +91889,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-5_HP-JW-5</vendorCode>
-        <description>Отличное решение для комфортного отдыха на природе, сочетающее в себе классический пляжный зонт и ветрозащитную палатку. Благодаря круговому фартуку на молнии, вы получаете персональную зону комфорта, защищенную от солнца, ветра и посторонних глаз. Преимущества: Трансформированная конструкция: используется как обычный зонт или с круговым "фартуком", который превращает его в уютное укрытие. Боковой экран крепится на молнии, что позволяет быстро адаптироваться к изменению погоды. Максимальная терморегуляция: Двухслойный купол с серебристым покрытием (Silver Coating) на внутренней стороне отображает до 99% ультрафиолета. Вентиляционная система: Двухуровневая конструкция купола обеспечивает свободную циркуляцию воздуха, предотвращая удушье внутри и минимизируя парусность при сильном ветру. Всепогодная защита: Материал купола - износостойкая ткань Оксфорд. Она не только не выгорает на солнце, но и обладает отличными водоотталкивающими свойствами, защищая от внезапного дождя. Особенности: Легкость и прочность: Стойка выполнена из алюминия, что делает зонт легким для переноски и устойчивым к коррозии в условиях морского климата. Регулировка под любым углом: Шарнирный механизм позволяет менять угол наклона купола, обеспечивая оптимальную тень в течение дня без необходимости перемещать основу. Усиленный каркас: Конструкция рассчитана на повышенные ветровые нагрузки, что критически для открытых пляжей и степевых зон. Характеристики: Материал: Оксфорд, алюминий Диаметр бани: 1,7 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии (парассолька/"фартук"): 177*13*13 см / 36*25*20 см</description>
+        <description>Отличное решение для комфортного отдыха на природе, сочетающее в себе классический пляжный зонт и ветрозащитную палатку. Благодаря круговому фартуку на молнии, вы получаете персональную зону комфорта, защищенную от солнца, ветра и посторонних глаз. Преимущества: Трансформированная конструкция: используется как обычный зонт или с круговым "фартуком", который превращает его в уютное укрытие. Боковой экран крепится на молнии, что позволяет быстро адаптироваться к изменению погоды. Максимальная терморегуляция: Двухслойный купол с серебристым покрытием (Silver Coating) на внутренней стороне отображает до 99% ультрафиолета. Вентиляционная система: Двухуровневая конструкция купола обеспечивает свободную циркуляцию воздуха, предотвращая удушье внутри и минимизируя парусность при сильном ветру. Всепогодная защита: Материал купола - износостойкая ткань Оксфорд. Она не только не выгорает на солнце, но и обладает отличными водоотталкивающими свойствами, защищая от внезапного дождя. Особенности: Легкость и прочность: Стойка выполнена из алюминия, что делает зонт легким для переноски и устойчивым к коррозии в условиях морского климата. Регулировка под любым углом: Шарнирный механизм позволяет менять угол наклона купола, обеспечивая оптимальную тень в течение дня без необходимости перемещать основу. Усиленный каркас: Конструкция рассчитана на повышенные ветровые нагрузки, что критически для открытых пляжей и степевых зон. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: Оксфорд, алюминий Диаметр бани: 1,7 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии (парассолька/"фартук"): 177*13*13 см / 36*25*20 см</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7091</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7091/zont_dlya_plyazha_i_kempinga_s_fartukom_175_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-5/_T5B0511-600x600.jpg</picture>
@@ -92030,7 +91915,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-6_HP-JW-6</vendorCode>
-        <description>Инновационное решение для отдыха, сочетающее в себе преимущества пляжного зонта и защитной палатки. Модель оснащена круговым защитным экраном, который создает уединенную зону и обеспечивает защиту от солнца, ветра и песка. Преимущества: Система &amp;laquo;Трансформер&amp;raquo;: Благодаря съемному фартуку на молнии устройство легко превращается из обычного большого зонта в закрытый тент. Боковая панель позволяет полностью закрыться с подветренной стороны или создать отдельное пространство для переодевания и отдыха. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтиком комфортную прохладу даже в полдень. Двойной вентилируемый купол: Двухуровневая конструкция обеспечивает естественный отвод горячего воздуха и снижает парусность. Зонт остается устойчивым при резких порывах ветра, пропуская потоки воздуха через вентиляционный клапан. Премиальные материалы: Купол выполнен из износостойкой ткани Оксфорд, которая отличается высокой плотностью, не выгорает на солнце и обладает водоотталкивающими свойствами. Особенности: Легкость и долговечность: Стойка из алюминиевого сплава обеспечивает высокую прочность конструкции при минимальном весе, что упрощает транспортировку и защищает каркас от коррозии. Индивидуальная настройка: Встроенный механизм регулировки угла наклона позволяет мгновенно подстраивать тень под положение солнца, не перемещая саму основу. Усиленный каркас: Модель разработана с учетом повышенных ветровых нагрузок, что делает её идеальной для открытых пляжей и степных зон. Характеристики: Материал: Оксфорд, алюминий, стекловолокно Диаметр купола: 1,9 м Высота: 1,8 м Количество спиц: 6 Размеры в сложенном состоянии: 115*30*18 см Вес: 2,4 кг</description>
+        <description>Инновационное решение для отдыха, сочетающее в себе преимущества пляжного зонта и защитной палатки. Модель оснащена круговым защитным экраном, который создает уединенную зону и обеспечивает защиту от солнца, ветра и песка. Преимущества: Система «Трансформер»: Благодаря съемному фартуку на молнии устройство легко превращается из обычного большого зонта в закрытый тент. Боковая панель позволяет полностью закрыться с подветренной стороны или создать отдельное пространство для переодевания и отдыха. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтиком комфортную прохладу даже в полдень. Двойной вентилируемый купол: Двухуровневая конструкция обеспечивает естественный отвод горячего воздуха и снижает парусность. Зонт остается устойчивым при резких порывах ветра, пропуская потоки воздуха через вентиляционный клапан. Премиальные материалы: Купол выполнен из износостойкой ткани Оксфорд, которая отличается высокой плотностью, не выгорает на солнце и обладает водоотталкивающими свойствами. Особенности: Легкость и долговечность: Стойка из алюминиевого сплава обеспечивает высокую прочность конструкции при минимальном весе, что упрощает транспортировку и защищает каркас от коррозии. Индивидуальная настройка: Встроенный механизм регулировки угла наклона позволяет мгновенно подстраивать тень под положение солнца, не перемещая саму основу. Усиленный каркас: Модель разработана с учетом повышенных ветровых нагрузок, что делает её идеальной для открытых пляжей и степных зон. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: Оксфорд, алюминий, стекловолокно Диаметр купола: 1,9 м Высота: 1,8 м Количество спиц: 6 Размеры в сложенном состоянии: 115*30*18 см Вес: 2,4 кг</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7092</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7092/zont_dlya_plyazha_i_kempinga_s_fartukom_190_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0607-600x600.jpg</picture>
@@ -92058,7 +91943,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-7_HP-JW-7</vendorCode>
-        <description>Профессиональный зонт премиум-класса, созданный специально для комфортной длительной рыбалки в любых погодных условиях. Уникальное сочетание гибких стекловолоконных спиц, полного винилового покрытия и специального выреза для удилища делает эту модель отличным выбором. Преимущества: Вырез для удилища: С одной стороны купола предусмотрен эргономичный вырез. Это позволяет комфортно разместить удочку или фидер прямо под зонтом. Удилище находится в тени и защищено от перегрева, а вы можете сидеть максимально близко к снастям, не задевая купол при подсечке. Технология полного затемнения: Внутренняя сторона купола покрыта черным винилом. Это напыление не просто создает густую тень, а блокирует 99,9% ультрафиолетовых лучей (UPF 50+). Под таким зонтиком температура на несколько градусов ниже, что критично при многочасовом ожидании поклевки на солнце. Всенаправленный карданный шарнир: Поворотный узел на стойке позволяет наклонять купол по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Особенности: Отличная гибкость (&amp;laquo;Антишторм&amp;raquo;): Зонт оснащен усиленными спицами из стекловолокна (fiberglass). Этот композитный материал обладает уникальной гибкостью: при сильных порывах ветра спицы пружинят, предотвращая поломку каркаса или выворачивание купола наизнанку. Материал купола: ткань Оксфорд 210T с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный металлический стержень: обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности. Характеристики: Материал: Оксфорд, металл, стекловолокно Диаметр купола: 1,9 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии: 120*12*10 см Вес: 2,5 кг</description>
+        <description>Профессиональный зонт премиум-класса, созданный специально для комфортной длительной рыбалки в любых погодных условиях. Уникальное сочетание гибких стекловолоконных спиц, полного винилового покрытия и специального выреза для удилища делает эту модель отличным выбором. Преимущества: Вырез для удилища: С одной стороны купола предусмотрен эргономичный вырез. Это позволяет комфортно разместить удочку или фидер прямо под зонтом. Удилище находится в тени и защищено от перегрева, а вы можете сидеть максимально близко к снастям, не задевая купол при подсечке. Технология полного затемнения: Внутренняя сторона купола покрыта черным винилом. Это напыление не просто создает густую тень, а блокирует 99,9% ультрафиолетовых лучей (UPF 50+). Под таким зонтиком температура на несколько градусов ниже, что критично при многочасовом ожидании поклевки на солнце. Всенаправленный карданный шарнир: Поворотный узел на стойке позволяет наклонять купол по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Особенности: Отличная гибкость («Антишторм»): Зонт оснащен усиленными спицами из стекловолокна (fiberglass). Этот композитный материал обладает уникальной гибкостью: при сильных порывах ветра спицы пружинят, предотвращая поломку каркаса или выворачивание купола наизнанку. Материал купола: ткань Оксфорд 210T с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный металлический стержень: обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Материал: Оксфорд, металл, стекловолокно Диаметр купола: 1,9 м Высота: 2,2 м Количество спиц: 8 Размеры в сложенном состоянии: 120*12*10 см Вес: 2,5 кг</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7093</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-7/_T5B0868-600x600.jpg</picture>
@@ -92084,13 +91969,13 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-8_HP-JW-8</vendorCode>
-        <description>Кемпинговый зонт &amp;mdash; это надежная защита от солнца и дождя для комфортного отдыха на природе. Благодаря большому диаметру 190 см он создает просторную теневую зону, идеально подходящую для кемпинга, рыбалки, пикников или использования во дворе. Высота 220 см обеспечивает удобство в использовании, позволяя свободно разместиться под зонтом без ограничений. Прочная конструкция с 8 спицами диаметром 7 мм гарантирует устойчивость даже при ветреной погоде. Надежные материалы и продуманный дизайн обеспечивают долговечность и практичность в повседневном использовании. Это универсальное решение для тех, кто ценит комфорт и защиту в любых погодных условиях. Характеристики: Количество спиц - 8 Диаметр спиц - 7 мм Высота - 220 см Диаметр - 190 см</description>
+        <description>Кемпинговый зонт — это надежная защита от солнца и дождя для комфортного отдыха на природе. Благодаря большому диаметру 190 см он создает просторную теневую зону, идеально подходящую для кемпинга, рыбалки, пикников или использования во дворе. Высота 220 см обеспечивает удобство в использовании, позволяя свободно разместиться под зонтом без ограничений. Прочная конструкция с 8 спицами диаметром 7 мм гарантирует устойчивость даже при ветреной погоде. Надежные материалы и продуманный дизайн обеспечивают долговечность и практичность в повседневном использовании. Это универсальное решение для тех, кто ценит комфорт и защиту в любых погодных условиях. Важно! Тренога для установки зонта не входит в комплект и приобретается отдельно. Характеристики: Количество спиц - 8 Диаметр спиц - 7 мм Высота - 220 см Диаметр - 190 см</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7094</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1022-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1051-600x600.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1034-600x600.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1059-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1034-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1051-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-8/_T5B1022-600x600.jpg</picture>
         <param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
         <param name="Форма купола">круглый</param>
         <param name="Механизм раскрывания купола">ручной</param>
@@ -92164,7 +92049,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-11_HP-JW-11</vendorCode>
-        <description>Профессиональный специализированный зонт премиум-класса, созданный для бескомпромиссного комфорта во время длительной рыбалки. Уникальное сочетание эргономичного дизайна, усиленного каркаса и передовых термозащитных технологий делает эту модель незаменимым помощником на берегу. Ключевые преимущества: Эргономичный вырез для удилища: С одной стороны купола предусмотрен специальный вырез, позволяющий разместить фидерное или карповое удилище прямо под зонтом. Это обеспечивает свободный доступ к снастям при подсечке, не задевая ткань, и позволяет рыбаку сидеть максимально близко к воде, оставаясь в тени. Технология полного затемнения (Black Vinyl): Внутренняя сторона купола покрыта многослойным черным винилом. Это напыление не просто создает густую тень, а полностью блокирует 99.9% вредных ультрафиолетовых лучей (UPF 50+). Под таким зонтом температура на 3&amp;ndash;5&amp;deg;C ниже, чем под обычным тканевым куполом, что критично в жаркий полдень. Двойная вентиляция (&amp;laquo;Антишторм&amp;raquo;): Уникальная двухуровневая конструкция купола обеспечивает естественную циркуляцию воздуха (под зонтом не бывает душно) и значительно снижает парусность. Потоки ветра проходят сквозь вентиляционные клапаны, предотвращая выворачивание зонта наизнанку. Всенаправленный карданный шарнир: Массивный поворотный узел на стойке позволяет наклонять купол на 360&amp;deg; по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Конструктивные особенности: Материал купола: Высокоплотная ткань Оксфорд (Oxford 210T) с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный алюминиевый стержень: Обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности.</description>
+        <description>Профессиональный специализированный зонт премиум-класса, созданный для бескомпромиссного комфорта во время длительной рыбалки. Уникальное сочетание эргономичного дизайна, усиленного каркаса и передовых термозащитных технологий делает эту модель незаменимым помощником на берегу. Ключевые преимущества: Эргономичный вырез для удилища: С одной стороны купола предусмотрен специальный вырез, позволяющий разместить фидерное или карповое удилище прямо под зонтом. Это обеспечивает свободный доступ к снастям при подсечке, не задевая ткань, и позволяет рыбаку сидеть максимально близко к воде, оставаясь в тени. Технология полного затемнения (Black Vinyl): Внутренняя сторона купола покрыта многослойным черным винилом. Это напыление не просто создает густую тень, а полностью блокирует 99.9% вредных ультрафиолетовых лучей (UPF 50+). Под таким зонтом температура на 3–5°C ниже, чем под обычным тканевым куполом, что критично в жаркий полдень. Двойная вентиляция («Антишторм»): Уникальная двухуровневая конструкция купола обеспечивает естественную циркуляцию воздуха (под зонтом не бывает душно) и значительно снижает парусность. Потоки ветра проходят сквозь вентиляционные клапаны, предотвращая выворачивание зонта наизнанку. Всенаправленный карданный шарнир: Массивный поворотный узел на стойке позволяет наклонять купол на 360° по горизонтали и фиксировать его под любым углом. Это дает возможность создать идеальный ветрозащитный экран (стенку) с любой стороны, просто наклонив купол, не переставляя сам зонт. Конструктивные особенности: Материал купола: Высокоплотная ткань Оксфорд (Oxford 210T) с влагозащитной пропиткой и внутренним виниловым слоем. Усиленный алюминиевый стержень: Обеспечивает высокую прочность всей конструкции при минимальном весе и абсолютную устойчивость к коррозии в условиях высокой влажности. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7097</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-11/_T5B0962-600x600.jpg</picture>
@@ -92188,7 +92073,7 @@
         <categoryId>323</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_HP-JW-12_HP-JW-12</vendorCode>
-        <description>Кемпинговый зонт &amp;ndash; практичное решение для защиты от солнца и дождя во время отдыха на природе или во дворе. Благодаря большому куполу она создает комфортную тень и помогает избежать перегрева в жаркую погоду, а также надежно защищает от внезапных осадков. Сдержанный серый цвет выглядит универсально и легко сочетается с любой туристической или садовой экипировкой. Прочная конструкция обеспечивает стабильность и долговечность даже при активном использовании. Зонт легко устанавливается и удобен в транспортировке, что делает его отличным выбором для кемпинга, пикников, рыбалки или отдыха на даче. Это надежный аксессуар, который поможет создать комфортные условия в любых погодных условиях.</description>
+        <description>Кемпинговый зонт – практичное решение для защиты от солнца и дождя во время отдыха на природе или во дворе. Благодаря большому куполу она создает комфортную тень и помогает избежать перегрева в жаркую погоду, а также надежно защищает от внезапных осадков. Сдержанный серый цвет выглядит универсально и легко сочетается с любой туристической или садовой экипировкой. Прочная конструкция обеспечивает стабильность и долговечность даже при активном использовании. Зонт легко устанавливается и удобен в транспортировке, что делает его отличным выбором для кемпинга, пикников, рыбалки или отдыха на даче. Это надежный аксессуар, который поможет создать комфортные условия в любых погодных условиях. ВНИМАНИЕ Тренога для установки зонта не входит в комплект и приобретается отдельно.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7098</url>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-12/_T5B0917-600x600.jpg</picture>
@@ -93671,30 +93556,6 @@
         <param name="Способ закрывания">Крышка</param>
         <param name="Объем стакана/рюмки/бокала/стопки">1</param>
         <param name="Нижний диаметр">7.5</param>
-      </offer>
-      <offer id="f11_HP-17-14_HP-17-14" available="true">
-        <name>Набор креманок на ножке Sundae Dish 2 штуки по 300 мл с ручкой HP-17-14</name>
-        <price>179.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>65</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-17-14_HP-17-14</vendorCode>
-        <description>Набор из 2-х стеклянных креманок на ножке предназначен для подачи десертов, мороженого, фруктов или кремовых блюд во время сервировки стола. Широкая, расширяющаяся кверху форма позволяет удобно выкладывать порцию и обеспечивает хорошую визуальную подачу десерта. Объем 300 мл подходит для индивидуальной подачи различных сладких блюд. Поверхность креманок выполнена с рельефными вертикальными линиями в стиле гофрированного стекла, которые создают выразительную игру света и добавляют объема внешнему виду. Боковые элементы в виде небольших ручек-&amp;laquo;бусин&amp;raquo; облегчают удержание при использовании и подаче. Креманки установлены на короткой ножке с круглой основой, что обеспечивает устойчивость на столе и удобство при сервировке. Прозрачное стекло позволяет четко видеть структуру десерта, подчеркивая его слои и цвета. Характеристики: Количество: 2 креманки Материал: стекло Объем: 300 мл Высота: 9,5 см Верхний диаметр: 11 см Нижний диаметр: 6 см</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7175</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_1.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_2.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_3.png</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7175/nabor_kremanok_na_nozhke_sundae_dish_2_shtuki_po_300_ml_s_ruchkoy_kremanka_dlya_morozhenogo_fruktovyh_salatov_desertov_4.png</picture>
-        <param name="Материал">Стекло</param>
-        <param name="Высота">9.5</param>
-        <param name="Диаметр">11</param>
-        <param name="Крышка">Нет</param>
-        <param name="Количество в наборе">2</param>
-        <param name="Объем">0.3</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Тип посуды">Креманка</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
