@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-12 13:23">
+<yml_catalog date="2026-05-12 16:39">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="60">Мармиты</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="67">Столовые приборы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="124">Решетки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="63">Кастрюли</category>
-      <category id="52">Лимонадницы</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="59">Все для выпечки</category>
-      <category id="194">Менажницы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="77">Пылесосы</category>
-      <category id="72">Весы напольные</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="103">Проекторы</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="126">Ланч боксы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="285">Йогуртницы</category>
-      <category id="89">Миксеры</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="93">Электрочайники</category>
-      <category id="262">Термосумки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="62">Ковши</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="76">Отпариватели</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="54">Стаканы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="271">Товары для уборки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="298">Брелки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="287">Банты на елку</category>
-      <category id="110">Наушники</category>
-      <category id="20">Эпиляторы</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="195">Разделочные доски</category>
-      <category id="144">Вентиляторы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="98">Блендеры</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="75">Утюги</category>
-      <category id="187">Слайсеры</category>
-      <category id="279">Зонты</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="284">Новогодний декор</category>
-      <category id="128">Органайзеры</category>
-      <category id="21">Электробритвы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="87">Соковыжималки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="6">LED ленты</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="114">Повербанки</category>
-      <category id="186">Тостеры</category>
-      <category id="68">Тарелки</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="149">Палатки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="61">Сковородки</category>
-      <category id="221">Туристические души</category>
-      <category id="31">Часы настенные</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="57">Чашки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="193">Доски для подачи</category>
-      <category id="53">Кувшины</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="166">Тортовницы</category>
-      <category id="14">Стайлеры</category>
-      <category id="65">Креманки</category>
-      <category id="15">Плойки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="140">Крышки</category>
-      <category id="96">Вакууматоры</category>
-      <category id="29">Салфетницы</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="212">Мебель</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="117">Рюкзаки</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="81">Капучинаторы</category>
-      <category id="111">Портативные колонки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="125">Мангалы</category>
-      <category id="42">Термосы для детей</category>
-      <category id="118">Сумки</category>
-      <category id="33">Пепельницы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="133">Масленки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="292">Столовая посуда</category>
       <category id="91">Кухонные комбайны</category>
-      <category id="56">Бокалы</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="150">Спальные мешки</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="324">Статуэтки</category>
-      <category id="300">Подушки для спины</category>
-      <category id="184">Бульонницы</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="182">Блюда</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="66">Сервизы</category>
-      <category id="23">Фены</category>
-      <category id="318">Кусторезы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="47">Наборы для специй</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="90">Мясорубки</category>
-      <category id="55">Рюмки</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="34">Подсвечники</category>
       <category id="13">Триммеры</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="261">Терки</category>
-      <category id="224">Гамаки</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="83">Чопперы и измельчители</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="81">Капучинаторы</category>
+      <category id="53">Кувшины</category>
+      <category id="166">Тортовницы</category>
+      <category id="298">Брелки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="52">Лимонадницы</category>
+      <category id="262">Термосумки</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="110">Наушники</category>
+      <category id="96">Вакууматоры</category>
       <category id="122">Аксессуары</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="35702">Обувь для Взрослых</category>
+      <category id="182">Блюда</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="75">Утюги</category>
+      <category id="54">Стаканы</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="47">Наборы для специй</category>
+      <category id="136">Дуршлаги</category>
+      <category id="187">Слайсеры</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="114">Повербанки</category>
+      <category id="77">Пылесосы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="149">Палатки</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="103">Проекторы</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="65">Креманки</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="55">Рюмки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="117">Рюкзаки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="317">Садовое освещение</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="23">Фены</category>
+      <category id="186">Тостеры</category>
+      <category id="144">Вентиляторы</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="318">Кусторезы</category>
+      <category id="145">Смарт-часы</category>
+      <category id="134">Бутылки для масла</category>
       <category id="278">Косметички</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="132">Конфетницы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="142">Посуда для детей</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="141">Салатницы</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="294">Новогодние елки</category>
+      <category id="61">Сковородки</category>
       <category id="45">Коктейльные наборы для бара</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="33">Пепельницы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="300">Подушки для спины</category>
+      <category id="42">Термосы для детей</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="271">Товары для уборки</category>
+      <category id="124">Решетки</category>
+      <category id="142">Посуда для детей</category>
+      <category id="76">Отпариватели</category>
+      <category id="90">Мясорубки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="126">Ланч боксы</category>
+      <category id="133">Масленки</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="132">Конфетницы</category>
+      <category id="150">Спальные мешки</category>
+      <category id="128">Органайзеры</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="279">Зонты</category>
+      <category id="57">Чашки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="89">Миксеры</category>
+      <category id="97">Весы кухонные</category>
+      <category id="221">Туристические души</category>
+      <category id="118">Сумки</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="98">Блендеры</category>
+      <category id="34">Подсвечники</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="212">Мебель</category>
+      <category id="87">Соковыжималки</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="59">Все для выпечки</category>
+      <category id="68">Тарелки</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="194">Менажницы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="140">Крышки</category>
+      <category id="72">Весы напольные</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="285">Йогуртницы</category>
+      <category id="93">Электрочайники</category>
+      <category id="148">Туристические коврики</category>
+      <category id="193">Доски для подачи</category>
+      <category id="324">Статуэтки</category>
+      <category id="6">LED ленты</category>
+      <category id="195">Разделочные доски</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="21">Электробритвы</category>
+      <category id="316">Туристические плиты</category>
+      <category id="111">Портативные колонки</category>
+      <category id="60">Мармиты</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="29">Салфетницы</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="125">Мангалы</category>
+      <category id="63">Кастрюли</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="17">Воскоплавы</category>
+      <category id="56">Бокалы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="14">Стайлеры</category>
+      <category id="184">Бульонницы</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="31">Часы настенные</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="15">Плойки</category>
+      <category id="224">Гамаки</category>
+      <category id="294">Новогодние елки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="261">Терки</category>
+      <category id="66">Сервизы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="287">Банты на елку</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="62">Ковши</category>
+      <category id="67">Столовые приборы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="141">Салатницы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -65439,7 +65439,7 @@
         <vendorCode>f11_SJ-0014B_SJ-0014B</vendorCode>
         <description>Складное кемпинговое кресло имеет металлический каркас, который обеспечивает прочность и устойчивость. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии:50х80х80 см; Размер в сложенном состоянии: 83х15х15 см; Ширина сиденья: 41 см; Рекомендуемая нагрузка: 100 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Этот материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в частности во время кемпинга или на пикниках. Легкость в использовании и складывании делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5583</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0014B/abc39a0edc63421ce489797ce3a5d936.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_1.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_2.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5583/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_chernoe_lugi_3.jpg</picture>
@@ -65456,12 +65456,11 @@
         <param name="Подстаканник">1</param>
         <param name="Складная конструкция для хранения и транспортировки">Да</param>
         <param name="Регулируемые опоры">Нет</param>
-        <param name="Ширина стула">80 см</param>
+        <param name="Ширина стула">80</param>
         <param name="Максимально допустимая нагрузка">100 кг</param>
         <param name="Цвет">Чёрный</param>
-        <param name="Высота стула с учетом спинки">80 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Глубина стула">50 см</param>
+        <param name="Высота стула с учетом спинки">800</param>
+        <param name="Глубина стула">500</param>
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
@@ -78959,22 +78958,17 @@
         <categoryId>179</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_SJ-0065P_SJ-0065P</vendorCode>
-        <description>Это не просто кресло &amp;mdash; это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Несмотря на игрушечный вид, кресло имеет прочную стальную раму, способную выдержать нагрузку вплоть до 75 кг! Оно легко складывается "парасолью" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Тип: Кресло сложное детское, туристическое Каркас: Міцна сталева рама Максимальная нагрузка: 75 кг Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
+        <description>Это не просто кресло — это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Оно легко складывается "зонтиком" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Каркас: стальная рама Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6397</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6397/kreslo_detskoe_pohodnoe_skladnoe_legkoe_turisticheskoe_kreslo_so_spinkoy_i_chehlom_dlya_kempinga_otdyha_i_rybalki_rozovyy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0065P/_T5B9534.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0065P/_T5B9538.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0065P/_T5B9541.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/SJ-0065P/_T5B9544.jpg</picture>
         <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
         <param name="Вес">1.2</param>
         <param name="Материал каркаса (опор)">Металл</param>
         <param name="Откидной столик на подлокотнике">Нет</param>
         <param name="Складная конструкция для хранения и транспортировки">Да</param>
-        <param name="Максимально допустимая нагрузка">75</param>
-        <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
         <param name="Чехол для хранения и транспортировки">Да</param>
       </offer>
@@ -93531,6 +93525,72 @@
         <param name="Цвет">Белый</param>
         <param name="Форма">Круглая</param>
       </offer>
+      <offer id="f11_HP-34-80_HP-34-80" available="true">
+        <name>Сотейник из термостойкого стекла 2.5 л с деревянной ручкой кастрюля для соусов блюд HP-34-80</name>
+        <price>1109.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>62</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-80_HP-34-80</vendorCode>
+        <description>Сотейник из термостойкого стекла объемом 2.5 л сочетает практичность и визуальную легкость в ежедневном использовании. Прозрачные стенки с легким оттенком позволяют контролировать процесс приготовления без открывания крышки, что помогает сохранять стабильную температуру и избегать лишнего испарения. Деревянная ручка обеспечивает удобное удержание и уменьшает нагрев во время готовки. Модель подходит для приготовления соусов, каш, супов небольшого объема, подогрева напитков или тушения ингредиентов. Термостойкое стекло устойчиво к высоким температурам, не впитывает запахи и не влияет на вкус продуктов. Крышка оснащена ручкой и позволяет плотно накрывать сотейник, поддерживая равномерное приготовление. Для долговременного использования важно избегать резких перепадов температуры: нагревать постепенно, не ставить горячий сотейник на холодные поверхности и не охлаждать его водой сразу после использования. Рекомендуется мыть после полного охлаждения, используя мягкие губки и жидкие моющие средства без абразивов, чтобы сохранить прозрачность и целостность материала. Характеристики: Тип: ковш Объем: 2,5 л Материал: термостойкое стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7194</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7194/soteynik_iz_termostoykogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tepla_6.jpg</picture>
+        <param name="Количество ручек">1</param>
+        <param name="Крышка">стекло</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип посуды">Сотейник</param>
+        <param name="Материал ручек">Дерево</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_HP-34-81_HP-34-81" available="true">
+        <name>Сотейник из боросиликатного стекла 2.5 л с деревянной ручкой кастрюля для приготовления соусов блюд HP-34-81</name>
+        <price>999.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>62</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-81_HP-34-81</vendorCode>
+        <description>Сотейник из термостойкого стекла объемом 2,5 л сочетает в себе практичность и визуальную легкость в повседневном использовании. Прозрачные стенки с легким оттенком позволяют контролировать процесс приготовления без открывания крышки, что помогает поддерживать стабильную температуру и избегать излишнего испарения. Деревянная ручка обеспечивает удобное удержание и уменьшает нагрев во время приготовления. Модель подходит для приготовления соусов, каш, супов небольшого объема, подогрева напитков или тушения ингредиентов. Термостойкое стекло устойчиво к высоким температурам, не впитывает запахи и не влияет на вкус продуктов. Крышка оснащена ручкой и позволяет плотно накрывать сотейник , поддерживая равномерное приготовление. Для длительного использования важно избегать резких перепадов температуры: нагревать постепенно, не ставить горячий сотейник на холодные поверхности и не охлаждать его водой сразу после использования. Рекомендуется мыть после полного остывания, используя мягкие губки и жидкие моющие средства без абразивов, чтобы сохранить прозрачность и целостность материала. Характеристики: Тип: сотейник Объем: 2,5 л Материал: термостойкое стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7195</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7195/soteynik_iz_borosilikatnogo_stekla_2_5_l_s_derevyannoy_ruchkoy_kastryulya_dlya_prigotovleniya_sousov_blyud_6.jpg</picture>
+        <param name="Количество ручек">1</param>
+        <param name="Крышка">стекло</param>
+        <param name="Тип посуды">Сотейник</param>
+        <param name="Материал ручек">Дерево</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_HP-34-82_HP-34-82" available="true">
+        <name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-82</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-82_HP-34-82</vendorCode>
+        <description>Набор стеклянных трубочек из 4 штук &amp;ndash; стильная и экологичная альтернатива одноразовым соломинкам для ежедневного использования. Изготовлены из прочного боросиликатного стекла, трубочки не впитывают запахи и не влияют на вкус напитков, позволяя наслаждаться коктейлями, соками или лимонадами в чистом виде. Длина 19 см и диаметр 7 мм делают их удобными для разных видов стаканов и бокалов. В комплекте предусмотрена специальная щеточка для легкой и быстрой очистки, обеспечивающая комфортное многократное использование. Прозрачный дизайн выглядит современно и эстетично, гармонично дополняя сервировку стола. Такой набор станет отличным выбором для дома, вечеринок или подарка для тех, кто поддерживает экологический образ жизни. Характеристики: Длина 19 см Диаметр 7 мм Материал стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7196</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7196/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7196/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7196/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7196/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">4</param>
+        <param name="Длина">190</param>
+      </offer>
       <offer id="f11_HP-34-95_HP-34-95" available="true">
         <name>Диспенсер для напитков Красико стеклянный 3 л с бамбуковой подставкой лимонадник в форме бочки прозрачный HP-34-95</name>
         <price>1339.0</price>
@@ -93639,6 +93699,251 @@
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">200</param>
       </offer>
+      <offer id="f11_HP-34-105_HP-34-105" available="true">
+        <name>Стеклянная кастрюля 2.5 л диаметр 20 см кухонная посуда для приготовления варки тушения блюд прозрачная HP-34-105</name>
+        <price>829.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-105_HP-34-105</vendorCode>
+        <description>Стеклянная кастрюля объемом 2.5 л &amp;mdash; это стильное и практичное решение для ежедневного приготовления. Изготовлена из прочного боросиликатного стекла, она устойчива к высоким температурам и перепадам, не впитывает запахи и сохраняет натуральный вкус блюд. Диаметр 20 см обеспечивает удобство в использовании, а прозрачные стенки позволяют контролировать процесс приготовления без излишнего открывания крышки. Конструкция с отверстием для выпуска пара повышает безопасность и комфорт, предотвращая накопление избыточного давления. Такая кастрюля идеально подходит для супов, соусов и тушеных блюд, а также станет эстетическим дополнением кухни, позволяя подавать готовые блюда прямо на стол. Характеристики: Диаметр - 20 см Материал - боросиликатное стекло Объем - 2.5 л Особенности - отверстие для выпуска пара</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7211</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7211/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Дерево</param>
+        <param name="Мерная шкала">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-121_HP-34-121" available="true">
+        <name>Сотейник из боросиликатного стекла 1.8 л 15.5х15.5х9 см с деревянной ручкой кастрюля для соусов блюд HP-34-121</name>
+        <price>949.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>62</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-121_HP-34-121</vendorCode>
+        <description>Стильный и функциональный сотейник, который идеально подходит для приготовления соусов, варки яиц, каш или разогрева небольших порций еды. Благодаря прозрачным стенкам можно контролировать процесс, не снимая крышки. Преимущества: Эргономичная длинная ручка: Выполнена из натурального дерева. Она не нагревается, минимизируя риск получения ожогов. Рельефное боросиликатное стекло: Корпус имеет тонкое вертикальное рифление, которое красиво рассеивает свет и делает посуду визуально более изысканной. Материал устойчив к высоким температурам и может использоваться с различными видами плит. Универсальность и безопасность: Стекло &amp;mdash; инертный материал, не меняет вкус продуктов и легко моется. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать сотейник при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна сотейника, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить сотейник в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло, дерево Высота без крышки: 9 см Диаметр: 15,5 см Объем: 1,8 л Вес: 700 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7216</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7216/soteynik_iz_borosilikatnogo_stekla_1_8_l_15_5h15_5h9_sm_s_derevyannoy_ruchkoy_kastryulya_dlya_sousov_blyud_ravnomernoe_raspredelenie_tep_6.jpg</picture>
+        <param name="Верхний диаметр посуды">150</param>
+        <param name="Высота стенок">90</param>
+        <param name="Количество ручек">1</param>
+        <param name="Крышка">стекло</param>
+        <param name="Съемная ручка">Нет</param>
+        <param name="Тип посуды">Сотейник</param>
+        <param name="Материал ручек">Дерево</param>
+      </offer>
+      <offer id="f11_HP-34-122_HP-34-122" available="true">
+        <name>Набор стеклянных трубочек 6 штук с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-122</name>
+        <price>369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-122_HP-34-122</vendorCode>
+        <description>Набор стеклянных трубочек из 6 штук &amp;ndash; это стильное и экологичное решение для ежедневного использования дома, на вечеринках или во время праздничных событий. Трубочки изготовлены из качественного стекла, которое не впитывает запахи и не изменяет вкус напитков, позволяя полностью наслаждаться коктейлями, лимонадами, соками и смузи. Благодаря длине 20 см и диаметру 7 мм они отлично подходят для высоких стаканов и бокалов. В комплекте есть специальная щеточка для быстрой и удобной очистки, что делает трубочки практичными для многократного использования. Прозрачный минималистичный дизайн гармонично дополняет любую сервировку стола, а прочный материал обеспечивает долговечность. Такой набор станет отличным выбором для тех, кто ценит комфорт, эстетику и заботу об окружающей среде. Характеристики: Длина 20 см Диаметр 7 мм Материал стекло</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7217</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7217/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7217/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7217/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7217/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">6</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_HP-34-123_HP-34-123" available="true">
+        <name>Набор стеклянных трубочек 6 штук 20 см с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-123</name>
+        <price>369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-123_HP-34-123</vendorCode>
+        <description>Набор стеклянных трубочек для напитков - экологическая и эстетическая альтернатива одноразовым пластиковым или бумажным соломинкам. Трубочки изготовлены из качественного стекла, не меняют вкус напитков, подходят для горячих и холодных жидкостей. Миниатюрная фигурка зайчика, закрепленная на каждой стеклянной трубочке, мгновенно создает милый и игривый настрой при каждой подаче напитка. В комплект входит щеточка для чистки. Характеристики: Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7218</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7218/nabor_steklyannyh_trubochek_6_shtuk_20_sm_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7218/nabor_steklyannyh_trubochek_6_shtuk_20_sm_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7218/nabor_steklyannyh_trubochek_6_shtuk_20_sm_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_2.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">6</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_HP-34-124_HP-34-124" available="true">
+        <name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-124</name>
+        <price>369.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-124_HP-34-124</vendorCode>
+        <description>Набор стеклянных трубочек из 4 штук – это стильное и экологичное решение для ежедневного использования. Изготовлены из прочного стекла, трубочки не влияют на вкус напитков и отлично подходят для коктейлей, лимонадов, соков и смузи. Благодаря длине 20 см и диаметру 7 мм они идеально подходят для высоких стаканов и бокалов, добавляя сервировке современного вида. В комплекте есть специальная щеточка для быстрой и удобной очистки, позволяющая использовать трубочки многократно. Вес набора всего 200 г делает его практичным и удобным для хранения или транспортировки. Прозрачный дизайн гармонично сочетается с любой посудой, а сам набор станет отличным выбором для дома, вечеринок или подарка для ценителей экологических аксессуаров. Характеристики: Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7219</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7219/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7219/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7219/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7219/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">4</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_HP-34-125_HP-34-125" available="true">
+        <name>Заварочный чайник стеклянный 1л заварник с бамбуковой крышкой термостойкая посуда для чаепития HP-34-125</name>
+        <price>299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>51</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-125_HP-34-125</vendorCode>
+        <description>Заварочный чайник объемом 1 л - идеальное решение для ценителей чая, которые ценят эстетику и качество. Изготовлен из прочного боросиликатного стекла, он выдерживает высокие температуры и не влияет на вкус напитка, позволяя раскрыть аромат каждого сорта чая. Прозрачные стенки создают особую атмосферу при заваривании, а высота 12 см без крышки обеспечивает удобство в использовании. Крышка из натурального бамбука плотно прилегает, сохраняя тепло и добавляя изделию стильный вид. Благодаря компактным габаритам (16 см высота и 8 см в диаметре) чайник не занимает много места и отлично подходит как для дома, так и для офиса. Это гармоничное сочетание современного дизайна, экологичных материалов и практичности для ежедневного чаепития. Характеристики: Объем - 1л Высота без крышки - 12 см Материал крышки - бамбук Материал чайника - боросиликатное стекло Габариты - 16 см высота, диаметр 8 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7220</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/HP-34-125/61b8NF%2BbMlL._AC_SL1500_.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Высота">160</param>
+        <param name="Диаметр">80</param>
+        <param name="Материал крышки">Бамбук</param>
+        <param name="Объем">1000</param>
+        <param name="Материал ручки">стекло</param>
+        <param name="Тип посуды">Заварочный чайник</param>
+      </offer>
+      <offer id="f11_HP-34-126_HP-34-126" available="true">
+        <name>Стеклянная подставка для заварочного чайника 14 см из боросиликатного стекла для подачи чая напитков HP-34-126</name>
+        <price>299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>51</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-126_HP-34-126</vendorCode>
+        <description>Подставка для заварочного чайника - стильный и практичный аксессуар для вашей кухни. Изготовлена из прочного боросиликатного стекла, она устойчива к высоким температурам и не теряет свой вид даже при ежедневном использовании. Прозрачный дизайн добавляет легкости и элегантности сервировке, гармонично сочетаясь с любой посудой. Диаметр 14 см обеспечивает надежную фиксацию чайника и защиту поверхности стола от тепла и влаги. Такая подставка станет не только функциональным элементом, но и стильным дополнением к чайной церемонии, подчеркивая ваш вкус и внимание к деталям. Характеристики: Материал - боросиликатное стекло Диаметр - 14 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7221</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7221/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7221/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7221/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7221/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">140</param>
+        <param name="Материал ручки">стекло</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Подставка-подогреватель для чайника</param>
+      </offer>
+      <offer id="f11_HP-34-127_HP-34-127" available="true">
+        <name>Чайник стеклянный 8х8х16 см 1 л прозрачный из боросиликатного стекла заварник для чая HP-34-127</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>51</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-127_HP-34-127</vendorCode>
+        <description>Стеклянный чайник объемом 1 литр &amp;ndash; это сочетание элегантности и практичности для ежедневного использования. Изготовлен из прочного боросиликатного стекла, он выдерживает высокие температуры и не впитывает запахи, сохраняя естественный вкус напитков. Прозрачные стенки позволяют наслаждаться процессом заваривания, а высота 12 см без крышки делает его удобным в использовании. Металлическая крышка плотно прилегает, помогая сохранять тепло и аромат напитка. Благодаря компактным габаритам (высота 16 см, диаметр 8 см) чайник легко размещается на кухне и подходит как для дома, так и для офиса. Это стильное решение для подачи чая, которое сочетает современный дизайн и долговечность. Характеристики: Объем 1л Высота без крышки 12 см Материал крышки металл Материал чайника боросиликатное стекло Габариты товара 16 см высота, диаметр 8 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7222</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_7.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Высота">120</param>
+        <param name="Диаметр">80</param>
+        <param name="Материал крышки">Металл</param>
+        <param name="Объем">1000</param>
+        <param name="Материал ручки">стекло</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Заварочный чайник</param>
+      </offer>
+      <offer id="f11_HP-34-128_HP-34-128" available="true">
+        <name>Стеклянная подставка для заварочного чайника 14 см из боросиликатного стекла для подачи чая напитков HP-34-128</name>
+        <price>269.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>51</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-128_HP-34-128</vendorCode>
+        <description>Подставка для заварочного чайника &amp;ndash; это сочетание практичности и современного дизайна для ежедневного использования. Она изготовлена из боросиликатного стекла, которое выдерживает высокие температуры и сохраняет привлекательный вид даже при активной эксплуатации. Прозрачная структура выглядит легко и элегантно, отлично дополняя любой чайный набор. Благодаря диаметру 14 см подставка обеспечивает устойчивое расположение чайника и эффективно защищает поверхность стола от тепла и влаги. Это не только полезный аксессуар, но и стильный элемент сервировки, который добавляет опрятности и завершенности вашей чайной зоне. Характеристики: Материал - боросиликатное стекло Диаметр - 14 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7223</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7223/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7223/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7223/steklyannaya_podstavka_dlya_zavarochnogo_chaynika_14_sm_iz_borosilikatnogo_stekla_dlya_podachi_chaya_napitkov_2.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">140</param>
+        <param name="Материал ручки">стекло</param>
+        <param name="Тип посуды">Подставка-подогреватель для чайника</param>
+      </offer>
+      <offer id="f11_HP-1-20-WHITE_HP-1-20-WHITE" available="true">
+        <name>Кастрюля чугунная эмалированная Iron Tomato 2,5 л белая кокотница с литыми ручками для запекания HP-1-20-WHITE</name>
+        <price>5459.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_e029c16dc7a37b696e</vendorCode>
+        <description>Элегантная кастрюля из цельного чугуна с гладким эмалированным покрытием идеальна для тушения, запекания и подачи прямо на стол. Это отличный выбор для тех, кто ценит прочную посуду с красивым дизайном для приготовления и сервировки. Преимущества: Материал: литой чугун - равномерное распределение и удержание тепла. Эмаль устойчива к пригоранию, легко моется, не взаимодействует с продуктами. Объем: 2,5 литра – оптимальный для семейных порций и одного блюда на 2-4 человека. Толщина стенок: 5 мм — долговечность и стабильность теплового режима. Удобство: две литые ручки для стойкого захвата; совместима с духовым шкафом и большинством плит. Уход и рекомендации: Перед первым использованием промыть теплой водой с мягким моющим средством. Не использовать абразивные губки для сохранения эмали. Нагревать равномерно, избегать резкого перепада температур (не помещать горячую посуду в холодную воду). Можно использовать в духовке. Рекомендуется щадящая ручная мойка для продления срока службы покрытия. Кастрюля подходит для всех типов плит и духовки. Характеристики: Материал: чугун с эмалированным покрытием Объем: 2,5 л Толщина стенок: 5 мм Размеры: 27*21*19 см Высота без крышки: 9 см Вес: 5,9 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7224</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7224/kastryulya_chugunnaya_emalirovannaya_iron_tomato_2_5_l_belaya_kokotnitsa_s_litymi_ruchkami_dlya_zapekaniya_tukovki.png</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Чугун</param>
+        <param name="Внутреннее покрытие">эмаль</param>
+        <param name="Внешнее покрытие">эмаль</param>
+        <param name="Крышка">чугун</param>
+        <param name="Объем">2.5</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="f11_SJ-0014BL_SJ-0014BL" available="true">
+        <name>Кресло раскладное туристическое 50х80х80 см для отдыха пикника рыбалки с подстаканником голубое SJ-0014BL</name>
+        <price>729.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Lugi</vendor>
+        <vendorCode>f11_SJ-0014BL_SJ-0014BL</vendorCode>
+        <description>Складное кемпинговое кресло имеет металлический каркас, который обеспечивает прочность и устойчивость. Механизм складывания позволяет легко и быстро собрать и разобрать кресло, что делает его удобным для транспортировки и хранения. Основные характеристики: Размер в разложенном состоянии: 50х80х80 см; Размер в сложенном состоянии: 83х15х15 см; Ширина сиденья: 41 см; Рекомендуемая нагрузка: 100 кг; Материал кресла: ткань Оксфорд; Материал каркаса: металл; Наличие чехла: есть. Материал сиденья выполнен из ткани Оксфорд, который известен своей прочностью и износостойкостью. Данный материал обладает водоотталкивающими свойствами, что добавляет креслу практичности при использовании на открытом воздухе, в том числе во время кемпинга или на пикниках. Легкость в использовании и сборке делает это кресло удобным выбором для активного отдыха. Его компактные размеры позволяют хранить его без лишних трудностей в багажнике автомобиля или в хранилищах.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7225</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7225/kreslo_raskladnoe_turisticheskoe_50h80h80_sm_dlya_otdyha_piknika_rybalki_s_podstakannikom_goluboe_7.jpg</picture>
+        <param name="Тип туристической мебели">Стул со спинкой и подлокотниками</param>
+        <param name="Вес">1.7</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал спинки">Ткань</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Подстаканник">1</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Регулируемые опоры">Нет</param>
+        <param name="Ширина стула">800</param>
+        <param name="Максимально допустимая нагрузка">100</param>
+        <param name="Цвет">Синий</param>
+        <param name="Высота стула с учетом спинки">500</param>
+        <param name="Глубина стула">500</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
       <offer id="f11_SJ-0065BE_SJ-0065BE" available="true">
         <name>Детское кресло походное складное бежевое со спинкой чехлом легкое туристическое сиденье для кемпинга отдыха SJ-0065BE</name>
         <price>1009.0</price>
@@ -93647,7 +93952,7 @@
         <categoryId>179</categoryId>
         <vendor>Yiwu</vendor>
         <vendorCode>f11_SJ-0065BE_SJ-0065BE</vendorCode>
-        <description>Это не просто кресло — это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Оно легко складывается "зонтиком" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Каркас: стальная рама Максимальная нагрузка: 75 кг Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
+        <description>Это не просто кресло — это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Оно легко складывается "зонтиком" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
         <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7226</url>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha.jpg</picture>
         <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_1.jpg</picture>
