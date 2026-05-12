@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-12 10:52">
+<yml_catalog date="2026-05-12 13:23">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="182">Блюда</category>
-      <category id="57">Чашки</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="61">Сковородки</category>
-      <category id="278">Косметички</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="285">Йогуртницы</category>
-      <category id="110">Наушники</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="118">Сумки</category>
-      <category id="133">Масленки</category>
-      <category id="62">Ковши</category>
-      <category id="87">Соковыжималки</category>
-      <category id="324">Статуэтки</category>
-      <category id="271">Товары для уборки</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="195">Разделочные доски</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="128">Органайзеры</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="63">Кастрюли</category>
-      <category id="60">Мармиты</category>
-      <category id="298">Брелки</category>
-      <category id="261">Терки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="166">Тортовницы</category>
-      <category id="287">Банты на елку</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="284">Новогодний декор</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="34">Подсвечники</category>
-      <category id="300">Подушки для спины</category>
-      <category id="145">Смарт-часы</category>
-      <category id="75">Утюги</category>
-      <category id="144">Вентиляторы</category>
-      <category id="97">Весы кухонные</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="111">Портативные колонки</category>
-      <category id="67">Столовые приборы</category>
       <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="81">Капучинаторы</category>
-      <category id="93">Электрочайники</category>
-      <category id="149">Палатки</category>
-      <category id="89">Миксеры</category>
-      <category id="186">Тостеры</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="52">Лимонадницы</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="59">Все для выпечки</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="53">Кувшины</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="103">Проекторы</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="56">Бокалы</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="14">Стайлеры</category>
-      <category id="187">Слайсеры</category>
-      <category id="122">Аксессуары</category>
-      <category id="65">Креманки</category>
-      <category id="132">Конфетницы</category>
-      <category id="31">Часы настенные</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="77">Пылесосы</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="150">Спальные мешки</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="55">Рюмки</category>
-      <category id="6">LED ленты</category>
-      <category id="29">Салфетницы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="42">Термосы для детей</category>
+      <category id="60">Мармиты</category>
+      <category id="226">Детские игровые палатки</category>
       <category id="179">Мебель для кемпинга</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="68">Тарелки</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="318">Кусторезы</category>
-      <category id="33">Пепельницы</category>
-      <category id="148">Туристические коврики</category>
-      <category id="72">Весы напольные</category>
-      <category id="20">Эпиляторы</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="114">Повербанки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="54">Стаканы</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="76">Отпариватели</category>
-      <category id="294">Новогодние елки</category>
-      <category id="96">Вакууматоры</category>
-      <category id="13">Триммеры</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="221">Туристические души</category>
-      <category id="66">Сервизы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="126">Ланч боксы</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="124">Решетки</category>
-      <category id="224">Гамаки</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="140">Крышки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="17">Воскоплавы</category>
+      <category id="67">Столовые приборы</category>
       <category id="43">Бутылки для воды</category>
-      <category id="15">Плойки</category>
-      <category id="21">Электробритвы</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="98">Блендеры</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="90">Мясорубки</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="279">Зонты</category>
-      <category id="184">Бульонницы</category>
+      <category id="124">Решетки</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="63">Кастрюли</category>
+      <category id="52">Лимонадницы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="59">Все для выпечки</category>
       <category id="194">Менажницы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="142">Посуда для детей</category>
-      <category id="193">Доски для подачи</category>
-      <category id="212">Мебель</category>
+      <category id="148">Туристические коврики</category>
+      <category id="77">Пылесосы</category>
+      <category id="72">Весы напольные</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="103">Проекторы</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="126">Ланч боксы</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="285">Йогуртницы</category>
+      <category id="89">Миксеры</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="93">Электрочайники</category>
       <category id="262">Термосумки</category>
+      <category id="17">Воскоплавы</category>
+      <category id="62">Ковши</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="76">Отпариватели</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="54">Стаканы</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="271">Товары для уборки</category>
       <category id="317">Садовое освещение</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="125">Мангалы</category>
+      <category id="298">Брелки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="70">Увлажнители воздуха</category>
       <category id="268">Кухонные подставки</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="23">Фены</category>
+      <category id="287">Банты на елку</category>
+      <category id="110">Наушники</category>
+      <category id="20">Эпиляторы</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="195">Разделочные доски</category>
+      <category id="144">Вентиляторы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="98">Блендеры</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="75">Утюги</category>
+      <category id="187">Слайсеры</category>
+      <category id="279">Зонты</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="284">Новогодний декор</category>
+      <category id="128">Органайзеры</category>
+      <category id="21">Электробритвы</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="2">Уличные гирлянды</category>
+      <category id="87">Соковыжималки</category>
+      <category id="136">Дуршлаги</category>
+      <category id="6">LED ленты</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="114">Повербанки</category>
+      <category id="186">Тостеры</category>
+      <category id="68">Тарелки</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="149">Палатки</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="61">Сковородки</category>
+      <category id="221">Туристические души</category>
+      <category id="31">Часы настенные</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="57">Чашки</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="97">Весы кухонные</category>
+      <category id="193">Доски для подачи</category>
+      <category id="53">Кувшины</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="166">Тортовницы</category>
+      <category id="14">Стайлеры</category>
+      <category id="65">Креманки</category>
+      <category id="15">Плойки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="140">Крышки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="29">Салфетницы</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="212">Мебель</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="117">Рюкзаки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="81">Капучинаторы</category>
+      <category id="111">Портативные колонки</category>
+      <category id="145">Смарт-часы</category>
+      <category id="125">Мангалы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="118">Сумки</category>
+      <category id="33">Пепельницы</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="133">Масленки</category>
       <category id="316">Туристические плиты</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="292">Столовая посуда</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="56">Бокалы</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="150">Спальные мешки</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="324">Статуэтки</category>
+      <category id="300">Подушки для спины</category>
+      <category id="184">Бульонницы</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="182">Блюда</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="66">Сервизы</category>
+      <category id="23">Фены</category>
+      <category id="318">Кусторезы</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="90">Мясорубки</category>
+      <category id="55">Рюмки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="34">Подсвечники</category>
+      <category id="13">Триммеры</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="261">Терки</category>
+      <category id="224">Гамаки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="122">Аксессуары</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="278">Косметички</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="132">Конфетницы</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="142">Посуда для детей</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
       <category id="141">Салатницы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="294">Новогодние елки</category>
+      <category id="45">Коктейльные наборы для бара</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -1811,6 +1811,49 @@
         <param name="Номинальное напряжение">220 В</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет корпуса">Сталь</param>
+        <param name="Гарантия">3 мес</param>
+        <param name="Тип установки оборудования">Настольный</param>
+        <param name="Толкатель">Да</param>
+        <param name="Реверс">Да</param>
+        <param name="Формовочная насадка для фарша">Да</param>
+        <param name="Тип управления">Электро-механическое</param>
+      </offer>
+      <offer id="f11_2014500106_SK090" available="true">
+        <name>Электромясорубка Sokany SK090 профессиональная 3500 Вт SK090</name>
+        <price>5299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>90</categoryId>
+        <vendor>Sokany</vendor>
+        <vendorCode>f11_2014500106_SK090</vendorCode>
+        <description>Профессиональная электрическая мясорубка Sokany - это мощное и многофункциональное устройство, спроектированное для обработки различных видов мяса и других продуктов. Мясорубка обладает высокой мощностью, что позволяет легко и эффективно измельчать продукты. Электромясорубка работает при стандартном напряжении 220 В, что делает его совместимым с большинством электрических систем. С этой мясорубкой вы можете обрабатывать продукты со скоростью до 3 кг в минуту. Основные характеристики и особенности мощность 3500 Вт; напряжение 220 В; производительность 3 кг/мин; защита от перегрузки; длина сетевого шнура 1 метр. Мясорубка оснащена системой реверса, которая помогает избежать заторов и обеспечивает равномерную обработку продуктов. Встроенная защита от перегрузки предотвращает повреждение машины в случае перегрузки или чрезмерного напряжения. Электромясорубка изготовлена из нержавеющей стали, что обеспечивает гигиеничность и долгий срок службы. В комплект поставки входят насадки для кеббе и для приготовления колбас, что делает мясорубку многофункциональной и подходящей для разнообразных задач в кухне. Профессиональная электрическая мясорубка Sokany идеально подходит для профессионального использования в ресторанах, кафе или других заведениях, где требуется быстрое и качественное приготовление пищи. Эта мясорубка обеспечивает высокую производительность и широкий спектр функций для разнообразных кулинарных задач.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=507</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/myasorubka_elektricheskaya_sokany_sk_090_s_nasadkami_stalnoy-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_2-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_3-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_4-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_5-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/sk090_6-600x600.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/000000/SK090/090-11-600x600.jpg</picture>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Вид оборудования">Мясорубка стандартная</param>
+        <param name="Вес">3.4 кг</param>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Длина сетевого шнура">1</param>
+        <param name="Количество решеток">3</param>
+        <param name="Особенности">Реверс</param>
+        <param name="Насадка для приготовления колбас">Да</param>
+        <param name="Минимальная производительность">3 кг/мин</param>
+        <param name="Материал ножа">Нержавеющая сталь</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Насадка-кеббе">Да</param>
+        <param name="Материал рабочей камеры">металл</param>
+        <param name="Номинальная потребляемая мощность">3500 Вт</param>
+        <param name="Сфера использования">Уличная торговля|HoReCa|Пищевая промышленность|Fast-food|Торговые магазины</param>
+        <param name="Номинальное напряжение">220 В</param>
+        <param name="Состояние">Новое</param>
+        <param name="Отсек для хранения насадок">Да</param>
+        <param name="Цвет корпуса">Серый</param>
         <param name="Гарантия">3 мес</param>
         <param name="Тип установки оборудования">Настольный</param>
         <param name="Толкатель">Да</param>
@@ -73921,32 +73964,6 @@
         <param name="Тип формы">Круглая</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HM05-09_HM05-09" available="true">
-        <name>Форма для запекания Vintage 700 мл прямоугольная с ручками Красная HM05-09</name>
-        <price>399.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>59</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HM05-09_HM05-09</vendorCode>
-        <description>Фарфоровая форма для запекания создана для тех, кто ценит удобство и красоту на кухне. Ее стильное оформление с насыщенным красным цветом и нежным растительным орнаментом делает подачу блюд особенно эффектной. Основные характеристики формы для запекания: Материал: фарфор; Размер: 23&amp;times;14&amp;times;5 см; Объем: 700 мл. Особенности формы для выпечки: равномерно распределяет тепло и сохраняет его длительное время; подходит для запекания мяса, рыбы, овощей и десертов; оснащена удобными ручками для безопасного переноса; можно использовать в духовке и микроволновке. Такая форма станет незаменимой помощницей на вашей кухне &amp;mdash; в ней удобно готовить как повседневные, так и праздничные блюда. Благодаря стильному дизайну, она идеально подходит для сервировки: готовое блюдо можно подавать прямо на стол, не перекладывая в другую посуду.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6069</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6069/forma_dlya_zapekaniya_vintage_23_14_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_krasnaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6069/forma_dlya_zapekaniya_vintage_23_14_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_krasnaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6069/forma_dlya_zapekaniya_vintage_23_14_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_krasnaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6069/forma_dlya_zapekaniya_vintage_23_14_5_sm_pryamougolnaya_forma_dlya_vypekaniya_v_duhovke_s_ruchkami_krasnaya_3.jpg</picture>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота стенок">5</param>
-        <param name="Ширина">14</param>
-        <param name="Количество в наборе">1</param>
-        <param name="Конструкция формы">Цельная</param>
-        <param name="Цвет">Красный</param>
-        <param name="Длина">23</param>
-        <param name="Общий объем формы">0.7</param>
-        <param name="Назначение формы">Для пирога|Для лазаньи|Для птицы|Для мяса|Для рыбы</param>
-        <param name="Тип духовки">Газовая или электрическая</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HM05-01_HM05-01" available="true">
         <name>Форма для запекания Vintage 700 мл овальная с ручками Зеленая HM05-01</name>
         <price>399.0</price>
@@ -85898,6 +85915,34 @@
         <param name="Тип емкости">Лимонадница</param>
         <param name="Нижний диаметр">170</param>
       </offer>
+      <offer id="f11_HP-19-293_HP-19-293" available="true">
+        <name>Лимонадница с краном стеклянная 3 л с краном HP-19-293</name>
+        <price>1279.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-19-293_HP-19-293</vendorCode>
+        <description>Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики: Объём: 3 л; Высота: 50 см; Материал: стекло; Верхний диаметр : 17 см. Особенности: Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых. Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6778</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6778/limonadnitsa_s_kranom_steklyannaya_3_l_dispenser_dlya_napitkov_limonadnik_s_kranom_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">50</param>
+        <param name="Верхний диаметр">17</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Декоративное оформление">Гравировка</param>
+        <param name="Объем">3</param>
+        <param name="Наличие ручки">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тематика декора, рисунка">Без декора</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Подходит для мытья в посудомоечной машине">Да</param>
+        <param name="Тип емкости">Лимонадница</param>
+        <param name="Гарантия">14 дней</param>
+      </offer>
       <offer id="f11_HP-19-295_HP-19-295" available="true">
         <name>Лимонадница Classic Crystal 2л с краном прозрачный HP-19-295</name>
         <price>1019.0</price>
@@ -93320,6 +93365,458 @@
         <param name="Способ закрывания">Крышка</param>
         <param name="Объем стакана/рюмки/бокала/стопки">1</param>
         <param name="Нижний диаметр">7.5</param>
+      </offer>
+      <offer id="f11_HP-17-52_HP-17-52" available="true">
+        <name>Набор креманок Sweet Moments 6 штук по 180 мл прозрачная креманка для десертов мороженого и фруктовых салатов HP-17-52</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-52_HP-17-52</vendorCode>
+        <description>Набор из шести креманок объемом 180 мл выполнен в классической конусообразной форме на ножке. Прозрачное стекло позволяет полностью оценить вид десертов, подчеркивая их текстуру и слои при подаче. Стенки украшены лаконичным рельефным узором в виде горизонтальных линий. Такая текстура добавляет изделию сдержанной элегантности и обеспечивает удобное удержание креманки в руке при использовании. Креманки подходят для подачи мороженого, десертов или фруктов как в повседневном использовании, так и при сервировке праздничного стола. Сочетание простой формы и рельефной поверхности делает их практичной и универсальной посудой. Характеристики: Количество: 6 штук Тип: креманка на ножке Объем: 180 мл Высота: 8,1 см Верхний диаметр: 8,8 см Диаметр основания: 6,5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7176</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7176/nabor_kremanok_sweet_moments_6_shtuk_po_180_ml_prozrachnaya_kremanka_dlya_desertov_morozhenogo_i_fruktovyh_salatov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7176/nabor_kremanok_sweet_moments_6_shtuk_po_180_ml_prozrachnaya_kremanka_dlya_desertov_morozhenogo_i_fruktovyh_salatov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7176/nabor_kremanok_sweet_moments_6_shtuk_po_180_ml_prozrachnaya_kremanka_dlya_desertov_morozhenogo_i_fruktovyh_salatov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Диаметр">88</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">180</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
+      </offer>
+      <offer id="f11_HP-17-64_HP-17-64" available="true">
+        <name>Набор стаканов для напитков Glacier Set 6 штук по 236 мл стеклянные для виски бурбона крепких напитков HP-17-64</name>
+        <price>329.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>54</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-17-64_HP-17-64</vendorCode>
+        <description>Набор из шести стаканов для напитков объемом 236 мл имеет современный дизайн с выразительной асимметричной формой. Рельефные изгибы создают эффект &amp;laquo;мятой&amp;raquo; или закрученной поверхности, что сразу привлекает внимание и делает подачу напитков более выразительной. Такая форма удобно лежит в руке и подходит для ежедневного использования. Заломленные грани стекла формируют интересную игру света, создавая блики и визуальную глубину напитка. Благодаря этому даже простая сервировка выглядит более динамично. Компактная высота и сбалансированные пропорции обеспечивают удобство при использовании. Стаканчики изготовлены из прозрачного стекла с гладкой внутренней поверхностью, что упрощает уход. Утолщенное дно добавляет устойчивости на поверхности и делает использование более практичным в повседневных условиях. Характеристики: Количество: 6 штук Тип: стаканы для напитков Объем: 236 мл Высота: 7,8 см Верхний диаметр: 8,4 см Диаметр дна: 7,1 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7177</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7177/nabor_stakanov_dlya_napitkov_glacier_set_6_shtuk_po_236_ml_steklyannye_dlya_viski_burbona_krepkih_napitkov.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">78</param>
+        <param name="Верхний диаметр">84</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">236</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип стакана">Низкий</param>
+        <param name="Нижний диаметр">71</param>
+      </offer>
+      <offer id="f11_HP-HK-C4_HP-HK-C4" available="true">
+        <name>Тарелка сервировочная фарфоровая 15х15 см плоская для подачи блюд закусок вторых блюд HP-HK-C4</name>
+        <price>159.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C4_HP-HK-C4</vendorCode>
+        <description>Сервировочная тарелка квадратной формы с мягко закругленными углами и волнистым фигурным краем сочетает удобство использования и продуманный дизайн. Такая форма позволяет эффектно размещать закуски, десерты или основные блюда, делая подачу более структурированной и аккуратной. Белый цвет и глянцевая поверхность помогают подчеркнуть вид пищи и сохранить опрятный вид сервировки. Бортики оформлены рельефным узором в виде переплетенных линий и растительных элементов. Текстура создает легкую игру света и добавляет детализации без перегрузки внешнего вида. Тонкая золотистая окантовка по краю формирует четкий контур и добавляет завершенности общему виду изделия. Фарфор с глянцевой глазурью обеспечивает гладкую поверхность, которая легко очищается от остатков пищи. Благодаря сочетанию формы, фактуры и покрытия тарелка подходит для ежедневного использования и сервировки стола во время событий, сохраняя при этом аккуратный вид в процессе эксплуатации. Характеристики: Тип: тарелка сервировочная Форма: квадратная с закругленными углами Размеры: 15*15 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7178</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7178/tarelka_servirovochnaya_farforovaya_15h15_sm_ploskaya_dlya_podachi_blyud_zakusok_vtoryh_blyud.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7178/tarelka_servirovochnaya_farforovaya_15h15_sm_ploskaya_dlya_podachi_blyud_zakusok_vtoryh_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7178/tarelka_servirovochnaya_farforovaya_15h15_sm_ploskaya_dlya_podachi_blyud_zakusok_vtoryh_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7178/tarelka_servirovochnaya_farforovaya_15h15_sm_ploskaya_dlya_podachi_blyud_zakusok_vtoryh_blyud_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">150</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Обеденная</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">150</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_HP-HK-C5_HP-HK-C5" available="true">
+        <name>Тарелка глубокая фарфоровая 21.5х21.5 см посуда сервировочная для подачи первых блюд супов HP-HK-C5</name>
+        <price>289.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C5_HP-HK-C5</vendorCode>
+        <description>Глубокая фарфоровая тарелка квадратной формы с широкими бортиками сочетает в себе четкую геометрию и детализированный дизайн. Волнистый край придает плавность линиям и создает удобную зону для подачи первых блюд, пасты или салатов. Глянцевая поверхность поддерживает аккуратный вид сервировки и подчеркивает структуру блюд. По периметру бортиков выполнено тиснение с растительными мотивами, что создает легкую текстуру без перегрузки дизайна. Такой рельеф придает визуальную глубину и делает тарелку заметной в сервировке. Тонкая золотистая окантовка проходит по краю, формируя четкий контур и завершенный вид изделия. Фарфор с глянцевой глазурью имеет гладкую поверхность, что упрощает очистку после использования. Форма и конструкция позволяют удобно использовать тарелку как в повседневной сервировке, так и при подаче блюд на стол. Характеристики: Тип: тарелка глубокая Форма: квадратная со скругленными углами Край: волнистый Размер: 21.5*21.5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7179</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7179/tarelka_glubokaya_farforovaya_21_5h21_5_sm_posuda_servirovochnaya_dlya_podachi_pervyh_blyud_supov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7179/tarelka_glubokaya_farforovaya_21_5h21_5_sm_posuda_servirovochnaya_dlya_podachi_pervyh_blyud_supov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7179/tarelka_glubokaya_farforovaya_21_5h21_5_sm_posuda_servirovochnaya_dlya_podachi_pervyh_blyud_supov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7179/tarelka_glubokaya_farforovaya_21_5h21_5_sm_posuda_servirovochnaya_dlya_podachi_pervyh_blyud_supov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7179/tarelka_glubokaya_farforovaya_21_5h21_5_sm_posuda_servirovochnaya_dlya_podachi_pervyh_blyud_supov_4.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">215</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">215</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
+      <offer id="f11_HP-HK-C13_HP-HK-C13" available="true">
+        <name>Тарелка прямоугольная 20х12 см плоская белая компактная посуда для десертов закусок сервировочная HP-HK-C13</name>
+        <price>179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C13_HP-HK-C13</vendorCode>
+        <description>Прямоугольная плоская тарелка &amp;ndash; стильная и практичная посуда для современной сервировки. Благодаря размеру 20&amp;times;12 см она отлично подходит для подачи десертов, закусок, суши, канапе или фруктов. Белый цвет и лаконичная прямоугольная форма добавляют элегантности и позволяют легко сочетать тарелку с любой посудой и декором стола. Компактный формат делает тарелку удобной для ежедневного использования и сервировки праздничного стола. Плоская поверхность обеспечивает комфортную подачу блюд, а современный дизайн подчеркивает эстетику каждой подачи. Это универсальный вариант для дома, кафе или праздничных мероприятий, где важны стиль и практичность. Характеристики: Длина - 20 см Ширина - 12 см Форма - прямоугольная</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7181</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7181/tarelka_pryamougolnaya_20h12_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7181/tarelka_pryamougolnaya_20h12_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7181/tarelka_pryamougolnaya_20h12_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7181/tarelka_pryamougolnaya_20h12_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7181/tarelka_pryamougolnaya_20h12_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_4.jpg</picture>
+        <param name="Ширина">120</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Обеденная</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">200</param>
+        <param name="Форма">Прямоугольная</param>
+      </offer>
+      <offer id="f11_HP-HK-C22_HP-HK-C22" available="true">
+        <name>Тарелка суповая глубокая фарфоровая 21 см с золотой окантовкой посуды для подачи первых блюд супов HP-HK-C22</name>
+        <price>279.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C22_HP-HK-C22</vendorCode>
+        <description>Фарфоровая суповая тарелка имеет классическую круглую форму с глубокой центральной частью и широкими приподнятыми бортами, что обеспечивает удобство подачи жидких блюд. Фигурный волнистый край придает изделию легкость и аккуратность, а глубина тарелки позволяет подавать порционные объемы супов или первых блюд без риска проливания. Белый цвет фарфора с зеркальной глянцевой глазурью подчеркивает чистоту подачи и структуру блюд. Бортики украшены изящным рельефным тиснением, создающим легкую текстурную детализацию и умеренную игру света. Тонкая золотая линия по краю формирует завершенный силуэт и подчеркивает контур тарелки. Глянцевая поверхность упрощает очистку после использования, а сочетание формы, текстуры и декора делает тарелку подходящей как для повседневного сервирования, так и для праздничных мероприятий. Характеристики: Тип: суповая тарелка Форма: круглая, глубокая Диаметр: 21 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7182</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7182/tarelka_supovaya_glubokaya_farforovaya_21_sm_s_zolotoy_okantovkoy_posudy_dlya_podachi_pervyh_blyud_supov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7182/tarelka_supovaya_glubokaya_farforovaya_21_sm_s_zolotoy_okantovkoy_posudy_dlya_podachi_pervyh_blyud_supov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7182/tarelka_supovaya_glubokaya_farforovaya_21_sm_s_zolotoy_okantovkoy_posudy_dlya_podachi_pervyh_blyud_supov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7182/tarelka_supovaya_glubokaya_farforovaya_21_sm_s_zolotoy_okantovkoy_posudy_dlya_podachi_pervyh_blyud_supov_3.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Диаметр">210</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="f11_HP-HK-C26_HP-HK-C26" available="true">
+        <name>Салатница фарфоровая с золотой окантовкой глубокий салатник сервировочная тарелка для подачи салатов HP-HK-C26</name>
+        <price>149.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>141</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C26_HP-HK-C26</vendorCode>
+        <description>Фарфоровая салатница имеет классическую круглую форму с фигурным волнистым краем, напоминающим цветущий цветок. Такая форма позволяет удобно подавать салаты, закуски или фрукты, а приподнятые бортики обеспечивают практичность использования и аккуратную сервировку. Белый глянцевый фарфор создает чистый и зеркальный блики, подчеркивая яркость и свежесть блюд. Внешняя сторона салатницы украшена деликатным объемным узором, который добавляет изделию текстуры и умеренной игры света, не перегружая дизайн. Тонкий золотистый кант по верхнему краю подчеркивает контур и форму салатницы, делая ее более утонченной. Глянцевая поверхность обеспечивает легкую очистку, а сочетание декора и материала делает изделие пригодным как для ежедневного использования, так и для праздничной сервировки.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7183</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7183/salatnitsa_farforovaya_s_zolotoy_okantovkoy_glubokiy_salatnik_servirovochnaya_tarelka_dlya_podachi_salatov.png</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_HP-HK-C30_HP-HK-C30" available="true">
+        <name>Тарелка круглая 20х13.5 см плоская белая компактная посуда для десертов закусок сервировочная HP-HK-C30</name>
+        <price>179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C30_HP-HK-C30</vendorCode>
+        <description>Круглая плоская тарелка - стильное и практичное решение для ежедневной сервировки. Благодаря компактному размеру 20&amp;times;13,5 см она идеально подходит для подачи десертов, закусок, фруктов или небольших порций блюд. Белый цвет придает посуде универсальность и позволяет гармонично сочетать ее с любым стилем сервировки. Лаконичный дизайн делает тарелку отличным выбором как для домашнего использования, так и для праздничного стола. Плоская форма обеспечивает удобство подачи, а компактность позволяет легко хранить посуду даже на небольшой кухне. Это удачное сочетание эстетики, функциональности и современного стиля для комфортного ежедневного использования. Характеристики: Диаметр - 20 см Высота - 13.5 см</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7184</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7184/tarelka_kruglaya_20h13_5_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7184/tarelka_kruglaya_20h13_5_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7184/tarelka_kruglaya_20h13_5_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7184/tarelka_kruglaya_20h13_5_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7184/tarelka_kruglaya_20h13_5_sm_ploskaya_belaya_kompaktnaya_posuda_dlya_desertov_zakusok_servirovochnaya_4.jpg</picture>
+        <param name="Высота">135</param>
+        <param name="Диаметр">200</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Десертная/закусочная</param>
+        <param name="Цвет">Белый</param>
+        <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_HP-34-95_HP-34-95" available="true">
+        <name>Диспенсер для напитков Красико стеклянный 3 л с бамбуковой подставкой лимонадник в форме бочки прозрачный HP-34-95</name>
+        <price>1339.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-95_HP-34-95</vendorCode>
+        <description>Классический аксессуар для эффектной подачи напитков на домашних праздниках, вечеринках и фуршетах. Стилизованная форма барышки с рельефным узором превращает обычную подачу сока, лимонада или пунша в элемент декора. Преимущества: Оригинальный дизайн: Прозрачный стеклянный корпус выполнен в виде горизонтального барила с фактурным орнаментом в виде виноградной лозы. Натуральные материалы: В комплекте есть устойчивая подставка из бамбука и плотная пробка, которая защищает содержимое от пыли и насекомых. Практичность: Широкое горлышко позволяет закладывать внутрь лед, кусочки фруктов, ягоды или мяту, а также упрощает мытье диспенсера изнутри. Рекомендация: Не используйте лимонадницу с горячими напитками (50&amp;deg;С). Не допускайте разницы температур емкости и напитка свыше 25&amp;deg;С. Не кладите лед в пустой диспенсер, охлаждайте только сам напиток. Характеристики: Материал: стекло, бамбук, пробка Объем: 3 л Высота: 25 см Материал краника: пластик Вес: 1,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7201</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7201/dispenser_dlya_napitkov_krasiko_steklyannyy_3_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_prozrachnyy_7.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">250</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">3000</param>
+        <param name="Способ закрывания">Пробка</param>
+        <param name="Тип емкости">Лимонадница</param>
+      </offer>
+      <offer id="f11_HP-34-96_HP-34-96" available="true">
+        <name>Диспенсер для напитков Красико стеклянный 5 л с бамбуковой подставкой лимонадник в форме бочки для бара HP-34-96</name>
+        <price>1739.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-96_HP-34-96</vendorCode>
+        <description>Классический аксессуар для эффектной подачи напитков на домашних праздниках, вечеринках и фуршетах. Стилизованная форма барышки с рельефным узором превращает обычную подачу сока, лимонада или пунша в элемент декора. Преимущества: Оригинальный дизайн: Прозрачный стеклянный корпус выполнен в виде горизонтального барила с фактурным орнаментом в виде виноградной лозы. Натуральные материалы: В комплекте есть устойчивая подставка из бамбука и плотная пробка, которая защищает содержимое от пыли и насекомых. Практичность: Широкое горлышко позволяет закладывать внутрь лед, кусочки фруктов, ягоды или мяту, а также упрощает мытье диспенсера изнутри. Рекомендация: Не используйте лимонадницу с горячими напитками (50&amp;deg;С). Не допускайте разницы температур емкости и напитка свыше 25&amp;deg;С. Не кладите лед в пустой диспенсер, охлаждайте только сам напиток. Характеристики: Материал: стекло, бамбук, пробка Объем: 5 л Высота: 27 см Материал краника: пластик Вес: 2 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7202</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7202/dispenser_dlya_napitkov_krasiko_steklyannyy_5_l_s_bambukovoy_podstavkoy_limonadnik_v_forme_bochki_dlya_bara_6.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">270</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">5000</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Пробка</param>
+        <param name="Тип емкости">Лимонадница</param>
+      </offer>
+      <offer id="f11_HP-34-97_HP-34-97" available="true">
+        <name>Набор стеклянных трубочек 6 штук с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-97</name>
+        <price>299.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-97_HP-34-97</vendorCode>
+        <description>Набор стеклянных трубочек для напитков - экологическая и эстетическая альтернатива одноразовым пластиковым или бумажным соломинкам. Трубочки изготовлены из качественного стекла, не меняют вкус напитков, подходят для горячих и холодных жидкостей. Украшением каждой трубочки служит фигурка очаровательного мишки, который своей глянцевой фактурой и ярким оттенком невероятно напоминает аппетитную мармеладную конфету. В комплект входит щеточка для чистки. Характеристики: Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7203</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7203/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7203/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7203/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7203/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_steklo_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">6</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_HP-34-98_HP-34-98" available="true">
+        <name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки прозрачный экологичные соломинки для коктейлей HP-34-98</name>
+        <price>349.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-98_HP-34-98</vendorCode>
+        <description>Набор стеклянных трубочек из 4 штук &amp;ndash; стильный аксессуар для подачи коктейлей, лимонадов, соков и других напитков. Изготовлены из прозрачного боросиликатного стекла, трубочки выглядят элегантно и гармонично дополняют любую сервировку. Материал не впитывает запахи и не влияет на вкус напитков, а длина 20 см и диаметр 7 мм делают их удобными для использования в высоких стаканах и бокалах. В комплекте предусмотрена специальная щеточка для легкой очистки, позволяющая комфортно использовать трубочки многократно. Прозрачный дизайн добавляет легкости и современного стиля, а прочное стекло обеспечивает долговечность и практичность. Такой набор станет отличным выбором для дома, праздничных событий или подарком для ценителей экологических и стильных аксессуаров для напитков. Характеристики: Длина 20 см Диаметр 7 мм Материал стекло Цвет прозрачный</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7204</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st_3.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Диаметр">7</param>
+        <param name="Количество в упаковке">4</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_HP-34-99_HP-34-99" available="true">
+        <name>Набор стеклянных трубочек 6 штук с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-99</name>
+        <price>109.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>45</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-99_HP-34-99</vendorCode>
+        <description>Набор стеклянных трубочек для напитков - экологичная и эстетичная альтернатива одноразовым пластиковым или бумажным соломинкам. Трубочки изготовлены из качественного стекла, не меняют вкус напитков, подходят для горячих и холодных жидкостей. Трубочки имеют классическую изогнутую форму, в комплект входит щеточка для чистки. Характеристики: Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7205</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_2.jpg</picture>
+        <param name="Материал">Боросиликатное стекло</param>
+        <param name="Количество в упаковке">6</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Длина">200</param>
+      </offer>
+      <offer id="f11_SJ-0065BE_SJ-0065BE" available="true">
+        <name>Детское кресло походное складное бежевое со спинкой чехлом легкое туристическое сиденье для кемпинга отдыха SJ-0065BE</name>
+        <price>1009.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0065BE_SJ-0065BE</vendorCode>
+        <description>Это не просто кресло — это настоящий личный трон для самых маленьких путешественников! Модель гарантированно станет любимым местом вашего ребенка, куда бы вы ни отправились. Кресло мгновенно привлекает внимание своим оригинальным детским дизайном и фигурной спинкой. Оно легко складывается "зонтиком" в маленький, компактный тубус и упаковывается в фирменную сумку-чехол, который идет в комплекте. Идеально для пикников, дачи, рыбалки или просто как собственное "крутое" место в детской комнате. Характеристики детского раскладного кресла: Каркас: стальная рама Максимальная нагрузка: 75 кг Особенности: подлокотники, фигурная спинка Размер сиденья (ШхГ): 37 x 30 см Высота сиденья (от земли): 26 см Общая высота: 71 см Вес: 1.5 кг Комплектация: Кресло, сумка-чехол для транспортировки</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7226</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7226/detskoe_kreslo_pohodnoe_skladnoe_bezhevoe_so_spinkoy_chehlom_legkoe_turisticheskoe_sidene_dlya_kempinga_otdyha_8.jpg</picture>
+        <param name="Тип туристической мебели">Стул со спинкой</param>
+        <param name="Вес">1.5</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал спинки">Ткань</param>
+        <param name="Откидной столик на подлокотнике">Нет</param>
+        <param name="Складная конструкция для хранения и транспортировки">Да</param>
+        <param name="Цвет">Бежевый</param>
+        <param name="Чехол для хранения и транспортировки">Да</param>
+      </offer>
+      <offer id="f11_SJ-0015-120_SJ-0015-120" available="true">
+        <name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
+        <price>1259.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_03f8510c595a38f787</vendorCode>
+        <description>Раскладной уличный стол &amp;ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&amp;times;55&amp;times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&amp;times;25&amp;times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха. Преимущества: Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек. Характеристики: Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7227</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
+        <param name="Высота">500</param>
+        <param name="Вес">3.5</param>
+        <param name="Материал каркаса (опор)">Сталь</param>
+        <param name="Ширина">550</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">1200</param>
+        <param name="Форма стола">Прямоугольный</param>
+      </offer>
+      <offer id="f11_SJ-0068_SJ-0068" available="true">
+        <name>Садовая тележка складная 90х53х60 см для пикников и транспортировки грузов SJ-0068</name>
+        <price>4589.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0068_SJ-0068</vendorCode>
+        <description>Раскладная тележка &amp;mdash; это универсальный помощник для транспортировки вещей на отдыхе или даче. Благодаря инновационному механизму складывания по центру он легко складывается одним движением, подобно коляски-трости, что значительно экономит время и усилия. В сложенном виде тележка занимает минимум места, поэтому ее удобно хранить дома или перевозить в багажнике автомобиля. Вместительный объем 100 литров позволяет перевозить габаритные вещи, продукты или снаряжение без лишних трудностей. Дополнительные сетчатые карманы на передней панели идеально подходят для бутылок с водой, инструментов или мелких личных вещей. Тележка изготовлена из прочного материала Оксфорд 600D и стальной рамы, что гарантирует долговечность и надежность. Оптимальные размеры 90&amp;times;53x60 см и вес 10.9 кг обеспечивают удобство в использовании и устойчивость даже при полной загрузке. Компактность и сборка: Складной механизм: уникальная система складывания по центру позволяет быстро собрать тележку одним движением, подобно детской коляске-трости. Удобство хранения: В сложенном виде тележка занимает минимум места, легко помещается в багажник автомобиля или узкую кладь. Функциональность: Объем составляет 100 литров, что позволяет перевозить крупногабаритные грузы. Дополнительные карманы: на передней панели расположены сетчатые карманы для хранения бутылок с водой, инструментами или мобильного телефона. Характеристики: Материал: Оксфорд 600D, сталь Размер: 90*53*60 см Вес: 10,9 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7228</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7228/sadovaya_telezhka_skladnaya_90h53h68_sm_dlya_piknikov_i_transportirovki_gruzov_7.jpg</picture>
+        <param name="Высота">530</param>
+        <param name="Собственный вес">10.9</param>
+        <param name="Ширина">600</param>
+        <param name="Количество бортов">4</param>
+        <param name="Количество колес">4</param>
+        <param name="Цвет">Черный</param>
+        <param name="Количество поворотных колес">4</param>
+        <param name="Длина">900</param>
+      </offer>
+      <offer id="f11_SJ-0115COFFE_SJ-0115COFFE" available="true">
+        <name>Палатка кемпинговая на 6-8 человек 380x260x190 см с тентом коричневый палатка большая туристическая SJ-0115COFFE</name>
+        <price>10499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>149</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_3a48f480e68a1c55fb</vendorCode>
+        <description>Кемпинговая палатка - отличный вариант для походов и отдыха. Палатка разработана таким образом, что для ее установки не требуется больших усилий или затрат времени. Основная особенность палатки – двухслойная конструкция. Верхний слой изготовлен из Оксфорда 210D, что обеспечивает высокую водонепроницаемость. Благодаря этому в палатке сохраняется комфортная температура даже под прямыми солнечными лучами. Внутренний слой палатки выполнен из полиэстера 210T, который имеет отличную воздухопроницаемость в сочетании с высокой влагостойкостью. Палатка оснащена дополнительным тентом, его можно установить самостоятельно или прикрепить к палатке. Двери и окна закрываются москитными сетками для обеспечения лучшей вентиляции. Пространство палатки разделено на две комнаты раздельной шторкой. Каркас изготовлен из фибергласса - прочного и долговечного материала, не подверженного деформации и коррозии. Характеристики: Материал палатки: Оксфорд 210D, полипропилен Материал каркаса: фибергласс | 11 мм Водозащита: 2500-3000 мм. ст. Сезонность: трехсезонная Вместимость: 6-8 человек Размеры: 380*260*190 cm Комплектация: 10 трубок, 3 дуги для палатки, 14 колышков, 8 веревок Размеры: Общий внутренний размер: 440*270*190 см Длина без тента: 380 см Комната 1: 250*180*190 см Комната 2: 250*180*190 см Палатка имеет сумку-чехол с удобными ручками, что позволяет с легкостью организовать ее хранение и транспортировку. Как поставить кемпинговую палатку Отстегните ремень крепления и положите палатку основой на землю или футпринт. Соберите дуги верхней части каркаса и зафиксируйте их, простирая рукава по периметру. Установите боковые шесты в рукава и люверсы, зафиксируйте углы по очереди грунтовыми колышками. Установите внешний тент и зафиксируйте дополнительные распорки ветрозащитные шнуры. Палатка готова к использованию. Обратите внимание! Проверяйте целостность палатки и элементов конструкции перед каждым использованием для обеспечения собственной безопасности. Составляйте палатку по швам во избежание появления заломов и потери водонепроницаемости. Устанавливайте палатку на ровном участке без камней, ветвей и острых предметов, которые могут повредить ткань. Устанавливайте палатку на безопасном расстоянии от костра. Во избежание дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкапывайте дренажную канаву вокруг палатки для отвода воды. Канава должна быть максимально близко к внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт. Уход за палаткой Очистка палатки от загрязнений после использования – важный аспект, который напрямую влияет на срок и качество ее службы. Чтобы сохранить снаряжение: Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Чтобы избежать появления плесени, не составляйте палатку до полного высыхания или просушите ткань при первом случае. Не используйте моющие средства для очистки, чтобы избежать потери водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7229</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7229/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_korichnevyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova.png</picture>
+        <param name="Высота">1900</param>
+        <param name="Тип изделия">Палатка</param>
+        <param name="Назначение">Кемпинговые</param>
+        <param name="Сезон">Всесезонный</param>
+        <param name="Количество спальных мест">6</param>
+        <param name="Количество слоев">Двухслойная</param>
+        <param name="Ширина">2600</param>
+        <param name="Количество входов">2</param>
+        <param name="Количество комнат">1</param>
+        <param name="Количество тамбуров">1</param>
+        <param name="Цвет">Коричневый</param>
+        <param name="Длина">3800</param>
+        <param name="Водостойкость тента">2500</param>
+        <param name="Водостойкость дна">3000</param>
+        <param name="Материал дна">Оксфорд</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Материал тента">Оксфорд</param>
+      </offer>
+      <offer id="f11_SJ-0115GR_SJ-0115GR" available="true">
+        <name>Палатка кемпинговая на 6-8 человек 380x260x190 см с тентом зеленый палатка большая туристическая SJ-0115GR</name>
+        <price>10499.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>149</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0115GR_SJ-0115GR</vendorCode>
+        <description>Кемпинговая палатка - отличный вариант для походов и отдыха. Палатка разработана таким образом, что для ее установки не требуется больших усилий или затрат времени. Основная особенность палатки – двухслойная конструкция. Верхний слой изготовлен из Оксфорда 210D, что обеспечивает высокую водонепроницаемость. Благодаря этому в палатке сохраняется комфортная температура даже под прямыми солнечными лучами. Внутренний слой палатки выполнен из полиэстера 210T, который имеет отличную воздухопроницаемость в сочетании с высокой влагостойкостью. Палатка оснащена дополнительным тентом, его можно установить самостоятельно или прикрепить к палатке. Двери и окна закрываются москитными сетками для обеспечения лучшей вентиляции. Пространство палатки разделено на две комнаты раздельной шторкой. Каркас изготовлен из фибергласса - прочного и долговечного материала, не подверженного деформации и коррозии. ​​Характеристики: Материал палатки: Оксфорд 210D, полипропилен Материал каркаса: фибергласс | 11 мм Водозащита: 2500-3000 мм. ст. Сезонность: трехсезонная Вместимость: 6-8 человек Размеры: 380*260*190 cm Комплектация: 10 трубок, 3 дуги для палатки, 14 колышков, 8 веревок Размеры: Общий внутренний размер: 440*270*190 см Длина без тента: 380 см Комната 1: 250*180*190 см Комната 2: 250*180*190 см Палатка имеет сумку-чехол с удобными ручками, что позволяет с легкостью организовать ее хранение и транспортировку. Как поставить кемпинговую палатку Отстегните ремень крепления и положите палатку основой на землю или футпринт. Соберите дуги верхней части каркаса и зафиксируйте их, простирая рукава по периметру. Установите боковые шесты в рукава и люверсы, зафиксируйте углы по очереди грунтовыми колышками. Установите внешний тент и зафиксируйте дополнительные распорки ветрозащитные шнуры. Палатка готова к использованию. Обратите внимание! Проверяйте целостность палатки и элементов конструкции перед каждым использованием для обеспечения собственной безопасности. Составляйте палатку по швам во избежание появления заломов и потери водонепроницаемости. Устанавливайте палатку на ровном участке без камней, ветвей и острых предметов, которые могут повредить ткань. Устанавливайте палатку на безопасном расстоянии от костра. Во избежание дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкапывайте дренажную канаву вокруг палатки для отвода воды. Канава должна быть максимально близко к внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт. Уход за палаткой Очистка палатки от загрязнений после использования – важный аспект, который напрямую влияет на срок и качество ее службы. Чтобы сохранить снаряжение: Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Чтобы избежать появления плесени, не составляйте палатку до полного высыхания или просушите ткань при первом случае. Не используйте моющие средства для очистки, чтобы избежать потери водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7230</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_4.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_5.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_6.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_7.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_8.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7230/palatka_kempingovaya_na_6_8_chelovek_380x260x190_sm_s_tentom_zelenyy_palatka_bolshaya_turisticheskaya_dlya_pohodov_otdyha_rybolova_9.png</picture>
+        <param name="Высота">1900</param>
+        <param name="Тип изделия">Палатка</param>
+        <param name="Назначение">Кемпинговые</param>
+        <param name="Сезон">Всесезонный</param>
+        <param name="Количество спальных мест">6</param>
+        <param name="Количество слоев">Двухслойная</param>
+        <param name="Ширина">2600</param>
+        <param name="Количество входов">2</param>
+        <param name="Количество комнат">1</param>
+        <param name="Количество тамбуров">1</param>
+        <param name="Цвет">Зелёный</param>
+        <param name="Длина">3800</param>
+        <param name="Каркас палатки/тента">Внутренний</param>
+        <param name="Водостойкость тента">2500</param>
+        <param name="Дуги">Стекловолокно</param>
+        <param name="Водостойкость дна">3000</param>
+        <param name="Материал дна">Оксфорд</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Материал тента">Оксфорд</param>
+      </offer>
+      <offer id="f11_SJ-0096_SJ-0096" available="true">
+        <name>Кресло раскладное туристическое 55х55х70 см серый стул складной кемпинговый для отдыха рыбалки SJ-0096</name>
+        <price>1039.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>179</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_SJ-0096_SJ-0096</vendorCode>
+        <description>Раскладное туристическое кресло &amp;ndash; идеальный выбор для комфортного отдыха на природе, рыбалки или кемпинга. Благодаря продуманной конструкции и прочному материалу сиденья из ткани Оксфорд, оно обеспечивает удобство даже при длительном использовании. В разложенном состоянии размеры 55&amp;times;55&amp;times;70 см позволяют удобно разместиться и расслабиться в любых условиях. Легкая и компактная конструкция делает это кресло максимально мобильным: в сложенном виде оно имеет размер лишь 37&amp;times;10x10 см, что позволяет без проблем брать его с собой в путешествия. Прочный каркас выдерживает нагрузку до 100 кг, гарантируя надежность и стабильность. Это практичное решение для тех, кто ценит комфорт, простоту и удобство в каждой поездке. Характеристики: Размеры в разложенном состоянии: 55*55*70 см Размеры в сложенном состоянии: 37*10*10 см Максимальная нагрузка: до 100 кг Материал сиденья: ткань Оксфорд</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7231</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_8.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7231/kreslo_raskladnoe_turisticheskoe_55h55h70_sm_seryy_stul_skladnoy_kempingovyy_dlya_otdyha_rybalki_9.jpg</picture>
+        <param name="Тип туристической мебели">Стул со спинкой</param>
+        <param name="Материал каркаса (опор)">Металл</param>
+        <param name="Материал сиденья">Ткань</param>
+        <param name="Материал спинки">Ткань</param>
+        <param name="Ширина стула">550</param>
+        <param name="Цвет">Серый</param>
+        <param name="Высота стула с учетом спинки">700</param>
+        <param name="Глубина стула">550</param>
       </offer>
       <offer id="my_A000002" available="true">
         <name>Дитячі кросівки BOBDOG Сіро-оливкові Літні з сіткою Застібка-диск (BOA) 30</name>
