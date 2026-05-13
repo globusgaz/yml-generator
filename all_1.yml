@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-13 08:08">
+<yml_catalog date="2026-05-13 10:49">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="57">Чашки</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="33">Пепельницы</category>
-      <category id="3">Ретро гирлянды</category>
-      <category id="144">Вентиляторы</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="271">Товары для уборки</category>
-      <category id="124">Решетки</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="227">Туристические инструменты и наборы</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="13">Триммеры</category>
+      <category id="16">Машинки для стрижки</category>
+      <category id="14">Стайлеры</category>
+      <category id="6">LED ленты</category>
+      <category id="89">Миксеры</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="193">Доски для подачи</category>
+      <category id="318">Кусторезы</category>
+      <category id="67">Столовые приборы</category>
+      <category id="132">Конфетницы</category>
+      <category id="52">Лимонадницы</category>
+      <category id="111">Портативные колонки</category>
+      <category id="63">Кастрюли</category>
       <category id="262">Термосумки</category>
+      <category id="224">Гамаки</category>
+      <category id="70">Увлажнители воздуха</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="287">Банты на елку</category>
+      <category id="122">Аксессуары</category>
+      <category id="285">Йогуртницы</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="194">Менажницы</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="136">Дуршлаги</category>
+      <category id="148">Туристические коврики</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="186">Тостеры</category>
+      <category id="76">Отпариватели</category>
+      <category id="150">Спальные мешки</category>
+      <category id="182">Блюда</category>
+      <category id="23">Фены</category>
+      <category id="125">Мангалы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="57">Чашки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="99">Аэрогрили и фритюрницы</category>
+      <category id="65">Креманки</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="61">Сковородки</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="98">Блендеры</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="140">Крышки</category>
+      <category id="195">Разделочные доски</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="62">Ковши</category>
+      <category id="284">Новогодний декор</category>
+      <category id="55">Рюмки</category>
+      <category id="77">Пылесосы</category>
+      <category id="42">Термосы для детей</category>
+      <category id="94">Газовые плиты и электроплиты</category>
+      <category id="292">Столовая посуда</category>
+      <category id="21">Электробритвы</category>
+      <category id="88">Мультиварки и скороварки</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="66">Сервизы</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="278">Косметички</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="59">Все для выпечки</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="110">Наушники</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="95">Вафельницы, блинницы, орешницы</category>
+      <category id="118">Сумки</category>
+      <category id="90">Мясорубки</category>
+      <category id="31">Часы настенные</category>
+      <category id="54">Стаканы</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="97">Весы кухонные</category>
+      <category id="145">Смарт-часы</category>
+      <category id="142">Посуда для детей</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="324">Статуэтки</category>
+      <category id="219">Ручные массажеры для тела</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="133">Масленки</category>
+      <category id="279">Зонты</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="3">Ретро гирлянды</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="317">Садовое освещение</category>
+      <category id="300">Подушки для спины</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="29">Салфетницы</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="53">Кувшины</category>
+      <category id="92">Кофеварки и кофемолки</category>
+      <category id="34">Подсвечники</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="17">Воскоплавы</category>
+      <category id="128">Органайзеры</category>
+      <category id="212">Мебель</category>
+      <category id="114">Повербанки</category>
+      <category id="298">Брелки</category>
+      <category id="187">Слайсеры</category>
+      <category id="81">Капучинаторы</category>
+      <category id="68">Тарелки</category>
+      <category id="184">Бульонницы</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="103">Проекторы</category>
+      <category id="126">Ланч боксы</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="141">Салатницы</category>
+      <category id="87">Соковыжималки</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="60">Мармиты</category>
+      <category id="35">Вазы для цветов</category>
       <category id="295">Новогодние тарелки</category>
       <category id="117">Рюкзаки</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="23">Фены</category>
-      <category id="94">Газовые плиты и электроплиты</category>
-      <category id="284">Новогодний декор</category>
-      <category id="89">Миксеры</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="300">Подушки для спины</category>
-      <category id="141">Салатницы</category>
-      <category id="14">Стайлеры</category>
-      <category id="198">Гофре и выпрямители для волос</category>
-      <category id="193">Доски для подачи</category>
-      <category id="16">Машинки для стрижки</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="13">Триммеры</category>
-      <category id="103">Проекторы</category>
-      <category id="194">Менажницы</category>
-      <category id="92">Кофеварки и кофемолки</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="75">Утюги</category>
-      <category id="76">Отпариватели</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="278">Косметички</category>
-      <category id="148">Туристические коврики</category>
-      <category id="287">Банты на елку</category>
-      <category id="59">Все для выпечки</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="6">LED ленты</category>
-      <category id="63">Кастрюли</category>
-      <category id="111">Портативные колонки</category>
-      <category id="77">Пылесосы</category>
-      <category id="121">Туристические обогреватели</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="279">Зонты</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="98">Блендеры</category>
-      <category id="42">Термосы для детей</category>
-      <category id="133">Масленки</category>
-      <category id="90">Мясорубки</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="87">Соковыжималки</category>
-      <category id="65">Креманки</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="285">Йогуртницы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="212">Мебель</category>
-      <category id="195">Разделочные доски</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="114">Повербанки</category>
-      <category id="122">Аксессуары</category>
-      <category id="47">Наборы для специй</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="318">Кусторезы</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="61">Сковородки</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="224">Гамаки</category>
-      <category id="136">Дуршлаги</category>
-      <category id="298">Брелки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="93">Электрочайники</category>
+      <category id="73">Наборы для груминга</category>
       <category id="15">Плойки</category>
-      <category id="54">Стаканы</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="52">Лимонадницы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="110">Наушники</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="166">Тортовницы</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="53">Кувшины</category>
-      <category id="125">Мангалы</category>
+      <category id="2">Уличные гирлянды</category>
       <category id="261">Терки</category>
-      <category id="118">Сумки</category>
-      <category id="142">Посуда для детей</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="182">Блюда</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="292">Столовая посуда</category>
       <category id="221">Туристические души</category>
-      <category id="187">Слайсеры</category>
-      <category id="21">Электробритвы</category>
-      <category id="81">Капучинаторы</category>
-      <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="60">Мармиты</category>
-      <category id="20">Эпиляторы</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="149">Палатки</category>
-      <category id="72">Весы напольные</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="324">Статуэтки</category>
-      <category id="145">Смарт-часы</category>
-      <category id="140">Крышки</category>
-      <category id="184">Бульонницы</category>
-      <category id="126">Ланч боксы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="34">Подсвечники</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="56">Бокалы</category>
-      <category id="132">Конфетницы</category>
-      <category id="281">Коврики для йоги</category>
       <category id="134">Бутылки для масла</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="31">Часы настенные</category>
-      <category id="29">Салфетницы</category>
-      <category id="128">Органайзеры</category>
-      <category id="67">Столовые приборы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="71">Стиральные машинки</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="2302">Подарункові коробки і пакети</category>
+      <category id="144">Вентиляторы</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="72">Весы напольные</category>
       <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="66">Сервизы</category>
-      <category id="150">Спальные мешки</category>
-      <category id="68">Тарелки</category>
-      <category id="186">Тостеры</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="62">Ковши</category>
-      <category id="97">Весы кухонные</category>
-      <category id="227">Туристические инструменты и наборы</category>
-      <category id="55">Рюмки</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="271">Товары для уборки</category>
+      <category id="56">Бокалы</category>
       <category id="294">Новогодние елки</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="96">Вакууматоры</category>
+      <category id="121">Туристические обогреватели</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="274">Корзины для белья и игрушек</category>
       <category id="316">Туристические плиты</category>
-      <category id="88">Мультиварки и скороварки</category>
-      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="149">Палатки</category>
+      <category id="96">Вакууматоры</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="75">Утюги</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="124">Решетки</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="166">Тортовницы</category>
+      <category id="33">Пепельницы</category>
+      <category id="93">Электрочайники</category>
+      <category id="20">Эпиляторы</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -57727,25 +57727,6 @@
         <param name="Форма">Фигурная</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-55-23MINI_HP-55-23MINI" available="true">
-        <name>Детский брелок Минни Маус 4×6.5 (см) для ключей, на сумку и рюкзак HP-55-23MINI</name>
-        <price>109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>298</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_5d2fdf04fed939ea81</vendorCode>
-        <description>Милый брелок Минни Маус станет стильным акцентом для ключей, рюкзака или сумки. Яркий дизайн и узнаваемый образ персонажа делают его отличным аксессуаром для повседневного использования. Характеристики брелока Минни Маус на ключи: Материал: силикон; Размер: 4&amp;times;6.5 см; Длина ремешка: 10 см. Преимущества детского брелока на ключи: Мягкий силикон &amp;mdash; приятный на ощупь и долговечный материал. Удобное крепление &amp;mdash; металлическое кольцо и карабин для ключей, сумки или рюкзака. Лёгкий и компактный &amp;mdash; всегда под рукой, не занимает много места. Брелок Минни Маус &amp;mdash; это не просто брелок, а маленький источник настроения. Он сочетает в себе оригинальный дизайн, практичность и элемент игры, что делает его отличным выбором как для личного использования, так и для подарка близким.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5065</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5065/detskiy_brelok_minni_maus_4_6_5_sm_brelok_dlya_klyuchey_na_sumku_i_ryukzak.jpg</picture>
-        <param name="Материал">Силикон/Металл</param>
-        <param name="Вес">50 г</param>
-        <param name="Ширина">4 см</param>
-        <param name="Цвет">Розовый</param>
-        <param name="Длина">6.5 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-55-23BL_HP-55-23BL" available="true">
         <name>Детский брелок Дональд Дак 4×6.5 (см) для ключей, на сумку и рюкзак Синий HP-55-23BL</name>
         <price>109.0</price>
@@ -57938,24 +57919,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-55-26BG_HP-55-26BG" available="true">
-        <name>Детский брелок Мишка Старбакс 3.5×4.5 (см) для ключей, на сумку и рюкзак HP-55-26BG</name>
-        <price>109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>298</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-55-26BG_HP-55-26BG</vendorCode>
-        <description>Забавный брелок в виде Kuromi выполнен из мягкого силикона и дополнен прочной металлической фурнитурой. Он стильно смотрится на ключах, рюкзаке или сумке, добавляя образу немного юмора и уюта. Такой аксессуар станет отличным подарком для подростков, студентов, коллекционеров брелоков или просто тех, кто обожает капибар и милые вещи. Характеристики брелока на ключи: Материал: силикон; Размер: 3.5&amp;times;4.5 см; Длина ремешка: 10 см. Преимущества детского брелока на ключи: Мягкий силикон &amp;mdash; приятный на ощупь и долговечный материал. Удобное крепление &amp;mdash; металлическое кольцо и карабин для ключей, сумки или рюкзака. Лёгкий и компактный &amp;mdash; всегда под рукой, не занимает много места. Брелок Kuromi &amp;mdash; это не просто брелок, а маленький источник настроения. Он сочетает в себе оригинальный дизайн, практичность и элемент игры, что делает его отличным выбором как для личного использования, так и для подарка близким.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5076</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5076/detskiy_brelok_mishka_starbaks_3_5_4_5_sm_brelok_dlya_klyuchey_na_sumku_i_ryukzak.jpg</picture>
-        <param name="Материал">Силикон/Металл</param>
-        <param name="Вес">50 г</param>
-        <param name="Ширина">3.5 см</param>
-        <param name="Длина">4.5 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-55-26BB_HP-55-26BB" available="true">
         <name>Детский брелок Мишка Старбакс 3.5×4.5 (см) для ключей, на сумку и рюкзак Черный HP-55-26BB</name>
         <price>109.0</price>
@@ -58012,25 +57975,6 @@
         <param name="Длина">4.5 см</param>
         <param name="Состояние">Новое</param>
         <param name="Пол">Унисекс</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_HP-55-26SG_HP-55-26SG" available="true">
-        <name>Детский брелок Старбакс 3.5×4.5 (см) для ключей, на сумку и рюкзак HP-55-26SG</name>
-        <price>109.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>298</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-55-26SG_HP-55-26SG</vendorCode>
-        <description>Забавный брелок Старбакс выполнен из мягкого силикона и дополнен прочной металлической фурнитурой. Он стильно смотрится на ключах, рюкзаке или сумке, добавляя образу немного юмора и уюта. Такой аксессуар станет отличным подарком для подростков, студентов, коллекционеров брелоков или просто тех, кто обожает капибар и милые вещи. Характеристики брелока Starbucks на ключи: Материал: силикон; Размер: 3.5&amp;times;4.5 см; Длина ремешка: 10 см. Преимущества детского брелока на ключи: Мягкий силикон &amp;mdash; приятный на ощупь и долговечный материал. Удобное крепление &amp;mdash; металлическое кольцо и карабин для ключей, сумки или рюкзака. Лёгкий и компактный &amp;mdash; всегда под рукой, не занимает много места. Брелок Kuromi &amp;mdash; это не просто брелок, а маленький источник настроения. Он сочетает в себе оригинальный дизайн, практичность и элемент игры, что делает его отличным выбором как для личного использования, так и для подарка близким.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5080</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/5080/detskiy_brelok_starbaks_3_5_4_5_sm_brelok_dlya_klyuchey_na_sumku_i_ryukzak.jpg</picture>
-        <param name="Материал">Силикон/Металл</param>
-        <param name="Вес">50 г</param>
-        <param name="Ширина">3.5 см</param>
-        <param name="Цвет">Коричневый</param>
-        <param name="Длина">4.5 см</param>
-        <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_HP-55-27_HP-55-27" available="true">
@@ -73055,32 +72999,6 @@
         <param name="Форм-фактор">Переносной</param>
         <param name="Цвет корпуса">Зеленый</param>
         <param name="Форма">Овальная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_SCT-643_SCT-643" available="true">
-        <name>Набор фарфоровых квадратных банок для сыпучих на подставке 3 шт по 350 (мл) для чая кофе сахара SCT-643</name>
-        <price>899.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>48</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_SCT-643_SCT-643</vendorCode>
-        <description>Набор из трёх фарфоровых банок с бамбуковыми крышками &amp;mdash; это практичное и элегантное решение для хранения чая, кофе, сахара и других сыпучих продуктов. Благодаря продуманному дизайну он помогает поддерживать порядок и добавляет изысканности кухонному пространству. Основные характеристики емкостей для хранения сахара, чая и кофе: Материал: фарфор, бамбук; Размер: 29.5&amp;times;10.5&amp;times;11 см; Диаметр баночек: 9 см; Высота баночек: 7 см; Объем баночек: 350 мл. Такой набор станет не только функциональным элементом кухни, но и стильным акцентом в интерьере. Он идеально подойдёт в подарок ценителям уюта и порядка, добавив в повседневный быт нотку элегантности.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=6024</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6024/nabor_farforovyh_kvadratnyh_banok_dlya_sypuchih_na_podstavke_3_sht_po_350_ml_dlya_chaya_kofe_sahara.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6024/nabor_farforovyh_kvadratnyh_banok_dlya_sypuchih_na_podstavke_3_sht_po_350_ml_dlya_chaya_kofe_sahara_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6024/nabor_farforovyh_kvadratnyh_banok_dlya_sypuchih_na_podstavke_3_sht_po_350_ml_dlya_chaya_kofe_sahara_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6024/nabor_farforovyh_kvadratnyh_banok_dlya_sypuchih_na_podstavke_3_sht_po_350_ml_dlya_chaya_kofe_sahara_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/6024/nabor_farforovyh_kvadratnyh_banok_dlya_sypuchih_na_podstavke_3_sht_po_350_ml_dlya_chaya_kofe_sahara_4.jpg</picture>
-        <param name="Тип">Набор банок</param>
-        <param name="Материал">Фарфор</param>
-        <param name="Высота">110</param>
-        <param name="Количество предметов в наборе">4</param>
-        <param name="Ширина">105</param>
-        <param name="Применение">Для сыпучих продуктов</param>
-        <param name="Объем">0.35</param>
-        <param name="Цвет">Белый</param>
-        <param name="Длина">295</param>
         <param name="Гарантия">14 дней</param>
       </offer>
       <offer id="f11_SCT-641_SCT-641" available="true">
@@ -93367,6 +93285,30 @@
         <param name="Длина">215</param>
         <param name="Форма">Квадратная</param>
       </offer>
+      <offer id="f11_HP-HK-C9_HP-HK-C9" available="true">
+        <name>Пиала фарфоровая порционная 12х12 см белая с золотой окантовкой тарелка глубокая для подачи салатов</name>
+        <price>149.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>68</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-HK-C9_HP-HK-C9</vendorCode>
+        <description>Фарфоровая пиала - изящная посуда для стильной сервировки салатов, закусок, десертов или соусов. Квадратная форма с фигурным краем придает изделию элегантный вид, а тонкая золотая окантовка добавляет изысканности и праздничного настроения. Благодаря компактному размеру 12&amp;times;12 см и объему 300 мл пиала идеально подходит для порционной подачи блюд. Изготовлена из качественного фарфора, пиала имеет гладкую глянцевую поверхность, которая выглядит стильно и легко очищается после использования. Белый цвет гармонично сочетается с любой сервировкой, делая посуду универсальной как для ежедневного использования, так и для праздничного стола. Это отличное сочетание практичности, эстетики и современного дизайна. Характеристики: Тип: пиала порционная Материал: фарфор Форма: квадратная с фигурным краем Размер: 12 &amp;times; 12 см Объем: 300 мл Поверхность: глянцевая Декор: тонкая золотистая линия по краю</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7180</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7180/piala_farforovaya_portsionnaya_12h12_sm_belaya_s_zolotoy_okantovkoy_tarelka_glubokaya_dlya_podachi_salatov_5.jpg</picture>
+        <param name="Материал">Фарфор</param>
+        <param name="Ширина">120</param>
+        <param name="Количество в наборе">1</param>
+        <param name="Тип тарелки">Глубокая</param>
+        <param name="Цвет">Белый</param>
+        <param name="Длина">120</param>
+        <param name="Форма">Квадратная</param>
+      </offer>
       <offer id="f11_HP-HK-C13_HP-HK-C13" available="true">
         <name>Тарелка прямоугольная 20х12 см плоская белая компактная посуда для десертов закусок сервировочная HP-HK-C13</name>
         <price>179.0</price>
@@ -93446,6 +93388,216 @@
         <param name="Тип тарелки">Десертная/закусочная</param>
         <param name="Цвет">Белый</param>
         <param name="Форма">Круглая</param>
+      </offer>
+      <offer id="f11_HP-34-39_HP-34-39" available="true">
+        <name>Кастрюля из термостойкого стекла 2 л с декоративной ручкой в виде мишки жаропрочная термостойкое стекло HP-34-39</name>
+        <price>379.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-39_HP-34-39</vendorCode>
+        <description>Кастрюля &amp;laquo;Crystal Bear&amp;raquo; объемом в 2 литра привлекает внимание сочетанием прозрачности и функциональности. Благодаря термостойкому боросиликатному стеклу она позволяет контролировать процесс приготовления без открывания крышки, что помогает сохранять тепло и аромат блюд. Декоративная металлическая ручка в виде мишки добавляет изделию узнаваемого вида, делая его уместным не только для кухни, но и для подачи на стол. Модель подходит для ежедневного использования: в ней удобно варить супы, готовить каши или тушить овощи. Стекло не вступает в реакцию с продуктами, не впитывает запахи и сохраняет нейтральный вкус блюд. Прозрачные стенки обеспечивают визуальный контроль готовности, а стеклянные ручки позволяют безопасно перемещать кастрюлю. Крышка оснащена отверстием для выхода пара, что снижает риск переливания во время кипения. Материал выдерживает высокие температуры, сохраняет прозрачность и блеск при должном уходе. Для длительного использования важно избегать резких перепадов температуры: нагревать постепенно, не ставить горячую посуду на холодные поверхности и не охлаждать резко водой. Для очистки рекомендуется использовать мягкие губки и жидкие моющие средства без абразивов, что помогает сохранить внешний вид и свойства стекла. Характеристики: Тип: каструля Объем: 2 л Материал: боросиликатное стекло Крышка: стеклянная, с отверстием для выпуска пара</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7185</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7185/kastryulya_iz_termostoykogo_stekla_2_l_s_dekorativnoy_ruchkoy_v_vide_mishki_zharoprochnaya_termostoykoe_steklo_posudy_dlya_gotovki_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">2</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип дна">Однослойное</param>
+      </offer>
+      <offer id="f11_HP-34-40_HP-34-40" available="true">
+        <name>Кастрюля стеклянная 2.5 л с кристальной ручкой прозрачная посуда для готовки варки блюд кухонная HP-34-40</name>
+        <price>909.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-40_HP-34-40</vendorCode>
+        <description>Стеклянная кастрюля &amp;laquo;Diamond Crystal&amp;raquo; объемом 2.5 л сразу привлекает внимание благодаря шестигранной форме, которая отличается от классической кухонной посуды. Прозрачные стенки обеспечивают полный обзор процесса приготовления без необходимости открывать крышку, что помогает контролировать уровень кипения и готовность блюд. Крышка дополнена кристальной ручкой, которая сочетает удобство использования и выразительный внешний вид. Кастрюля подходит для приготовления различных блюд: супов, компотов, глинтвейна, пасты или тушеных блюд в соусах. Боросиликатное стекло выдерживает высокие температуры и не впитывает запахи, сохраняя натуральный вкус ингредиентов. Конструкция предусматривает отверстие для выпуска пара, позволяющее избегать избыточного давления во время кипения. При этом важно придерживаться равномерного нагрева, особенно на газовых плитах с использованием рассекателя. Материал сохраняет прозрачность и блеск при условии правильного ухода. Рекомендуется избегать резких температурных перепадов, не нагревать посуду без жидкости и не подвергать ее интенсивной жарке. Перед мытьем следует дождаться полного охлаждения, а для очистки использовать мягкие губки и жидкие моющие средства. Кастрюлю можно мыть в посудомоечной машине, следуя базовым правилам безопасности для стеклянной посуды. Характеристики: Тип: каструля Объем: 2,5 л Материал: боросиликатное стекло Форма: шестигранна Крышка: стеклянная, с отверстием для выпуска пара</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7186</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-41_HP-34-41" available="true">
+        <name>Кастрюля стеклянная шестигранная 3.5 л с кристальной ручкой посуда для готовки варки блюд кухонный HP-34-41</name>
+        <price>1049.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-41_HP-34-41</vendorCode>
+        <description>Стеклянная кастрюля «Diamond Crystal» объемом 3.5 л сразу привлекает внимание благодаря шестигранной форме, которая отличается от классической кухонной посуды. Прозрачные стенки обеспечивают полный обзор процесса приготовления без необходимости открывать крышку, что помогает контролировать уровень кипения и готовность блюд. Крышка дополнена кристальной ручкой, которая сочетает удобство использования и выразительный внешний вид. Кастрюля подходит для приготовления различных блюд: супов, компотов, глинтвейна, пасты или тушеных блюд в соусах. Боросиликатное стекло выдерживает высокие температуры и не впитывает запахи, сохраняя натуральный вкус ингредиентов. Конструкция предусматривает отверстие для выпуска пара, позволяющее избегать избыточного давления во время кипения. При этом важно придерживаться равномерного нагрева, особенно на газовых плитах с использованием рассекателя. Материал сохраняет прозрачность и блеск при условии правильного ухода. Рекомендуется избегать резких температурных перепадов, не нагревать посуду без жидкости и не подвергать ее интенсивной жарке. Перед мытьем следует дождаться полного охлаждения, а для очистки использовать мягкие губки и жидкие моющие средства. Кастрюлю можно мыть в посудомоечной машине, следуя базовым правилам безопасности для стеклянной посуды. Характеристики: Тип: каструля Объем: 3,5 л Материал: боросиликатное стекло Форма: шестигранна Крышка: стеклянная, с отверстием для выпуска пара</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7187</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">3.5</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-64_HP-34-64" available="true">
+        <name>Кастрюля стеклянная термостойкая 2 л с крышкой рельефная коричневая посуда для готовки варки блюд кухонная HP-34-64</name>
+        <price>1109.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-64_HP-34-64</vendorCode>
+        <description>Cкляная кастрюля сразу привлекает внимание своим аккуратным рельефным дизайном и прозрачностью, что позволяет контролировать процесс приготовления без открывания крышки. Благодаря термостойкому боросиликатному стеклу изделие выдерживает высокие температуры и подходит для ежедневного использования. Эргономичные боковые ручки обеспечивают удобное удержание, а крышка помогает поддерживать стабильную температуру внутри во время приготовления. Практичность кастрюли дополняется универсальностью: она подходит для варки, тушения и разогрева блюд. Материал не впитывает запахи и не влияет на вкусовые свойства пищи. При этом важно соблюдать правила использования: во избежание появления трещин и сколов следует равномерно нагревать посуду — сначала разместить ее на варочной поверхности, а уже потом включать нагрев. Не рекомендуется добавлять холодные жидкости в горячую кастрюлю или использовать замороженные продукты во время приготовления, поскольку боросиликатное стекло чувствительно к резким перепадам температур и может повредиться. Объем 2 литра делает кастрюлю удобной для ежедневного использования, особенно для небольших порций. После завершения готовки снимать посуду с плиты следует только сухим полотенцем, а ставить — исключительно на сухую поверхность. Это помогает сохранить целостность материала и продлить срок службы изделия. Компактные размеры и нейтральный вид позволяют легко интегрировать кастрюлю в любое кухонное пространство. Характеристики: Тип: кастрюля с крышкой Материал: боросиликатное стекло Объем: 2 л</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7188</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7188/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_korichnevaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_6.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Крышка">стекло</param>
+        <param name="Цвет">Коричневый</param>
+      </offer>
+      <offer id="f11_HP-34-65_HP-34-65" available="true">
+        <name>Кастрюля стеклянная термостойкая 2 л с крышкой рельефная посуда для готовки варки блюд кухонная HP-34-65</name>
+        <price>1109.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-65_HP-34-65</vendorCode>
+        <description>Cкляная кастрюля сразу привлекает внимание своим аккуратным рельефным дизайном и прозрачностью, что позволяет контролировать процесс приготовления без открывания крышки. Благодаря термостойкому боросиликатному стеклу изделие выдерживает высокие температуры и подходит для ежедневного использования. Эргономичные боковые ручки обеспечивают удобное удержание, а крышка помогает поддерживать стабильную температуру внутри во время приготовления. Практичность кастрюли дополняется универсальностью: она подходит для варки, тушения и разогрева блюд. Материал не впитывает запахи и не влияет на вкусовые свойства пищи. При этом важно соблюдать правила использования: во избежание появления трещин и сколов следует равномерно нагревать посуду — сначала разместить ее на варочной поверхности, а уже потом включать нагрев. Не рекомендуется добавлять холодные жидкости в горячую кастрюлю или использовать замороженные продукты во время приготовления, поскольку боросиликатное стекло чувствительно к резким перепадам температур и может повредиться. Объем 2 литра делает кастрюлю удобной для ежедневного использования, особенно для небольших порций. После завершения готовки снимать посуду с плиты следует только сухим полотенцем, а ставить — исключительно на сухую поверхность. Это помогает сохранить целостность материала и продлить срок службы изделия. Компактные размеры и нейтральный вид позволяют легко интегрировать кастрюлю в любое кухонное пространство. Характеристики: Тип: кастрюля с крышкой Материал: боросиликатное стекло Объем: 2 л</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7189</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7189/kastryulya_steklyannaya_termostoykaya_2_l_s_kryshkoy_relefnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_6.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Крышка">стекло</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-67_HP-34-67" available="true">
+        <name>Лимонадница с краном на подставке стеклянная 4.5 л прозрачный кувшин лимонадник для подачи лимонадов HP-34-67</name>
+        <price>2179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-67_HP-34-67</vendorCode>
+        <description>Стеклянная лимонадница на ножке с краником привлекает внимание сочетанием функциональной конструкции и классического дизайна. Высокая ножка обеспечивает удобство при подаче, позволяя легко разместить посуду на столе или сервировочной поверхности. Граненое рельефное стекло создает характерные блики, подчеркивая цвет и прозрачность напитка, что делает ее подходящей для подачи лимонада, чая, пунша или фруктовой воды. Практичность использования обеспечивается наличием краника, который позволяет разливать напиток без необходимости поднимать емкость. Широкое основание придает устойчивость даже при полном наполнении. Емкость изготовлена из прозрачного стекла, что не влияет на вкус и аромат напитков, а также позволяет контролировать уровень наполнения. Конструкция рассчитана на регулярное использование при условии соблюдения базовых рекомендаций: использование для холодных напитков или напитков комнатной температуры, избегание резких перепадов температур, проверка плотности крепления крана перед использованием. Благодаря сочетанию объема, формы и материалов лимонадница подходит как для повседневного использования, так и для сервировки во время мероприятий. Характеристики: Тип: стеклянная лимонадница на ножке с краником Объем: 4,5 л Высота: 55 см Диаметр: 19 см Материал емкости: прозрачное граненое стекло Материал краника: пластик Вес: 5,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7190</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7190/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_prozrachnyy_kuvshin_limonadnik_dlya_podachi_limonadov_gazanki_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7190/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_prozrachnyy_kuvshin_limonadnik_dlya_podachi_limonadov_gazanki_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7190/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_prozrachnyy_kuvshin_limonadnik_dlya_podachi_limonadov_gazanki_napitkov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7190/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_prozrachnyy_kuvshin_limonadnik_dlya_podachi_limonadov_gazanki_napitkov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7190/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_prozrachnyy_kuvshin_limonadnik_dlya_podachi_limonadov_gazanki_napitkov_4.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">550</param>
+        <param name="Верхний диаметр">190</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">4500</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип емкости">Лимонадница</param>
+      </offer>
+      <offer id="f11_HP-34-68_HP-34-68" available="true">
+        <name>Лимонадница с краном 4.5 литра для компота мохито прозрачная стеклянная подставка диспенсер HP-34-68</name>
+        <price>2179.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-68_HP-34-68</vendorCode>
+        <description>Стеклянная лимонадница на ножке с краном сочетает в себе функциональность и классический дизайн, что делает её удобной для подачи напитков в различных условиях. Высокая ножка обеспечивает удобное размещение на столе, а граненое стекло создает характерные блики, подчеркивая цвет и прозрачность содержимого. Такая конструкция подходит для подачи лимонада, холодного чая, пунша или фруктовой воды. Практичность использования обеспечивает встроенный кран, который позволяет разливать напиток без необходимости поднимать емкость. Широкое основание придает устойчивость даже при полном наполнении, а прозрачное стекло позволяет контролировать уровень жидкости. Материал не влияет на вкусовые свойства напитка и сохраняет его аромат. Для длительного использования рекомендуется соблюдать основные правила эксплуатации: использовать лимонадницу для холодных напитков или напитков комнатной температуры, сначала наливать жидкость, а затем добавлять лед или фрукты, избегать механических повреждений и проверять плотность крепления крана перед использованием. Характеристики: Тип: стеклянная лимонадница на ножке с краником Объем: 4,5 л Высота: 55 см Диаметр: 19 см Материал: прозрачное граненое стекло Материал краника: пластик Вес: 5,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7191</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7191/limonadnitsa_s_kranom_4_5_litra_dlya_kompota_mohito_prozrachnaya_steklyannaya_podstavka_dispenser_napitkov_emkost_prazdnichnogo_stola.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7191/limonadnitsa_s_kranom_4_5_litra_dlya_kompota_mohito_prozrachnaya_steklyannaya_podstavka_dispenser_napitkov_emkost_prazdnichnogo_stola_1.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7191/limonadnitsa_s_kranom_4_5_litra_dlya_kompota_mohito_prozrachnaya_steklyannaya_podstavka_dispenser_napitkov_emkost_prazdnichnogo_stola_2.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7191/limonadnitsa_s_kranom_4_5_litra_dlya_kompota_mohito_prozrachnaya_steklyannaya_podstavka_dispenser_napitkov_emkost_prazdnichnogo_stola_3.png</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7191/limonadnitsa_s_kranom_4_5_litra_dlya_kompota_mohito_prozrachnaya_steklyannaya_podstavka_dispenser_napitkov_emkost_prazdnichnogo_stola_4.png</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">550</param>
+        <param name="Верхний диаметр">190</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">4500</param>
+        <param name="Наличие ручки">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Тип емкости">Лимонадница</param>
+      </offer>
+      <offer id="f11_HP-34-69_HP-34-69" available="true">
+        <name>Лимонадница 2л с краном кувшин лимонадник диспенсер для подачи прохладных напитков прозрачный HP-34-69</name>
+        <price>1509.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-69_HP-34-69</vendorCode>
+        <description>Стеклянная лимонадница на ножке с краном сочетает в себе практичную конструкцию и классический дизайн, что делает её удобной для подачи напитков в различных условиях. Высокая ножка обеспечивает удобное размещение на столе, а граненое рельефное стекло создает характерные блики, подчеркивая цвет и прозрачность напитка. Такая форма подходит для подачи лимонада, холодного чая, пунша или фруктовой воды. Функциональность изделия дополняется встроенным краником, который позволяет разливать напиток, не поднимая емкость. Широкое основание обеспечивает устойчивость даже при полном наполнении, а прозрачное стекло позволяет контролировать уровень жидкости. Материал емкости не влияет на вкус и аромат напитка, сохраняя его свойства во время использования. Для длительного использования рекомендуется соблюдать основные правила: использовать для холодных напитков или напитков комнатной температуры, сначала наливать жидкость, а затем добавлять лед или фрукты, избегать механических повреждений и проверять плотность крепления крана перед использованием. Это обеспечивает стабильность и удобство в повседневной эксплуатации. Характеристики: Тип: стеклянная лимонадница на ножке с краником Объем: 2 л Высота: 43 см Диаметр: 16,5 см Материал: прозрачное граненое стекло Материал краника: пластик Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7192</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7192/limonadnitsa_2l_s_kranom_kuvshin_limonadnik_dispenser_dlya_podachi_prohladnyh_napitkov_prozrachnyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7192/limonadnitsa_2l_s_kranom_kuvshin_limonadnik_dispenser_dlya_podachi_prohladnyh_napitkov_prozrachnyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7192/limonadnitsa_2l_s_kranom_kuvshin_limonadnik_dispenser_dlya_podachi_prohladnyh_napitkov_prozrachnyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7192/limonadnitsa_2l_s_kranom_kuvshin_limonadnik_dispenser_dlya_podachi_prohladnyh_napitkov_prozrachnyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7192/limonadnitsa_2l_s_kranom_kuvshin_limonadnik_dispenser_dlya_podachi_prohladnyh_napitkov_prozrachnyy_4.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">430</param>
+        <param name="Верхний диаметр">165</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">2000</param>
+        <param name="Наличие ручки">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Тип емкости">Лимонадница</param>
+      </offer>
+      <offer id="f11_HP-34-70_HP-34-70" available="true">
+        <name>Лимонадница с краном на подставке стеклянная 2 л прозрачная лимонадник для подачи прохладных напитков HP-34-70</name>
+        <price>1469.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>52</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-70_HP-34-70</vendorCode>
+        <description>Стеклянная лимонадница на ножке с краником сочетает в себе продуманную конструкцию и классический внешний вид, что делает её удобной для подачи различных напитков. Высокая ножка обеспечивает удобное размещение на столе, а граненое стекло создает характерные блики, подчеркивая прозрачность и цвет содержимого. Такая конструкция подходит для лимонада, холодного чая, пунша или фруктовой воды. Практичность использования обеспечивается краником, который позволяет разливать напиток без поднятия емкости. Широкое основание повышает устойчивость даже при полном наполнении, а прозрачная структура стекла позволяет контролировать уровень жидкости. Материал емкости не влияет на вкус и аромат напитков, сохраняя их свойства во время использования. Для длительной эксплуатации рекомендуется использовать лимонадницу для холодных или напитков комнатной температуры, сначала наливать жидкость, а затем добавлять лед или другие ингредиенты, избегать механических повреждений и проверять плотность крепления крана перед использованием. Такой подход обеспечивает стабильность и удобство в повседневном использовании. Характеристики: Тип: стеклянная лимонадница на ножке с краником Объем: 2 л Высота: 43 см Диаметр: 16,5 см Материал: прозрачное граненое стекло Материал краника: пластик Вес: 3,1 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7193</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7193/limonadnitsa_s_kranom_na_podstavke_steklyannaya_2_l_prozrachnaya_limonadnik_dlya_podachi_prohladnyh_napitkov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7193/limonadnitsa_s_kranom_na_podstavke_steklyannaya_2_l_prozrachnaya_limonadnik_dlya_podachi_prohladnyh_napitkov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7193/limonadnitsa_s_kranom_na_podstavke_steklyannaya_2_l_prozrachnaya_limonadnik_dlya_podachi_prohladnyh_napitkov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7193/limonadnitsa_s_kranom_na_podstavke_steklyannaya_2_l_prozrachnaya_limonadnik_dlya_podachi_prohladnyh_napitkov_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7193/limonadnitsa_s_kranom_na_podstavke_steklyannaya_2_l_prozrachnaya_limonadnik_dlya_podachi_prohladnyh_napitkov_4.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">430</param>
+        <param name="Верхний диаметр">165</param>
+        <param name="Назначение">Универсальное</param>
+        <param name="Объем">2000</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Способ закрывания">Крышка</param>
+        <param name="Тип емкости">Лимонадница</param>
       </offer>
       <offer id="f11_HP-34-80_HP-34-80" available="true">
         <name>Сотейник из термостойкого стекла 2.5 л с деревянной ручкой кастрюля для соусов блюд HP-34-80</name>
@@ -93574,6 +93726,32 @@
         <param name="Цвет">Прозрачный</param>
         <param name="Тип стакана">Высокий</param>
       </offer>
+      <offer id="f11_HP-34-87_HP-34-87" available="true">
+        <name>Стеклянная кастрюля 1.6 л диаметр 18 см кухонная посуда для приготовления варки тушения блюд прозрачный HP-34-87</name>
+        <price>839.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-87_HP-34-87</vendorCode>
+        <description>Стеклянная кастрюля объёмом 1,6 л &amp;mdash; это идеальное сочетание компактности и функциональности для повседневного использования. Изготовленная из боросиликатного стекла, она устойчива к высоким температурам и не впитывает запахов, сохраняя естественный вкус блюд. Диаметр 18 см делает ее удобной для приготовления небольших порций супов, соусов или гарниров, а прозрачные стенки позволяют контролировать процесс приготовления без открывания крышки. Благодаря весу 1,5 кг кастрюля остается устойчивой и надежной во время использования. Она легко очищается и подходит для ежедневного приготовления, сочетая практичность и современный вид. Это отличный выбор для тех, кто ценит качество, эстетику и комфорт на кухне. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты/ вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло Диаметр: 18 см Объем: 1,6 л Вес: 1,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7200</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7200/steklyannaya_kastryulya_1_6_l_diametr_18_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnyy_7.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">180</param>
+        <param name="Крышка">жаропрочное стекло</param>
+        <param name="Объем">1.6</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Мерная шкала">Нет</param>
+      </offer>
       <offer id="f11_HP-34-95_HP-34-95" available="true">
         <name>Диспенсер для напитков Красико стеклянный 3 л с бамбуковой подставкой лимонадник в форме бочки прозрачный HP-34-95</name>
         <price>1339.0</price>
@@ -93682,6 +93860,129 @@
         <param name="Цвет">Прозрачный</param>
         <param name="Длина">200</param>
       </offer>
+      <offer id="f11_HP-34-100_HP-34-100" available="true">
+        <name>Набор креманок 6 штук по 200 мл прозрачный креманки стеклянные для подачи мороженого желе и десертов HP-34-100</name>
+        <price>849.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-100_HP-34-100</vendorCode>
+        <description>Изящный набор из шести компактных чаш на устойчивой ножке, созданный для эстетичной порционной подачи десертов и закусок. Компактный размер делает их идеальным выбором для подачи высокохудожественных лакомств, где важна каждая деталь презентации. Функциональность и применение: Мини-порции и муссы: Идеальный объем для подачи легких сорбетов, изысканных муссов, панна-котты, ягод со сливками или авторских дегустационных сетов. Универсальность: Благодаря компактному размеру могут использоваться как соусники, вазочки для икры, орешков или цукатов при фуршетной сервировке. Устойчивость: Широкое основание ножки обеспечивает устойчивость чаши, а компактная форма позволяет удобно держать креманку в руке. Характеристики: Материал: стекло Объем: 200 мл Размеры (диаметр/высота): 8,5/9 см Вес: 1,7 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7206</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7206/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7206/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7206/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov_2.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">90</param>
+        <param name="Диаметр">85</param>
+        <param name="Крышка">Нет</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">200</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
+      </offer>
+      <offer id="f11_HP-34-101_HP-34-101" available="true">
+        <name>Набор креманок 6 штук по 200 мл прозрачный креманки стеклянные для подачи мороженого желе и десертов HP-34-101</name>
+        <price>589.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>65</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-101_HP-34-101</vendorCode>
+        <description>Изящный набор из шести компактных чаш на устойчивой ножке, созданный для эстетичной порционной подачи десертов и закусок. Компактный размер делает их идеальным выбором для подачи высокохудожественных лакомств, где важна каждая деталь презентации. Функциональность и применение: Мини-порции и муссы: Идеальный объем для подачи легких сорбетов, изысканных муссов, панна-котты, ягод со сливками или авторских дегустационных сетов. Универсальность: Благодаря компактному размеру могут использоваться как соусники, вазочки для икры, орешков или цукатов при фуршетной сервировке. Устойчивость: Широкое основание ножки обеспечивает устойчивость чаши, а компактная форма позволяет удобно держать креманку в руке. Характеристики: Материал: стекло Объем: 200 мл Размеры (диаметр/высота): 8,5/9 см Вес: 1,7 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7207</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7207/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7207/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7207/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7207/nabor_kremanok_6_shtuk_po_200_ml_prozrachnyy_kremanki_steklyannye_dlya_podachi_morozhenogo_zhele_i_desertov_3.jpg</picture>
+        <param name="Материал">Стекло</param>
+        <param name="Высота">90</param>
+        <param name="Диаметр">85</param>
+        <param name="Крышка">Нет</param>
+        <param name="Количество в наборе">6</param>
+        <param name="Объем">200</param>
+        <param name="Цвет">Прозрачный</param>
+        <param name="Тип посуды">Креманка</param>
+      </offer>
+      <offer id="f11_HP-34-102_HP-34-102" available="true">
+        <name>Стеклянная кастрюля 2.5 л диаметр 20 см кухонная посуда для приготовления варки тушения блюд прозрачная HP-34-102</name>
+        <price>869.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-102_HP-34-102</vendorCode>
+        <description>Элегантная стеклянная кастрюля, сочетающая в себе эстетику современной сервировки и функциональность. Прозрачный корпус позволяет полностью контролировать процесс приготовления, превращая его в визуальное удовольствие. Преимущества: Боросиликатное стекло: Стойко к перепадам температур, не впитывает запахи и не вступает в реакцию с продуктами. Универсальность: Подходит для приготовления супов, каш, тушения овощей, а также стильной подачи блюд на стол прямо в кастрюле. Объем: Оптимальная емкость 2,5 л подходит для ежедневного использования в семье из 2-3 человек. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждение. После окончания готовки снимать посуду с плиты/вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к потере целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Чтобы предотвратить появление неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время приготовления замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло Диаметр: 20 см Объем: 2,5 л Вес: 1,3 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7208</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_6.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_7.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7208/steklyannaya_kastryulya_2_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_8.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">жаропрочное стекло</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-103_HP-34-103" available="true">
+        <name>Кастрюля из боросиликатного стекла 20 см 3.5 л посуда для варки приготовления блюд на кухню HP-34-103</name>
+        <price>939.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-103_HP-34-103</vendorCode>
+        <description>Элегантная стеклянная кастрюля, сочетающая в себе эстетику современной сервировки и функциональность. Прозрачный корпус позволяет полностью контролировать процесс приготовления, превращая его в визуальное удовольствие. Преимущества: Боросиликатное стекло: Устойчиво к перепадам температур, не впитывает запахи и не вступает в реакцию с продуктами. Универсальность: Подходит для приготовления супов, каш, тушения овощей, а также стильной подачи блюд на стол прямо в кастрюле. Объем: Оптимальная емкость 3,5 л подходит для ежедневного использования в семье из 3-4 человек. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждение. После окончания готовки снимать посуду с плиты/вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к потере целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Чтобы предотвратить появление неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время приготовления замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло Диаметр: 20 см Объем: 3,5 л Вес: 1,2 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7209</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7209/kastryulya_iz_borosilikatnogo_stekla_20_sm_3_5_l_posuda_dlya_varki_prigotovleniya_blyud_na_kuhnyu_6.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">жаропрочное стекло</param>
+        <param name="Объем">3.5</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Мерная шкала">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-104_HP-34-104" available="true">
+        <name>Стеклянная кастрюля 2.5 л диаметр 16 см кухонная посуда для приготовления варки тушения блюд бежевый HP-34-104</name>
+        <price>1009.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-104_HP-34-104</vendorCode>
+        <description>Изысканная кастрюля, сочетающая в себе винтажные мотивы и современные материалы. Уникальная текстура стекла создает эффект водной ряби, который эффектно преломляет свет и скрывает следы от капель воды, сохраняя безупречный вид посуды. Особенности: &amp;laquo;Молотковая&amp;raquo; текстура (Hammered Glass): Рельефная поверхность корпуса имитирует ковку по металлу. Это не только стильный декоративный прием, но и практичное решение &amp;mdash; на такой фактуре менее заметны отпечатки пальцев и мелкие царапины. Термостойкость: Как и другие изделия из боросиликатного стекла, эта модель устойчива к высоким температурам. Она подходит для приготовления блюд на плите (с рассекателем) и подачи горячих блюд на стол. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты/ вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло Диаметр: 16 см Объем: 2,5 л Вес: 700 г</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7210</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7210/steklyannaya_kastryulya_2_5_l_diametr_16_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_bezhevyy_6.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">160</param>
+        <param name="Крышка">жаропрочное стекло</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Жаропрочное стекло</param>
+        <param name="Цвет">Бежевый</param>
+      </offer>
       <offer id="f11_HP-34-105_HP-34-105" available="true">
         <name>Стеклянная кастрюля 2.5 л диаметр 20 см кухонная посуда для приготовления варки тушения блюд прозрачная HP-34-105</name>
         <price>829.0</price>
@@ -93705,6 +94006,103 @@
         <param name="Объем">2.5</param>
         <param name="Ручка">Дерево</param>
         <param name="Мерная шкала">Нет</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-106_HP-34-106" available="true">
+        <name>Стеклянная кастрюля 3.5 л диаметр 20 см кухонная посуда для приготовления варки тушения блюд прозрачная HP-34-106</name>
+        <price>889.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-106_HP-34-106</vendorCode>
+        <description>Стеклянная кастрюля объемом 3.5 л — это сочетание современного дизайна и практичности для ежедневного приготовления. Изготовлена из прочного боросиликатного стекла, она выдерживает высокие температуры и резкие перепады, не впитывает запахи и сохраняет натуральный вкус блюд. Диаметр 20 см обеспечивает удобство при приготовлении супов, гарниров или тушеных блюд, а прозрачные стенки позволяют контролировать процесс без открывания крышки. Продуманная конструкция с отверстием для выпуска пара повышает безопасность и комфорт в использовании, предотвращая накопление лишнего давления. Такая кастрюля станет стильным и функциональным дополнением кухни, подходя как для ежедневного использования, так и для эффектной подачи готовых блюд прямо на стол. Характеристики: Диаметр - 20 см Материал - боросиликатное стекло Объем - 3.5 л Особенности - отверстие для выпуска пара</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7212</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7212/steklyannaya_kastryulya_3_5_l_diametr_20_sm_kuhonnaya_posuda_dlya_prigotovleniya_varki_tusheniya_blyud_prozrachnaya_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">3.5</param>
+        <param name="Ручка">Дерево</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-107_HP-34-107" available="true">
+        <name>Кастрюля из боросиликатного стекла 2.5 л диаметр 20 см кухонная посуда стеклянная для приготовления блюд HP-34-107</name>
+        <price>929.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-107_HP-34-107</vendorCode>
+        <description>Минималистичная стильная кастрюля, которая идеально впишется в современную светлую кухню. Сочетание боросиликатного стекла, металла и теплой фактуры дерева делает её не просто посудой, а полноценным элементом интерьера. Особенности: Эргономичные деревянные ручки: Широкие накладки из дерева на боковых ручках и массивная деревянная ручка на крышке обеспечивают комфортный захват и не нагреваются в процессе готовки. Боросиликатное стекло: Корпус выполнен из термостойкого стекла. Можно контролировать процесс готовки, не снимая крышки. Функциональная крышка: Плотно прилегающая стеклянная крышка имеет отверстие для выхода пара, что предотвращает избыточное давление внутри. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты/ вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло, дерево Диаметр: 20 см Объем: 2,5 л Вес: 1,2 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7213</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7213/kastryulya_iz_borosilikatnogo_stekla_2_5_l_diametr_20_sm_kuhonnaya_posuda_steklyannaya_dlya_prigotovleniya_blyud_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">2.5</param>
+        <param name="Ручка">Дерево</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-108_HP-34-108" available="true">
+        <name>Стеклянная кастрюля 3.5 л с крышкой прозрачная кухонная посуда из боросиликатного стекла для готовки блюд HP-34-108</name>
+        <price>1009.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-108_HP-34-108</vendorCode>
+        <description>Минималистичная стильная кастрюля, которая идеально впишется в современную светлую кухню. Сочетание боросиликатного стекла, металла и теплой фактуры дерева делает её не просто посудой, а полноценным элементом интерьера. Особенности: Эргономичные деревянные ручки: Широкие накладки из дерева на боковых ручках и массивная деревянная ручка на крышке обеспечивают комфортный захват и не нагреваются в процессе готовки. Боросиликатное стекло: Корпус выполнен из термостойкого стекла. Можно контролировать процесс готовки, не снимая крышки. Функциональная крышка: Плотно прилегающая стеклянная крышка имеет отверстие для выхода пара, что предотвращает избыточное давление внутри. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты/ вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло, дерево Диаметр: 20 см Объем: 3,5 л Вес: 1,4 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7214</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7214/steklyannaya_kastryulya_3_5_l_s_kryshkoy_prozrachnaya_kuhonnaya_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_5.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Жаропрочное стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">жаропрочное стекло</param>
+        <param name="Объем">3.5</param>
+        <param name="Ручка">Дерево</param>
+        <param name="Цвет">Прозрачный</param>
+      </offer>
+      <offer id="f11_HP-34-109_HP-34-109" available="true">
+        <name>Стеклянная кастрюля 4.5 л с крышкой диаметр 20 см посуда из боросиликатного стекла для готовки блюд HP-34-109</name>
+        <price>1119.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <categoryId>63</categoryId>
+        <vendor>Yiwu</vendor>
+        <vendorCode>f11_HP-34-109_HP-34-109</vendorCode>
+        <description>Минималистичная стильная кастрюля, которая идеально впишется в современную светлую кухню. Сочетание боросиликатного стекла, металла и теплой фактуры дерева делает её не просто посудой, а полноценным элементом интерьера. Особенности: Эргономичные деревянные ручки: Широкие накладки из дерева на боковых ручках и массивная деревянная ручка на крышке обеспечивают комфортный захват и не нагреваются в процессе готовки. Боросиликатное стекло: Корпус выполнен из термостойкого стекла. Можно контролировать процесс готовки, не снимая крышки. Функциональная крышка: Плотно прилегающая стеклянная крышка имеет отверстие для выхода пара, что предотвращает избыточное давление внутри. Особенности использования: Во избежание появления трещин и сколов следует равномерно нагревать кастрюлю при использовании. Для этого нужно разместить посуду на варочной поверхности и только после этого включать оборудование. Нельзя оставлять стеклянную кастрюлю пустой на включенной варочной поверхности. При выборе конфорки следует ориентироваться на диаметр дна кастрюли, а при использовании на открытом огне обязательно пользоваться рассекателем пламени. При неравномерном распределении тепла стекло может лопнуть. Категорически не рекомендуется ставить горячую кастрюлю в холодильник, чтобы предотвратить повреждения. После завершения готовки снимать посуду с плиты/ вынимать из духовки необходимо только сухим полотенцем. Ставить кастрюлю также следует исключительно на сухую поверхность. Для мытья вручную не рекомендуется использовать жесткие мочалки, скребки и абразивные средства. Царапины и микротрещины снижают прочность материала, что может привести к утрате целостности кастрюли. Для очистки от пригоревших кусочков пищи следует замочить кастрюлю в воде и подождать пока загрязнения отойдут. Во избежание появления неприятных запахов и плесени перед помещением на хранение нужно дождаться полного высыхания посуды. Категорически не рекомендуется использовать горячую кастрюлю с холодными жидкостями (и наоборот), использовать во время готовки замороженные продукты. Боросиликатное стекло "боится" перепадов температур и может лопнуть. Характеристики: Материал: боросиликатное стекло, дерево Диаметр: 20 см Объем: 4,5 л Вес: 1,5 кг</description>
+        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7215</url>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_1.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_2.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_3.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_4.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_5.jpg</picture>
+        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7215/steklyannaya_kastryulya_4_5_l_s_kryshkoy_diametr_20_sm_posuda_iz_borosilikatnogo_stekla_dlya_gotovki_blyud_kuhonnyy_prozrachnyy_6.jpg</picture>
+        <param name="Тип">Кастрюля</param>
+        <param name="Материал">Стекло</param>
+        <param name="Диаметр кастрюли">200</param>
+        <param name="Крышка">стекло</param>
+        <param name="Объем">4.5</param>
+        <param name="Ручка">Дерево</param>
         <param name="Цвет">Прозрачный</param>
       </offer>
       <offer id="f11_HP-34-121_HP-34-121" available="true">
