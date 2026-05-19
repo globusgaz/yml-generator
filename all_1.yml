@@ -1,173 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-19 05:21">
+<yml_catalog date="2026-05-19 10:11">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="219">Ручные массажеры для тела</category>
-      <category id="12">Косметические зеркала</category>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="300">Подушки для спины</category>
-      <category id="103">Проекторы</category>
-      <category id="144">Вентиляторы</category>
-      <category id="263">Аксессуары для кухни</category>
-      <category id="136">Дуршлаги</category>
-      <category id="291">Новогодние чашки</category>
-      <category id="61">Сковородки</category>
-      <category id="285">Йогуртницы</category>
-      <category id="47">Наборы для специй</category>
-      <category id="223">Колбасные шприцы</category>
-      <category id="104">Ручки для чистки наушников</category>
-      <category id="71">Стиральные машинки</category>
-      <category id="86">Сэндвичницы и бутербродницы</category>
-      <category id="48">Емкости для хранения</category>
-      <category id="41">Термосы и термочашки</category>
-      <category id="93">Электрочайники</category>
-      <category id="221">Туристические души</category>
-      <category id="26">Мусорные ведра</category>
-      <category id="27">Декоративные подносы</category>
-      <category id="33">Пепельницы</category>
-      <category id="147">Наборы для пикника</category>
-      <category id="186">Тостеры</category>
-      <category id="166">Тортовницы</category>
-      <category id="23">Фены</category>
-      <category id="296">Полки, этажерки, шкафы</category>
-      <category id="90">Мясорубки</category>
-      <category id="316">Туристические плиты</category>
-      <category id="193">Доски для подачи</category>
-      <category id="297">Детские сумки и кошельки</category>
-      <category id="217">Кемпинговые фонари</category>
-      <category id="125">Мангалы</category>
-      <category id="264">Мягкие игрушки</category>
-      <category id="82">Другая мелкая техника</category>
-      <category id="273">Коврики для кухни и ванной комнаты</category>
-      <category id="269">Подарочные пакеты</category>
-      <category id="35">Вазы для цветов</category>
-      <category id="128">Органайзеры</category>
-      <category id="81">Капучинаторы</category>
-      <category id="302">Кухонные полотенца и салфетки</category>
-      <category id="140">Крышки</category>
-      <category id="76">Отпариватели</category>
-      <category id="68">Тарелки</category>
-      <category id="132">Конфетницы</category>
-      <category id="13">Триммеры</category>
-      <category id="102">Микрофоны петличные</category>
-      <category id="4">Удлинители гирлянд</category>
-      <category id="66">Сервизы</category>
+      <category id="92">Кофеварки и кофемолки</category>
       <category id="99">Аэрогрили и фритюрницы</category>
-      <category id="298">Брелки</category>
+      <category id="29">Салфетницы</category>
+      <category id="118">Сумки</category>
       <category id="52">Лимонадницы</category>
-      <category id="279">Зонты</category>
-      <category id="281">Коврики для йоги</category>
-      <category id="262">Термосумки</category>
-      <category id="45">Коктейльные наборы для бара</category>
-      <category id="226">Детские игровые палатки</category>
-      <category id="57">Чашки</category>
-      <category id="20">Эпиляторы</category>
-      <category id="114">Повербанки</category>
-      <category id="77">Пылесосы</category>
-      <category id="14">Стайлеры</category>
+      <category id="51">Заварочные чайники</category>
+      <category id="96">Вакууматоры</category>
+      <category id="76">Отпариватели</category>
+      <category id="63">Кастрюли</category>
+      <category id="217">Кемпинговые фонари</category>
+      <category id="179">Мебель для кемпинга</category>
+      <category id="89">Миксеры</category>
+      <category id="111">Портативные колонки</category>
+      <category id="125">Мангалы</category>
+      <category id="219">Ручные массажеры для тела</category>
       <category id="94">Газовые плиты и электроплиты</category>
+      <category id="35702">Обувь для Взрослых</category>
+      <category id="105">Зарядные устройства</category>
+      <category id="317">Садовое освещение</category>
+      <category id="68">Тарелки</category>
+      <category id="15">Плойки</category>
+      <category id="124">Решетки</category>
+      <category id="60">Мармиты</category>
+      <category id="166">Тортовницы</category>
+      <category id="269">Подарочные пакеты</category>
+      <category id="128">Органайзеры</category>
+      <category id="93">Электрочайники</category>
+      <category id="48">Емкости для хранения</category>
+      <category id="5">Комнатные гирлянды</category>
+      <category id="74">Машинки для удаления катышек</category>
+      <category id="33">Пепельницы</category>
+      <category id="81">Капучинаторы</category>
+      <category id="149">Палатки</category>
+      <category id="114">Повербанки</category>
+      <category id="296">Полки, этажерки, шкафы</category>
+      <category id="26">Мусорные ведра</category>
+      <category id="136">Дуршлаги</category>
+      <category id="117">Рюкзаки</category>
+      <category id="298">Брелки</category>
+      <category id="19">Лампы для маникюра</category>
+      <category id="261">Терки</category>
       <category id="3">Ретро гирлянды</category>
+      <category id="255">Сита и дуршлаги</category>
+      <category id="230">Сетевые фильтры и удлинители</category>
+      <category id="72">Весы напольные</category>
+      <category id="62">Ковши</category>
+      <category id="265">Хозяйственные товары</category>
+      <category id="224">Гамаки</category>
+      <category id="49">Наборы кухонных ножей и лопаток</category>
+      <category id="53">Кувшины</category>
+      <category id="273">Коврики для кухни и ванной комнаты</category>
+      <category id="297">Детские сумки и кошельки</category>
+      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="182">Блюда</category>
+      <category id="86">Сэндвичницы и бутербродницы</category>
+      <category id="275">Салфетки сервировочные</category>
+      <category id="300">Подушки для спины</category>
+      <category id="295">Новогодние тарелки</category>
+      <category id="47">Наборы для специй</category>
+      <category id="304">Аккумуляторные пылесосы</category>
+      <category id="23">Фены</category>
+      <category id="77">Пылесосы</category>
+      <category id="133">Масленки</category>
+      <category id="323">Садовые и пляжные зонты</category>
+      <category id="223">Колбасные шприцы</category>
+      <category id="156">Столовые сервизы</category>
+      <category id="80">Духовые шкафы и электропечи</category>
+      <category id="91">Кухонные комбайны</category>
+      <category id="302">Кухонные полотенца и салфетки</category>
+      <category id="97">Весы кухонные</category>
+      <category id="17">Воскоплавы</category>
+      <category id="221">Туристические души</category>
+      <category id="324">Статуэтки</category>
+      <category id="71">Стиральные машинки</category>
+      <category id="290">Новогодние фигурки и статуэтки</category>
+      <category id="141">Салатницы</category>
+      <category id="90">Мясорубки</category>
+      <category id="82">Другая мелкая техника</category>
+      <category id="3221201">Детская обувь и одежда</category>
+      <category id="299">Подушки для путишествий</category>
+      <category id="14">Стайлеры</category>
       <category id="16">Машинки для стрижки</category>
-      <category id="260">Дождевики и пончо туристические</category>
-      <category id="34">Подсвечники</category>
+      <category id="293">Хвойные гирлянды</category>
+      <category id="67">Столовые приборы</category>
+      <category id="271">Товары для уборки</category>
+      <category id="20">Эпиляторы</category>
+      <category id="148">Туристические коврики</category>
+      <category id="184">Бульонницы</category>
+      <category id="193">Доски для подачи</category>
+      <category id="126">Ланч боксы</category>
+      <category id="102">Микрофоны петличные</category>
+      <category id="66">Сервизы</category>
+      <category id="83">Чопперы и измельчители</category>
+      <category id="320">Светодиодные фонари</category>
+      <category id="268">Кухонные подставки</category>
+      <category id="132">Конфетницы</category>
+      <category id="281">Коврики для йоги</category>
+      <category id="140">Крышки</category>
+      <category id="45">Коктейльные наборы для бара</category>
+      <category id="196">Сетки и корзины для фри</category>
+      <category id="187">Слайсеры</category>
+      <category id="291">Новогодние чашки</category>
+      <category id="21">Электробритвы</category>
+      <category id="104">Ручки для чистки наушников</category>
+      <category id="267">Подушки-игрушки</category>
+      <category id="292">Столовая посуда</category>
+      <category id="75">Утюги</category>
+      <category id="56">Бокалы</category>
+      <category id="73">Наборы для груминга</category>
+      <category id="285">Йогуртницы</category>
+      <category id="199">Карематы и туристические коврики</category>
+      <category id="31">Часы настенные</category>
+      <category id="103">Проекторы</category>
+      <category id="27">Декоративные подносы</category>
+      <category id="264">Мягкие игрушки</category>
+      <category id="262">Термосумки</category>
+      <category id="194">Менажницы</category>
+      <category id="279">Зонты</category>
+      <category id="284">Новогодний декор</category>
+      <category id="2">Уличные гирлянды</category>
       <category id="121">Туристические обогреватели</category>
+      <category id="142">Посуда для детей</category>
+      <category id="35">Вазы для цветов</category>
+      <category id="147">Наборы для пикника</category>
+      <category id="110">Наушники</category>
+      <category id="144">Вентиляторы</category>
+      <category id="4">Удлинители гирлянд</category>
+      <category id="195">Разделочные доски</category>
+      <category id="65">Креманки</category>
+      <category id="145">Смарт-часы</category>
       <category id="88">Мультиварки и скороварки</category>
       <category id="95">Вафельницы, блинницы, орешницы</category>
-      <category id="290">Новогодние фигурки и статуэтки</category>
-      <category id="2">Уличные гирлянды</category>
-      <category id="98">Блендеры</category>
-      <category id="156">Столовые сервизы</category>
-      <category id="126">Ланч боксы</category>
-      <category id="15">Плойки</category>
-      <category id="59">Все для выпечки</category>
-      <category id="83">Чопперы и измельчители</category>
-      <category id="105">Зарядные устройства</category>
-      <category id="134">Бутылки для масла</category>
-      <category id="124">Решетки</category>
-      <category id="62">Ковши</category>
-      <category id="55">Рюмки</category>
-      <category id="6">LED ленты</category>
-      <category id="224">Гамаки</category>
-      <category id="17">Воскоплавы</category>
-      <category id="53">Кувшины</category>
-      <category id="271">Товары для уборки</category>
-      <category id="21">Электробритвы</category>
-      <category id="267">Подушки-игрушки</category>
-      <category id="63">Кастрюли</category>
-      <category id="145">Смарт-часы</category>
-      <category id="35702">Обувь для Взрослых</category>
-      <category id="304">Аккумуляторные пылесосы</category>
-      <category id="294">Новогодние елки</category>
-      <category id="324">Статуэтки</category>
-      <category id="74">Машинки для удаления катышек</category>
-      <category id="111">Портативные колонки</category>
-      <category id="194">Менажницы</category>
-      <category id="212">Мебель</category>
-      <category id="274">Корзины для белья и игрушек</category>
-      <category id="43">Бутылки для воды</category>
-      <category id="96">Вакууматоры</category>
-      <category id="67">Столовые приборы</category>
-      <category id="70">Увлажнители воздуха</category>
-      <category id="299">Подушки для путишествий</category>
-      <category id="19">Лампы для маникюра</category>
-      <category id="72">Весы напольные</category>
-      <category id="268">Кухонные подставки</category>
-      <category id="133">Масленки</category>
-      <category id="29">Салфетницы</category>
-      <category id="75">Утюги</category>
-      <category id="195">Разделочные доски</category>
-      <category id="323">Садовые и пляжные зонты</category>
-      <category id="182">Блюда</category>
-      <category id="56">Бокалы</category>
-      <category id="65">Креманки</category>
-      <category id="255">Сита и дуршлаги</category>
-      <category id="275">Салфетки сервировочные</category>
-      <category id="87">Соковыжималки</category>
-      <category id="230">Сетевые фильтры и удлинители</category>
-      <category id="278">Косметички</category>
-      <category id="54">Стаканы</category>
-      <category id="31">Часы настенные</category>
-      <category id="3221201">Детская обувь и одежда</category>
-      <category id="187">Слайсеры</category>
-      <category id="73">Наборы для груминга</category>
-      <category id="320">Светодиодные фонари</category>
-      <category id="149">Палатки</category>
-      <category id="5">Комнатные гирлянды</category>
-      <category id="91">Кухонные комбайны</category>
-      <category id="287">Банты на елку</category>
-      <category id="60">Мармиты</category>
-      <category id="199">Карематы и туристические коврики</category>
-      <category id="80">Духовые шкафы и электропечи</category>
-      <category id="49">Наборы кухонных ножей и лопаток</category>
-      <category id="293">Хвойные гирлянды</category>
-      <category id="261">Терки</category>
-      <category id="117">Рюкзаки</category>
-      <category id="141">Салатницы</category>
-      <category id="142">Посуда для детей</category>
-      <category id="97">Весы кухонные</category>
-      <category id="110">Наушники</category>
+      <category id="2302">Подарункові коробки і пакети</category>
       <category id="227">Туристические инструменты и наборы</category>
-      <category id="184">Бульонницы</category>
-      <category id="265">Хозяйственные товары</category>
-      <category id="295">Новогодние тарелки</category>
-      <category id="317">Садовое освещение</category>
-      <category id="150">Спальные мешки</category>
-      <category id="292">Столовая посуда</category>
-      <category id="318">Кусторезы</category>
+      <category id="6">LED ленты</category>
+      <category id="54">Стаканы</category>
+      <category id="13">Триммеры</category>
+      <category id="294">Новогодние елки</category>
+      <category id="278">Косметички</category>
       <category id="42">Термосы для детей</category>
-      <category id="198">Гофре и выпрямители для волос</category>
+      <category id="55">Рюмки</category>
+      <category id="318">Кусторезы</category>
+      <category id="12">Косметические зеркала</category>
+      <category id="34">Подсвечники</category>
+      <category id="87">Соковыжималки</category>
+      <category id="150">Спальные мешки</category>
+      <category id="98">Блендеры</category>
+      <category id="260">Дождевики и пончо туристические</category>
+      <category id="41">Термосы и термочашки</category>
+      <category id="59">Все для выпечки</category>
+      <category id="43">Бутылки для воды</category>
+      <category id="263">Аксессуары для кухни</category>
+      <category id="134">Бутылки для масла</category>
+      <category id="186">Тостеры</category>
+      <category id="274">Корзины для белья и игрушек</category>
+      <category id="212">Мебель</category>
+      <category id="287">Банты на елку</category>
+      <category id="226">Детские игровые палатки</category>
+      <category id="70">Увлажнители воздуха</category>
       <category id="122">Аксессуары</category>
-      <category id="89">Миксеры</category>
-      <category id="148">Туристические коврики</category>
-      <category id="118">Сумки</category>
-      <category id="196">Сетки и корзины для фри</category>
-      <category id="284">Новогодний декор</category>
-      <category id="51">Заварочные чайники</category>
-      <category id="179">Мебель для кемпинга</category>
-      <category id="92">Кофеварки и кофемолки</category>
+      <category id="316">Туристические плиты</category>
+      <category id="57">Чашки</category>
+      <category id="61">Сковородки</category>
     </categories>
     <offers>
       <offer id="f11_1875882217_UR160GR" available="true">
@@ -39238,33 +39238,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-4-13_HP-4-13" available="true">
-        <name>Подсвечник стеклянный на 3 свечи 37.5 см подсвечник декоративный прозрачный на ножке HP-4-13</name>
-        <price>1099.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>34</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-4-13_HP-4-13</vendorCode>
-        <description>Современный и элегантный подсвечник с трёхуровневой конструкцией станет эффектным элементом декора в любом интерьере. Прозрачные цилиндрические держатели для свечей расположены на разной высоте, создавая объёмную композицию и визуальную динамику. Зеркальное основание добавляет блеска и подчёркивает чистоту линий. Такой подсвечник станет ярким акцентом на праздничном столе или зоне отдыха. Основные характеристики подсвечника на ножке: Материал: стекло; Высота: 37.5 см; Диаметр: 12 см; Диаметр под свечу: 5.5 см. Особенности стеклянного подсвечника на 3 свечи: Три стеклянных держателя разной высоты Современный минималистичный дизайн; Подходит для классических или электронных свечей; Прочное и устойчивое основание; Универсальное применение &amp;ndash; интерьер, мероприятия, фотозоны; Легко вписывается в стиль лофт, модерн, сканди. Этот стеклянный подсвечник на три свечи &amp;mdash; воплощение элегантности и современного стиля. Он не только наполнит пространство мягким светом, но и станет выразительным элементом декора, подчёркивающим ваш вкус и любовь к изысканным деталям. Идеальное сочетание простоты форм и утончённости &amp;mdash; для дома, мероприятий и особых случаев.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4085</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-13/413_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4085/podsvechnik_steklyannyy_na_3_svechi_12_37_5_sm_podsvechnik_dekorativnyy_prozrachnyy_na_nozhke_4.jpg</picture>
-        <param name="Высота подсвечника">37.5 см</param>
-        <param name="Диаметр подсвечника">12 см</param>
-        <param name="Вес подсвечника">1 кг</param>
-        <param name="Количество мест для свечей">3</param>
-        <param name="Материал изготовления">Стекло</param>
-        <param name="Диаметр рекомендуемой свечи">5.5 см</param>
-        <param name="Тип подсвечника">настольный (каминный)</param>
-        <param name="Тип рекомендуемой свечи">длинная свеча цилиндрической формы|пеньковая свеча</param>
-        <param name="Цвет">Прозрачный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-4-14_HP-4-14" available="true">
         <name>Подсвечник стеклянный на 5 свечей 38 см подсвечник декоративный прозрачный на ножке HP-4-14</name>
         <price>1909.0</price>
@@ -56089,28 +56062,6 @@
         <param name="Состояние">Новое</param>
         <param name="Гарантия">14 дней</param>
       </offer>
-      <offer id="f11_HP-42-13CS_HP-42-13CS" available="true">
-        <name>Набор кухонных ковриков 2 шт влагостойкие для пола HP-42-13CS</name>
-        <price>369.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>273</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-42-13CS_HP-42-13CS</vendorCode>
-        <description>Набор кухонных ковриков 2 шт — практичное решение для дома, которое сочетает функциональность и комфорт. Коврики отлично подойдут для размещения возле раковины и плиты, обеспечивая защиту пола от влаги, жира и загрязнений. Изготовленные из прочного ПВХ, они обладают влагопоглощающими свойствами и противоскользящей поверхностью, что делает их безопасными и удобными в использовании. Благодаря стильному дизайну коврики гармонично впишутся в интерьер кухни или ванной. Характеристики набора кухонных ковриков: • габариты — 99×38 см и 57×38 см; • материал — ПВХ; • влагопоглощающие свойства — да; • прогумированная основа — да; • назначение — кухня, ванная. Преимущества набора ковриков для пола: • защита пола от влаги и загрязнений; • противоскользящая поверхность — безопасность при использовании; • долговечный материал — устойчив к износу; • лёгкость ухода — быстро очищаются и сохнут; • универсальность — подходят как для кухни, так и для ванной комнаты. Такой набор ковриков станет незаменимым помощником в быту, сохраняя чистоту и порядок в доме.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=4972</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4972/nabor_kuhonnyh_kovrikov_2_sht_protivoskolzyashchie_vlagostoykie_kovriki_dlya_pola_vozle_rakoviny_i_plity.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4972/nabor_kuhonnyh_kovrikov_2_sht_protivoskolzyashchie_vlagostoykie_kovriki_dlya_pola_vozle_rakoviny_i_plity_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4972/nabor_kuhonnyh_kovrikov_2_sht_protivoskolzyashchie_vlagostoykie_kovriki_dlya_pola_vozle_rakoviny_i_plity_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4972/nabor_kuhonnyh_kovrikov_2_sht_protivoskolzyashchie_vlagostoykie_kovriki_dlya_pola_vozle_rakoviny_i_plity_3.jpg</picture>
-        <param name="Основа">Резина</param>
-        <param name="Подходит для пола с подогревом">Да</param>
-        <param name="Ширина">38 см</param>
-        <param name="Количество в наборе">2</param>
-        <param name="Длина">99 см</param>
-        <param name="Форма">Прямоугольная</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
       <offer id="f11_HP-46-1_HP-46-1" available="true">
         <name>Металлическая полка для ванной трехъярусная подвесная 28х13х63 см HP-46-1</name>
         <price>879.0</price>
@@ -65058,41 +65009,6 @@
         <param name="Навес">Не предусмотрен</param>
         <param name="Каркас (стойка)">Не предусмотрен</param>
         <param name="Состояние">Новое</param>
-        <param name="Возрастная группа">Для детей и взрослых</param>
-        <param name="Материал каркаса">дерево</param>
-        <param name="Гарантия">14 дней</param>
-      </offer>
-      <offer id="f11_SJ-0010-2BL_SJ-0010-2BL" available="true">
-        <name>Гамак туристический подвесной тканевый 174х80 см с планкой Синий SJ-0010-2BL</name>
-        <price>569.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>179</categoryId>
-        <vendor>Lugi</vendor>
-        <vendorCode>f11_a350dbef1b7cb6eac0</vendorCode>
-        <description>Подвесной тканевый гамак оснащен деревянной планкой, которая способствует равномерному распределению нагрузки и обеспечивает удобное расположение во время отдыха. Полотно изготовлено из прочных тканевых и нейлоновых материалов, что обеспечивает устойчивость к износу и позволяет использовать гамак в течение длительного времени. Основные характеристики: Размеры лежака (ДхШ): 174х80 см; Размер в сложенном состоянии: 80х10х10 см; Тип: подвесной; Материал: хлопок, дерево; Рекомендуемая нагрузка: 120 кг. На каждой стороне гамака предусмотрена веревка-вешалка с вязаным морским узлом, что повышает его прочность и надежность при подвесном монтаже. Конструкция рассчитана на равномерное распределение нагрузки, что уменьшает риск повреждений и деформаций материала. Использованные материалы адаптированы к условиям внешней среды, что делает гамак пригодным для использования как в помещении, так и на открытом воздухе.</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=5582</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/SJ-0010-2BL/SJ-0010-2BL-1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_5.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5582/gamak_turisticheskiy_podvesnoy_tkanevyy_174h80_sm_sadovyy_gamak_s_plankoy_na_dachu_dlya_kempinga_siniy_lugi_6.jpg</picture>
-        <param name="Тип гамака">Одноместный</param>
-        <param name="Вес">1.1 кг</param>
-        <param name="Тип ложа">Цельное полотно</param>
-        <param name="Материал ложа">хлопок</param>
-        <param name="Ширина">80 см</param>
-        <param name="Длина ложа">174 см</param>
-        <param name="Максимально допустимая нагрузка">120 кг</param>
-        <param name="Цвет">Синий</param>
-        <param name="Ширина ложа">80 см</param>
-        <param name="Длина">174 см</param>
-        <param name="Навес">Не предусмотрен</param>
-        <param name="Каркас (стойка)">Не предусмотрен</param>
-        <param name="Состояние">Новое</param>
-        <param name="Защитная антимоскитная сетка">Не предусмотрена</param>
         <param name="Возрастная группа">Для детей и взрослых</param>
         <param name="Материал каркаса">дерево</param>
         <param name="Гарантия">14 дней</param>
@@ -91449,22 +91365,6 @@
         <param name="Высота (см)">50</param>
         <param name="Вес изделия">0.7</param>
       </offer>
-      <offer id="f11_HP-JW-17_HP-JW-17" available="true">
-        <name>Шатер раздвижной усиленный для сада 3х3 м 800D тент серый HP-JW-17</name>
-        <price>6599.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>149</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-JW-17_HP-JW-17</vendorCode>
-        <description>Профессиональное решение для организации комфортной зоны отдыха на свежем воздухе. Шатер идеально подходит для дачи, кемпинга, проведения выездных мероприятий или торговых точек. Конструкция сочетает в себе высокую прочность каркаса и надежную защиту от неблагоприятных погодных условий. Преимущества: Мгновенная установка: Благодаря центральному подъемному механизму каркас раскрывается нажатием, что позволяет установить палатку даже одному человеку. Устойчивость к погодным условиям: Плотный Оксфорд не пропускает воду и блокирует до 98% вредного солнечного излучения, обеспечивая прохладу внутри. Продуманная эргономика: Специальные рычаги-фиксаторы обеспечивают безопасную и легкую настройку высоты без риска прищемить пальцы. Мобильность: В сложенном виде конструкция занимает минимум места и удобна для транспортировки в багажнике автомобиля. Порядок установки (60 секунд): Шаг 1: Полностью раскройте каркас на ровной поверхности. Шаг 2: Растяните каркас до полной фиксации. Шаг 3: Настройте желаемую высоту ножек с помощью боковых фиксаторов. Характеристики: Материал тента: Оксфорд 800D Материал каркаса: алюминий Ширина стоек: 4-4,5-6 см Размеры: 3*3 м Вага (каркас/тент): 15 кг/4 кг</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7103</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7103/shater_razdvizhnoy_usilennyy_dlya_sada_3h3_m_800d_tent_raskladnoy_dlya_zony_otdyha_rybaki_seryy.png</picture>
-        <param name="Назначение">Туристический</param>
-        <param name="Ширина">3</param>
-        <param name="Цвет">Серый</param>
-        <param name="Длина">3</param>
-      </offer>
       <offer id="f11_HP-7-4_HP-7-4" available="true">
         <name>Этажерка фарфоровая Calla Lilies для сервировки стола HP-7-4</name>
         <price>1919.0</price>
@@ -93035,51 +92935,6 @@
         <param name="Ручка">Жаропрочное стекло</param>
         <param name="Цвет">Прозрачный</param>
         <param name="Тип дна">Однослойное</param>
-      </offer>
-      <offer id="f11_HP-34-40_HP-34-40" available="true">
-        <name>Кастрюля стеклянная 2.5 л с кристальной ручкой прозрачная посуда для готовки варки блюд кухонная HP-34-40</name>
-        <price>909.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>63</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-34-40_HP-34-40</vendorCode>
-        <description>Стеклянная кастрюля &amp;laquo;Diamond Crystal&amp;raquo; объемом 2.5 л сразу привлекает внимание благодаря шестигранной форме, которая отличается от классической кухонной посуды. Прозрачные стенки обеспечивают полный обзор процесса приготовления без необходимости открывать крышку, что помогает контролировать уровень кипения и готовность блюд. Крышка дополнена кристальной ручкой, которая сочетает удобство использования и выразительный внешний вид. Кастрюля подходит для приготовления различных блюд: супов, компотов, глинтвейна, пасты или тушеных блюд в соусах. Боросиликатное стекло выдерживает высокие температуры и не впитывает запахи, сохраняя натуральный вкус ингредиентов. Конструкция предусматривает отверстие для выпуска пара, позволяющее избегать избыточного давления во время кипения. При этом важно придерживаться равномерного нагрева, особенно на газовых плитах с использованием рассекателя. Материал сохраняет прозрачность и блеск при условии правильного ухода. Рекомендуется избегать резких температурных перепадов, не нагревать посуду без жидкости и не подвергать ее интенсивной жарке. Перед мытьем следует дождаться полного охлаждения, а для очистки использовать мягкие губки и жидкие моющие средства. Кастрюлю можно мыть в посудомоечной машине, следуя базовым правилам безопасности для стеклянной посуды. Характеристики: Тип: каструля Объем: 2,5 л Материал: боросиликатное стекло Форма: шестигранна Крышка: стеклянная, с отверстием для выпуска пара</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7186</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7186/kastryulya_steklyannaya_2_5_l_s_kristalnoy_ruchkoy_prozrachnaya_posuda_dlya_gotovki_varki_blyud_kuhonnaya_5.jpg</picture>
-        <param name="Тип">Кастрюля</param>
-        <param name="Материал">Стекло</param>
-        <param name="Крышка">стекло</param>
-        <param name="Объем">2.5</param>
-        <param name="Ручка">Жаропрочное стекло</param>
-        <param name="Цвет">Прозрачный</param>
-      </offer>
-      <offer id="f11_HP-34-41_HP-34-41" available="true">
-        <name>Кастрюля стеклянная шестигранная 3.5 л с кристальной ручкой посуда для готовки варки блюд кухонный HP-34-41</name>
-        <price>1049.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>63</categoryId>
-        <vendor>Yiwu</vendor>
-        <vendorCode>f11_HP-34-41_HP-34-41</vendorCode>
-        <description>Стеклянная кастрюля «Diamond Crystal» объемом 3.5 л сразу привлекает внимание благодаря шестигранной форме, которая отличается от классической кухонной посуды. Прозрачные стенки обеспечивают полный обзор процесса приготовления без необходимости открывать крышку, что помогает контролировать уровень кипения и готовность блюд. Крышка дополнена кристальной ручкой, которая сочетает удобство использования и выразительный внешний вид. Кастрюля подходит для приготовления различных блюд: супов, компотов, глинтвейна, пасты или тушеных блюд в соусах. Боросиликатное стекло выдерживает высокие температуры и не впитывает запахи, сохраняя натуральный вкус ингредиентов. Конструкция предусматривает отверстие для выпуска пара, позволяющее избегать избыточного давления во время кипения. При этом важно придерживаться равномерного нагрева, особенно на газовых плитах с использованием рассекателя. Материал сохраняет прозрачность и блеск при условии правильного ухода. Рекомендуется избегать резких температурных перепадов, не нагревать посуду без жидкости и не подвергать ее интенсивной жарке. Перед мытьем следует дождаться полного охлаждения, а для очистки использовать мягкие губки и жидкие моющие средства. Кастрюлю можно мыть в посудомоечной машине, следуя базовым правилам безопасности для стеклянной посуды. Характеристики: Тип: каструля Объем: 3,5 л Материал: боросиликатное стекло Форма: шестигранна Крышка: стеклянная, с отверстием для выпуска пара</description>
-        <url>http://feed.lugi.com.ua/index.php?route=product/product&amp;product_id=7187</url>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_1.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_2.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_3.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_4.jpg</picture>
-        <picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7187/kastryulya_steklyannaya_shestigrannaya_3_5_l_s_kristalnoy_ruchkoy_posuda_dlya_gotovki_varki_blyud_kuhonnyy_5.jpg</picture>
-        <param name="Тип">Кастрюля</param>
-        <param name="Материал">Стекло</param>
-        <param name="Крышка">стекло</param>
-        <param name="Объем">3.5</param>
-        <param name="Цвет">Прозрачный</param>
       </offer>
       <offer id="f11_HP-34-64_HP-34-64" available="true">
         <name>Кастрюля стеклянная термостойкая 2 л с крышкой рельефная коричневая посуда для готовки варки блюд кухонная HP-34-64</name>
