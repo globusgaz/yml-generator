@@ -23,7 +23,9 @@ PREFIX_MAP_FILE = "prefix_map.json"
 STATE_FILE = "product_state.json"
 MAX_FILE_SIZE_MB = 80  # Зменшено для GitHub (ліміт 100MB)
 MAX_FILES = 4
-TIMEOUT = 30
+# Lugi та інші великі XML (30+ MB) — потрібен запас на завантаження + парсинг
+TIMEOUT = int(os.environ.get("TIMEOUT", "300"))
+FEED_FETCH_RETRIES = max(1, int(os.environ.get("FEED_FETCH_RETRIES", "3")))
 
 # Google Sheets для ваших товарів
 MY_PRODUCTS_SHEET_URL = os.environ.get("MY_PRODUCTS_SHEET_URL", "")
@@ -124,7 +126,24 @@ def load_my_products() -> List[Dict]:
                     skipped += 1
                     skipped_reasons["no_price"] += 1
                     continue
-                presence = presence_str in ['в наявності', 'наявний', 'available', '+']
+                presence = presence_str in (
+                    "в наявності",
+                    "в наявності.",
+                    "наявний",
+                    "наявна",
+                    "є в наявності",
+                    "available",
+                    "in stock",
+                    "instock",
+                    "+",
+                    "так",
+                    "yes",
+                    "1",
+                    "true",
+                ) or (
+                    not presence_str
+                    and quantity > 0
+                )
                 product = {
                     "id": f"my_{product_id}",
                     "name": name,
@@ -152,7 +171,7 @@ def load_my_products() -> List[Dict]:
                 continue
         print(f"\n✅ Завантажено власних товарів: {loaded}")
         if skipped > 0:
-            print(f"⚠️ Пропущено: {skipped}")
+            print(f"⚠️ Пропущено: {skipped} — {skipped_reasons}")
         return products
     except Exception as e:
         print(f"❌ Помилка завантаження власних товарів: {e}")
@@ -172,22 +191,30 @@ def load_feeds() -> List[str]:
 
 
 async def fetch_feed(session: aiohttp.ClientSession, url: str) -> Tuple[bool, bytes]:
-    try:
-        print(f"🔄 Завантажую: {url}")
-        auth = None
-        if "api.dropshipping.ua" in url:
-            auth = aiohttp.BasicAuth("your_username", "your_password")
-        async with session.get(url, headers=HEADERS, auth=auth, timeout=TIMEOUT) as response:
-            if response.status == 200:
-                content = await response.read()
-                print(f"✅ Завантажено: {len(content)} байт")
-                return True, content
-            else:
-                print(f"❌ HTTP {response.status}: {url}")
-                return False, b""
-    except Exception as e:
-        print(f"❌ Помилка завантаження {url}: {e}")
-        return False, b""
+    print(f"🔄 Завантажую: {url}")
+    auth = None
+    if "api.dropshipping.ua" in url:
+        auth = aiohttp.BasicAuth("your_username", "your_password")
+    last_err: Exception | None = None
+    for attempt in range(1, FEED_FETCH_RETRIES + 1):
+        try:
+            async with session.get(url, headers=HEADERS, auth=auth) as response:
+                if response.status == 200:
+                    content = await response.read()
+                    if len(content) < 500:
+                        print(f"⚠️ Підозріло мало даних ({len(content)} байт): {url}")
+                    else:
+                        print(f"✅ Завантажено: {len(content)} байт ({url})")
+                    return True, content
+                print(f"❌ HTTP {response.status}: {url} (спроба {attempt}/{FEED_FETCH_RETRIES})")
+        except Exception as e:
+            last_err = e
+            print(f"❌ Помилка завантаження {url} (спроба {attempt}/{FEED_FETCH_RETRIES}): {e}")
+        if attempt < FEED_FETCH_RETRIES:
+            await asyncio.sleep(min(15.0, 2.0 * attempt))
+    if last_err:
+        print(f"❌ Фід недоступний після {FEED_FETCH_RETRIES} спроб: {url}")
+    return False, b""
 
 
 def is_good_category_name(name: str) -> bool:
@@ -625,16 +652,17 @@ def enrich_product(product: Dict, categories: Dict) -> Dict:
     return product
 
 
-async def process_feeds():
-    print("🚀 Запуск feeds_generator (фільтр тільки послуги)")
+async def process_feeds() -> None:
+    print("🚀 Запуск feeds_generator (товари з фідів; послуги в назві пропускаємо)")
     prom_categories = load_prom_categories()
     my_products = load_my_products()
     feed_urls = load_feeds()
     if not feed_urls:
-        return
+        raise SystemExit(f"❌ Немає URL у {FEEDS_FILE}")
     url_prefix_map = load_prefix_map(feed_urls)
     connector = aiohttp.TCPConnector(limit=5)
-    timeout = aiohttp.ClientTimeout(total=TIMEOUT)
+    timeout = aiohttp.ClientTimeout(total=TIMEOUT, connect=60, sock_read=TIMEOUT)
+    feed_imported = 0
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
         all_products = []
         all_categories = {}
@@ -642,8 +670,11 @@ async def process_feeds():
             prefix = url_prefix_map.get(url, f"f{i}_")
             success, content = await fetch_feed(session, url)
             if not success:
+                print(f"⚠️ Фід пропущено (не завантажився): {url}")
                 continue
             products, categories = parse_xml_content(content, prom_categories, prefix)
+            feed_imported += len(products)
+            print(f"📥 {url} → {len(products)} товарів у YML (префікс {prefix})")
             for p in products:
                 all_products.append(enrich_product(p, prom_categories))
             all_categories.update(categories)
@@ -677,9 +708,20 @@ async def process_feeds():
                 filtered.append(p)
             all_products = filtered
         all_products = [p for p in all_products if p.get("presence", False)]
+        my_loaded = len(my_products)
+        if feed_urls and feed_imported <= 0 and my_loaded <= 0:
+            raise SystemExit(
+                "❌ Жодного товару з feeds.txt і з Google Sheets — YML не оновлюємо. "
+                "Перевірте фід (таймаут, HTTP) та secret MY_PRODUCTS_SHEET_URL."
+            )
+        if feed_urls and feed_imported <= 0 and my_loaded > 0:
+            print(
+                f"⚠️ Фіди з feeds.txt не дали товарів; у YML лише {my_loaded} "
+                f"власних з Google Sheets",
+                flush=True,
+            )
         if not all_products:
-            print("❌ Немає товарів")
-            return
+            raise SystemExit("❌ Немає товарів для YML")
         save_state(state)
         batches = distribute_products(all_products, all_categories)
         norm_cats, id_mapping = normalize_categories(all_categories)
@@ -694,4 +736,8 @@ async def process_feeds():
 
 
 if __name__ == "__main__":
-    asyncio.run(process_feeds())
+    try:
+        asyncio.run(process_feeds())
+    except SystemExit as e:
+        print(str(e), flush=True)
+        raise

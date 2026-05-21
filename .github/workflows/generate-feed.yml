@@ -66,12 +66,32 @@ jobs:
           # 📦 Розмір та структура файлів
           MAX_FILE_SIZE_MB: "78"
           MAX_FILES: "4"
-          TIMEOUT: "30"
+          TIMEOUT: "300"
+          FEED_FETCH_RETRIES: "3"
           
           # 🏷️ Категорії та ваші товари (Google Sheets)
           PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
           MY_PRODUCTS_SHEET_URL: ${{ secrets.MY_PRODUCTS_SHEET_URL || '' }}
         run: python main.py
+
+      - name: 🔎 Перевірка YML
+        run: |
+          count=$(grep -c '<offer ' all_1.yml || echo 0)
+          my_count=$(grep -c 'id="my_' all_1.yml || echo 0)
+          echo "offers in all_1.yml: $count (my_: $my_count)"
+          if [ "$count" -lt 1 ]; then
+            echo "❌ all_1.yml порожній"
+            exit 1
+          fi
+          if grep -qi 'lugi' feeds.txt 2>/dev/null; then
+            if ! grep -q 'f11_' all_1.yml 2>/dev/null; then
+              echo "⚠️ Lugi у feeds.txt, але f11_ немає в YML — перевірте завантаження фіду в логах"
+            fi
+          fi
+          if [ -n "${{ secrets.MY_PRODUCTS_SHEET_URL }}" ] && [ "$my_count" -lt 1 ]; then
+            echo "❌ MY_PRODUCTS_SHEET_URL задано, але my_ товарів у YML немає — перевірте таблицю/колонки"
+            exit 1
+          fi
 
       - name: 🔄 Rebase
         run: git pull --rebase origin main || true
