@@ -1,1 +1,1 @@
-
+# Постачальницькі фіди вимкнено — YML лише з Google Sheets (ONLY_MY_PRODUCTS).

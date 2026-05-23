@@ -2,10 +2,10 @@
 
 Генерує YML для [Prom.ua](https://prom.ua) з фідів у `feeds.txt` → `all_1.yml` … `all_4.yml` у репозиторії.
 
-## Поточний фід
+## Поточний режим
 
-- `feeds.txt` — URL постачальника (зараз Lugi: `feed.lugi.com.ua`)
-- Префікс ID у YML: `f11_` (див. `prefix_map.json`)
+- **`ONLY_MY_PRODUCTS=true`** у GitHub Actions — у `all_1.yml` лише товари з Google Sheets (`my_…`)
+- `feeds.txt` порожній (постачальницькі фіди вимкнено)
 
 ## Публічний YML для Prom
 
@@ -14,6 +14,29 @@
 `https://raw.githubusercontent.com/globusgaz/yml-generator/main/all_1.yml`
 
 У кабінеті Prom: **Імпорт → за посиланням** — вказати цей URL (або синхронізація через `prom-sync-api`).
+
+## Тільки ваші товари в посиланні (без Lugi / feeds.txt)
+
+Посилання для Prom лишається тим самим:
+
+`https://raw.githubusercontent.com/globusgaz/yml-generator/main/all_1.yml`
+
+Щоб у файлі були **лише** позиції з Google Sheets (`id="my_…"`), без тисяч товарів постачальника:
+
+1. У GitHub Secrets залишити **`MY_PRODUCTS_SHEET_URL`** (таблиця з вашими товарами).
+2. У workflow (або локально) увімкнути **`ONLY_MY_PRODUCTS=true`**.
+3. `feeds.txt` можна **очистити** — у цьому режимі він не використовується.
+4. Перегенерувати YML (`python main.py` або Actions) і оновити імпорт на Prom.
+
+Локально:
+
+```bash
+export MY_PRODUCTS_SHEET_URL='https://docs.google.com/spreadsheets/d/.../edit#gid=0'
+export ONLY_MY_PRODUCTS=true
+python main.py
+```
+
+У `all_1.yml` мають залишитися лише рядки `<offer id="my_…">`. Старі `f11_` зникнуть після наступного імпорту на Prom (залежить від налаштувань синхронізації).
 
 ## Google Sheets (власні товари)
 

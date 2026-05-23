@@ -29,6 +29,13 @@ FEED_FETCH_RETRIES = max(1, int(os.environ.get("FEED_FETCH_RETRIES", "3")))
 
 # Google Sheets для ваших товарів
 MY_PRODUCTS_SHEET_URL = os.environ.get("MY_PRODUCTS_SHEET_URL", "")
+# У посиланні all_1.yml лише my_ з таблиці (без feeds.txt / Lugi)
+ONLY_MY_PRODUCTS = os.environ.get("ONLY_MY_PRODUCTS", "false").lower() in (
+    "1",
+    "true",
+    "yes",
+    "on",
+)
 
 # Архівація зниклих товарів
 ENABLE_ARCHIVE = os.environ.get("ENABLE_ARCHIVE", "true").lower() == "true"
@@ -653,31 +660,47 @@ def enrich_product(product: Dict, categories: Dict) -> Dict:
 
 
 async def process_feeds() -> None:
-    print("🚀 Запуск feeds_generator (товари з фідів; послуги в назві пропускаємо)")
+    mode = "лише власні товари (my_)" if ONLY_MY_PRODUCTS else "фіди + власні товари"
+    print(f"🚀 Запуск feeds_generator ({mode})")
     prom_categories = load_prom_categories()
     my_products = load_my_products()
-    feed_urls = load_feeds()
-    if not feed_urls:
-        raise SystemExit(f"❌ Немає URL у {FEEDS_FILE}")
-    url_prefix_map = load_prefix_map(feed_urls)
+    if ONLY_MY_PRODUCTS:
+        if not MY_PRODUCTS_SHEET_URL:
+            raise SystemExit(
+                "❌ ONLY_MY_PRODUCTS=1: задайте MY_PRODUCTS_SHEET_URL (Google Sheets)"
+            )
+        if not my_products:
+            raise SystemExit(
+                "❌ ONLY_MY_PRODUCTS=1: у таблиці немає жодного валідного товару "
+                "(потрібні ID, назва, ціна, наявність)"
+            )
+        feed_urls: List[str] = []
+        url_prefix_map: Dict[str, str] = {}
+        print("ℹ️ feeds.txt ігнорується — у YML лише my_ з Google Sheets")
+    else:
+        feed_urls = load_feeds()
+        if not feed_urls:
+            raise SystemExit(f"❌ Немає URL у {FEEDS_FILE}")
+        url_prefix_map = load_prefix_map(feed_urls)
     connector = aiohttp.TCPConnector(limit=5)
     timeout = aiohttp.ClientTimeout(total=TIMEOUT, connect=60, sock_read=TIMEOUT)
     feed_imported = 0
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-        all_products = []
-        all_categories = {}
-        for i, url in enumerate(feed_urls, 1):
-            prefix = url_prefix_map.get(url, f"f{i}_")
-            success, content = await fetch_feed(session, url)
-            if not success:
-                print(f"⚠️ Фід пропущено (не завантажився): {url}")
-                continue
-            products, categories = parse_xml_content(content, prom_categories, prefix)
-            feed_imported += len(products)
-            print(f"📥 {url} → {len(products)} товарів у YML (префікс {prefix})")
-            for p in products:
-                all_products.append(enrich_product(p, prom_categories))
-            all_categories.update(categories)
+        all_products: List[Dict] = []
+        all_categories: Dict[str, str] = {}
+        if not ONLY_MY_PRODUCTS:
+            for i, url in enumerate(feed_urls, 1):
+                prefix = url_prefix_map.get(url, f"f{i}_")
+                success, content = await fetch_feed(session, url)
+                if not success:
+                    print(f"⚠️ Фід пропущено (не завантажився): {url}")
+                    continue
+                products, categories = parse_xml_content(content, prom_categories, prefix)
+                feed_imported += len(products)
+                print(f"📥 {url} → {len(products)} товарів у YML (префікс {prefix})")
+                for p in products:
+                    all_products.append(enrich_product(p, prom_categories))
+                all_categories.update(categories)
         if my_products:
             all_products.extend(my_products)
             for p in my_products:
@@ -688,9 +711,11 @@ async def process_feeds() -> None:
         if dedup_excluded > 0:
             print(f"🔄 Дедуплікація: виключено {dedup_excluded} дублів, залишено {len(all_products)} унікальних")
         state = load_state()
+        if ONLY_MY_PRODUCTS:
+            state = {k: v for k, v in state.items() if str(k).startswith("my_")}
         update_state_with_products(state, all_products)
         active_ids = {p["id"] for p in all_products}
-        archive = build_archive_offers(state, active_ids)
+        archive = [] if ONLY_MY_PRODUCTS else build_archive_offers(state, active_ids)
         if archive:
             all_products.extend(archive)
         control_rules = load_products_control_rules()

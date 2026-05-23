@@ -1,18 +1,16 @@
 name: 🛒 Generate Prom Feed
 
-# Автозапуск вимкнено (2026-05-23). Увімкнути: розкоментувати schedule і if: false на job build.
 on:
+  schedule:
+    - cron: '0 */1 * * *'
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */1 * * *'
 
 permissions:
   contents: write
-  actions: write  # Для repository_dispatch
+  actions: write
 
 jobs:
   build:
-    if: false  # workflow вимкнено; manual dispatch теж не виконується
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout (full fetch)
@@ -32,10 +30,9 @@ jobs:
           path: |
             product_state.json
             prefix_map.json
-          key: state-${{ github.ref }}-${{ hashFiles('feeds.txt') }}
+          key: state-my-only-${{ github.ref }}-${{ hashFiles('feeds.txt') }}
           restore-keys: |
-            state-${{ github.ref }}-
-            state-
+            state-my-only-${{ github.ref }}-
 
       - name: 🐍 Python 3.11
         uses: actions/setup-python@v4
@@ -47,31 +44,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp lxml pandas openpyxl xlrd
 
-      - name: 🔎 Debug workspace
-        run: |
-          pwd
-          ls -la
-
-      - name: 🚀 Generate YML with enrichment
+      - name: 🚀 Generate YML (лише my_ з Google Sheets)
         env:
-          # 📊 Енрічмент та фільтрація якості
-          ENRICH_STRICT: "true"
-          COMPLETENESS_THRESHOLD: "100"
-          DROP_NEW_BELOW_THRESHOLD: "true"
-          ARCHIVE_EXISTING_BELOW_THRESHOLD: "true"
-          
-          # 🗄️ Архівація зниклих товарів (вимкнено для оптимізації)
+          ONLY_MY_PRODUCTS: "true"
           ENABLE_ARCHIVE: "false"
-          ARCHIVE_AFTER_HOURS: "1"
-          MAX_ARCHIVE_PER_RUN: "500"
-          
-          # 📦 Розмір та структура файлів
           MAX_FILE_SIZE_MB: "78"
           MAX_FILES: "4"
-          TIMEOUT: "300"
-          FEED_FETCH_RETRIES: "3"
-          
-          # 🏷️ Категорії та ваші товари (Google Sheets)
+          TIMEOUT: "120"
           PROM_CATEGORIES_SHEET_URL: ${{ secrets.PROM_CATEGORIES_SHEET_URL || '' }}
           MY_PRODUCTS_SHEET_URL: ${{ secrets.MY_PRODUCTS_SHEET_URL || '' }}
         run: python main.py
@@ -80,36 +59,32 @@ jobs:
         run: |
           count=$(grep -c '<offer ' all_1.yml || echo 0)
           my_count=$(grep -c 'id="my_' all_1.yml || echo 0)
-          echo "offers in all_1.yml: $count (my_: $my_count)"
+          other=$((count - my_count))
+          echo "offers: $count (my_: $my_count, інші: $other)"
           if [ "$count" -lt 1 ]; then
             echo "❌ all_1.yml порожній"
             exit 1
           fi
-          if grep -qi 'lugi' feeds.txt 2>/dev/null; then
-            if ! grep -q 'f11_' all_1.yml 2>/dev/null; then
-              echo "⚠️ Lugi у feeds.txt, але f11_ немає в YML — перевірте завантаження фіду в логах"
-            fi
+          if [ "$other" -gt 0 ]; then
+            echo "❌ У YML є товари не з my_ — перевірте ONLY_MY_PRODUCTS і feeds.txt"
+            exit 1
           fi
-          if [ -n "${{ secrets.MY_PRODUCTS_SHEET_URL }}" ] && [ "$my_count" -lt 1 ]; then
-            echo "❌ MY_PRODUCTS_SHEET_URL задано, але my_ товарів у YML немає — перевірте таблицю/колонки"
+          if [ -z "${{ secrets.MY_PRODUCTS_SHEET_URL }}" ]; then
+            echo "❌ Потрібен secret MY_PRODUCTS_SHEET_URL"
             exit 1
           fi
 
       - name: 🔄 Rebase
         run: git pull --rebase origin main || true
 
-      - name: 📝 Commit YML + prefix_map (без product_state.json)
+      - name: 📝 Commit YML
         run: |
-          git add all_*.yml prefix_map.json
-          git commit -m "🔄 Update YML and prefix map" || echo "No changes"
+          rm -f all_2.yml all_3.yml all_4.yml 2>/dev/null || true
+          git add -A all_*.yml
+          git commit -m "🔄 Update YML (my products only)" || echo "No changes"
 
       - name: 🔄 Pull before push
         run: git pull --rebase origin main || true
-
-      - name: 🔄 Final pull (безпосередньо перед push)
-        run: |
-          git pull --rebase origin main || true
-          sleep 2
 
       - name: ⬆️ Push to main
         run: git push origin HEAD:main
@@ -120,31 +95,20 @@ jobs:
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" \
             https://api.github.com/repos/globusgaz/prom-sync-API/dispatches \
-            -d '{"event_type":"yml-updated","client_payload":{"message":"YML файли оновлені"}}')
-          
+            -d '{"event_type":"yml-updated","client_payload":{"message":"YML my products only"}}')
           http_code=$(echo "$response" | tail -n1)
           body=$(echo "$response" | head -n-1)
-          
           if [ "$http_code" = "204" ]; then
-            echo "✅ Запущено синхронізацію з Prom.ua (HTTP $http_code)"
+            echo "✅ Prom sync triggered (HTTP $http_code)"
           else
-            echo "❌ Помилка запуску синхронізації (HTTP $http_code)"
-            echo "Response: $body"
+            echo "❌ Prom sync failed (HTTP $http_code): $body"
             exit 1
           fi
 
-      - name: 💾 Save cache (state + prefix map)
+      - name: 💾 Save cache
         uses: actions/cache@v3
         with:
           path: |
             product_state.json
             prefix_map.json
-          key: state-${{ github.ref }}-${{ hashFiles('feeds.txt') }}
-
-      - name: 📊 Summary
-        if: always()
-        run: |
-          echo "✅ Workflow completed"
-          echo "📁 Generated files: $(ls -lh all_*.yml 2>/dev/null | wc -l) YML files"
-          echo "💾 Cache preserved: product_state.json, prefix_map.json"
-
+          key: state-my-only-${{ github.ref }}-${{ hashFiles('feeds.txt') }}
