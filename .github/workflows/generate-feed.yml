@@ -1,9 +1,10 @@
 name: 🛒 Generate Prom Feed
 
+# Автозапуск вимкнено (2026-05-23). Увімкнути: розкоментувати schedule і if: false на job build.
 on:
-  schedule:
-    - cron: '0 */1 * * *'
   workflow_dispatch:
+  # schedule:
+  #   - cron: '0 */1 * * *'
 
 permissions:
   contents: write
@@ -11,6 +12,7 @@ permissions:
 
 jobs:
   build:
+    if: false  # workflow вимкнено; manual dispatch теж не виконується
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout (full fetch)
