@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-24 09:33">
+<yml_catalog date="2026-05-24 11:27">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
     <url>https://prom.ua</url>
     <categories>
-      <category id="2302">Подарункові коробки і пакети</category>
-      <category id="35702">Обувь для Взрослых</category>
       <category id="3221201">Детская обувь и одежда</category>
+      <category id="2302">Подарункові коробки і пакети</category>
     </categories>
     <offers>
       <offer id="my_A000002" available="true">
@@ -241,23 +240,6 @@
 &lt;p&gt;&amp;bull;&amp;nbsp; Розмір 30&lt;/p&gt;</description>
         <url>https://prom.ua/pA000006</url>
         <picture>https://images.prom.ua/6774767476_detskie-sandalii-na.jpg, https://images.prom.ua/6774767477_detskie-sandalii-na.jpg, https://images.prom.ua/6774767478_detskie-sandalii-na.jpg, https://images.prom.ua/6774767479_detskie-sandalii-na.jpg, https://images.prom.ua/6774767839_detskie-sandalii-na.jpg, https://images.prom.ua/6774767840_detskie-sandalii-na.jpg, https://images.prom.ua/6774767843_detskie-sandalii-na.jpg</picture>
-      </offer>
-      <offer id="my_A000009" available="true">
-        <name>Босоніжки сандалі Celine</name>
-        <price>2999.0</price>
-        <currencyId>UAH</currencyId>
-        <quantity>1</quantity>
-        <categoryId>35702</categoryId>
-        <vendor>My Store</vendor>
-        <vendorCode>A000009</vendorCode>
-        <description>Трендові босоніжки Celine,&lt;br /&gt;
-premium якість,&lt;br /&gt;
-дуже круто сідають на ніжку, стильно виглядають.&lt;br /&gt;
-Пакування коробка, брендовий пакет&lt;br /&gt;
-Босоніжки в шоколадному кольорі.&lt;br /&gt;
-В наявності 39 (24.5см) та 37 ( 23.5см)</description>
-        <url>https://prom.ua/pA000009</url>
-        <picture>https://images.prom.ua/6774833891_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774833887_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774833889_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774833890_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774833892_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774836320_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774836322_bosonozhki-sandalii-celine.jpg, https://images.prom.ua/6774836321_bosonozhki-sandalii-celine.jpg</picture>
       </offer>
       <offer id="my_A0000082" available="true">
         <name>Кросівки  Nike Air TN</name>
