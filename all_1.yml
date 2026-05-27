@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-27 04:16">
+<yml_catalog date="2026-05-27 08:24">
   <shop>
     <name>API-Prom.ua Store</name>
     <company>API-Prom.ua</company>
@@ -241,6 +241,39 @@
         <url>https://prom.ua/pA000006</url>
         <picture>https://images.prom.ua/6774767476_detskie-sandalii-na.jpg, https://images.prom.ua/6774767477_detskie-sandalii-na.jpg, https://images.prom.ua/6774767478_detskie-sandalii-na.jpg, https://images.prom.ua/6774767479_detskie-sandalii-na.jpg, https://images.prom.ua/6774767839_detskie-sandalii-na.jpg, https://images.prom.ua/6774767840_detskie-sandalii-na.jpg, https://images.prom.ua/6774767843_detskie-sandalii-na.jpg</picture>
       </offer>
+      <offer id="my_A0000081" available="true">
+        <name>Кросівки чоловічі Nike Air Vapormax 2023 Flyknit Running Shoes Black чорно-білі</name>
+        <price>2800.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>1</quantity>
+        <vendor>My Store</vendor>
+        <vendorCode>A0000081</vendorCode>
+        <description>&lt;p&gt;Nike Air Vapormax 2023 Flyknit &amp;mdash; легкість, амортизація, стиль&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Оригінальні чоловічі кросівки Nike Air Vapormax 2023 Flyknit &amp;mdash; це поєднання інноваційного дизайну, максимального комфорту та технологій нового покоління.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Матеріал верху: Flyknit &amp;mdash; еластичний, дихаючий, як друга шкіра&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Підошва: повітряна платформа VaporMax Air &amp;mdash; повна амортизація від п&amp;rsquo;яти до носка&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Колір: чорний &amp;mdash; універсальний, пасує до будь-якого образу&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Посадка: безшовна, з еластичним коміром &amp;mdash; комфорт без натирання&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Стан: нові, в коробці&lt;/p&gt;
+
+&lt;p&gt;&amp;bull;&amp;nbsp; ✅ Розміри: 41-42&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;📌 Ідеальні для міста, тренувань, подорожей &amp;mdash; стиль і технології в кожному кроці&lt;/p&gt;</description>
+        <url>https://prom.ua/pA0000081</url>
+        <picture>https://images.prom.ua/6776287485_krossovki-muzhskie-nike.jpg, https://images.prom.ua/6776282172_krossovki-muzhskie-nike.jpg, https://images.prom.ua/6776287481_krossovki-muzhskie-nike.jpg, https://images.prom.ua/6776287482_krossovki-muzhskie-nike.jpg, https://images.prom.ua/6776287483_krossovki-muzhskie-nike.jpg, https://images.prom.ua/6776287484_krossovki-muzhskie-nike.jpg</picture>
+      </offer>
       <offer id="my_A0000082" available="true">
         <name>Кросівки  Nike Air TN</name>
         <price>1950.0</price>
@@ -337,6 +370,24 @@
 &lt;p&gt;📌 Ідеальні для міста, тренувань, подорожей &amp;mdash; стиль і технології в кожному кроці&lt;/p&gt;</description>
         <url>https://prom.ua/pA0000083</url>
         <picture>https://images.prom.ua/6776291676_krossovki-nike-air.jpg, https://images.prom.ua/6776287481_krossovki-nike-air.jpg, https://images.prom.ua/6776291677_krossovki-nike-air.jpg, https://images.prom.ua/6776282172_krossovki-nike-air.jpg</picture>
+      </offer>
+      <offer id="my_A000021" available="true">
+        <name>Подарунковий зіп-пакет у формі рюкзака для солодощів та подарунків, асорті</name>
+        <price>14.0</price>
+        <currencyId>UAH</currencyId>
+        <quantity>100</quantity>
+        <categoryId>2302</categoryId>
+        <vendor>My Store</vendor>
+        <vendorCode>A000021</vendorCode>
+        <description>&lt;p&gt;
+ &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+ &lt;/style&gt;
+ Подарунковий зіп-пакет у формі рюкзака &amp;mdash; ідеальне рішення для упаковки солодощів, маленьких подарунків чи сувенірів. Виріб виготовлений із щільного пластику, оснащений застібкою zip-lock і зручною ручкою для перенесення. Яскравий сучасний дизайн, різноманітні кольори та малюнки (асорті). Підходить для дитячих свят, днів народження, випускних чи колективних подарунків. Розмір приблизно 21&amp;times;18 см. У комплекті &amp;mdash; випадковий дизайн із серії &amp;ldquo;Рюкзак&amp;rdquo;.&lt;/p&gt;
+ 
+ &lt;p&gt;Рюкзак червоний - 17*16&lt;/p&gt;
+ 
+ &lt;p&gt;Оранжевий та фіолетовий 18*21&lt;/p&gt;</description>
+        <url>https://prom.ua/pA000021</url>
       </offer>
       <offer id="my_A000022" available="true">
         <name>Зіп пакети у формі машинок, чудово підійдуть для пакування солодощів
